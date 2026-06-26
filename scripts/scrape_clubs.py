@@ -38,18 +38,32 @@ def load_results(path: Path) -> dict:
     return json.loads(raw)
 
 
-def already_scraped_draw_ids() -> set[str]:
-    """Draw IDs we already have from seed data or prior scrape runs."""
-    ids: set[str] = set()
-    # From seed data
-    for path in SEED_DIR.glob("*.js"):
+def seed_files() -> list[Path]:
+    seeded = list(SEED_DIR.glob("*.js"))
+    if seeded:
+        return seeded
+    fallback = ROOT.parent / "psc-tennis"
+    return [
+        fallback / "clubs" / "cltc" / "data" / "results.js",
+        fallback / "clubs" / "psc" / "data" / "results.js",
+    ]
+
+
+def already_scraped_keys() -> tuple[set[str], set[str]]:
+    """
+    Return (scraped_file_keys, seed_comp_ids).
+    Seed competition IDs are treated as fully covered — skip any draw in those comps.
+    Scraped file keys are '{comp_id}-{draw_id}' stems from data/scraped/draws/.
+    """
+    seed_comp_ids: set[str] = set()
+    for path in seed_files():
+        if not path.exists():
+            continue
         data = load_results(path)
         for comp in data.get("competitions", []):
-            ids.add(comp["id"].lower())
-    # From previously scraped draws
-    for path in DRAWS_DIR.glob("*.json"):
-        ids.add(path.stem.lower())
-    return ids
+            seed_comp_ids.add(comp["id"].lower())
+    keys: set[str] = {path.stem.lower() for path in DRAWS_DIR.glob("*.json")}
+    return keys, seed_comp_ids
 
 
 def accept_cookies(page):
@@ -59,15 +73,25 @@ def accept_cookies(page):
         '#cookiescript_accept',
         '[aria-label*="accept" i]',
         'button:has-text("Accept")',
+        '.js-simple-accept-view button[type="submit"]',
     ]:
         try:
             el = page.query_selector(sel)
-            if el:
+            if el and el.is_visible():
                 el.click(timeout=2000)
-                page.wait_for_timeout(800)
+                page.wait_for_load_state("networkidle", timeout=15000)
                 return
         except Exception:
             pass
+    try:
+        page.evaluate("""
+            const form = document.querySelector('form[action*="cookiewall"]');
+            if (form) form.submit();
+        """)
+        page.wait_for_load_state("networkidle", timeout=15000)
+        return
+    except Exception:
+        pass
     try:
         page.context.add_cookies([{
             "name": "CookieScriptConsent",
@@ -79,25 +103,57 @@ def accept_cookies(page):
         pass
 
 
+def navigate_past_cookiewall(page, url: str):
+    """Navigate to url, accepting cookie wall if encountered."""
+    page.goto(url, wait_until="networkidle", timeout=60000)
+    if "cookiewall" in page.url:
+        accept_cookies(page)
+        if "cookiewall" in page.url:
+            page.goto(url, wait_until="networkidle", timeout=60000)
+
+
 def find_draw_links(page, club_url: str) -> list[dict]:
-    """Navigate to a club's group page and return [{href, text}] for all /draw/ links."""
-    for attempt in range(1, 4):
+    """
+    Two-hop: navigate to the club group page, follow each /league/.../club/N link
+    to the comp-club page, collect all /draw/ links from there.
+    """
+    try:
+        navigate_past_cookiewall(page, club_url)
+        if DEBUG:
+            DEBUG_DIR.mkdir(parents=True, exist_ok=True)
+            slug = club_url.rstrip("/").split("/")[-1][:12]
+            (DEBUG_DIR / f"group-{slug}.html").write_text(page.content(), encoding="utf-8")
+
+        comp_club_links = page.eval_on_selector_all(
+            'a[href*="/league/"][href*="/club/"]',
+            "els => els.map(a => a.href)"
+        )
+        # Filter: only /league/{guid}/club/{n} (not sub-pages like /club/N/Index/*)
+        comp_club_links = [
+            h for h in comp_club_links
+            if re.search(r"/league/[^/]+/club/\d+$", h)
+        ]
+        comp_club_links = list(dict.fromkeys(comp_club_links))  # dedupe preserving order
+    except Exception as e:
+        print(f"  group page failed for {club_url}: {e}", file=sys.stderr)
+        return []
+
+    all_draw_links: dict[str, dict] = {}
+    for cc_url in comp_club_links:
         try:
-            page.goto(club_url, wait_until="networkidle", timeout=60000)
-            accept_cookies(page)
-            page.goto(club_url, wait_until="networkidle", timeout=60000)
-            page.wait_for_selector('a[href*="/draw/"]', timeout=12000)
-            page.wait_for_timeout(600)
+            page.wait_for_timeout(1000)
+            navigate_past_cookiewall(page, cc_url)
             links = page.eval_on_selector_all(
                 'a[href*="/draw/"]',
                 "els => els.map(a => ({href: a.href, text: a.textContent.trim()}))"
             )
-            unique = {l["href"]: l for l in links}
-            return list(unique.values())
+            for l in links:
+                if re.search(r"/league/[^/]+/draw/\d+$", l["href"]):
+                    all_draw_links[l["href"]] = l
         except Exception as e:
-            print(f"  attempt {attempt}/3 failed for {club_url}: {e}", file=sys.stderr)
-            page.wait_for_timeout(900 * attempt)
-    return []
+            print(f"  comp-club page failed {cc_url}: {e}", file=sys.stderr)
+
+    return list(all_draw_links.values())
 
 
 def scrape_draw(page, draw_url: str, draw_id: str, comp_id: str, comp_name: str) -> dict | None:
@@ -189,7 +245,7 @@ def scrape_draw(page, draw_url: str, draw_id: str, comp_id: str, comp_name: str)
                     break
 
             return {
-                "drawId": draw_id,
+                "drawId": f"{comp_id}-{draw_id}",
                 "competitionId": comp_id,
                 "competitionName": comp_name,
                 "divisionName": div_name,
@@ -224,8 +280,9 @@ def main():
         print("clubs-registry.json is empty. Run discover_clubs.py first.")
         sys.exit(1)
 
-    known_ids = already_scraped_draw_ids()
-    print(f"Already-known draw IDs: {len(known_ids)}")
+    known_keys, seed_comp_ids = already_scraped_keys()
+    print(f"Already-scraped draw keys: {len(known_keys)}")
+    print(f"Seed competition IDs (skipped): {len(seed_comp_ids)}")
     print(f"Clubs in registry: {len(registry)}")
     DRAWS_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -237,7 +294,6 @@ def main():
             "Chrome/124.0.0.0 Safari/537.36"
         ))
         page = ctx.new_page()
-        cookies_accepted = False
 
         for club_slug, group_url in registry.items():
             print(f"\n[{club_slug}] {group_url}")
@@ -246,21 +302,23 @@ def main():
                 print(f"  No draw links found — skipping")
                 continue
 
-            cookies_accepted = True
-            new_draws = [
-                l for l in draw_links
-                if (m := re.search(r"/draw/(\w+)", l["href"], re.I)) and m.group(1).lower() not in known_ids
-            ]
-            print(f"  {len(draw_links)} draws total, {len(new_draws)} new")
-
-            for dl in new_draws:
-                m = re.search(r"/league/([^/]+)/draw/(\w+)", dl["href"], re.I)
+            new_draws = []
+            for l in draw_links:
+                m = re.search(r"/league/([^/]+)/draw/(\w+)", l["href"], re.I)
                 if not m:
                     continue
                 comp_id, draw_id = m.group(1).lower(), m.group(2).lower()
+                file_key = f"{comp_id}-{draw_id}"
+                if comp_id in seed_comp_ids or file_key in known_keys:
+                    continue
+                new_draws.append((l, comp_id, draw_id, file_key))
+
+            print(f"  {len(draw_links)} draws total, {len(new_draws)} new")
+
+            for dl, comp_id, draw_id, file_key in new_draws:
                 comp_name = dl.get("text", comp_id)
 
-                print(f"  → scraping draw {draw_id} …", end=" ", flush=True)
+                print(f"  scraping {file_key} ...", end=" ", flush=True)
                 if DRY_RUN:
                     print("(dry run)")
                     continue
@@ -268,12 +326,12 @@ def main():
                 page.wait_for_timeout(DELAY_MS)
                 result = scrape_draw(page, dl["href"], draw_id, comp_id, comp_name)
                 if result:
-                    out = DRAWS_DIR / f"{draw_id}.json"
+                    out = DRAWS_DIR / f"{file_key}.json"
                     out.write_text(json.dumps(result, indent=2), encoding="utf-8")
-                    known_ids.add(draw_id)
-                    print(f"✓ ({len(result['standings'])} clubs, {len(result['matches'])} matches)")
+                    known_keys.add(file_key)
+                    print(f"done ({len(result['standings'])} clubs, {len(result['matches'])} matches)")
                 else:
-                    print("✗ failed")
+                    print("failed")
 
                 page.wait_for_timeout(DELAY_MS)
 
