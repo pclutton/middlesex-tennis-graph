@@ -1,0 +1,178 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-57",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "16&U Boys Division 2\n \u2013 16&U Boys Division 2              \u2013 Group 4",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/57",
+  "scrapedAt": "2026-06-26T19:03:37.924740+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "1",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 2,
+      "rubbers": "8-4",
+      "points": 85
+    },
+    {
+      "rank": 2,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "16-8",
+      "points": 178
+    },
+    {
+      "rank": 3,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "8-16",
+      "points": 916
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "4-8",
+      "points": 49
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 26/04/2026\nWayfarers LTC 1\n-\nPinner Lawn Tennis Club 1",
+      "away": "Wayfarers LTC 1\n-\nPinner Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 26/04/2026\nPinner West End Lawn Tennis Club 1\n8\n-\n4\nElms LTC 1",
+      "away": "Pinner West End Lawn Tennis Club 1\n8\n-\n4\nElms LTC 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 26/04/2026\nUxbridge LTC 1\n10:00\nHeadstone Lawn Tennis Club 1",
+      "away": "Uxbridge LTC 1\n10:00\nHeadstone Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sat 02/05/2026\nHeadstone Lawn Tennis Club 1\n15:00\nWayfarers LTC 1",
+      "away": "Headstone Lawn Tennis Club 1\n15:00\nWayfarers LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 02/05/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nPinner West End Lawn Tennis Club 1\n-\nUxbridge LTC 1",
+      "away": "Pinner West End Lawn Tennis Club 1\n-\nUxbridge LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nWayfarers LTC 1\n-\nPinner West End Lawn Tennis Club 1",
+      "away": "Wayfarers LTC 1\n-\nPinner West End Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nPinner Lawn Tennis Club 1\n-\nHeadstone Lawn Tennis Club 1",
+      "away": "Pinner Lawn Tennis Club 1\n-\nHeadstone Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nUxbridge LTC 1\n10:00\nElms LTC 1",
+      "away": "Uxbridge LTC 1\n10:00\nElms LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sat 23/05/2026\nUxbridge LTC 1\n16:30\nWayfarers LTC 1",
+      "away": "Uxbridge LTC 1\n16:30\nWayfarers LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 23/05/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nPinner West End Lawn Tennis Club 1\n0\n-\n12\nPinner Lawn Tennis Club 1",
+      "away": "Pinner West End Lawn Tennis Club 1\n0\n-\n12\nPinner Lawn Tennis Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nPinner Lawn Tennis Club 1\n4\n-\n8\nUxbridge LTC 1",
+      "away": "Pinner Lawn Tennis Club 1\n4\n-\n8\nUxbridge LTC 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nWayfarers LTC 1\n-\nElms LTC 1",
+      "away": "Wayfarers LTC 1\n-\nElms LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nHeadstone Lawn Tennis Club 1\n17:00\nPinner West End Lawn Tennis Club 1",
+      "away": "Headstone Lawn Tennis Club 1\n17:00\nPinner West End Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sat 04/07/2026\nPostponed\nElms LTC 1\n17:00\nPinner Lawn Tennis Club 1",
+      "away": "Elms LTC 1\n17:00\nPinner Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/07/2026"
+    },
+    {
+      "home": "Sat 11/07/2026\nPostponed\nElms LTC 1\n17:00\nHeadstone Lawn Tennis Club 1",
+      "away": "Elms LTC 1\n17:00\nHeadstone Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 11/07/2026"
+    }
+  ]
+}

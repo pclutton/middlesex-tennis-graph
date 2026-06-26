@@ -1,0 +1,133 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-72",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "8&U Mixed Division 2\n \u2013 8&U Mixed Division 2              \u2013 Group 3",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/72",
+  "scrapedAt": "2026-06-26T15:42:04.310718+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 4,
+      "rubbers": "56-8",
+      "points": 284
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "44-52",
+      "points": 2226
+    },
+    {
+      "rank": 3,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "14-18",
+      "points": 79
+    },
+    {
+      "rank": 4,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "12-20",
+      "points": 610
+    },
+    {
+      "rank": 5,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "2-30",
+      "points": 115
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 18/04/2026\nDavid Lloyd Club Finchley 1\n12:00\nTemple Fortune Club 1",
+      "away": "David Lloyd Club Finchley 1\n12:00\nTemple Fortune Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 18/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nUnknown player\nCoolhurst LTC 1\n26\n-\n6\nHackney Tennis 2",
+      "away": "Coolhurst LTC 1\n26\n-\n6\nHackney Tennis 2",
+      "hs": 266,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sat 02/05/2026\nUnknown player\nHackney Tennis 3\n2\n-\n30\nCoolhurst LTC 1",
+      "away": "Hackney Tennis 3\n2\n-\n30\nCoolhurst LTC 1",
+      "hs": 230,
+      "as": null,
+      "date": "Sat 02/05/2026"
+    },
+    {
+      "home": "Sat 02/05/2026\nHackney Tennis 2\n18\n-\n14\nDavid Lloyd Club Finchley 1",
+      "away": "Hackney Tennis 2\n18\n-\n14\nDavid Lloyd Club Finchley 1",
+      "hs": 1814,
+      "as": null,
+      "date": "Sat 02/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nDavid Lloyd Club Finchley 1\n12:00\nHackney Tennis 3",
+      "away": "David Lloyd Club Finchley 1\n12:00\nHackney Tennis 3",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nUnknown player\nTemple Fortune Club 1\n12\n-\n20\nHackney Tennis 2",
+      "away": "Temple Fortune Club 1\n12\n-\n20\nHackney Tennis 2",
+      "hs": 1220,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nHackney Tennis 3\n12:00\nTemple Fortune Club 1",
+      "away": "Hackney Tennis 3\n12:00\nTemple Fortune Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sat 27/06/2026\nCoolhurst LTC 1\n12:00\nDavid Lloyd Club Finchley 1",
+      "away": "Coolhurst LTC 1\n12:00\nDavid Lloyd Club Finchley 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 27/06/2026"
+    },
+    {
+      "home": "Sat 27/06/2026\nTemple Fortune Club 1\n15:00\nCoolhurst LTC 1",
+      "away": "Temple Fortune Club 1\n15:00\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 27/06/2026"
+    },
+    {
+      "home": "Sat 27/06/2026\nHackney Tennis 2\n15:00\nHackney Tennis 3",
+      "away": "Hackney Tennis 2\n15:00\nHackney Tennis 3",
+      "hs": null,
+      "as": null,
+      "date": "Sat 27/06/2026"
+    }
+  ]
+}

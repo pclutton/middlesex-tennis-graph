@@ -1,0 +1,95 @@
+{
+  "drawId": "1424eff6-c4f2-4092-a7b9-032dbfcd0ba7-24",
+  "competitionId": "1424eff6-c4f2-4092-a7b9-032dbfcd0ba7",
+  "competitionName": "14 & Under Girls\n \u2013 14&U Girls              \u2013 South East 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/1424EFF6-C4F2-4092-A7B9-032DBFCD0BA7/draw/24",
+  "scrapedAt": "2026-06-26T15:45:52.354403+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 6,
+      "rubbers": "28-8",
+      "points": 3011
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "24-12",
+      "points": 2614
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "12-24",
+      "points": 1426
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 0,
+      "rubbers": "8-28",
+      "points": 1029
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 12/04/2026\nEsher Lawn Tennis Club 1\n8\n-\n4\nDavid Lloyd Club Finchley 1",
+      "away": "Esher Lawn Tennis Club 1\n8\n-\n4\nDavid Lloyd Club Finchley 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 12/04/2026"
+    },
+    {
+      "home": "Sun 12/04/2026\nDavid Lloyd Club Bristol Long Ashton 1\n8\n-\n4\nCambridge Lawn Tennis Club 1",
+      "away": "David Lloyd Club Bristol Long Ashton 1\n8\n-\n4\nCambridge Lawn Tennis Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 12/04/2026"
+    },
+    {
+      "home": "Sat 25/04/2026\nEsher Lawn Tennis Club 1\n4\n-\n8\nDavid Lloyd Club Bristol Long Ashton 1",
+      "away": "Esher Lawn Tennis Club 1\n4\n-\n8\nDavid Lloyd Club Bristol Long Ashton 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sat 25/04/2026\nDavid Lloyd Club Finchley 1\n4\n-\n8\nCambridge Lawn Tennis Club 1",
+      "away": "David Lloyd Club Finchley 1\n4\n-\n8\nCambridge Lawn Tennis Club 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nNo show\nCambridge Lawn Tennis Club 1\n12\n-\n0\nEsher Lawn Tennis Club 1",
+      "away": "Cambridge Lawn Tennis Club 1\n12\n-\n0\nEsher Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nNo show\nDavid Lloyd Club Bristol Long Ashton 1\n12\n-\n0\nDavid Lloyd Club Finchley 1",
+      "away": "David Lloyd Club Bristol Long Ashton 1\n12\n-\n0\nDavid Lloyd Club Finchley 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    }
+  ]
+}

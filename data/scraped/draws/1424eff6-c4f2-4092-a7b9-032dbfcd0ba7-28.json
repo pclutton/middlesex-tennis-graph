@@ -1,0 +1,178 @@
+{
+  "drawId": "1424eff6-c4f2-4092-a7b9-032dbfcd0ba7-28",
+  "competitionId": "1424eff6-c4f2-4092-a7b9-032dbfcd0ba7",
+  "competitionName": "18 & Under Girls\n \u2013 18&U Girls              \u2013 South East",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/1424EFF6-C4F2-4092-A7B9-032DBFCD0BA7/draw/28",
+  "scrapedAt": "2026-06-26T18:11:48.046577+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 6,
+      "rubbers": "30-6",
+      "points": 326
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "14-22",
+      "points": 1522
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "14-22",
+      "points": 1423
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 0,
+      "rubbers": "14-22",
+      "points": 1424
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 22/03/2026\nFinchley Manor Tennis Squash and Health Club 1\n-\nBETTER Gosling Tennis Centre 1",
+      "away": "Finchley Manor Tennis Squash and Health Club 1\n-\nBETTER Gosling Tennis Centre 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/03/2026"
+    },
+    {
+      "home": "Sat 28/03/2026\nRoehampton Club 1\n4\n-\n8\nSutton Tennis Academy 1",
+      "away": "Roehampton Club 1\n4\n-\n8\nSutton Tennis Academy 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sat 28/03/2026"
+    },
+    {
+      "home": "Sat 28/03/2026\nWaterfall Tennis Club 1\n8\n-\n4\nCambridge Lawn Tennis Club 1",
+      "away": "Waterfall Tennis Club 1\n8\n-\n4\nCambridge Lawn Tennis Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sat 28/03/2026"
+    },
+    {
+      "home": "Sat 18/04/2026\nCambridge Lawn Tennis Club 1\n12\n-\n0\nFinchley Manor Tennis Squash and Health Club 1",
+      "away": "Cambridge Lawn Tennis Club 1\n12\n-\n0\nFinchley Manor Tennis Squash and Health Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sat 18/04/2026"
+    },
+    {
+      "home": "Sat 18/04/2026\nRoehampton Club 1\n2\n-\n10\nWaterfall Tennis Club 1",
+      "away": "Roehampton Club 1\n2\n-\n10\nWaterfall Tennis Club 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sat 18/04/2026"
+    },
+    {
+      "home": "Sat 18/04/2026\nSutton Tennis Academy 1\n6\n-\n6\nBETTER Gosling Tennis Centre 1",
+      "away": "Sutton Tennis Academy 1\n6\n-\n6\nBETTER Gosling Tennis Centre 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sat 18/04/2026"
+    },
+    {
+      "home": "Sat 02/05/2026\nBETTER Gosling Tennis Centre 1\n12\n-\n0\nCambridge Lawn Tennis Club 1",
+      "away": "BETTER Gosling Tennis Centre 1\n12\n-\n0\nCambridge Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sat 02/05/2026"
+    },
+    {
+      "home": "Sat 02/05/2026\nWaterfall Tennis Club 1\n6\n-\n6\nSutton Tennis Academy 1",
+      "away": "Waterfall Tennis Club 1\n6\n-\n6\nSutton Tennis Academy 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sat 02/05/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nFinchley Manor Tennis Squash and Health Club 1\n12:00\nRoehampton Club 1",
+      "away": "Finchley Manor Tennis Squash and Health Club 1\n12:00\nRoehampton Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nRoehampton Club 1\n-\nBETTER Gosling Tennis Centre 1",
+      "away": "Roehampton Club 1\n-\nBETTER Gosling Tennis Centre 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nWaterfall Tennis Club 1\n12:30\nFinchley Manor Tennis Squash and Health Club 1",
+      "away": "Waterfall Tennis Club 1\n12:30\nFinchley Manor Tennis Squash and Health Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sat 06/06/2026\nCambridge Lawn Tennis Club 1\n10\n-\n2\nSutton Tennis Academy 1",
+      "away": "Cambridge Lawn Tennis Club 1\n10\n-\n2\nSutton Tennis Academy 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sat 06/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nBETTER Gosling Tennis Centre 1\n12\n-\n0\nWaterfall Tennis Club 1",
+      "away": "BETTER Gosling Tennis Centre 1\n12\n-\n0\nWaterfall Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nCambridge Lawn Tennis Club 1\n-\nRoehampton Club 1",
+      "away": "Cambridge Lawn Tennis Club 1\n-\nRoehampton Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nFinchley Manor Tennis Squash and Health Club 1\n12:00\nSutton Tennis Academy 1",
+      "away": "Finchley Manor Tennis Squash and Health Club 1\n12:00\nSutton Tennis Academy 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    }
+  ]
+}

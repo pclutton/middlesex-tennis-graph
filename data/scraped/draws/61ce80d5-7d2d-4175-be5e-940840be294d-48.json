@@ -1,0 +1,133 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-48",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "14&U Boys Division 2\n \u2013 14&U Boys Division 2              \u2013 Group 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/48",
+  "scrapedAt": "2026-06-26T14:20:30.286700+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "1",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 2,
+      "rubbers": "12-0",
+      "points": 120
+    },
+    {
+      "rank": 2,
+      "name": "1",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 2,
+      "rubbers": "12-0",
+      "points": 120
+    },
+    {
+      "rank": 3,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "0-12",
+      "points": 12
+    },
+    {
+      "rank": 4,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "0-12",
+      "points": 12
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 10/05/2026\nHarrow Weald Lawn Tennis Club 1\n-\nAcorn Lawn Tennis Club 1",
+      "away": "Harrow Weald Lawn Tennis Club 1\n-\nAcorn Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nNo show\nElms LTC 2\n12\n-\n0\nHarrow Lawn Tennis Club 1",
+      "away": "Elms LTC 2\n12\n-\n0\nHarrow Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nHarrow Lawn Tennis Club 1\n-\nHarrow Weald Lawn Tennis Club 1",
+      "away": "Harrow Lawn Tennis Club 1\n-\nHarrow Weald Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nKenton Lawn Tennis Club 1\n-\nElms LTC 2",
+      "away": "Kenton Lawn Tennis Club 1\n-\nElms LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nHarrow Weald Lawn Tennis Club 1\n12\n-\n0\nKenton Lawn Tennis Club 1",
+      "away": "Harrow Weald Lawn Tennis Club 1\n12\n-\n0\nKenton Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nAcorn Lawn Tennis Club 1\n-\nHarrow Lawn Tennis Club 1",
+      "away": "Acorn Lawn Tennis Club 1\n-\nHarrow Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nKenton Lawn Tennis Club 1\n-\nAcorn Lawn Tennis Club 1",
+      "away": "Kenton Lawn Tennis Club 1\n-\nAcorn Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nHarrow Lawn Tennis Club 1\n-\nKenton Lawn Tennis Club 1",
+      "away": "Harrow Lawn Tennis Club 1\n-\nKenton Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nAcorn Lawn Tennis Club 1\n-\nElms LTC 2",
+      "away": "Acorn Lawn Tennis Club 1\n-\nElms LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nPostponed\nElms LTC 2\n16:00\nHarrow Weald Lawn Tennis Club 1",
+      "away": "Elms LTC 2\n16:00\nHarrow Weald Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    }
+  ]
+}

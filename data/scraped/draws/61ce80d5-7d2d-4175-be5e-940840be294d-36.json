@@ -1,0 +1,85 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-36",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "11&U Boys Division 2\n \u2013 11&U Boys Division 2              \u2013 Group 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/36",
+  "scrapedAt": "2026-06-26T19:09:21.859286+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 26/04/2026\nPinner West End Lawn Tennis Club 1\n-\nBushy Park Tennis Club Teddington 1",
+      "away": "Pinner West End Lawn Tennis Club 1\n-\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sat 02/05/2026\nUxbridge LTC 1\n16:30\nPinner West End Lawn Tennis Club 1",
+      "away": "Uxbridge LTC 1\n16:30\nPinner West End Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 02/05/2026"
+    },
+    {
+      "home": "Sat 23/05/2026\nBushy Park Tennis Club Teddington 1\n-\nUxbridge LTC 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n-\nUxbridge LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 23/05/2026"
+    },
+    {
+      "home": "Sat 30/05/2026\nBushy Park Tennis Club Teddington 1\n-\nPinner West End Lawn Tennis Club 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n-\nPinner West End Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 30/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nPinner West End Lawn Tennis Club 1\n-\nUxbridge LTC 1",
+      "away": "Pinner West End Lawn Tennis Club 1\n-\nUxbridge LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nUxbridge LTC 1\n10:00\nBushy Park Tennis Club Teddington 1",
+      "away": "Uxbridge LTC 1\n10:00\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    }
+  ]
+}

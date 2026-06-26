@@ -1,0 +1,178 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-5",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "Open Womens Division 2 onwards\n \u2013 Open Womens Division 3              \u2013 Division 3 East",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/5",
+  "scrapedAt": "2026-06-26T14:34:44.124213+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 6,
+      "rubbers": "26-10",
+      "points": 2710
+    },
+    {
+      "rank": 2,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "8-16",
+      "points": 918
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "16-20",
+      "points": 1822
+    },
+    {
+      "rank": 4,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 0,
+      "rubbers": "10-14",
+      "points": 1115
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 19/04/2026\nBush Hill Park Bowls Tennis & Social Club 1\n-\nDavid Lloyd Club Finchley 1",
+      "away": "Bush Hill Park Bowls Tennis & Social Club 1\n-\nDavid Lloyd Club Finchley 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nFinsbury Park 1\n6\n-\n6\nFinchley Lawn Tennis Club 1",
+      "away": "Finsbury Park 1\n6\n-\n6\nFinchley Lawn Tennis Club 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nConway Lawn Tennis Club 1\n-\nHackney Tennis 1",
+      "away": "Conway Lawn Tennis Club 1\n-\nHackney Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nConway Lawn Tennis Club 1\n-\nFinsbury Park 1",
+      "away": "Conway Lawn Tennis Club 1\n-\nFinsbury Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nFinchley Lawn Tennis Club 1\n13:00\nBush Hill Park Bowls Tennis & Social Club 1",
+      "away": "Finchley Lawn Tennis Club 1\n13:00\nBush Hill Park Bowls Tennis & Social Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nHackney Tennis 1\n10\n-\n2\nDavid Lloyd Club Finchley 1",
+      "away": "Hackney Tennis 1\n10\n-\n2\nDavid Lloyd Club Finchley 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nFinsbury Park 1\n4\n-\n8\nHackney Tennis 1",
+      "away": "Finsbury Park 1\n4\n-\n8\nHackney Tennis 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nBush Hill Park Bowls Tennis & Social Club 1\n-\nConway Lawn Tennis Club 1",
+      "away": "Bush Hill Park Bowls Tennis & Social Club 1\n-\nConway Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nDavid Lloyd Club Finchley 1\n6\n-\n6\nFinchley Lawn Tennis Club 1",
+      "away": "David Lloyd Club Finchley 1\n6\n-\n6\nFinchley Lawn Tennis Club 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sat 30/05/2026\nHackney Tennis 1\n8\n-\n4\nFinchley Lawn Tennis Club 1",
+      "away": "Hackney Tennis 1\n8\n-\n4\nFinchley Lawn Tennis Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sat 30/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nFinsbury Park 1\n-\nBush Hill Park Bowls Tennis & Social Club 1",
+      "away": "Finsbury Park 1\n-\nBush Hill Park Bowls Tennis & Social Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nConway Lawn Tennis Club 1\n-\nDavid Lloyd Club Finchley 1",
+      "away": "Conway Lawn Tennis Club 1\n-\nDavid Lloyd Club Finchley 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nDavid Lloyd Club Finchley 1\n17:00\nFinsbury Park 1",
+      "away": "David Lloyd Club Finchley 1\n17:00\nFinsbury Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nBush Hill Park Bowls Tennis & Social Club 1\n-\nHackney Tennis 1",
+      "away": "Bush Hill Park Bowls Tennis & Social Club 1\n-\nHackney Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nFinchley Lawn Tennis Club 1\n13:00\nConway Lawn Tennis Club 1",
+      "away": "Finchley Lawn Tennis Club 1\n13:00\nConway Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "drawId": "9382da0f-49bd-45d6-91e3-713b823ed597-9",
+  "competitionId": "9382da0f-49bd-45d6-91e3-713b823ed597",
+  "competitionName": "Men's Doubles\n \u2013 Division 1              \u2013 Group 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/9382DA0F-49BD-45D6-91E3-713B823ED597/draw/9",
+  "scrapedAt": "2026-06-26T15:49:32.164067+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "1",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 2,
+      "rubbers": "5-4",
+      "points": 86
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "4-5",
+      "points": 68
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 04/04/2026\nSt Albans Lawn Tennis Club 1\n-\nElliswick Lawn Tennis Club 1",
+      "away": "St Albans Lawn Tennis Club 1\n-\nElliswick Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/04/2026"
+    },
+    {
+      "home": "Sat 04/04/2026\nTownsend Lawn Tennis Club 3\n-\nSt Albans Lawn Tennis Club 1",
+      "away": "Townsend Lawn Tennis Club 3\n-\nSt Albans Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/04/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nHarpenden LTC 3\n5\n-\n4\nSt Albans Lawn Tennis Club 1",
+      "away": "Harpenden LTC 3\n5\n-\n4\nSt Albans Lawn Tennis Club 1",
+      "hs": 54,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sat 04/07/2026\nWelwyn Tennis Club 2\n12:00\nTownsend Lawn Tennis Club 3",
+      "away": "Welwyn Tennis Club 2\n12:00\nTownsend Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/07/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nDavid Lloyd Club Northwood 1\n12:00\nHarpenden LTC 3",
+      "away": "David Lloyd Club Northwood 1\n12:00\nHarpenden LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nBerkhamsted Lawn Tennis & Squash Rackets Club 1\n13:00\nTownsend Lawn Tennis Club 3",
+      "away": "Berkhamsted Lawn Tennis & Squash Rackets Club 1\n13:00\nTownsend Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sat 11/07/2026\nWelwyn Tennis Club 2\n12:00\nSt Albans Lawn Tennis Club 1",
+      "away": "Welwyn Tennis Club 2\n12:00\nSt Albans Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 11/07/2026"
+    },
+    {
+      "home": "Sat 11/07/2026\nPostponed\nDavid Lloyd Club Northwood 1\n12:00\nElliswick Lawn Tennis Club 1",
+      "away": "David Lloyd Club Northwood 1\n12:00\nElliswick Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 11/07/2026"
+    },
+    {
+      "home": "Sun 19/07/2026\nSt Albans Lawn Tennis Club 1\n10:00\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "away": "St Albans Lawn Tennis Club 1\n10:00\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/07/2026"
+    },
+    {
+      "home": "Sun 26/07/2026\nWelwyn Tennis Club 2\n12:00\nDavid Lloyd Club Northwood 1",
+      "away": "Welwyn Tennis Club 2\n12:00\nDavid Lloyd Club Northwood 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 26/07/2026"
+    },
+    {
+      "home": "Sun 02/08/2026\nElliswick Lawn Tennis Club 1\n13:00\nHarpenden LTC 3",
+      "away": "Elliswick Lawn Tennis Club 1\n13:00\nHarpenden LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Sun 02/08/2026"
+    },
+    {
+      "home": "Sun 02/08/2026\nBerkhamsted Lawn Tennis & Squash Rackets Club 1\n13:00\nWelwyn Tennis Club 2",
+      "away": "Berkhamsted Lawn Tennis & Squash Rackets Club 1\n13:00\nWelwyn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 02/08/2026"
+    },
+    {
+      "home": "Sat 08/08/2026\nHarpenden LTC 3\n13:00\nWelwyn Tennis Club 2",
+      "away": "Harpenden LTC 3\n13:00\nWelwyn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 08/08/2026"
+    },
+    {
+      "home": "Sun 16/08/2026\nTownsend Lawn Tennis Club 3\n-\nDavid Lloyd Club Northwood 1",
+      "away": "Townsend Lawn Tennis Club 3\n-\nDavid Lloyd Club Northwood 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 16/08/2026"
+    },
+    {
+      "home": "Sun 16/08/2026\nTownsend Lawn Tennis Club 3\n13:00\nElliswick Lawn Tennis Club 1",
+      "away": "Townsend Lawn Tennis Club 3\n13:00\nElliswick Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 16/08/2026"
+    },
+    {
+      "home": "Sun 23/08/2026\nElliswick Lawn Tennis Club 1\n13:00\nWelwyn Tennis Club 2",
+      "away": "Elliswick Lawn Tennis Club 1\n13:00\nWelwyn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 23/08/2026"
+    },
+    {
+      "home": "Sun 23/08/2026\nBerkhamsted Lawn Tennis & Squash Rackets Club 1\n13:00\nHarpenden LTC 3",
+      "away": "Berkhamsted Lawn Tennis & Squash Rackets Club 1\n13:00\nHarpenden LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Sun 23/08/2026"
+    },
+    {
+      "home": "Sun 06/09/2026\nSt Albans Lawn Tennis Club 1\n-\nDavid Lloyd Club Northwood 1",
+      "away": "St Albans Lawn Tennis Club 1\n-\nDavid Lloyd Club Northwood 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/09/2026"
+    },
+    {
+      "home": "Sun 06/09/2026\nElliswick Lawn Tennis Club 1\n13:00\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "away": "Elliswick Lawn Tennis Club 1\n13:00\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nHarpenden LTC 3\n13:00\nTownsend Lawn Tennis Club 3",
+      "away": "Harpenden LTC 3\n13:00\nTownsend Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sun 20/09/2026\nPostponed\nDavid Lloyd Club Northwood 1\n12:00\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "away": "David Lloyd Club Northwood 1\n12:00\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 20/09/2026"
+    }
+  ]
+}

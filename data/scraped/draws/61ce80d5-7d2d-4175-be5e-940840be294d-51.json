@@ -1,0 +1,178 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-51",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "14&U Boys Division 2\n \u2013 14&U Boys Division 2              \u2013 Group 5",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/51",
+  "scrapedAt": "2026-06-26T14:21:49.997332+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "5",
+      "played": 4,
+      "won": 0,
+      "drawn": 1,
+      "lost": 8,
+      "rubbers": "38-22",
+      "points": 4124
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 6,
+      "rubbers": "34-2",
+      "points": 342
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 4,
+      "rubbers": "24-24",
+      "points": 2426
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "14-22",
+      "points": 1822
+    },
+    {
+      "rank": 5,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 2,
+      "rubbers": "16-32",
+      "points": 1836
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 0,
+      "rubbers": "6-30",
+      "points": 631
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 03/05/2026\nUnknown player\nDavid Lloyd Club Finchley 1\n10\n-\n2\nThe Avenue LTC 1",
+      "away": "David Lloyd Club Finchley 1\n10\n-\n2\nThe Avenue LTC 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nUnknown player\nRavenscroft Lawn Tennis Club 1\n0\n-\n12\nThe Avenue LTC 1",
+      "away": "Ravenscroft Lawn Tennis Club 1\n0\n-\n12\nThe Avenue LTC 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nTotteridge Tennis Club 1\n10\n-\n2\nDavid Lloyd Club Finchley 1",
+      "away": "Totteridge Tennis Club 1\n10\n-\n2\nDavid Lloyd Club Finchley 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nBarnet Lawn Tennis Club 1\n10\n-\n2\nElms LTC 1",
+      "away": "Barnet Lawn Tennis Club 1\n10\n-\n2\nElms LTC 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sat 30/05/2026\nBarnet Lawn Tennis Club 1\n13:00\nRavenscroft Lawn Tennis Club 1",
+      "away": "Barnet Lawn Tennis Club 1\n13:00\nRavenscroft Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 30/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nUnknown player\nThe Avenue LTC 1\n0\n-\n12\nTotteridge Tennis Club 1",
+      "away": "The Avenue LTC 1\n0\n-\n12\nTotteridge Tennis Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nElms LTC 1\n4\n-\n8\nDavid Lloyd Club Finchley 1",
+      "away": "Elms LTC 1\n4\n-\n8\nDavid Lloyd Club Finchley 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nUnknown player\nRavenscroft Lawn Tennis Club 1\n4\n-\n8\nElms LTC 1",
+      "away": "Ravenscroft Lawn Tennis Club 1\n4\n-\n8\nElms LTC 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nTotteridge Tennis Club 1\n12\n-\n0\nBarnet Lawn Tennis Club 1",
+      "away": "Totteridge Tennis Club 1\n12\n-\n0\nBarnet Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nBarnet Lawn Tennis Club 1\n4\n-\n8\nDavid Lloyd Club Finchley 1",
+      "away": "Barnet Lawn Tennis Club 1\n4\n-\n8\nDavid Lloyd Club Finchley 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nRavenscroft Lawn Tennis Club 1\n-\nTotteridge Tennis Club 1",
+      "away": "Ravenscroft Lawn Tennis Club 1\n-\nTotteridge Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nUnknown player\nThe Avenue LTC 1\n10\n-\n2\nBarnet Lawn Tennis Club 1",
+      "away": "The Avenue LTC 1\n10\n-\n2\nBarnet Lawn Tennis Club 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nDavid Lloyd Club Finchley 1\n10\n-\n2\nRavenscroft Lawn Tennis Club 1",
+      "away": "David Lloyd Club Finchley 1\n10\n-\n2\nRavenscroft Lawn Tennis Club 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sat 27/06/2026\nTotteridge Tennis Club 1\n12:00\nElms LTC 1",
+      "away": "Totteridge Tennis Club 1\n12:00\nElms LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 27/06/2026"
+    },
+    {
+      "home": "Sun 12/07/2026\nPostponed\nElms LTC 1\n16:00\nThe Avenue LTC 1",
+      "away": "Elms LTC 1\n16:00\nThe Avenue LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 12/07/2026"
+    }
+  ]
+}

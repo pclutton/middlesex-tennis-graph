@@ -1,0 +1,178 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-62",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "18&U Boys Division 2\n \u2013 18&U Boys Division 2              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/62",
+  "scrapedAt": "2026-06-26T14:22:05.558783+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "22-12",
+      "points": 2313
+    },
+    {
+      "rank": 2,
+      "name": "1",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 2,
+      "rubbers": "12-0",
+      "points": 120
+    },
+    {
+      "rank": 3,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "12-12",
+      "points": 1314
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "10-26",
+      "points": 1126
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "2-8",
+      "points": 39
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 25/04/2026\nBroomfield Park 1\n-\nElms LTC 1",
+      "away": "Broomfield Park 1\n-\nElms LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sat 25/04/2026\nTotteridge Tennis Club 1\n6\n-\n6\nBrackendale LTC 1",
+      "away": "Totteridge Tennis Club 1\n6\n-\n6\nBrackendale LTC 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sat 25/04/2026\nBarnet Lawn Tennis Club 1\n8\n-\n2\nRavens Lawn Tennis Club 1",
+      "away": "Barnet Lawn Tennis Club 1\n8\n-\n2\nRavens Lawn Tennis Club 1",
+      "hs": 82,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nBroomfield Park 1\n-\nTotteridge Tennis Club 1",
+      "away": "Broomfield Park 1\n-\nTotteridge Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nTotteridge Tennis Club 1\n6\n-\n6\nBarnet Lawn Tennis Club 1",
+      "away": "Totteridge Tennis Club 1\n6\n-\n6\nBarnet Lawn Tennis Club 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nTotteridge Tennis Club 1\n15:00\nElms LTC 1",
+      "away": "Totteridge Tennis Club 1\n15:00\nElms LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nBrackendale LTC 1\n4\n-\n8\nBarnet Lawn Tennis Club 1",
+      "away": "Brackendale LTC 1\n4\n-\n8\nBarnet Lawn Tennis Club 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nBroomfield Park 1\n-\nRavens Lawn Tennis Club 1",
+      "away": "Broomfield Park 1\n-\nRavens Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nNo show\nElms LTC 1\n12\n-\n0\nBrackendale LTC 1",
+      "away": "Elms LTC 1\n12\n-\n0\nBrackendale LTC 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sat 27/06/2026\nBrackendale LTC 1\n14:00\nBroomfield Park 1",
+      "away": "Brackendale LTC 1\n14:00\nBroomfield Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 27/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nRavens Lawn Tennis Club 1\n-\nTotteridge Tennis Club 1",
+      "away": "Ravens Lawn Tennis Club 1\n-\nTotteridge Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nBarnet Lawn Tennis Club 1\n14:00\nElms LTC 1",
+      "away": "Barnet Lawn Tennis Club 1\n14:00\nElms LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sat 11/07/2026\nBarnet Lawn Tennis Club 1\n14:00\nBroomfield Park 1",
+      "away": "Barnet Lawn Tennis Club 1\n14:00\nBroomfield Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 11/07/2026"
+    },
+    {
+      "home": "Sat 11/07/2026\nPostponed\nRavens Lawn Tennis Club 1\n15:00\nBrackendale LTC 1",
+      "away": "Ravens Lawn Tennis Club 1\n15:00\nBrackendale LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 11/07/2026"
+    },
+    {
+      "home": "Sat 18/07/2026\nPostponed\nElms LTC 1\n17:00\nRavens Lawn Tennis Club 1",
+      "away": "Elms LTC 1\n17:00\nRavens Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 18/07/2026"
+    }
+  ]
+}

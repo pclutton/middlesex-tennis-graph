@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-30",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Mens Doubles \n \u2013 North West Division 7              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/30",
+  "scrapedAt": "2026-06-26T14:21:10.974775+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 60,
+      "rubbers": "60-36",
+      "points": 3018
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 54,
+      "rubbers": "54-42",
+      "points": 1212
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 53,
+      "rubbers": "53-43",
+      "points": 1917
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 2,
+      "won": 1,
+      "drawn": 0,
+      "lost": 50,
+      "rubbers": "50-22",
+      "points": 2511
+    },
+    {
+      "rank": 5,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 43,
+      "rubbers": "43-53",
+      "points": 1620
+    },
+    {
+      "rank": 6,
+      "name": "4",
+      "played": 0,
+      "won": 1,
+      "drawn": 3,
+      "lost": 37,
+      "rubbers": "37-59",
+      "points": 1422
+    },
+    {
+      "rank": 7,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 34,
+      "rubbers": "34-62",
+      "points": 1731
+    },
+    {
+      "rank": 8,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 29,
+      "rubbers": "29-43",
+      "points": 1113
+    }
+  ],
+  "matches": [
+    {
+      "home": "Thu 30/04/2026\nHatch End Lawn Tennis Club 5\n10\n-\n14\nWayfarers LTC 4",
+      "away": "Hatch End Lawn Tennis Club 5\n10\n-\n14\nWayfarers LTC 4",
+      "hs": 1014,
+      "as": null,
+      "date": "Thu 30/04/2026"
+    },
+    {
+      "home": "Thu 07/05/2026\nPinner West End Lawn Tennis Club 4\n22\n-\n2\nEastcote Lawn Tennis Club 6",
+      "away": "Pinner West End Lawn Tennis Club 4\n22\n-\n2\nEastcote Lawn Tennis Club 6",
+      "hs": 222,
+      "as": null,
+      "date": "Thu 07/05/2026"
+    },
+    {
+      "home": "Tue 12/05/2026\nUxbridge LTC 3\n6\n-\n18\nAcorn Lawn Tennis Club 3",
+      "away": "Uxbridge LTC 3\n6\n-\n18\nAcorn Lawn Tennis Club 3",
+      "hs": 618,
+      "as": null,
+      "date": "Tue 12/05/2026"
+    },
+    {
+      "home": "Thu 14/05/2026\nHarrow Weald Lawn Tennis Club 3\n14\n-\n10\nHeadstone Lawn Tennis Club 4",
+      "away": "Harrow Weald Lawn Tennis Club 3\n14\n-\n10\nHeadstone Lawn Tennis Club 4",
+      "hs": 1410,
+      "as": null,
+      "date": "Thu 14/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nPinner West End Lawn Tennis Club 4\n16\n-\n8\nHatch End Lawn Tennis Club 5",
+      "away": "Pinner West End Lawn Tennis Club 4\n16\n-\n8\nHatch End Lawn Tennis Club 5",
+      "hs": 168,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nEastcote Lawn Tennis Club 6\n4\n-\n20\nAcorn Lawn Tennis Club 3",
+      "away": "Eastcote Lawn Tennis Club 6\n4\n-\n20\nAcorn Lawn Tennis Club 3",
+      "hs": 420,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Tue 26/05/2026\nAdmin modified\nHeadstone Lawn Tennis Club 4\n9\n-\n15\nUxbridge LTC 3",
+      "away": "Headstone Lawn Tennis Club 4\n9\n-\n15\nUxbridge LTC 3",
+      "hs": 915,
+      "as": null,
+      "date": "Tue 26/05/2026"
+    },
+    {
+      "home": "Thu 28/05/2026\nAdmin modified\nWayfarers LTC 4\n7\n-\n17\nHarrow Weald Lawn Tennis Club 3",
+      "away": "Wayfarers LTC 4\n7\n-\n17\nHarrow Weald Lawn Tennis Club 3",
+      "hs": 717,
+      "as": null,
+      "date": "Thu 28/05/2026"
+    },
+    {
+      "home": "Tue 02/06/2026\nUxbridge LTC 3\n16\n-\n8\nWayfarers LTC 4",
+      "away": "Uxbridge LTC 3\n16\n-\n8\nWayfarers LTC 4",
+      "hs": 168,
+      "as": null,
+      "date": "Tue 02/06/2026"
+    },
+    {
+      "home": "Fri 05/06/2026\nAcorn Lawn Tennis Club 3\n12\n-\n12\nHeadstone Lawn Tennis Club 4",
+      "away": "Acorn Lawn Tennis Club 3\n12\n-\n12\nHeadstone Lawn Tennis Club 4",
+      "hs": 1212,
+      "as": null,
+      "date": "Fri 05/06/2026"
+    },
+    {
+      "home": "Thu 11/06/2026\nHarrow Weald Lawn Tennis Club 3\n10\n-\n14\nPinner West End Lawn Tennis Club 4",
+      "away": "Harrow Weald Lawn Tennis Club 3\n10\n-\n14\nPinner West End Lawn Tennis Club 4",
+      "hs": 1014,
+      "as": null,
+      "date": "Thu 11/06/2026"
+    },
+    {
+      "home": "Thu 11/06/2026\nHatch End Lawn Tennis Club 5\n14\n-\n10\nEastcote Lawn Tennis Club 6",
+      "away": "Hatch End Lawn Tennis Club 5\n14\n-\n10\nEastcote Lawn Tennis Club 6",
+      "hs": 1410,
+      "as": null,
+      "date": "Thu 11/06/2026"
+    },
+    {
+      "home": "Mon 15/06/2026\nUnknown player\nPinner West End Lawn Tennis Club 4\n8\n-\n16\nUxbridge LTC 3",
+      "away": "Pinner West End Lawn Tennis Club 4\n8\n-\n16\nUxbridge LTC 3",
+      "hs": 816,
+      "as": null,
+      "date": "Mon 15/06/2026"
+    },
+    {
+      "home": "Tue 16/06/2026\nEastcote Lawn Tennis Club 6\n18\n-\n6\nHeadstone Lawn Tennis Club 4",
+      "away": "Eastcote Lawn Tennis Club 6\n18\n-\n6\nHeadstone Lawn Tennis Club 4",
+      "hs": 186,
+      "as": null,
+      "date": "Tue 16/06/2026"
+    },
+    {
+      "home": "Mon 22/06/2026\nAdmin modified\nHatch End Lawn Tennis Club 5\n11\n-\n13\nHarrow Weald Lawn Tennis Club 3",
+      "away": "Hatch End Lawn Tennis Club 5\n11\n-\n13\nHarrow Weald Lawn Tennis Club 3",
+      "hs": 1113,
+      "as": null,
+      "date": "Mon 22/06/2026"
+    },
+    {
+      "home": "Thu 25/06/2026\nWayfarers LTC 4\n18:30\nAcorn Lawn Tennis Club 3",
+      "away": "Wayfarers LTC 4\n18:30\nAcorn Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 25/06/2026"
+    },
+    {
+      "home": "Tue 30/06/2026\nHeadstone Lawn Tennis Club 4\n18:30\nWayfarers LTC 4",
+      "away": "Headstone Lawn Tennis Club 4\n18:30\nWayfarers LTC 4",
+      "hs": null,
+      "as": null,
+      "date": "Tue 30/06/2026"
+    },
+    {
+      "home": "Tue 30/06/2026\nUxbridge LTC 3\n18:30\nHatch End Lawn Tennis Club 5",
+      "away": "Uxbridge LTC 3\n18:30\nHatch End Lawn Tennis Club 5",
+      "hs": null,
+      "as": null,
+      "date": "Tue 30/06/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nHarrow Weald Lawn Tennis Club 3\n18:30\nEastcote Lawn Tennis Club 6",
+      "away": "Harrow Weald Lawn Tennis Club 3\n18:30\nEastcote Lawn Tennis Club 6",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Fri 03/07/2026\nAcorn Lawn Tennis Club 3\n18:30\nPinner West End Lawn Tennis Club 4",
+      "away": "Acorn Lawn Tennis Club 3\n18:30\nPinner West End Lawn Tennis Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 03/07/2026"
+    },
+    {
+      "home": "Fri 10/07/2026\nAcorn Lawn Tennis Club 3\n18:30\nHarrow Weald Lawn Tennis Club 3",
+      "away": "Acorn Lawn Tennis Club 3\n18:30\nHarrow Weald Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 10/07/2026"
+    },
+    {
+      "home": "Mon 13/07/2026\nPinner West End Lawn Tennis Club 4\n18:30\nHeadstone Lawn Tennis Club 4",
+      "away": "Pinner West End Lawn Tennis Club 4\n18:30\nHeadstone Lawn Tennis Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Mon 13/07/2026"
+    },
+    {
+      "home": "Tue 14/07/2026\nEastcote Lawn Tennis Club 6\n18:30\nWayfarers LTC 4",
+      "away": "Eastcote Lawn Tennis Club 6\n18:30\nWayfarers LTC 4",
+      "hs": null,
+      "as": null,
+      "date": "Tue 14/07/2026"
+    },
+    {
+      "home": "Wed 22/07/2026\nHatch End Lawn Tennis Club 5\n18:30\nAcorn Lawn Tennis Club 3",
+      "away": "Hatch End Lawn Tennis Club 5\n18:30\nAcorn Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Wed 22/07/2026"
+    },
+    {
+      "home": "Thu 23/07/2026\nHarrow Weald Lawn Tennis Club 3\n18:30\nUxbridge LTC 3",
+      "away": "Harrow Weald Lawn Tennis Club 3\n18:30\nUxbridge LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 23/07/2026"
+    },
+    {
+      "home": "Thu 30/07/2026\nUxbridge LTC 3\n18:30\nEastcote Lawn Tennis Club 6",
+      "away": "Uxbridge LTC 3\n18:30\nEastcote Lawn Tennis Club 6",
+      "hs": null,
+      "as": null,
+      "date": "Thu 30/07/2026"
+    },
+    {
+      "home": "Thu 06/08/2026\nHeadstone Lawn Tennis Club 4\n18:30\nHatch End Lawn Tennis Club 5",
+      "away": "Headstone Lawn Tennis Club 4\n18:30\nHatch End Lawn Tennis Club 5",
+      "hs": null,
+      "as": null,
+      "date": "Thu 06/08/2026"
+    },
+    {
+      "home": "Thu 06/08/2026\nWayfarers LTC 4\n18:30\nPinner West End Lawn Tennis Club 4",
+      "away": "Wayfarers LTC 4\n18:30\nPinner West End Lawn Tennis Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Thu 06/08/2026"
+    }
+  ]
+}

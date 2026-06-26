@@ -1,0 +1,178 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-7",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "Open Mens Division 2 onwards\n \u2013 Open Mens Division 3              \u2013 Division 3 East",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/7",
+  "scrapedAt": "2026-06-26T14:22:13.472057+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 8,
+      "rubbers": "32-16",
+      "points": 3419
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 4,
+      "rubbers": "30-18",
+      "points": 3521
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 4,
+      "rubbers": "20-28",
+      "points": 2230
+    },
+    {
+      "rank": 4,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "8-16",
+      "points": 1018
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "16-20",
+      "points": 1922
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 0,
+      "rubbers": "14-22",
+      "points": 1424
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 19/04/2026\nGlobe Lawn Tennis Club 1\n6\n-\n6\nFinchley Manor Tennis Squash and Health Club 1",
+      "away": "Globe Lawn Tennis Club 1\n6\n-\n6\nFinchley Manor Tennis Squash and Health Club 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nBarnet Lawn Tennis Club 1\n12\n-\n0\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Barnet Lawn Tennis Club 1\n12\n-\n0\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nHighgate Cricket and Lawn Tennis Club 1\n8\n-\n4\nWood Vale LTC 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n8\n-\n4\nWood Vale LTC 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sat 16/05/2026\nBarnet Lawn Tennis Club 1\n6\n-\n6\nGlobe Lawn Tennis Club 1",
+      "away": "Barnet Lawn Tennis Club 1\n6\n-\n6\nGlobe Lawn Tennis Club 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sat 16/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nVicars Moor LTC 1\n8\n-\n4\nBarnet Lawn Tennis Club 1",
+      "away": "Vicars Moor LTC 1\n8\n-\n4\nBarnet Lawn Tennis Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nGlobe Lawn Tennis Club 1\n8\n-\n4\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Globe Lawn Tennis Club 1\n8\n-\n4\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nWood Vale LTC 1\n8\n-\n4\nFinchley Manor Tennis Squash and Health Club 1",
+      "away": "Wood Vale LTC 1\n8\n-\n4\nFinchley Manor Tennis Squash and Health Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nGlobe Lawn Tennis Club 1\n12\n-\n0\nVicars Moor LTC 1",
+      "away": "Globe Lawn Tennis Club 1\n12\n-\n0\nVicars Moor LTC 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nBarnet Lawn Tennis Club 1\n8\n-\n4\nWood Vale LTC 1",
+      "away": "Barnet Lawn Tennis Club 1\n8\n-\n4\nWood Vale LTC 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nHighgate Cricket and Lawn Tennis Club 1\n8\n-\n4\nFinchley Manor Tennis Squash and Health Club 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n8\n-\n4\nFinchley Manor Tennis Squash and Health Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nWood Vale LTC 1\n11:00\nGlobe Lawn Tennis Club 1",
+      "away": "Wood Vale LTC 1\n11:00\nGlobe Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nFinchley Manor Tennis Squash and Health Club 1\n12:00\nBarnet Lawn Tennis Club 1",
+      "away": "Finchley Manor Tennis Squash and Health Club 1\n12:00\nBarnet Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nVicars Moor LTC 1\n12:00\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Vicars Moor LTC 1\n12:00\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sun 12/07/2026\nVicars Moor LTC 1\n12:00\nWood Vale LTC 1",
+      "away": "Vicars Moor LTC 1\n12:00\nWood Vale LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 12/07/2026"
+    },
+    {
+      "home": "Sun 19/07/2026\nFinchley Manor Tennis Squash and Health Club 1\n12:00\nVicars Moor LTC 1",
+      "away": "Finchley Manor Tennis Squash and Health Club 1\n12:00\nVicars Moor LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/07/2026"
+    }
+  ]
+}

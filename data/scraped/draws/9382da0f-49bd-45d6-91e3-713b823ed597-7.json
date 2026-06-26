@@ -1,0 +1,230 @@
+{
+  "drawId": "9382da0f-49bd-45d6-91e3-713b823ed597-7",
+  "competitionId": "9382da0f-49bd-45d6-91e3-713b823ed597",
+  "competitionName": "Men's Doubles\n \u2013 Championship              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/9382DA0F-49BD-45D6-91E3-713B823ED597/draw/7",
+  "scrapedAt": "2026-06-26T14:23:37.766017+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "1",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 2,
+      "rubbers": "8-1",
+      "points": 111
+    },
+    {
+      "rank": 2,
+      "name": "1",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 2,
+      "rubbers": "5-4",
+      "points": 66
+    },
+    {
+      "rank": 3,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "10-8",
+      "points": 1411
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "3-6",
+      "points": 58
+    },
+    {
+      "rank": 7,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "1-8",
+      "points": 111
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 04/04/2026\nRickmansworth Lawn Tennis Club 1\n1\n-\n8\nWelwyn Tennis Club 1",
+      "away": "Rickmansworth Lawn Tennis Club 1\n1\n-\n8\nWelwyn Tennis Club 1",
+      "hs": 18,
+      "as": null,
+      "date": "Sat 04/04/2026"
+    },
+    {
+      "home": "Sat 04/04/2026\nWelwyn Tennis Club 1\n-\nTownsend Lawn Tennis Club 1",
+      "away": "Welwyn Tennis Club 1\n-\nTownsend Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/04/2026"
+    },
+    {
+      "home": "Sat 04/04/2026\nRickmansworth Lawn Tennis Club 1\n-\nTownsend Lawn Tennis Club 1",
+      "away": "Rickmansworth Lawn Tennis Club 1\n-\nTownsend Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/04/2026"
+    },
+    {
+      "home": "Sat 04/04/2026\nLeverstock Green LTC 1\n-\nWelwyn Tennis Club 1",
+      "away": "Leverstock Green LTC 1\n-\nWelwyn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/04/2026"
+    },
+    {
+      "home": "Sat 04/04/2026\nLeverstock Green LTC 1\n-\nRickmansworth Lawn Tennis Club 1",
+      "away": "Leverstock Green LTC 1\n-\nRickmansworth Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/04/2026"
+    },
+    {
+      "home": "Sat 04/04/2026\nTownsend Lawn Tennis Club 1\n-\nLeverstock Green LTC 1",
+      "away": "Townsend Lawn Tennis Club 1\n-\nLeverstock Green LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/04/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nTownsend Lawn Tennis Club 1\n3\n-\n6\nHarpenden LTC 1",
+      "away": "Townsend Lawn Tennis Club 1\n3\n-\n6\nHarpenden LTC 1",
+      "hs": 36,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nBishops Stortford Lawn Tennis Club 1\n5\n-\n4\nHarpenden LTC 1",
+      "away": "Bishops Stortford Lawn Tennis Club 1\n5\n-\n4\nHarpenden LTC 1",
+      "hs": 54,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sat 27/06/2026\nBishops Stortford Lawn Tennis Club 1\n13:00\nBarnet Lawn Tennis Club 1",
+      "away": "Bishops Stortford Lawn Tennis Club 1\n13:00\nBarnet Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 27/06/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nWelwyn Tennis Club 1\n-\nBishops Stortford Lawn Tennis Club 1",
+      "away": "Welwyn Tennis Club 1\n-\nBishops Stortford Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sat 11/07/2026\nHarpenden LTC 1\n13:00\nBarnet Lawn Tennis Club 1",
+      "away": "Harpenden LTC 1\n13:00\nBarnet Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 11/07/2026"
+    },
+    {
+      "home": "Sat 01/08/2026\nWelwyn Tennis Club 1\n10:00\nHarpenden LTC 1",
+      "away": "Welwyn Tennis Club 1\n10:00\nHarpenden LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 01/08/2026"
+    },
+    {
+      "home": "Sun 02/08/2026\nTownsend Lawn Tennis Club 1\n-\nBishops Stortford Lawn Tennis Club 1",
+      "away": "Townsend Lawn Tennis Club 1\n-\nBishops Stortford Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 02/08/2026"
+    },
+    {
+      "home": "Sun 09/08/2026\nHarpenden LTC 1\n13:00\nLeverstock Green LTC 1",
+      "away": "Harpenden LTC 1\n13:00\nLeverstock Green LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 09/08/2026"
+    },
+    {
+      "home": "Sun 16/08/2026\nPostponed\nBarnet Lawn Tennis Club 1\n11:30\nTownsend Lawn Tennis Club 1",
+      "away": "Barnet Lawn Tennis Club 1\n11:30\nTownsend Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 16/08/2026"
+    },
+    {
+      "home": "Sun 23/08/2026\nPostponed\nBarnet Lawn Tennis Club 1\n-\nRickmansworth Lawn Tennis Club 1",
+      "away": "Barnet Lawn Tennis Club 1\n-\nRickmansworth Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 23/08/2026"
+    },
+    {
+      "home": "Sun 06/09/2026\nRickmansworth Lawn Tennis Club 1\n-\nBishops Stortford Lawn Tennis Club 1",
+      "away": "Rickmansworth Lawn Tennis Club 1\n-\nBishops Stortford Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/09/2026"
+    },
+    {
+      "home": "Sun 06/09/2026\nLeverstock Green LTC 1\n-\nBarnet Lawn Tennis Club 1",
+      "away": "Leverstock Green LTC 1\n-\nBarnet Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/09/2026"
+    },
+    {
+      "home": "Sat 19/09/2026\nPostponed\nBarnet Lawn Tennis Club 1\n-\nWelwyn Tennis Club 1",
+      "away": "Barnet Lawn Tennis Club 1\n-\nWelwyn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 19/09/2026"
+    },
+    {
+      "home": "Sun 20/09/2026\nBishops Stortford Lawn Tennis Club 1\n-\nLeverstock Green LTC 1",
+      "away": "Bishops Stortford Lawn Tennis Club 1\n-\nLeverstock Green LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 20/09/2026"
+    },
+    {
+      "home": "Sun 20/09/2026\nHarpenden LTC 1\n13:00\nRickmansworth Lawn Tennis Club 1",
+      "away": "Harpenden LTC 1\n13:00\nRickmansworth Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 20/09/2026"
+    }
+  ]
+}

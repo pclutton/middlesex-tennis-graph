@@ -1,0 +1,133 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-53",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "14&U Boys Division 2\n \u2013 14&U Boys Division 2              \u2013 Group 7",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/53",
+  "scrapedAt": "2026-06-26T14:25:02.235795+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 8,
+      "rubbers": "48-0",
+      "points": 480
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 6,
+      "rubbers": "30-18",
+      "points": 3118
+    },
+    {
+      "rank": 3,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 0,
+      "rubbers": "4-20",
+      "points": 421
+    },
+    {
+      "rank": 4,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 0,
+      "rubbers": "2-22",
+      "points": 222
+    },
+    {
+      "rank": 5,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 0,
+      "rubbers": "0-24",
+      "points": 24
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 10/05/2026\nGlobe Lawn Tennis Club 1\n-\nElmwood Lawn Tennis Club 1",
+      "away": "Globe Lawn Tennis Club 1\n-\nElmwood Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nDavid Lloyd Club Acton Park 1\n0\n-\n12\nBrentham Lawn Tennis Club 1",
+      "away": "David Lloyd Club Acton Park 1\n0\n-\n12\nBrentham Lawn Tennis Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nNo show\nBrondesbury Sports Club 1\n12\n-\n0\nDavid Lloyd Club Acton Park 1",
+      "away": "Brondesbury Sports Club 1\n12\n-\n0\nDavid Lloyd Club Acton Park 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sat 06/06/2026\nElmwood Lawn Tennis Club 1\n0\n-\n12\nBrentham Lawn Tennis Club 1",
+      "away": "Elmwood Lawn Tennis Club 1\n0\n-\n12\nBrentham Lawn Tennis Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sat 06/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nGlobe Lawn Tennis Club 1\n2\n-\n10\nBrondesbury Sports Club 1",
+      "away": "Globe Lawn Tennis Club 1\n2\n-\n10\nBrondesbury Sports Club 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nBrondesbury Sports Club 1\n8\n-\n4\nElmwood Lawn Tennis Club 1",
+      "away": "Brondesbury Sports Club 1\n8\n-\n4\nElmwood Lawn Tennis Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nBrentham Lawn Tennis Club 1\n12\n-\n0\nGlobe Lawn Tennis Club 1",
+      "away": "Brentham Lawn Tennis Club 1\n12\n-\n0\nGlobe Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nBrentham Lawn Tennis Club 1\n12\n-\n0\nBrondesbury Sports Club 1",
+      "away": "Brentham Lawn Tennis Club 1\n12\n-\n0\nBrondesbury Sports Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nDavid Lloyd Club Acton Park 1\n16:00\nGlobe Lawn Tennis Club 1",
+      "away": "David Lloyd Club Acton Park 1\n16:00\nGlobe Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sat 04/07/2026\nElmwood Lawn Tennis Club 1\n13:00\nDavid Lloyd Club Acton Park 1",
+      "away": "Elmwood Lawn Tennis Club 1\n13:00\nDavid Lloyd Club Acton Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/07/2026"
+    }
+  ]
+}

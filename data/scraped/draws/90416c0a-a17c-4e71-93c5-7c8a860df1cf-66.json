@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-66",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Womens Doubles\n \u2013 East Division 2              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/66",
+  "scrapedAt": "2026-06-26T18:13:25.136979+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 69,
+      "rubbers": "69-27",
+      "points": 3413
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 60,
+      "rubbers": "60-36",
+      "points": 3018
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 52,
+      "rubbers": "52-20",
+      "points": 2610
+    },
+    {
+      "rank": 4,
+      "name": "5",
+      "played": 2,
+      "won": 0,
+      "drawn": 3,
+      "lost": 50,
+      "rubbers": "50-70",
+      "points": 2535
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 43,
+      "rubbers": "43-29",
+      "points": 2114
+    },
+    {
+      "rank": 6,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 38,
+      "rubbers": "38-58",
+      "points": 1929
+    },
+    {
+      "rank": 7,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 28,
+      "rubbers": "28-68",
+      "points": 1434
+    },
+    {
+      "rank": 8,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 20,
+      "rubbers": "20-52",
+      "points": 1026
+    }
+  ],
+  "matches": [
+    {
+      "home": "Mon 27/04/2026\nBounds Green 1\n16\n-\n8\nEnfield Chase 1",
+      "away": "Bounds Green 1\n16\n-\n8\nEnfield Chase 1",
+      "hs": 168,
+      "as": null,
+      "date": "Mon 27/04/2026"
+    },
+    {
+      "home": "Fri 01/05/2026\nHighbury 2\n20\n-\n4\nMayfield 1",
+      "away": "Highbury 2\n20\n-\n4\nMayfield 1",
+      "hs": 204,
+      "as": null,
+      "date": "Fri 01/05/2026"
+    },
+    {
+      "home": "Thu 07/05/2026\nMuswell Hill Methodist 2\n16\n-\n8\nHackney 2",
+      "away": "Muswell Hill Methodist 2\n16\n-\n8\nHackney 2",
+      "hs": 168,
+      "as": null,
+      "date": "Thu 07/05/2026"
+    },
+    {
+      "home": "Fri 08/05/2026\nHighgate 2\n4\n-\n20\nPavilion 1",
+      "away": "Highgate 2\n4\n-\n20\nPavilion 1",
+      "hs": 420,
+      "as": null,
+      "date": "Fri 08/05/2026"
+    },
+    {
+      "home": "Wed 20/05/2026\nHackney 2\n24\n-\n0\nMayfield 1",
+      "away": "Hackney 2\n24\n-\n0\nMayfield 1",
+      "hs": 240,
+      "as": null,
+      "date": "Wed 20/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nPavilion 1\n20\n-\n4\nBounds Green 1",
+      "away": "Pavilion 1\n20\n-\n4\nBounds Green 1",
+      "hs": 204,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nMuswell Hill Methodist 2\n16\n-\n8\nHighgate 2",
+      "away": "Muswell Hill Methodist 2\n16\n-\n8\nHighgate 2",
+      "hs": 168,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Wed 27/05/2026\nEnfield Chase 1\n14\n-\n10\nHighbury 2",
+      "away": "Enfield Chase 1\n14\n-\n10\nHighbury 2",
+      "hs": 1410,
+      "as": null,
+      "date": "Wed 27/05/2026"
+    },
+    {
+      "home": "Mon 01/06/2026\nBounds Green 1\n4\n-\n20\nMuswell Hill Methodist 2",
+      "away": "Bounds Green 1\n4\n-\n20\nMuswell Hill Methodist 2",
+      "hs": 420,
+      "as": null,
+      "date": "Mon 01/06/2026"
+    },
+    {
+      "home": "Fri 05/06/2026\nAdmin modified\nHighbury 2\n13\n-\n11\nPavilion 1",
+      "away": "Highbury 2\n13\n-\n11\nPavilion 1",
+      "hs": 1311,
+      "as": null,
+      "date": "Fri 05/06/2026"
+    },
+    {
+      "home": "Wed 10/06/2026\nMayfield 1\n18\n-\n6\nEnfield Chase 1",
+      "away": "Mayfield 1\n18\n-\n6\nEnfield Chase 1",
+      "hs": 186,
+      "as": null,
+      "date": "Wed 10/06/2026"
+    },
+    {
+      "home": "Wed 10/06/2026\nHighgate 2\n18:30\nHackney 2",
+      "away": "Highgate 2\n18:30\nHackney 2",
+      "hs": null,
+      "as": null,
+      "date": "Wed 10/06/2026"
+    },
+    {
+      "home": "Tue 16/06/2026\nHighgate 2\n8\n-\n16\nBounds Green 1",
+      "away": "Highgate 2\n8\n-\n16\nBounds Green 1",
+      "hs": 816,
+      "as": null,
+      "date": "Tue 16/06/2026"
+    },
+    {
+      "home": "Wed 17/06/2026\nHackney 2\n14\n-\n10\nEnfield Chase 1",
+      "away": "Hackney 2\n14\n-\n10\nEnfield Chase 1",
+      "hs": 1410,
+      "as": null,
+      "date": "Wed 17/06/2026"
+    },
+    {
+      "home": "Thu 18/06/2026\nPavilion 1\n18\n-\n6\nMayfield 1",
+      "away": "Pavilion 1\n18\n-\n6\nMayfield 1",
+      "hs": 186,
+      "as": null,
+      "date": "Thu 18/06/2026"
+    },
+    {
+      "home": "Mon 22/06/2026\nBounds Green 1\n10\n-\n14\nHackney 2",
+      "away": "Bounds Green 1\n10\n-\n14\nHackney 2",
+      "hs": 1014,
+      "as": null,
+      "date": "Mon 22/06/2026"
+    },
+    {
+      "home": "Thu 25/06/2026\nMuswell Hill Methodist 2\n18:30\nHighbury 2",
+      "away": "Muswell Hill Methodist 2\n18:30\nHighbury 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 25/06/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nMayfield 1\n18:30\nMuswell Hill Methodist 2",
+      "away": "Mayfield 1\n18:30\nMuswell Hill Methodist 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Fri 03/07/2026\nHighbury 2\n18:30\nHighgate 2",
+      "away": "Highbury 2\n18:30\nHighgate 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 03/07/2026"
+    },
+    {
+      "home": "Wed 08/07/2026\nEnfield Chase 1\n19:00\nPavilion 1",
+      "away": "Enfield Chase 1\n19:00\nPavilion 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 08/07/2026"
+    },
+    {
+      "home": "Mon 13/07/2026\nBounds Green 1\n18:30\nHighbury 2",
+      "away": "Bounds Green 1\n18:30\nHighbury 2",
+      "hs": null,
+      "as": null,
+      "date": "Mon 13/07/2026"
+    },
+    {
+      "home": "Mon 13/07/2026\nHighgate 2\n18:30\nMayfield 1",
+      "away": "Highgate 2\n18:30\nMayfield 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 13/07/2026"
+    },
+    {
+      "home": "Wed 15/07/2026\nHackney 2\n18:30\nPavilion 1",
+      "away": "Hackney 2\n18:30\nPavilion 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 15/07/2026"
+    },
+    {
+      "home": "Thu 23/07/2026\nMuswell Hill Methodist 2\n18:30\nEnfield Chase 1",
+      "away": "Muswell Hill Methodist 2\n18:30\nEnfield Chase 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 23/07/2026"
+    },
+    {
+      "home": "Wed 29/07/2026\nEnfield Chase 1\n19:00\nHighgate 2",
+      "away": "Enfield Chase 1\n19:00\nHighgate 2",
+      "hs": null,
+      "as": null,
+      "date": "Wed 29/07/2026"
+    },
+    {
+      "home": "Thu 30/07/2026\nPavilion 1\n18:30\nMuswell Hill Methodist 2",
+      "away": "Pavilion 1\n18:30\nMuswell Hill Methodist 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 30/07/2026"
+    },
+    {
+      "home": "Thu 30/07/2026\nHighbury 2\n18:30\nHackney 2",
+      "away": "Highbury 2\n18:30\nHackney 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 30/07/2026"
+    },
+    {
+      "home": "Fri 31/07/2026\nMayfield 1\n18:30\nBounds Green 1",
+      "away": "Mayfield 1\n18:30\nBounds Green 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 31/07/2026"
+    }
+  ]
+}

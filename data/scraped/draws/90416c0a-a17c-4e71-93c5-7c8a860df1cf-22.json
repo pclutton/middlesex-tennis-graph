@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-22",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Womens Doubles\n \u2013 West Intermediate              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/22",
+  "scrapedAt": "2026-06-26T15:44:32.456856+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 2,
+      "won": 1,
+      "drawn": 1,
+      "lost": 56,
+      "rubbers": "56-40",
+      "points": 2820
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 56,
+      "rubbers": "56-40",
+      "points": 2820
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 2,
+      "won": 1,
+      "drawn": 1,
+      "lost": 54,
+      "rubbers": "54-42",
+      "points": 2721
+    },
+    {
+      "rank": 4,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 54,
+      "rubbers": "54-42",
+      "points": 2721
+    },
+    {
+      "rank": 5,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 46,
+      "rubbers": "46-50",
+      "points": 2325
+    },
+    {
+      "rank": 6,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 42,
+      "rubbers": "42-54",
+      "points": 2127
+    },
+    {
+      "rank": 7,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 40,
+      "rubbers": "40-32",
+      "points": 2016
+    },
+    {
+      "rank": 8,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 12,
+      "rubbers": "12-60",
+      "points": 630
+    }
+  ],
+  "matches": [
+    {
+      "home": "Thu 07/05/2026\nVirgin Active Chiswick Riverside 1\n8\n-\n16\nThe Hurlingham Club 1",
+      "away": "Virgin Active Chiswick Riverside 1\n8\n-\n16\nThe Hurlingham Club 1",
+      "hs": 816,
+      "as": null,
+      "date": "Thu 07/05/2026"
+    },
+    {
+      "home": "Mon 11/05/2026\nTeddington Lawn Tennis Club 2\n10\n-\n14\nDavid Lloyd Club Acton Park 1",
+      "away": "Teddington Lawn Tennis Club 2\n10\n-\n14\nDavid Lloyd Club Acton Park 1",
+      "hs": 1014,
+      "as": null,
+      "date": "Mon 11/05/2026"
+    },
+    {
+      "home": "Fri 15/05/2026\nWayfarers LTC 1\n24\n-\n0\nLowlands Club 1",
+      "away": "Wayfarers LTC 1\n24\n-\n0\nLowlands Club 1",
+      "hs": 240,
+      "as": null,
+      "date": "Fri 15/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nLowlands Club 1\n6\n-\n18\nTeddington Lawn Tennis Club 2",
+      "away": "Lowlands Club 1\n6\n-\n18\nTeddington Lawn Tennis Club 2",
+      "hs": 618,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nThe Hurlingham Club 1\n18\n-\n6\nDavid Lloyd Club Acton Park 1",
+      "away": "The Hurlingham Club 1\n18\n-\n6\nDavid Lloyd Club Acton Park 1",
+      "hs": 186,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Wed 27/05/2026\nVirgin Active Chiswick Riverside 1\n12\n-\n12\nPinner Lawn Tennis Club 1",
+      "away": "Virgin Active Chiswick Riverside 1\n12\n-\n12\nPinner Lawn Tennis Club 1",
+      "hs": 1212,
+      "as": null,
+      "date": "Wed 27/05/2026"
+    },
+    {
+      "home": "Thu 28/05/2026\nPaddington Sports Club 1\n14\n-\n10\nWayfarers LTC 1",
+      "away": "Paddington Sports Club 1\n14\n-\n10\nWayfarers LTC 1",
+      "hs": 1410,
+      "as": null,
+      "date": "Thu 28/05/2026"
+    },
+    {
+      "home": "Mon 01/06/2026\nTeddington Lawn Tennis Club 2\n20\n-\n4\nPaddington Sports Club 1",
+      "away": "Teddington Lawn Tennis Club 2\n20\n-\n4\nPaddington Sports Club 1",
+      "hs": 204,
+      "as": null,
+      "date": "Mon 01/06/2026"
+    },
+    {
+      "home": "Mon 08/06/2026\nDavid Lloyd Club Acton Park 1\n18\n-\n6\nLowlands Club 1",
+      "away": "David Lloyd Club Acton Park 1\n18\n-\n6\nLowlands Club 1",
+      "hs": 186,
+      "as": null,
+      "date": "Mon 08/06/2026"
+    },
+    {
+      "home": "Tue 09/06/2026\nPinner Lawn Tennis Club 1\n16\n-\n8\nPaddington Sports Club 1",
+      "away": "Pinner Lawn Tennis Club 1\n16\n-\n8\nPaddington Sports Club 1",
+      "hs": 168,
+      "as": null,
+      "date": "Tue 09/06/2026"
+    },
+    {
+      "home": "Thu 11/06/2026\nPinner Lawn Tennis Club 1\n18\n-\n6\nThe Hurlingham Club 1",
+      "away": "Pinner Lawn Tennis Club 1\n18\n-\n6\nThe Hurlingham Club 1",
+      "hs": 186,
+      "as": null,
+      "date": "Thu 11/06/2026"
+    },
+    {
+      "home": "Mon 15/06/2026\nThe Hurlingham Club 1\n18:30\nLowlands Club 1",
+      "away": "The Hurlingham Club 1\n18:30\nLowlands Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 15/06/2026"
+    },
+    {
+      "home": "Tue 16/06/2026\nWayfarers LTC 1\n8\n-\n16\nVirgin Active Chiswick Riverside 1",
+      "away": "Wayfarers LTC 1\n8\n-\n16\nVirgin Active Chiswick Riverside 1",
+      "hs": 816,
+      "as": null,
+      "date": "Tue 16/06/2026"
+    },
+    {
+      "home": "Thu 18/06/2026\nPinner Lawn Tennis Club 1\n10\n-\n14\nWayfarers LTC 1",
+      "away": "Pinner Lawn Tennis Club 1\n10\n-\n14\nWayfarers LTC 1",
+      "hs": 1014,
+      "as": null,
+      "date": "Thu 18/06/2026"
+    },
+    {
+      "home": "Thu 18/06/2026\nPaddington Sports Club 1\n16\n-\n8\nDavid Lloyd Club Acton Park 1",
+      "away": "Paddington Sports Club 1\n16\n-\n8\nDavid Lloyd Club Acton Park 1",
+      "hs": 168,
+      "as": null,
+      "date": "Thu 18/06/2026"
+    },
+    {
+      "home": "Fri 19/06/2026\nVirgin Active Chiswick Riverside 1\n18\n-\n6\nTeddington Lawn Tennis Club 2",
+      "away": "Virgin Active Chiswick Riverside 1\n18\n-\n6\nTeddington Lawn Tennis Club 2",
+      "hs": 186,
+      "as": null,
+      "date": "Fri 19/06/2026"
+    },
+    {
+      "home": "Mon 29/06/2026\nTeddington Lawn Tennis Club 2\n18:30\nPinner Lawn Tennis Club 1",
+      "away": "Teddington Lawn Tennis Club 2\n18:30\nPinner Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 29/06/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nDavid Lloyd Club Acton Park 1\n18:30\nVirgin Active Chiswick Riverside 1",
+      "away": "David Lloyd Club Acton Park 1\n18:30\nVirgin Active Chiswick Riverside 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Mon 06/07/2026\nWayfarers LTC 1\n18:30\nThe Hurlingham Club 1",
+      "away": "Wayfarers LTC 1\n18:30\nThe Hurlingham Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 06/07/2026"
+    },
+    {
+      "home": "Tue 07/07/2026\nLowlands Club 1\n18:30\nPaddington Sports Club 1",
+      "away": "Lowlands Club 1\n18:30\nPaddington Sports Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 07/07/2026"
+    },
+    {
+      "home": "Mon 13/07/2026\nVirgin Active Chiswick Riverside 1\n18:30\nLowlands Club 1",
+      "away": "Virgin Active Chiswick Riverside 1\n18:30\nLowlands Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 13/07/2026"
+    },
+    {
+      "home": "Tue 14/07/2026\nThe Hurlingham Club 1\n18:30\nPaddington Sports Club 1",
+      "away": "The Hurlingham Club 1\n18:30\nPaddington Sports Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 14/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nPinner Lawn Tennis Club 1\n18:30\nDavid Lloyd Club Acton Park 1",
+      "away": "Pinner Lawn Tennis Club 1\n18:30\nDavid Lloyd Club Acton Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Mon 20/07/2026\nWayfarers LTC 1\n18:30\nTeddington Lawn Tennis Club 2",
+      "away": "Wayfarers LTC 1\n18:30\nTeddington Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Mon 20/07/2026"
+    },
+    {
+      "home": "Tue 21/07/2026\nPaddington Sports Club 1\n18:30\nVirgin Active Chiswick Riverside 1",
+      "away": "Paddington Sports Club 1\n18:30\nVirgin Active Chiswick Riverside 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 21/07/2026"
+    },
+    {
+      "home": "Mon 27/07/2026\nDavid Lloyd Club Acton Park 1\n18:30\nWayfarers LTC 1",
+      "away": "David Lloyd Club Acton Park 1\n18:30\nWayfarers LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 27/07/2026"
+    },
+    {
+      "home": "Mon 27/07/2026\nTeddington Lawn Tennis Club 2\n18:30\nThe Hurlingham Club 1",
+      "away": "Teddington Lawn Tennis Club 2\n18:30\nThe Hurlingham Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 27/07/2026"
+    },
+    {
+      "home": "Thu 06/08/2026\nLowlands Club 1\n18:30\nPinner Lawn Tennis Club 1",
+      "away": "Lowlands Club 1\n18:30\nPinner Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 06/08/2026"
+    }
+  ]
+}

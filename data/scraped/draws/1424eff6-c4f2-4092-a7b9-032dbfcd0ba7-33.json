@@ -1,0 +1,40 @@
+{
+  "drawId": "1424eff6-c4f2-4092-a7b9-032dbfcd0ba7-33",
+  "competitionId": "1424eff6-c4f2-4092-a7b9-032dbfcd0ba7",
+  "competitionName": "18 & Under Boys\n \u2013 18&U Boys              \u2013 South East North play off final",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/1424EFF6-C4F2-4092-A7B9-032DBFCD0BA7/draw/33",
+  "scrapedAt": "2026-06-26T15:52:54.993974+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 27/06/2026\nEaling Lawn Tennis Club 1\n-\nCambridge Lawn Tennis Club 1",
+      "away": "Ealing Lawn Tennis Club 1\n-\nCambridge Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 27/06/2026"
+    }
+  ]
+}

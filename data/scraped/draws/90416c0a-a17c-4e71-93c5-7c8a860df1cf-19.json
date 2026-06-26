@@ -1,0 +1,230 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-19",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Mens Doubles \n \u2013 West Division 10              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/19",
+  "scrapedAt": "2026-06-26T19:07:45.334362+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 58,
+      "rubbers": "58-14",
+      "points": 297
+    },
+    {
+      "rank": 2,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 42,
+      "rubbers": "42-6",
+      "points": 213
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 32,
+      "rubbers": "32-40",
+      "points": 1620
+    },
+    {
+      "rank": 4,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 30,
+      "rubbers": "30-18",
+      "points": 159
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 6,
+      "rubbers": "6-66",
+      "points": 333
+    },
+    {
+      "rank": 6,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "0-24",
+      "points": 12
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Tue 05/05/2026\nGunnersbury Triangle Club 4\n0\n-\n24\nElthorne Tennis 2",
+      "away": "Gunnersbury Triangle Club 4\n0\n-\n24\nElthorne Tennis 2",
+      "hs": 24,
+      "as": null,
+      "date": "Tue 05/05/2026"
+    },
+    {
+      "home": "Wed 06/05/2026\nTwickenham Lawn Tennis Club 5\n6\n-\n18\nOld Actonians Association Tennis Club 3",
+      "away": "Twickenham Lawn Tennis Club 5\n6\n-\n18\nOld Actonians Association Tennis Club 3",
+      "hs": 618,
+      "as": null,
+      "date": "Wed 06/05/2026"
+    },
+    {
+      "home": "Tue 19/05/2026\nWycombe House 3\n18:30\nThistleworth LTC 5",
+      "away": "Wycombe House 3\n18:30\nThistleworth LTC 5",
+      "hs": null,
+      "as": null,
+      "date": "Tue 19/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nVirgin Active Chiswick Riverside 4\n22\n-\n2\nTwickenham Lawn Tennis Club 5",
+      "away": "Virgin Active Chiswick Riverside 4\n22\n-\n2\nTwickenham Lawn Tennis Club 5",
+      "hs": 222,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nOld Actonians Association Tennis Club 3\n22\n-\n2\nGunnersbury Triangle Club 4",
+      "away": "Old Actonians Association Tennis Club 3\n22\n-\n2\nGunnersbury Triangle Club 4",
+      "hs": 222,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Mon 01/06/2026\nUnknown player\nGunnersbury Triangle Club 4\n4\n-\n20\nVirgin Active Chiswick Riverside 4",
+      "away": "Gunnersbury Triangle Club 4\n4\n-\n20\nVirgin Active Chiswick Riverside 4",
+      "hs": 420,
+      "as": null,
+      "date": "Mon 01/06/2026"
+    },
+    {
+      "home": "Thu 11/06/2026\nTwickenham Lawn Tennis Club 5\n18:30\nWycombe House 3",
+      "away": "Twickenham Lawn Tennis Club 5\n18:30\nWycombe House 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 11/06/2026"
+    },
+    {
+      "home": "Tue 16/06/2026\nWycombe House 3\n18:30\nGunnersbury Triangle Club 4",
+      "away": "Wycombe House 3\n18:30\nGunnersbury Triangle Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Tue 16/06/2026"
+    },
+    {
+      "home": "Thu 18/06/2026\nElthorne Tennis 2\n6\n-\n18\nOld Actonians Association Tennis Club 3",
+      "away": "Elthorne Tennis 2\n6\n-\n18\nOld Actonians Association Tennis Club 3",
+      "hs": 618,
+      "as": null,
+      "date": "Thu 18/06/2026"
+    },
+    {
+      "home": "Tue 23/06/2026\nVirgin Active Chiswick Riverside 4\n18:30\nElthorne Tennis 2",
+      "away": "Virgin Active Chiswick Riverside 4\n18:30\nElthorne Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 23/06/2026"
+    },
+    {
+      "home": "Wed 24/06/2026\nThistleworth LTC 5\n0\n-\n24\nTwickenham Lawn Tennis Club 5",
+      "away": "Thistleworth LTC 5\n0\n-\n24\nTwickenham Lawn Tennis Club 5",
+      "hs": 24,
+      "as": null,
+      "date": "Wed 24/06/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nElthorne Tennis 2\n18:30\nWycombe House 3",
+      "away": "Elthorne Tennis 2\n18:30\nWycombe House 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nOld Actonians Association Tennis Club 3\n18:30\nVirgin Active Chiswick Riverside 4",
+      "away": "Old Actonians Association Tennis Club 3\n18:30\nVirgin Active Chiswick Riverside 4",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Tue 07/07/2026\nGunnersbury Triangle Club 4\n18:30\nThistleworth LTC 5",
+      "away": "Gunnersbury Triangle Club 4\n18:30\nThistleworth LTC 5",
+      "hs": null,
+      "as": null,
+      "date": "Tue 07/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nWycombe House 3\n18:30\nOld Actonians Association Tennis Club 3",
+      "away": "Wycombe House 3\n18:30\nOld Actonians Association Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Wed 22/07/2026\nThistleworth LTC 5\n18:30\nElthorne Tennis 2",
+      "away": "Thistleworth LTC 5\n18:30\nElthorne Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Wed 22/07/2026"
+    },
+    {
+      "home": "Thu 23/07/2026\nTwickenham Lawn Tennis Club 5\n18:30\nGunnersbury Triangle Club 4",
+      "away": "Twickenham Lawn Tennis Club 5\n18:30\nGunnersbury Triangle Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Thu 23/07/2026"
+    },
+    {
+      "home": "Mon 27/07/2026\nVirgin Active Chiswick Riverside 4\n18:30\nWycombe House 3",
+      "away": "Virgin Active Chiswick Riverside 4\n18:30\nWycombe House 3",
+      "hs": null,
+      "as": null,
+      "date": "Mon 27/07/2026"
+    },
+    {
+      "home": "Mon 27/07/2026\nThistleworth LTC 5\n18:30\nVirgin Active Chiswick Riverside 4",
+      "away": "Thistleworth LTC 5\n18:30\nVirgin Active Chiswick Riverside 4",
+      "hs": null,
+      "as": null,
+      "date": "Mon 27/07/2026"
+    },
+    {
+      "home": "Thu 06/08/2026\nOld Actonians Association Tennis Club 3\n18:30\nThistleworth LTC 5",
+      "away": "Old Actonians Association Tennis Club 3\n18:30\nThistleworth LTC 5",
+      "hs": null,
+      "as": null,
+      "date": "Thu 06/08/2026"
+    },
+    {
+      "home": "Fri 07/08/2026\nElthorne Tennis 2\n18:30\nTwickenham Lawn Tennis Club 5",
+      "away": "Elthorne Tennis 2\n18:30\nTwickenham Lawn Tennis Club 5",
+      "hs": null,
+      "as": null,
+      "date": "Fri 07/08/2026"
+    }
+  ]
+}

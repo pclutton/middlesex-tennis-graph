@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-14",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Mens Doubles \n \u2013 West Division 5              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/14",
+  "scrapedAt": "2026-06-26T14:26:23.865698+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 68,
+      "rubbers": "68-28",
+      "points": 3414
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 62,
+      "rubbers": "62-34",
+      "points": 3117
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 58,
+      "rubbers": "58-38",
+      "points": 2919
+    },
+    {
+      "rank": 4,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 47,
+      "rubbers": "47-49",
+      "points": 2124
+    },
+    {
+      "rank": 5,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 40,
+      "rubbers": "40-8",
+      "points": 204
+    },
+    {
+      "rank": 6,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 39,
+      "rubbers": "39-57",
+      "points": 1928
+    },
+    {
+      "rank": 7,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 18,
+      "rubbers": "18-54",
+      "points": 925
+    },
+    {
+      "rank": 8,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 4,
+      "rubbers": "4-68",
+      "points": 234
+    }
+  ],
+  "matches": [
+    {
+      "home": "Mon 27/04/2026\nBrentham Lawn Tennis Club 3\n16\n-\n8\nTwickenham Lawn Tennis Club 2",
+      "away": "Brentham Lawn Tennis Club 3\n16\n-\n8\nTwickenham Lawn Tennis Club 2",
+      "hs": 168,
+      "as": null,
+      "date": "Mon 27/04/2026"
+    },
+    {
+      "home": "Thu 30/04/2026\nGunnersbury Triangle Club 1\n24\n-\n0\nWycombe House 2",
+      "away": "Gunnersbury Triangle Club 1\n24\n-\n0\nWycombe House 2",
+      "hs": 240,
+      "as": null,
+      "date": "Thu 30/04/2026"
+    },
+    {
+      "home": "Mon 11/05/2026\nHartswood Lawn Tennis Club Ltd 1\n16\n-\n8\nThistleworth LTC 2",
+      "away": "Hartswood Lawn Tennis Club Ltd 1\n16\n-\n8\nThistleworth LTC 2",
+      "hs": 168,
+      "as": null,
+      "date": "Mon 11/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nAdmin modified\nTwickenham Lawn Tennis Club 2\n20\n-\n4\nChiswick Tennis Club 1",
+      "away": "Twickenham Lawn Tennis Club 2\n20\n-\n4\nChiswick Tennis Club 1",
+      "hs": 204,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Tue 19/05/2026\nGunnersbury Triangle Club 1\n14\n-\n10\nBrentham Lawn Tennis Club 3",
+      "away": "Gunnersbury Triangle Club 1\n14\n-\n10\nBrentham Lawn Tennis Club 3",
+      "hs": 1410,
+      "as": null,
+      "date": "Tue 19/05/2026"
+    },
+    {
+      "home": "Tue 26/05/2026\nWycombe House 2\n2\n-\n22\nThistleworth LTC 2",
+      "away": "Wycombe House 2\n2\n-\n22\nThistleworth LTC 2",
+      "hs": 222,
+      "as": null,
+      "date": "Tue 26/05/2026"
+    },
+    {
+      "home": "Mon 01/06/2026\nBrentham Lawn Tennis Club 3\n22\n-\n2\nWycombe House 2",
+      "away": "Brentham Lawn Tennis Club 3\n22\n-\n2\nWycombe House 2",
+      "hs": 222,
+      "as": null,
+      "date": "Mon 01/06/2026"
+    },
+    {
+      "home": "Thu 04/06/2026\nChiswick Tennis Club 1\n4\n-\n20\nGunnersbury Triangle Club 1",
+      "away": "Chiswick Tennis Club 1\n4\n-\n20\nGunnersbury Triangle Club 1",
+      "hs": 420,
+      "as": null,
+      "date": "Thu 04/06/2026"
+    },
+    {
+      "home": "Tue 09/06/2026\nThistleworth LTC 2\n2\n-\n22\nDavid Lloyd Club Hampton 1",
+      "away": "Thistleworth LTC 2\n2\n-\n22\nDavid Lloyd Club Hampton 1",
+      "hs": 222,
+      "as": null,
+      "date": "Tue 09/06/2026"
+    },
+    {
+      "home": "Wed 10/06/2026\nHartswood Lawn Tennis Club Ltd 1\n22\n-\n2\nTwickenham Lawn Tennis Club 2",
+      "away": "Hartswood Lawn Tennis Club Ltd 1\n22\n-\n2\nTwickenham Lawn Tennis Club 2",
+      "hs": 222,
+      "as": null,
+      "date": "Wed 10/06/2026"
+    },
+    {
+      "home": "Mon 15/06/2026\nAdmin modified\nTwickenham Lawn Tennis Club 2\n17\n-\n7\nThistleworth LTC 2",
+      "away": "Twickenham Lawn Tennis Club 2\n17\n-\n7\nThistleworth LTC 2",
+      "hs": 177,
+      "as": null,
+      "date": "Mon 15/06/2026"
+    },
+    {
+      "home": "Tue 16/06/2026\nDavid Lloyd Club Hampton 1\n18\n-\n6\nHartswood Lawn Tennis Club Ltd 1",
+      "away": "David Lloyd Club Hampton 1\n18\n-\n6\nHartswood Lawn Tennis Club Ltd 1",
+      "hs": 186,
+      "as": null,
+      "date": "Tue 16/06/2026"
+    },
+    {
+      "home": "Mon 22/06/2026\nGunnersbury Triangle Club 1\n10\n-\n14\nHartswood Lawn Tennis Club Ltd 1",
+      "away": "Gunnersbury Triangle Club 1\n10\n-\n14\nHartswood Lawn Tennis Club Ltd 1",
+      "hs": 1014,
+      "as": null,
+      "date": "Mon 22/06/2026"
+    },
+    {
+      "home": "Mon 22/06/2026\nBrentham Lawn Tennis Club 3\n14\n-\n10\nChiswick Tennis Club 1",
+      "away": "Brentham Lawn Tennis Club 3\n14\n-\n10\nChiswick Tennis Club 1",
+      "hs": 1410,
+      "as": null,
+      "date": "Mon 22/06/2026"
+    },
+    {
+      "home": "Tue 23/06/2026\nWycombe House 2\n18:30\nDavid Lloyd Club Hampton 1",
+      "away": "Wycombe House 2\n18:30\nDavid Lloyd Club Hampton 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 23/06/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nChiswick Tennis Club 1\n18:30\nWycombe House 2",
+      "away": "Chiswick Tennis Club 1\n18:30\nWycombe House 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Mon 06/07/2026\nDavid Lloyd Club Hampton 1\n18:30\nTwickenham Lawn Tennis Club 2",
+      "away": "David Lloyd Club Hampton 1\n18:30\nTwickenham Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Mon 06/07/2026"
+    },
+    {
+      "home": "Tue 07/07/2026\nThistleworth LTC 2\n18:30\nGunnersbury Triangle Club 1",
+      "away": "Thistleworth LTC 2\n18:30\nGunnersbury Triangle Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 07/07/2026"
+    },
+    {
+      "home": "Thu 09/07/2026\nHartswood Lawn Tennis Club Ltd 1\n18:30\nBrentham Lawn Tennis Club 3",
+      "away": "Hartswood Lawn Tennis Club Ltd 1\n18:30\nBrentham Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 09/07/2026"
+    },
+    {
+      "home": "Thu 09/07/2026\nPostponed\nChiswick Tennis Club 1\n18:30\nDavid Lloyd Club Hampton 1",
+      "away": "Chiswick Tennis Club 1\n18:30\nDavid Lloyd Club Hampton 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 09/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nChiswick Tennis Club 1\n18:30\nHartswood Lawn Tennis Club Ltd 1",
+      "away": "Chiswick Tennis Club 1\n18:30\nHartswood Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nGunnersbury Triangle Club 1\n18:30\nDavid Lloyd Club Hampton 1",
+      "away": "Gunnersbury Triangle Club 1\n18:30\nDavid Lloyd Club Hampton 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Fri 17/07/2026\nBrentham Lawn Tennis Club 3\n18:30\nThistleworth LTC 2",
+      "away": "Brentham Lawn Tennis Club 3\n18:30\nThistleworth LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 17/07/2026"
+    },
+    {
+      "home": "Tue 21/07/2026\nWycombe House 2\n18:30\nTwickenham Lawn Tennis Club 2",
+      "away": "Wycombe House 2\n18:30\nTwickenham Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 21/07/2026"
+    },
+    {
+      "home": "Mon 27/07/2026\nTwickenham Lawn Tennis Club 2\n18:30\nGunnersbury Triangle Club 1",
+      "away": "Twickenham Lawn Tennis Club 2\n18:30\nGunnersbury Triangle Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 27/07/2026"
+    },
+    {
+      "home": "Fri 31/07/2026\nHartswood Lawn Tennis Club Ltd 1\n18:30\nWycombe House 2",
+      "away": "Hartswood Lawn Tennis Club Ltd 1\n18:30\nWycombe House 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 31/07/2026"
+    },
+    {
+      "home": "Tue 04/08/2026\nThistleworth LTC 2\n18:30\nChiswick Tennis Club 1",
+      "away": "Thistleworth LTC 2\n18:30\nChiswick Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 04/08/2026"
+    },
+    {
+      "home": "Tue 04/08/2026\nDavid Lloyd Club Hampton 1\n18:30\nBrentham Lawn Tennis Club 3",
+      "away": "David Lloyd Club Hampton 1\n18:30\nBrentham Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 04/08/2026"
+    }
+  ]
+}

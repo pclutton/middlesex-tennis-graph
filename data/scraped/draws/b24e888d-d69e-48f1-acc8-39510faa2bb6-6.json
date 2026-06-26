@@ -1,0 +1,203 @@
+{
+  "drawId": "b24e888d-d69e-48f1-acc8-39510faa2bb6-6",
+  "competitionId": "b24e888d-d69e-48f1-acc8-39510faa2bb6",
+  "competitionName": "40O Mixed League\n \u2013 Division 3              \u2013 Division 3 West",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B24E888D-D69E-48F1-ACC8-39510FAA2BB6/draw/6",
+  "scrapedAt": "2026-06-26T15:49:47.376349+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 30,
+      "rubbers": "30-2",
+      "points": 151
+    },
+    {
+      "rank": 2,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 16,
+      "rubbers": "16-16",
+      "points": 88
+    },
+    {
+      "rank": 3,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 14,
+      "rubbers": "14-18",
+      "points": 79
+    },
+    {
+      "rank": 4,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 4,
+      "rubbers": "4-28",
+      "points": 214
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 19/04/2026\nThe Parsons Green Club 1\n16\n-\n0\nThistleworth LTC 2",
+      "away": "The Parsons Green Club 1\n16\n-\n0\nThistleworth LTC 2",
+      "hs": 160,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nHartswood Lawn Tennis Club Ltd 2\n12\n-\n4\nWayfarers LTC 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 2\n12\n-\n4\nWayfarers LTC 1",
+      "hs": 124,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 12/07/2026\nDavid Lloyd Club Sudbury Hill 1\n10:30\nHartswood Lawn Tennis Club Ltd 2",
+      "away": "David Lloyd Club Sudbury Hill 1\n10:30\nHartswood Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 12/07/2026"
+    },
+    {
+      "home": "Sun 23/08/2026\nWayfarers LTC 1\n11:00\nThe Parsons Green Club 1",
+      "away": "Wayfarers LTC 1\n11:00\nThe Parsons Green Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 23/08/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nThistleworth LTC 2\n4\n-\n12\nWayfarers LTC 1",
+      "away": "Thistleworth LTC 2\n4\n-\n12\nWayfarers LTC 1",
+      "hs": 412,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nThe Parsons Green Club 1\n10:30\nDavid Lloyd Club Sudbury Hill 1",
+      "away": "The Parsons Green Club 1\n10:30\nDavid Lloyd Club Sudbury Hill 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nPostponed\nDavid Lloyd Club Sudbury Hill 1\n-\nThistleworth LTC 2",
+      "away": "David Lloyd Club Sudbury Hill 1\n-\nThistleworth LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nHartswood Lawn Tennis Club Ltd 2\n2\n-\n14\nThe Parsons Green Club 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 2\n2\n-\n14\nThe Parsons Green Club 1",
+      "hs": 214,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nThistleworth LTC 2\n-\nHartswood Lawn Tennis Club Ltd 2",
+      "away": "Thistleworth LTC 2\n-\nHartswood Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nWayfarers LTC 1\n13:00\nDavid Lloyd Club Sudbury Hill 1",
+      "away": "Wayfarers LTC 1\n13:00\nDavid Lloyd Club Sudbury Hill 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nThistleworth LTC 2\n12:30\nThe Parsons Green Club 1",
+      "away": "Thistleworth LTC 2\n12:30\nThe Parsons Green Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nWayfarers LTC 1\n13:00\nHartswood Lawn Tennis Club Ltd 2",
+      "away": "Wayfarers LTC 1\n13:00\nHartswood Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nHartswood Lawn Tennis Club Ltd 2\n10:30\nDavid Lloyd Club Sudbury Hill 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 2\n10:30\nDavid Lloyd Club Sudbury Hill 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sun 02/08/2026\nThe Parsons Green Club 1\n11:00\nWayfarers LTC 1",
+      "away": "The Parsons Green Club 1\n11:00\nWayfarers LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 02/08/2026"
+    },
+    {
+      "home": "Sun 26/07/2026\nDavid Lloyd Club Sudbury Hill 1\n-\nThe Parsons Green Club 1",
+      "away": "David Lloyd Club Sudbury Hill 1\n-\nThe Parsons Green Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 26/07/2026"
+    },
+    {
+      "home": "Sun 26/07/2026\nWayfarers LTC 1\n13:00\nThistleworth LTC 2",
+      "away": "Wayfarers LTC 1\n13:00\nThistleworth LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 26/07/2026"
+    },
+    {
+      "home": "Sun 09/08/2026\nThistleworth LTC 2\n-\nDavid Lloyd Club Sudbury Hill 1",
+      "away": "Thistleworth LTC 2\n-\nDavid Lloyd Club Sudbury Hill 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 09/08/2026"
+    },
+    {
+      "home": "Sun 09/08/2026\nThe Parsons Green Club 1\n10:30\nHartswood Lawn Tennis Club Ltd 2",
+      "away": "The Parsons Green Club 1\n10:30\nHartswood Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 09/08/2026"
+    },
+    {
+      "home": "Sun 19/07/2026\nHartswood Lawn Tennis Club Ltd 2\n10:30\nThistleworth LTC 2",
+      "away": "Hartswood Lawn Tennis Club Ltd 2\n10:30\nThistleworth LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/07/2026"
+    },
+    {
+      "home": "Sun 19/07/2026\nDavid Lloyd Club Sudbury Hill 1\n12:30\nWayfarers LTC 1",
+      "away": "David Lloyd Club Sudbury Hill 1\n12:30\nWayfarers LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/07/2026"
+    }
+  ]
+}

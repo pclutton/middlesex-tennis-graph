@@ -1,0 +1,133 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-23",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "12&U Boys Division 1\n \u2013 12&U Boys Division 1              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/23",
+  "scrapedAt": "2026-06-26T15:41:00.063525+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 4,
+      "rubbers": "22-2",
+      "points": 234
+    },
+    {
+      "rank": 2,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "10-14",
+      "points": 1316
+    },
+    {
+      "rank": 3,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "4-8",
+      "points": 59
+    },
+    {
+      "rank": 4,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "0-12",
+      "points": 12
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 25/04/2026\nCumberland Lawn Tennis Club & Hampstead Cricket 1\n10\n-\n2\nHackney Tennis 1",
+      "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1\n10\n-\n2\nHackney Tennis 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sat 25/04/2026\nVirgin Active Chiswick Riverside 1\n13:30\nDavid Lloyd Club Finchley 1",
+      "away": "Virgin Active Chiswick Riverside 1\n13:30\nDavid Lloyd Club Finchley 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sat 02/05/2026\nCoolhurst LTC 1\n12:00\nVirgin Active Chiswick Riverside 1",
+      "away": "Coolhurst LTC 1\n12:00\nVirgin Active Chiswick Riverside 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 02/05/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nDavid Lloyd Club Finchley 1\n4\n-\n8\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "away": "David Lloyd Club Finchley 1\n4\n-\n8\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sat 23/05/2026\nCumberland Lawn Tennis Club & Hampstead Cricket 1\n12\n-\n0\nCoolhurst LTC 1",
+      "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1\n12\n-\n0\nCoolhurst LTC 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sat 23/05/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nHackney Tennis 1\n13:00\nDavid Lloyd Club Finchley 1",
+      "away": "Hackney Tennis 1\n13:00\nDavid Lloyd Club Finchley 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sat 06/06/2026\nCoolhurst LTC 1\n-\nHackney Tennis 1",
+      "away": "Coolhurst LTC 1\n-\nHackney Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 06/06/2026"
+    },
+    {
+      "home": "Sat 06/06/2026\nVirgin Active Chiswick Riverside 1\n13:30\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "away": "Virgin Active Chiswick Riverside 1\n13:30\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 06/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nUnknown player\nHackney Tennis 1\n8\n-\n4\nVirgin Active Chiswick Riverside 1",
+      "away": "Hackney Tennis 1\n8\n-\n4\nVirgin Active Chiswick Riverside 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nDavid Lloyd Club Finchley 1\n13:00\nCoolhurst LTC 1",
+      "away": "David Lloyd Club Finchley 1\n13:00\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    }
+  ]
+}

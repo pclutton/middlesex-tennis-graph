@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-6",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Mens Doubles \n \u2013 West Premier              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/6",
+  "scrapedAt": "2026-06-26T14:30:58.786507+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 59,
+      "rubbers": "59-37",
+      "points": 2214
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 47,
+      "rubbers": "47-49",
+      "points": 1917
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 1,
+      "won": 1,
+      "drawn": 2,
+      "lost": 44,
+      "rubbers": "44-52",
+      "points": 2226
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 42,
+      "rubbers": "42-30",
+      "points": 2115
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 40,
+      "rubbers": "40-24",
+      "points": 2012
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 26,
+      "rubbers": "26-38",
+      "points": 1319
+    },
+    {
+      "rank": 7,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 24,
+      "rubbers": "24-48",
+      "points": 1224
+    },
+    {
+      "rank": 8,
+      "name": "2",
+      "played": 0,
+      "won": 1,
+      "drawn": 1,
+      "lost": 22,
+      "rubbers": "22-26",
+      "points": 1113
+    }
+  ],
+  "matches": [
+    {
+      "home": "Tue 05/05/2026\nThe Hurlingham Club 1\n12\n-\n12\nTeddington Lawn Tennis Club 1",
+      "away": "The Hurlingham Club 1\n12\n-\n12\nTeddington Lawn Tennis Club 1",
+      "hs": 1212,
+      "as": null,
+      "date": "Tue 05/05/2026"
+    },
+    {
+      "home": "Thu 07/05/2026\nHolland Park Lawn Tennis Club 1\n14\n-\n10\nThe Queens Club Limited 1",
+      "away": "Holland Park Lawn Tennis Club 1\n14\n-\n10\nThe Queens Club Limited 1",
+      "hs": 1410,
+      "as": null,
+      "date": "Thu 07/05/2026"
+    },
+    {
+      "home": "Mon 11/05/2026\nPinner Lawn Tennis Club 1\n10\n-\n14\nEaling Lawn Tennis Club 1",
+      "away": "Pinner Lawn Tennis Club 1\n10\n-\n14\nEaling Lawn Tennis Club 1",
+      "hs": 1014,
+      "as": null,
+      "date": "Mon 11/05/2026"
+    },
+    {
+      "home": "Fri 15/05/2026\nCampden Hill Lawn Tennis Club 2\n14\n-\n10\nCampden Hill Lawn Tennis Club 1",
+      "away": "Campden Hill Lawn Tennis Club 2\n14\n-\n10\nCampden Hill Lawn Tennis Club 1",
+      "hs": 1410,
+      "as": null,
+      "date": "Fri 15/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nEaling Lawn Tennis Club 1\n14\n-\n10\nThe Hurlingham Club 1",
+      "away": "Ealing Lawn Tennis Club 1\n14\n-\n10\nThe Hurlingham Club 1",
+      "hs": 1410,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nAdmin modified\nThe Queens Club Limited 1\n15\n-\n9\nCampden Hill Lawn Tennis Club 1",
+      "away": "The Queens Club Limited 1\n15\n-\n9\nCampden Hill Lawn Tennis Club 1",
+      "hs": 159,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Thu 28/05/2026\nHolland Park Lawn Tennis Club 1\n16\n-\n8\nPinner Lawn Tennis Club 1",
+      "away": "Holland Park Lawn Tennis Club 1\n16\n-\n8\nPinner Lawn Tennis Club 1",
+      "hs": 168,
+      "as": null,
+      "date": "Thu 28/05/2026"
+    },
+    {
+      "home": "Fri 29/05/2026\nTeddington Lawn Tennis Club 1\n18\n-\n6\nCampden Hill Lawn Tennis Club 2",
+      "away": "Teddington Lawn Tennis Club 1\n18\n-\n6\nCampden Hill Lawn Tennis Club 2",
+      "hs": 186,
+      "as": null,
+      "date": "Fri 29/05/2026"
+    },
+    {
+      "home": "Mon 08/06/2026\nUnknown player\nPinner Lawn Tennis Club 1\n6\n-\n18\nThe Queens Club Limited 1",
+      "away": "Pinner Lawn Tennis Club 1\n6\n-\n18\nThe Queens Club Limited 1",
+      "hs": 618,
+      "as": null,
+      "date": "Mon 08/06/2026"
+    },
+    {
+      "home": "Tue 09/06/2026\nUnknown player\nCampden Hill Lawn Tennis Club 1\n18\n-\n6\nTeddington Lawn Tennis Club 1",
+      "away": "Campden Hill Lawn Tennis Club 1\n18\n-\n6\nTeddington Lawn Tennis Club 1",
+      "hs": 186,
+      "as": null,
+      "date": "Tue 09/06/2026"
+    },
+    {
+      "home": "Tue 16/06/2026\nUnknown player\nThe Queens Club Limited 1\n16\n-\n8\nTeddington Lawn Tennis Club 1",
+      "away": "The Queens Club Limited 1\n16\n-\n8\nTeddington Lawn Tennis Club 1",
+      "hs": 168,
+      "as": null,
+      "date": "Tue 16/06/2026"
+    },
+    {
+      "home": "Tue 23/06/2026\nEaling Lawn Tennis Club 1\n14\n-\n10\nCampden Hill Lawn Tennis Club 1",
+      "away": "Ealing Lawn Tennis Club 1\n14\n-\n10\nCampden Hill Lawn Tennis Club 1",
+      "hs": 1410,
+      "as": null,
+      "date": "Tue 23/06/2026"
+    },
+    {
+      "home": "Tue 23/06/2026\nUnknown player\nHolland Park Lawn Tennis Club 1\n10\n-\n6\nCampden Hill Lawn Tennis Club 2",
+      "away": "Holland Park Lawn Tennis Club 1\n10\n-\n6\nCampden Hill Lawn Tennis Club 2",
+      "hs": 106,
+      "as": null,
+      "date": "Tue 23/06/2026"
+    },
+    {
+      "home": "Thu 25/06/2026\nPinner Lawn Tennis Club 1\n18:30\nThe Hurlingham Club 1",
+      "away": "Pinner Lawn Tennis Club 1\n18:30\nThe Hurlingham Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 25/06/2026"
+    },
+    {
+      "home": "Mon 29/06/2026\nPostponed\nCampden Hill Lawn Tennis Club 2\n18:30\nEaling Lawn Tennis Club 1",
+      "away": "Campden Hill Lawn Tennis Club 2\n18:30\nEaling Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 29/06/2026"
+    },
+    {
+      "home": "Tue 07/07/2026\nThe Hurlingham Club 1\n18:30\nThe Queens Club Limited 1",
+      "away": "The Hurlingham Club 1\n18:30\nThe Queens Club Limited 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 07/07/2026"
+    },
+    {
+      "home": "Tue 07/07/2026\nCampden Hill Lawn Tennis Club 1\n18:30\nHolland Park Lawn Tennis Club 1",
+      "away": "Campden Hill Lawn Tennis Club 1\n18:30\nHolland Park Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 07/07/2026"
+    },
+    {
+      "home": "Wed 08/07/2026\nCampden Hill Lawn Tennis Club 2\n18:30\nPinner Lawn Tennis Club 1",
+      "away": "Campden Hill Lawn Tennis Club 2\n18:30\nPinner Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 08/07/2026"
+    },
+    {
+      "home": "Fri 10/07/2026\nTeddington Lawn Tennis Club 1\n18:30\nEaling Lawn Tennis Club 1",
+      "away": "Teddington Lawn Tennis Club 1\n18:30\nEaling Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 10/07/2026"
+    },
+    {
+      "home": "Tue 14/07/2026\nCampden Hill Lawn Tennis Club 1\n18:30\nThe Hurlingham Club 1",
+      "away": "Campden Hill Lawn Tennis Club 1\n18:30\nThe Hurlingham Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 14/07/2026"
+    },
+    {
+      "home": "Tue 21/07/2026\nPinner Lawn Tennis Club 1\n18:30\nCampden Hill Lawn Tennis Club 1",
+      "away": "Pinner Lawn Tennis Club 1\n18:30\nCampden Hill Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 21/07/2026"
+    },
+    {
+      "home": "Thu 23/07/2026\nThe Hurlingham Club 1\n18:30\nCampden Hill Lawn Tennis Club 2",
+      "away": "The Hurlingham Club 1\n18:30\nCampden Hill Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 23/07/2026"
+    },
+    {
+      "home": "Thu 23/07/2026\nHolland Park Lawn Tennis Club 1\n18:30\nTeddington Lawn Tennis Club 1",
+      "away": "Holland Park Lawn Tennis Club 1\n18:30\nTeddington Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 23/07/2026"
+    },
+    {
+      "home": "Fri 24/07/2026\nThe Queens Club Limited 1\n18:30\nEaling Lawn Tennis Club 1",
+      "away": "The Queens Club Limited 1\n18:30\nEaling Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 24/07/2026"
+    },
+    {
+      "home": "Tue 28/07/2026\nEaling Lawn Tennis Club 1\n18:30\nHolland Park Lawn Tennis Club 1",
+      "away": "Ealing Lawn Tennis Club 1\n18:30\nHolland Park Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 28/07/2026"
+    },
+    {
+      "home": "Wed 29/07/2026\nThe Hurlingham Club 1\n18:30\nHolland Park Lawn Tennis Club 1",
+      "away": "The Hurlingham Club 1\n18:30\nHolland Park Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 29/07/2026"
+    },
+    {
+      "home": "Fri 31/07/2026\nTeddington Lawn Tennis Club 1\n18:30\nPinner Lawn Tennis Club 1",
+      "away": "Teddington Lawn Tennis Club 1\n18:30\nPinner Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 31/07/2026"
+    },
+    {
+      "home": "Mon 03/08/2026\nCampden Hill Lawn Tennis Club 2\n18:30\nThe Queens Club Limited 1",
+      "away": "Campden Hill Lawn Tennis Club 2\n18:30\nThe Queens Club Limited 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 03/08/2026"
+    }
+  ]
+}

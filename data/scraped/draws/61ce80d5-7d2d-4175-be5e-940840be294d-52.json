@@ -1,0 +1,178 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-52",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "14&U Boys Division 2\n \u2013 14&U Boys Division 2              \u2013 Group 6",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/52",
+  "scrapedAt": "2026-06-26T14:21:57.774852+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 8,
+      "rubbers": "38-10",
+      "points": 4013
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "22-14",
+      "points": 2616
+    },
+    {
+      "rank": 3,
+      "name": "1",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 2,
+      "rubbers": "12-0",
+      "points": 122
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "16-20",
+      "points": 1721
+    },
+    {
+      "rank": 5,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 0,
+      "rubbers": "2-22",
+      "points": 222
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 0,
+      "rubbers": "6-30",
+      "points": 932
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 10/05/2026\nVicars Moor LTC 1\n-\nPavilion Tennis 1",
+      "away": "Vicars Moor LTC 1\n-\nPavilion Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nConway Lawn Tennis Club 1\n8\n-\n4\nBroomfield Park 1",
+      "away": "Conway Lawn Tennis Club 1\n8\n-\n4\nBroomfield Park 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nPavilion Tennis 1\n-\nConway Lawn Tennis Club 1",
+      "away": "Pavilion Tennis 1\n-\nConway Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nEnfield Chase LTC 1\n12\n-\n0\nBarnet Lawn Tennis Club 2",
+      "away": "Enfield Chase LTC 1\n12\n-\n0\nBarnet Lawn Tennis Club 2",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nEnfield Chase LTC 1\n8\n-\n4\nVicars Moor LTC 1",
+      "away": "Enfield Chase LTC 1\n8\n-\n4\nVicars Moor LTC 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nUnknown player\nBroomfield Park 1\n0\n-\n12\nPavilion Tennis 1",
+      "away": "Broomfield Park 1\n0\n-\n12\nPavilion Tennis 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nConway Lawn Tennis Club 1\n4\n-\n8\nEnfield Chase LTC 1",
+      "away": "Conway Lawn Tennis Club 1\n4\n-\n8\nEnfield Chase LTC 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nVicars Moor LTC 1\n10\n-\n2\nBarnet Lawn Tennis Club 2",
+      "away": "Vicars Moor LTC 1\n10\n-\n2\nBarnet Lawn Tennis Club 2",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nVicars Moor LTC 1\n2\n-\n10\nConway Lawn Tennis Club 1",
+      "away": "Vicars Moor LTC 1\n2\n-\n10\nConway Lawn Tennis Club 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nUnknown player\nEnfield Chase LTC 1\n10\n-\n2\nBroomfield Park 1",
+      "away": "Enfield Chase LTC 1\n10\n-\n2\nBroomfield Park 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nBarnet Lawn Tennis Club 2\n15:00\nPavilion Tennis 1",
+      "away": "Barnet Lawn Tennis Club 2\n15:00\nPavilion Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nBroomfield Park 1\n-\nVicars Moor LTC 1",
+      "away": "Broomfield Park 1\n-\nVicars Moor LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sat 27/06/2026\nBarnet Lawn Tennis Club 2\n14:00\nBroomfield Park 1",
+      "away": "Barnet Lawn Tennis Club 2\n14:00\nBroomfield Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 27/06/2026"
+    },
+    {
+      "home": "Sat 04/07/2026\nPostponed\nConway Lawn Tennis Club 1\n13:00\nBarnet Lawn Tennis Club 2",
+      "away": "Conway Lawn Tennis Club 1\n13:00\nBarnet Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/07/2026"
+    },
+    {
+      "home": "Sat 04/07/2026\nPavilion Tennis 1\n15:00\nEnfield Chase LTC 1",
+      "away": "Pavilion Tennis 1\n15:00\nEnfield Chase LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/07/2026"
+    }
+  ]
+}

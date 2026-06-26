@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-49",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Mens Doubles \n \u2013 North East Division 8              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/49",
+  "scrapedAt": "2026-06-26T14:24:23.230353+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 66,
+      "rubbers": "66-6",
+      "points": 333
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 47,
+      "rubbers": "47-25",
+      "points": 2312
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 1,
+      "won": 1,
+      "drawn": 1,
+      "lost": 34,
+      "rubbers": "34-38",
+      "points": 1719
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 26,
+      "rubbers": "26-46",
+      "points": 1323
+    },
+    {
+      "rank": 5,
+      "name": "2",
+      "played": 0,
+      "won": 1,
+      "drawn": 1,
+      "lost": 23,
+      "rubbers": "23-25",
+      "points": 1112
+    },
+    {
+      "rank": 6,
+      "name": "2",
+      "played": 0,
+      "won": 1,
+      "drawn": 1,
+      "lost": 20,
+      "rubbers": "20-28",
+      "points": 711
+    },
+    {
+      "rank": 7,
+      "name": "3",
+      "played": 0,
+      "won": 1,
+      "drawn": 2,
+      "lost": 14,
+      "rubbers": "14-58",
+      "points": 426
+    },
+    {
+      "rank": 8,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 10,
+      "rubbers": "10-14",
+      "points": 57
+    }
+  ],
+  "matches": [
+    {
+      "home": "Mon 11/05/2026\nBrampton 4\n2\n-\n22\nBrampton 3",
+      "away": "Brampton 4\n2\n-\n22\nBrampton 3",
+      "hs": 222,
+      "as": null,
+      "date": "Mon 11/05/2026"
+    },
+    {
+      "home": "Mon 11/05/2026\nOakleigh Park 3\n16\n-\n8\nTemple Fortune 3",
+      "away": "Oakleigh Park 3\n16\n-\n8\nTemple Fortune 3",
+      "hs": 168,
+      "as": null,
+      "date": "Mon 11/05/2026"
+    },
+    {
+      "home": "Thu 14/05/2026\nMercury 2\n6\n-\n18\nColes Green 3",
+      "away": "Mercury 2\n6\n-\n18\nColes Green 3",
+      "hs": 618,
+      "as": null,
+      "date": "Thu 14/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nFinchley 4\n12\n-\n12\nBrampton 3",
+      "away": "Finchley 4\n12\n-\n12\nBrampton 3",
+      "hs": 1212,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Tue 19/05/2026\nColes Green 3\n24\n-\n0\nBrampton 4",
+      "away": "Coles Green 3\n24\n-\n0\nBrampton 4",
+      "hs": 240,
+      "as": null,
+      "date": "Tue 19/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nFinchley Manor 6\n19:00\nFinchley 4",
+      "away": "Finchley Manor 6\n19:00\nFinchley 4",
+      "hs": null,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Tue 26/05/2026\nTemple Fortune 3\n19:00\nMercury 2",
+      "away": "Temple Fortune 3\n19:00\nMercury 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 26/05/2026"
+    },
+    {
+      "home": "Thu 04/06/2026\nAdmin modified\nBrampton 4\n12\n-\n12\nTemple Fortune 3",
+      "away": "Brampton 4\n12\n-\n12\nTemple Fortune 3",
+      "hs": 1212,
+      "as": null,
+      "date": "Thu 04/06/2026"
+    },
+    {
+      "home": "Thu 04/06/2026\nFinchley Manor 6\n19:00\nOakleigh Park 3",
+      "away": "Finchley Manor 6\n19:00\nOakleigh Park 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 04/06/2026"
+    },
+    {
+      "home": "Mon 08/06/2026\nBrampton 3\n0\n-\n24\nColes Green 3",
+      "away": "Brampton 3\n0\n-\n24\nColes Green 3",
+      "hs": 24,
+      "as": null,
+      "date": "Mon 08/06/2026"
+    },
+    {
+      "home": "Mon 08/06/2026\nAdmin modified\nOakleigh Park 3\n13\n-\n11\nFinchley 4",
+      "away": "Oakleigh Park 3\n13\n-\n11\nFinchley 4",
+      "hs": 1311,
+      "as": null,
+      "date": "Mon 08/06/2026"
+    },
+    {
+      "home": "Tue 09/06/2026\nMercury 2\n14\n-\n10\nFinchley Manor 6",
+      "away": "Mercury 2\n14\n-\n10\nFinchley Manor 6",
+      "hs": 1410,
+      "as": null,
+      "date": "Tue 09/06/2026"
+    },
+    {
+      "home": "Tue 16/06/2026\nOakleigh Park 3\n18\n-\n6\nMercury 2",
+      "away": "Oakleigh Park 3\n18\n-\n6\nMercury 2",
+      "hs": 186,
+      "as": null,
+      "date": "Tue 16/06/2026"
+    },
+    {
+      "home": "Mon 22/06/2026\nFinchley 4\n18:30\nColes Green 3",
+      "away": "Finchley 4\n18:30\nColes Green 3",
+      "hs": null,
+      "as": null,
+      "date": "Mon 22/06/2026"
+    },
+    {
+      "home": "Thu 25/06/2026\nTemple Fortune 3\n19:00\nBrampton 3",
+      "away": "Temple Fortune 3\n19:00\nBrampton 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 25/06/2026"
+    },
+    {
+      "home": "Thu 25/06/2026\nFinchley Manor 6\n19:00\nBrampton 4",
+      "away": "Finchley Manor 6\n19:00\nBrampton 4",
+      "hs": null,
+      "as": null,
+      "date": "Thu 25/06/2026"
+    },
+    {
+      "home": "Tue 30/06/2026\nBrampton 4\n18:30\nOakleigh Park 3",
+      "away": "Brampton 4\n18:30\nOakleigh Park 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 30/06/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nBrampton 3\n18:30\nFinchley Manor 6",
+      "away": "Brampton 3\n18:30\nFinchley Manor 6",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Tue 07/07/2026\nColes Green 3\n18:30\nTemple Fortune 3",
+      "away": "Coles Green 3\n18:30\nTemple Fortune 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 07/07/2026"
+    },
+    {
+      "home": "Thu 09/07/2026\nMercury 2\n19:00\nFinchley 4",
+      "away": "Mercury 2\n19:00\nFinchley 4",
+      "hs": null,
+      "as": null,
+      "date": "Thu 09/07/2026"
+    },
+    {
+      "home": "Mon 13/07/2026\nFinchley 4\n18:30\nTemple Fortune 3",
+      "away": "Finchley 4\n18:30\nTemple Fortune 3",
+      "hs": null,
+      "as": null,
+      "date": "Mon 13/07/2026"
+    },
+    {
+      "home": "Mon 13/07/2026\nFinchley Manor 6\n19:00\nColes Green 3",
+      "away": "Finchley Manor 6\n19:00\nColes Green 3",
+      "hs": null,
+      "as": null,
+      "date": "Mon 13/07/2026"
+    },
+    {
+      "home": "Tue 14/07/2026\nOakleigh Park 3\n19:00\nBrampton 3",
+      "away": "Oakleigh Park 3\n19:00\nBrampton 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 14/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nMercury 2\n-\nBrampton 4",
+      "away": "Mercury 2\n-\nBrampton 4",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Mon 27/07/2026\nBrampton 4\n18:30\nFinchley 4",
+      "away": "Brampton 4\n18:30\nFinchley 4",
+      "hs": null,
+      "as": null,
+      "date": "Mon 27/07/2026"
+    },
+    {
+      "home": "Mon 27/07/2026\nTemple Fortune 3\n19:00\nFinchley Manor 6",
+      "away": "Temple Fortune 3\n19:00\nFinchley Manor 6",
+      "hs": null,
+      "as": null,
+      "date": "Mon 27/07/2026"
+    },
+    {
+      "home": "Tue 28/07/2026\nColes Green 3\n18:30\nOakleigh Park 3",
+      "away": "Coles Green 3\n18:30\nOakleigh Park 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 28/07/2026"
+    },
+    {
+      "home": "Thu 30/07/2026\nBrampton 3\n18:30\nMercury 2",
+      "away": "Brampton 3\n18:30\nMercury 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 30/07/2026"
+    }
+  ]
+}

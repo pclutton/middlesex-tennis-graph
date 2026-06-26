@@ -1,0 +1,178 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-26",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "Open Mens Division 2 onwards\n \u2013 Open Mens Division 7              \u2013 Division 7 East",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/26",
+  "scrapedAt": "2026-06-26T14:30:07.026723+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 4,
+      "rubbers": "16-8",
+      "points": 189
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "26-10",
+      "points": 2711
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 4,
+      "rubbers": "24-24",
+      "points": 2426
+    },
+    {
+      "rank": 4,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "14-10",
+      "points": 1510
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "12-24",
+      "points": 1426
+    },
+    {
+      "rank": 6,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 0,
+      "rubbers": "4-20",
+      "points": 521
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 19/04/2026\nFarm Walk 1\n6\n-\n6\nHazelwood Lawn Tennis Club 2",
+      "away": "Farm Walk 1\n6\n-\n6\nHazelwood Lawn Tennis Club 2",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 26/04/2026\nOakleigh Park Lawn Tennis & Squash Club 1\n10\n-\n2\nFinsbury Park 2",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 1\n10\n-\n2\nFinsbury Park 2",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nEnfield Chase LTC 1\n10\n-\n2\nBroomfield Park 1",
+      "away": "Enfield Chase LTC 1\n10\n-\n2\nBroomfield Park 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nOakleigh Park Lawn Tennis & Squash Club 1\n12\n-\n0\nEnfield Chase LTC 1",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 1\n12\n-\n0\nEnfield Chase LTC 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nFarm Walk 1\n16:15\nFinsbury Park 2",
+      "away": "Farm Walk 1\n16:15\nFinsbury Park 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nUnknown player\nEnfield Chase LTC 1\n2\n-\n10\nFarm Walk 1",
+      "away": "Enfield Chase LTC 1\n2\n-\n10\nFarm Walk 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nNo show\nFinsbury Park 2\n12\n-\n0\nHazelwood Lawn Tennis Club 2",
+      "away": "Finsbury Park 2\n12\n-\n0\nHazelwood Lawn Tennis Club 2",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nHazelwood Lawn Tennis Club 2\n10\n-\n2\nBroomfield Park 1",
+      "away": "Hazelwood Lawn Tennis Club 2\n10\n-\n2\nBroomfield Park 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nFinsbury Park 2\n11:00\nEnfield Chase LTC 1",
+      "away": "Finsbury Park 2\n11:00\nEnfield Chase LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nFarm Walk 1\n13:15\nBroomfield Park 1",
+      "away": "Farm Walk 1\n13:15\nBroomfield Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nHazelwood Lawn Tennis Club 2\n8\n-\n4\nOakleigh Park Lawn Tennis & Squash Club 1",
+      "away": "Hazelwood Lawn Tennis Club 2\n8\n-\n4\nOakleigh Park Lawn Tennis & Squash Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nFinsbury Park 2\n-\nBroomfield Park 1",
+      "away": "Finsbury Park 2\n-\nBroomfield Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nEnfield Chase LTC 1\n11:00\nHazelwood Lawn Tennis Club 2",
+      "away": "Enfield Chase LTC 1\n11:00\nHazelwood Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nOakleigh Park Lawn Tennis & Squash Club 1\n15:00\nFarm Walk 1",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 1\n15:00\nFarm Walk 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nBroomfield Park 1\n16:00\nOakleigh Park Lawn Tennis & Squash Club 1",
+      "away": "Broomfield Park 1\n16:00\nOakleigh Park Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    }
+  ]
+}

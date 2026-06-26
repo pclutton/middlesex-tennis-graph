@@ -1,0 +1,178 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-13",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "Open Mens Division 2 onwards\n \u2013 Open Mens Division 5              \u2013 Division 5 East",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/13",
+  "scrapedAt": "2026-06-26T18:10:05.868116+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 6,
+      "rubbers": "34-14",
+      "points": 3615
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "26-10",
+      "points": 3012
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "18-18",
+      "points": 2021
+    },
+    {
+      "rank": 4,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 4,
+      "rubbers": "28-20",
+      "points": 2926
+    },
+    {
+      "rank": 5,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 2,
+      "rubbers": "14-34",
+      "points": 1734
+    },
+    {
+      "rank": 6,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 2,
+      "rubbers": "12-36",
+      "points": 1236
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 19/04/2026\nMercury LTC 1\n2\n-\n10\nWinchmore Hill Tennis Club 1",
+      "away": "Mercury LTC 1\n2\n-\n10\nWinchmore Hill Tennis Club 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nNo show\nFinchley Lawn Tennis Club 1\n12\n-\n0\nElms LTC 1",
+      "away": "Finchley Lawn Tennis Club 1\n12\n-\n0\nElms LTC 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nVicars Moor LTC 2\n6\n-\n6\nFinsbury Park 1",
+      "away": "Vicars Moor LTC 2\n6\n-\n6\nFinsbury Park 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 26/04/2026\nNo show\nElms LTC 1\n12\n-\n0\nMercury LTC 1",
+      "away": "Elms LTC 1\n12\n-\n0\nMercury LTC 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nWinchmore Hill Tennis Club 1\n4\n-\n8\nFinsbury Park 1",
+      "away": "Winchmore Hill Tennis Club 1\n4\n-\n8\nFinsbury Park 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nMercury LTC 1\n6\n-\n6\nFinchley Lawn Tennis Club 1",
+      "away": "Mercury LTC 1\n6\n-\n6\nFinchley Lawn Tennis Club 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sat 30/05/2026\nVicars Moor LTC 2\n6\n-\n6\nMercury LTC 1",
+      "away": "Vicars Moor LTC 2\n6\n-\n6\nMercury LTC 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sat 30/05/2026"
+    },
+    {
+      "home": "Sat 30/05/2026\nPostponed\nElms LTC 1\n17:00\nVicars Moor LTC 2",
+      "away": "Elms LTC 1\n17:00\nVicars Moor LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 30/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nNo show\nFinsbury Park 1\n12\n-\n0\nElms LTC 1",
+      "away": "Finsbury Park 1\n12\n-\n0\nElms LTC 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nUnknown player\nFinchley Lawn Tennis Club 1\n10\n-\n2\nWinchmore Hill Tennis Club 1",
+      "away": "Finchley Lawn Tennis Club 1\n10\n-\n2\nWinchmore Hill Tennis Club 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nNo show\nWinchmore Hill Tennis Club 1\n12\n-\n0\nElms LTC 1",
+      "away": "Winchmore Hill Tennis Club 1\n12\n-\n0\nElms LTC 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nPostponed\nMercury LTC 1\n-\nFinsbury Park 1",
+      "away": "Mercury LTC 1\n-\nFinsbury Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nFinchley Lawn Tennis Club 1\n6\n-\n6\nVicars Moor LTC 2",
+      "away": "Finchley Lawn Tennis Club 1\n6\n-\n6\nVicars Moor LTC 2",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nVicars Moor LTC 2\n14:00\nWinchmore Hill Tennis Club 1",
+      "away": "Vicars Moor LTC 2\n14:00\nWinchmore Hill Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 19/07/2026\nFinsbury Park 1\n-\nFinchley Lawn Tennis Club 1",
+      "away": "Finsbury Park 1\n-\nFinchley Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/07/2026"
+    }
+  ]
+}

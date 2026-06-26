@@ -1,0 +1,178 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-31",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "10&U Mixed Division 2\n \u2013 10&U Mixed Division 2              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/31",
+  "scrapedAt": "2026-06-26T14:28:32.224587+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 6,
+      "rubbers": "34-14",
+      "points": 3515
+    },
+    {
+      "rank": 2,
+      "name": "5",
+      "played": 3,
+      "won": 0,
+      "drawn": 2,
+      "lost": 6,
+      "rubbers": "24-36",
+      "points": 2637
+    },
+    {
+      "rank": 3,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 4,
+      "rubbers": "20-4",
+      "points": 204
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "20-16",
+      "points": 2118
+    },
+    {
+      "rank": 5,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 2,
+      "rubbers": "20-28",
+      "points": 2329
+    },
+    {
+      "rank": 6,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 2,
+      "rubbers": "14-34",
+      "points": 1436
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 19/04/2026\nGlobe Lawn Tennis Club 1\n8\n-\n4\nHackney Tennis 2",
+      "away": "Globe Lawn Tennis Club 1\n8\n-\n4\nHackney Tennis 2",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nUnknown player\nElmwood Lawn Tennis Club 1\n12\n-\n0\nSouth Hampstead Tennis Club 1",
+      "away": "Elmwood Lawn Tennis Club 1\n12\n-\n0\nSouth Hampstead Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sat 02/05/2026\nSouth Hampstead Tennis Club 1\n6\n-\n6\nHackney Tennis 2",
+      "away": "South Hampstead Tennis Club 1\n6\n-\n6\nHackney Tennis 2",
+      "hs": 66,
+      "as": null,
+      "date": "Sat 02/05/2026"
+    },
+    {
+      "home": "Sat 02/05/2026\nElmwood Lawn Tennis Club 1\n2\n-\n10\nCoolhurst LTC 2",
+      "away": "Elmwood Lawn Tennis Club 1\n2\n-\n10\nCoolhurst LTC 2",
+      "hs": 210,
+      "as": null,
+      "date": "Sat 02/05/2026"
+    },
+    {
+      "home": "Sat 02/05/2026\nUnknown player\nBrondesbury Sports Club 1\n0\n-\n12\nGlobe Lawn Tennis Club 1",
+      "away": "Brondesbury Sports Club 1\n0\n-\n12\nGlobe Lawn Tennis Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sat 02/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nGlobe Lawn Tennis Club 1\n-\nElmwood Lawn Tennis Club 1",
+      "away": "Globe Lawn Tennis Club 1\n-\nElmwood Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nHackney Tennis 2\n2\n-\n10\nBrondesbury Sports Club 1",
+      "away": "Hackney Tennis 2\n2\n-\n10\nBrondesbury Sports Club 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sat 30/05/2026\nGlobe Lawn Tennis Club 1\n-\nSouth Hampstead Tennis Club 1",
+      "away": "Globe Lawn Tennis Club 1\n-\nSouth Hampstead Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 30/05/2026"
+    },
+    {
+      "home": "Sat 30/05/2026\nHackney Tennis 2\n6\n-\n6\nCoolhurst LTC 2",
+      "away": "Hackney Tennis 2\n6\n-\n6\nCoolhurst LTC 2",
+      "hs": 66,
+      "as": null,
+      "date": "Sat 30/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nSouth Hampstead Tennis Club 1\n0\n-\n12\nBrondesbury Sports Club 1",
+      "away": "South Hampstead Tennis Club 1\n0\n-\n12\nBrondesbury Sports Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nCoolhurst LTC 2\n4\n-\n8\nSouth Hampstead Tennis Club 1",
+      "away": "Coolhurst LTC 2\n4\n-\n8\nSouth Hampstead Tennis Club 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nHackney Tennis 2\n6\n-\n6\nElmwood Lawn Tennis Club 1",
+      "away": "Hackney Tennis 2\n6\n-\n6\nElmwood Lawn Tennis Club 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nUnknown player\nCoolhurst LTC 2\n0\n-\n12\nBrondesbury Sports Club 1",
+      "away": "Coolhurst LTC 2\n0\n-\n12\nBrondesbury Sports Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sat 04/07/2026\nBrondesbury Sports Club 1\n16:00\nElmwood Lawn Tennis Club 1",
+      "away": "Brondesbury Sports Club 1\n16:00\nElmwood Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/07/2026"
+    },
+    {
+      "home": "Sun 19/07/2026\nCoolhurst LTC 2\n14:00\nGlobe Lawn Tennis Club 1",
+      "away": "Coolhurst LTC 2\n14:00\nGlobe Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/07/2026"
+    }
+  ]
+}

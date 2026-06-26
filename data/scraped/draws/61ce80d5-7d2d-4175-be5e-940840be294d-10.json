@@ -1,0 +1,178 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-10",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "Open Mens Division 2 onwards \u2013 Open Mens Division 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/10",
+  "scrapedAt": "2026-06-26T15:41:32.250419+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 8,
+      "rubbers": "36-12",
+      "points": 4017
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "26-10",
+      "points": 2615
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 4,
+      "rubbers": "28-20",
+      "points": 3222
+    },
+    {
+      "rank": 4,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "14-10",
+      "points": 1512
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "16-20",
+      "points": 2023
+    },
+    {
+      "rank": 6,
+      "name": "4",
+      "played": 0,
+      "won": 0,
+      "drawn": 4,
+      "lost": 0,
+      "rubbers": "0-48",
+      "points": 448
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 19/04/2026\nCumberland Lawn Tennis Club 3\n2\n-\n10\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "Cumberland Lawn Tennis Club 3\n2\n-\n10\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nCoolhurst LTC 1\n4\n-\n8\nThe Queens Club Limited 2",
+      "away": "Coolhurst LTC 1\n4\n-\n8\nThe Queens Club Limited 2",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nHackney Tennis 2\n0\n-\n12\nDavid Lloyd Club Finchley 1",
+      "away": "Hackney Tennis 2\n0\n-\n12\nDavid Lloyd Club Finchley 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nThe Queens Club Limited 2\n10\n-\n2\nDavid Lloyd Club Finchley 1",
+      "away": "The Queens Club Limited 2\n10\n-\n2\nDavid Lloyd Club Finchley 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nWest Middlesex Lawn Tennis Club Ltd 1\n12\n-\n0\nHackney Tennis 2",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n12\n-\n0\nHackney Tennis 2",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nCoolhurst LTC 1\n0\n-\n12\nCumberland Lawn Tennis Club 3",
+      "away": "Coolhurst LTC 1\n0\n-\n12\nCumberland Lawn Tennis Club 3",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sat 30/05/2026\nDavid Lloyd Club Finchley 1\n16:00\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "David Lloyd Club Finchley 1\n16:00\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 30/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nHackney Tennis 2\n0\n-\n12\nCoolhurst LTC 1",
+      "away": "Hackney Tennis 2\n0\n-\n12\nCoolhurst LTC 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nThe Queens Club Limited 2\n8\n-\n4\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "The Queens Club Limited 2\n8\n-\n4\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nCoolhurst LTC 1\n15:00\nDavid Lloyd Club Finchley 1",
+      "away": "Coolhurst LTC 1\n15:00\nDavid Lloyd Club Finchley 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nCumberland Lawn Tennis Club 3\n12\n-\n0\nHackney Tennis 2",
+      "away": "Cumberland Lawn Tennis Club 3\n12\n-\n0\nHackney Tennis 2",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nCumberland Lawn Tennis Club 3\n2\n-\n10\nThe Queens Club Limited 2",
+      "away": "Cumberland Lawn Tennis Club 3\n2\n-\n10\nThe Queens Club Limited 2",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sat 27/06/2026\nDavid Lloyd Club Finchley 1\n16:00\nCumberland Lawn Tennis Club 3",
+      "away": "David Lloyd Club Finchley 1\n16:00\nCumberland Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Sat 27/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nWest Middlesex Lawn Tennis Club Ltd 1\n10:00\nCoolhurst LTC 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n10:00\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nHackney Tennis 2\n13:00\nThe Queens Club Limited 2",
+      "away": "Hackney Tennis 2\n13:00\nThe Queens Club Limited 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    }
+  ]
+}

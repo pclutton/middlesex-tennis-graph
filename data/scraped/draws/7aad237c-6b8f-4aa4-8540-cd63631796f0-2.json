@@ -1,0 +1,230 @@
+{
+  "drawId": "7aad237c-6b8f-4aa4-8540-cd63631796f0-2",
+  "competitionId": "7aad237c-6b8f-4aa4-8540-cd63631796f0",
+  "competitionName": "55/Over Mixed League\n \u2013 Division 1 West              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/7AAD237C-6B8F-4AA4-8540-CD63631796F0/draw/2",
+  "scrapedAt": "2026-06-26T15:46:56.168216+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 2,
+      "won": 1,
+      "drawn": 0,
+      "lost": 36,
+      "rubbers": "36-12",
+      "points": 186
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 2,
+      "won": 2,
+      "drawn": 0,
+      "lost": 36,
+      "rubbers": "36-28",
+      "points": 1814
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 1,
+      "won": 1,
+      "drawn": 1,
+      "lost": 26,
+      "rubbers": "26-22",
+      "points": 1311
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 0,
+      "won": 2,
+      "drawn": 1,
+      "lost": 20,
+      "rubbers": "20-28",
+      "points": 1014
+    },
+    {
+      "rank": 5,
+      "name": "2",
+      "played": 1,
+      "won": 1,
+      "drawn": 0,
+      "lost": 18,
+      "rubbers": "18-14",
+      "points": 97
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 16,
+      "rubbers": "16-32",
+      "points": 816
+    },
+    {
+      "rank": 7,
+      "name": "2",
+      "played": 0,
+      "won": 1,
+      "drawn": 1,
+      "lost": 8,
+      "rubbers": "8-24",
+      "points": 412
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 01/05/2026\nGunnersbury Triangle Club 1\n8\n-\n8\nThe Parsons Green Club 1",
+      "away": "Gunnersbury Triangle Club 1\n8\n-\n8\nThe Parsons Green Club 1",
+      "hs": 88,
+      "as": null,
+      "date": "Fri 01/05/2026"
+    },
+    {
+      "home": "Fri 08/05/2026\nDavid Lloyd Club Hampton 1\n6\n-\n10\nTwickenham Lawn Tennis Club 1",
+      "away": "David Lloyd Club Hampton 1\n6\n-\n10\nTwickenham Lawn Tennis Club 1",
+      "hs": 610,
+      "as": null,
+      "date": "Fri 08/05/2026"
+    },
+    {
+      "home": "Fri 08/05/2026\nHartswood Lawn Tennis Club Ltd 1\n8\n-\n8\nThe Lensbury Club 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 1\n8\n-\n8\nThe Lensbury Club 1",
+      "hs": 88,
+      "as": null,
+      "date": "Fri 08/05/2026"
+    },
+    {
+      "home": "Fri 22/05/2026\nThe Parsons Green Club 1\n12\n-\n4\nHartswood Lawn Tennis Club Ltd 1",
+      "away": "The Parsons Green Club 1\n12\n-\n4\nHartswood Lawn Tennis Club Ltd 1",
+      "hs": 124,
+      "as": null,
+      "date": "Fri 22/05/2026"
+    },
+    {
+      "home": "Fri 22/05/2026\nBushy Park Tennis Club Teddington 1\n12\n-\n4\nDavid Lloyd Club Hampton 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n12\n-\n4\nDavid Lloyd Club Hampton 1",
+      "hs": 124,
+      "as": null,
+      "date": "Fri 22/05/2026"
+    },
+    {
+      "home": "Tue 26/05/2026\nThe Lensbury Club 1\n0\n-\n16\nThe Parsons Green Club 1",
+      "away": "The Lensbury Club 1\n0\n-\n16\nThe Parsons Green Club 1",
+      "hs": 16,
+      "as": null,
+      "date": "Tue 26/05/2026"
+    },
+    {
+      "home": "Thu 28/05/2026\nTwickenham Lawn Tennis Club 1\n8\n-\n8\nGunnersbury Triangle Club 1",
+      "away": "Twickenham Lawn Tennis Club 1\n8\n-\n8\nGunnersbury Triangle Club 1",
+      "hs": 88,
+      "as": null,
+      "date": "Thu 28/05/2026"
+    },
+    {
+      "home": "Fri 05/06/2026\nGunnersbury Triangle Club 1\n10\n-\n6\nBushy Park Tennis Club Teddington 1",
+      "away": "Gunnersbury Triangle Club 1\n10\n-\n6\nBushy Park Tennis Club Teddington 1",
+      "hs": 106,
+      "as": null,
+      "date": "Fri 05/06/2026"
+    },
+    {
+      "home": "Fri 19/06/2026\nBushy Park Tennis Club Teddington 1\n8\n-\n8\nHartswood Lawn Tennis Club Ltd 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n8\n-\n8\nHartswood Lawn Tennis Club Ltd 1",
+      "hs": 88,
+      "as": null,
+      "date": "Fri 19/06/2026"
+    },
+    {
+      "home": "Fri 19/06/2026\nDavid Lloyd Club Hampton 1\n6\n-\n10\nGunnersbury Triangle Club 1",
+      "away": "David Lloyd Club Hampton 1\n6\n-\n10\nGunnersbury Triangle Club 1",
+      "hs": 610,
+      "as": null,
+      "date": "Fri 19/06/2026"
+    },
+    {
+      "home": "Mon 29/06/2026\nHartswood Lawn Tennis Club Ltd 1\n10:30\nDavid Lloyd Club Hampton 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 1\n10:30\nDavid Lloyd Club Hampton 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 29/06/2026"
+    },
+    {
+      "home": "Mon 29/06/2026\nThe Lensbury Club 1\n14:00\nBushy Park Tennis Club Teddington 1",
+      "away": "The Lensbury Club 1\n14:00\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 29/06/2026"
+    },
+    {
+      "home": "Fri 03/07/2026\nThe Parsons Green Club 1\n11:00\nTwickenham Lawn Tennis Club 1",
+      "away": "The Parsons Green Club 1\n11:00\nTwickenham Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 03/07/2026"
+    },
+    {
+      "home": "Thu 09/07/2026\nTwickenham Lawn Tennis Club 1\n10:30\nThe Lensbury Club 1",
+      "away": "Twickenham Lawn Tennis Club 1\n10:30\nThe Lensbury Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 09/07/2026"
+    },
+    {
+      "home": "Wed 15/07/2026\nHartswood Lawn Tennis Club Ltd 1\n10:30\nTwickenham Lawn Tennis Club 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 1\n10:30\nTwickenham Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 15/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nBushy Park Tennis Club Teddington 1\n10:30\nThe Parsons Green Club 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n10:30\nThe Parsons Green Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Fri 17/07/2026\nDavid Lloyd Club Hampton 1\n-\nThe Lensbury Club 1",
+      "away": "David Lloyd Club Hampton 1\n-\nThe Lensbury Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 17/07/2026"
+    },
+    {
+      "home": "Fri 17/07/2026\nGunnersbury Triangle Club 1\n10:30\nHartswood Lawn Tennis Club Ltd 1",
+      "away": "Gunnersbury Triangle Club 1\n10:30\nHartswood Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 17/07/2026"
+    },
+    {
+      "home": "Thu 23/07/2026\nTwickenham Lawn Tennis Club 1\n10:30\nBushy Park Tennis Club Teddington 1",
+      "away": "Twickenham Lawn Tennis Club 1\n10:30\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 23/07/2026"
+    },
+    {
+      "home": "Mon 27/07/2026\nThe Lensbury Club 1\n14:00\nGunnersbury Triangle Club 1",
+      "away": "The Lensbury Club 1\n14:00\nGunnersbury Triangle Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 27/07/2026"
+    },
+    {
+      "home": "Fri 31/07/2026\nThe Parsons Green Club 1\n-\nDavid Lloyd Club Hampton 1",
+      "away": "The Parsons Green Club 1\n-\nDavid Lloyd Club Hampton 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 31/07/2026"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "drawId": "1424eff6-c4f2-4092-a7b9-032dbfcd0ba7-9",
+  "competitionId": "1424eff6-c4f2-4092-a7b9-032dbfcd0ba7",
+  "competitionName": "14 & Under Boys\n \u2013 14&U Boys              \u2013 South East North 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/1424EFF6-C4F2-4092-A7B9-032DBFCD0BA7/draw/9",
+  "scrapedAt": "2026-06-26T15:52:47.765044+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 8,
+      "rubbers": "44-4",
+      "points": 467
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 6,
+      "rubbers": "28-20",
+      "points": 2824
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 4,
+      "rubbers": "26-22",
+      "points": 3023
+    },
+    {
+      "rank": 4,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 2,
+      "rubbers": "8-40",
+      "points": 1143
+    },
+    {
+      "rank": 5,
+      "name": "4",
+      "played": 0,
+      "won": 0,
+      "drawn": 4,
+      "lost": 0,
+      "rubbers": "14-34",
+      "points": 2139
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 26/04/2026\nGallan Tennis Academy 1\n12\n-\n0\nCambridge Lawn Tennis Club 2",
+      "away": "Gallan Tennis Academy 1\n12\n-\n0\nCambridge Lawn Tennis Club 2",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nEaling Lawn Tennis Club 1\n8\n-\n4\nFinchley Manor Tennis Squash and Health Club 1",
+      "away": "Ealing Lawn Tennis Club 1\n8\n-\n4\nFinchley Manor Tennis Squash and Health Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sat 25/04/2026\nCumberland Lawn Tennis Club & Hampstead Cricket 1\n0\n-\n12\nGallan Tennis Academy 1",
+      "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1\n0\n-\n12\nGallan Tennis Academy 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sat 25/04/2026\nCambridge Lawn Tennis Club 2\n6\n-\n6\nEaling Lawn Tennis Club 1",
+      "away": "Cambridge Lawn Tennis Club 2\n6\n-\n6\nEaling Lawn Tennis Club 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nFinchley Manor Tennis Squash and Health Club 1\n2\n-\n10\nCambridge Lawn Tennis Club 2",
+      "away": "Finchley Manor Tennis Squash and Health Club 1\n2\n-\n10\nCambridge Lawn Tennis Club 2",
+      "hs": 210,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nEaling Lawn Tennis Club 1\n12\n-\n0\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "away": "Ealing Lawn Tennis Club 1\n12\n-\n0\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nCumberland Lawn Tennis Club & Hampstead Cricket 1\n8\n-\n4\nFinchley Manor Tennis Squash and Health Club 1",
+      "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1\n8\n-\n4\nFinchley Manor Tennis Squash and Health Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nGallan Tennis Academy 1\n12\n-\n0\nEaling Lawn Tennis Club 1",
+      "away": "Gallan Tennis Academy 1\n12\n-\n0\nEaling Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nCambridge Lawn Tennis Club 2\n12\n-\n0\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "away": "Cambridge Lawn Tennis Club 2\n12\n-\n0\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nFinchley Manor Tennis Squash and Health Club 1\n4\n-\n8\nGallan Tennis Academy 1",
+      "away": "Finchley Manor Tennis Squash and Health Club 1\n4\n-\n8\nGallan Tennis Academy 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    }
+  ]
+}

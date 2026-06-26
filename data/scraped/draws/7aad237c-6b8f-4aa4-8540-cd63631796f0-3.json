@@ -1,0 +1,178 @@
+{
+  "drawId": "7aad237c-6b8f-4aa4-8540-cd63631796f0-3",
+  "competitionId": "7aad237c-6b8f-4aa4-8540-cd63631796f0",
+  "competitionName": "55/Over Mixed League\n \u2013 Division 2 East              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/7AAD237C-6B8F-4AA4-8540-CD63631796F0/draw/3",
+  "scrapedAt": "2026-06-26T15:43:44.339892+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 28,
+      "rubbers": "28-36",
+      "points": 1418
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 24,
+      "rubbers": "24-24",
+      "points": 1212
+    },
+    {
+      "rank": 3,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 22,
+      "rubbers": "22-10",
+      "points": 115
+    },
+    {
+      "rank": 4,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 20,
+      "rubbers": "20-12",
+      "points": 106
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 1,
+      "won": 1,
+      "drawn": 1,
+      "lost": 20,
+      "rubbers": "20-28",
+      "points": 1014
+    },
+    {
+      "rank": 6,
+      "name": "2",
+      "played": 0,
+      "won": 1,
+      "drawn": 1,
+      "lost": 14,
+      "rubbers": "14-18",
+      "points": 79
+    }
+  ],
+  "matches": [
+    {
+      "home": "Mon 27/04/2026\nBounds Green Bowls & LTC 1\n10\n-\n6\nHighbury Tennis Club 1",
+      "away": "Bounds Green Bowls & LTC 1\n10\n-\n6\nHighbury Tennis Club 1",
+      "hs": 106,
+      "as": null,
+      "date": "Mon 27/04/2026"
+    },
+    {
+      "home": "Thu 07/05/2026\nCoolhurst LTC 3\n12\n-\n4\nFinchley Lawn Tennis Club 1",
+      "away": "Coolhurst LTC 3\n12\n-\n4\nFinchley Lawn Tennis Club 1",
+      "hs": 124,
+      "as": null,
+      "date": "Thu 07/05/2026"
+    },
+    {
+      "home": "Tue 19/05/2026\nBush Hill Park Bowls Tennis & Social Club 1\n6\n-\n10\nBounds Green Bowls & LTC 1",
+      "away": "Bush Hill Park Bowls Tennis & Social Club 1\n6\n-\n10\nBounds Green Bowls & LTC 1",
+      "hs": 610,
+      "as": null,
+      "date": "Tue 19/05/2026"
+    },
+    {
+      "home": "Wed 20/05/2026\nHighbury Tennis Club 1\n16\n-\n0\nCoolhurst LTC 3",
+      "away": "Highbury Tennis Club 1\n16\n-\n0\nCoolhurst LTC 3",
+      "hs": 160,
+      "as": null,
+      "date": "Wed 20/05/2026"
+    },
+    {
+      "home": "Wed 20/05/2026\nMuswell Hill Methodist LTC 1\n12\n-\n4\nFinchley Lawn Tennis Club 1",
+      "away": "Muswell Hill Methodist LTC 1\n12\n-\n4\nFinchley Lawn Tennis Club 1",
+      "hs": 124,
+      "as": null,
+      "date": "Wed 20/05/2026"
+    },
+    {
+      "home": "Thu 28/05/2026\nCoolhurst LTC 3\n8\n-\n8\nBush Hill Park Bowls Tennis & Social Club 1",
+      "away": "Coolhurst LTC 3\n8\n-\n8\nBush Hill Park Bowls Tennis & Social Club 1",
+      "hs": 88,
+      "as": null,
+      "date": "Thu 28/05/2026"
+    },
+    {
+      "home": "Fri 29/05/2026\nFinchley Lawn Tennis Club 1\n16\n-\n0\nHighbury Tennis Club 1",
+      "away": "Finchley Lawn Tennis Club 1\n16\n-\n0\nHighbury Tennis Club 1",
+      "hs": 160,
+      "as": null,
+      "date": "Fri 29/05/2026"
+    },
+    {
+      "home": "Fri 05/06/2026\nBounds Green Bowls & LTC 1\n-\nMuswell Hill Methodist LTC 1",
+      "away": "Bounds Green Bowls & LTC 1\n-\nMuswell Hill Methodist LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/06/2026"
+    },
+    {
+      "home": "Wed 10/06/2026\nMuswell Hill Methodist LTC 1\n10\n-\n6\nHighbury Tennis Club 1",
+      "away": "Muswell Hill Methodist LTC 1\n10\n-\n6\nHighbury Tennis Club 1",
+      "hs": 106,
+      "as": null,
+      "date": "Wed 10/06/2026"
+    },
+    {
+      "home": "Tue 16/06/2026\nHighbury Tennis Club 1\n11:00\nBush Hill Park Bowls Tennis & Social Club 1",
+      "away": "Highbury Tennis Club 1\n11:00\nBush Hill Park Bowls Tennis & Social Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 16/06/2026"
+    },
+    {
+      "home": "Fri 19/06/2026\nBounds Green Bowls & LTC 1\n-\nCoolhurst LTC 3",
+      "away": "Bounds Green Bowls & LTC 1\n-\nCoolhurst LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/06/2026"
+    },
+    {
+      "home": "Mon 29/06/2026\nFinchley Lawn Tennis Club 1\n11:00\nBounds Green Bowls & LTC 1",
+      "away": "Finchley Lawn Tennis Club 1\n11:00\nBounds Green Bowls & LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 29/06/2026"
+    },
+    {
+      "home": "Tue 30/06/2026\nCoolhurst LTC 3\n11:00\nMuswell Hill Methodist LTC 1",
+      "away": "Coolhurst LTC 3\n11:00\nMuswell Hill Methodist LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 30/06/2026"
+    },
+    {
+      "home": "Thu 09/07/2026\nBush Hill Park Bowls Tennis & Social Club 1\n11:00\nFinchley Lawn Tennis Club 1",
+      "away": "Bush Hill Park Bowls Tennis & Social Club 1\n11:00\nFinchley Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 09/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nBush Hill Park Bowls Tennis & Social Club 1\n11:00\nMuswell Hill Methodist LTC 1",
+      "away": "Bush Hill Park Bowls Tennis & Social Club 1\n11:00\nMuswell Hill Methodist LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    }
+  ]
+}

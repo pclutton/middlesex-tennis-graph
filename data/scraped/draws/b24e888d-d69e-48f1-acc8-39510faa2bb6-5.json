@@ -1,0 +1,230 @@
+{
+  "drawId": "b24e888d-d69e-48f1-acc8-39510faa2bb6-5",
+  "competitionId": "b24e888d-d69e-48f1-acc8-39510faa2bb6",
+  "competitionName": "40O Mixed League\n \u2013 Division 3              \u2013 Division 3 East",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B24E888D-D69E-48F1-ACC8-39510FAA2BB6/draw/5",
+  "scrapedAt": "2026-06-26T14:34:04.463350+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 3,
+      "won": 1,
+      "drawn": 0,
+      "lost": 48,
+      "rubbers": "48-16",
+      "points": 248
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 1,
+      "drawn": 0,
+      "lost": 38,
+      "rubbers": "38-10",
+      "points": 195
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 18,
+      "rubbers": "18-30",
+      "points": 915
+    },
+    {
+      "rank": 4,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 14,
+      "rubbers": "14-18",
+      "points": 79
+    },
+    {
+      "rank": 5,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "4-12",
+      "points": 26
+    },
+    {
+      "rank": 6,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 4,
+      "rubbers": "4-28",
+      "points": 214
+    },
+    {
+      "rank": 7,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "2-14",
+      "points": 17
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 02/05/2026\nHazelwood Lawn Tennis & Squash Club 2\n12\n-\n4\nVicars Moor LTC 2",
+      "away": "Hazelwood Lawn Tennis & Squash Club 2\n12\n-\n4\nVicars Moor LTC 2",
+      "hs": 124,
+      "as": null,
+      "date": "Sat 02/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nConway Lawn Tennis Club 1\n14\n-\n2\nWaterfall Tennis Club 1",
+      "away": "Conway Lawn Tennis Club 1\n14\n-\n2\nWaterfall Tennis Club 1",
+      "hs": 142,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nHighgate Cricket and Lawn Tennis Club 1\n14\n-\n2\nMercury LTC 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n14\n-\n2\nMercury LTC 1",
+      "hs": 142,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nBush Hill Park Bowls Tennis & Social Club 1\n0\n-\n16\nConway Lawn Tennis Club 1",
+      "away": "Bush Hill Park Bowls Tennis & Social Club 1\n0\n-\n16\nConway Lawn Tennis Club 1",
+      "hs": 16,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nWaterfall Tennis Club 1\n0\n-\n16\nHazelwood Lawn Tennis & Squash Club 2",
+      "away": "Waterfall Tennis Club 1\n0\n-\n16\nHazelwood Lawn Tennis & Squash Club 2",
+      "hs": 16,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sat 06/06/2026\nVicars Moor LTC 2\n15:00\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Vicars Moor LTC 2\n15:00\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 06/06/2026"
+    },
+    {
+      "home": "Sat 30/05/2026\nHazelwood Lawn Tennis & Squash Club 2\n12\n-\n4\nBush Hill Park Bowls Tennis & Social Club 1",
+      "away": "Hazelwood Lawn Tennis & Squash Club 2\n12\n-\n4\nBush Hill Park Bowls Tennis & Social Club 1",
+      "hs": 124,
+      "as": null,
+      "date": "Sat 30/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nMercury LTC 1\n14:00\nVicars Moor LTC 2",
+      "away": "Mercury LTC 1\n14:00\nVicars Moor LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nHighgate Cricket and Lawn Tennis Club 1\n0\n-\n16\nWaterfall Tennis Club 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n0\n-\n16\nWaterfall Tennis Club 1",
+      "hs": 16,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nConway Lawn Tennis Club 1\n8\n-\n8\nHazelwood Lawn Tennis & Squash Club 2",
+      "away": "Conway Lawn Tennis Club 1\n8\n-\n8\nHazelwood Lawn Tennis & Squash Club 2",
+      "hs": 88,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nWaterfall Tennis Club 1\n13:00\nMercury LTC 1",
+      "away": "Waterfall Tennis Club 1\n13:00\nMercury LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nPostponed\nBush Hill Park Bowls Tennis & Social Club 1\n13:00\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Bush Hill Park Bowls Tennis & Social Club 1\n13:00\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nMercury LTC 1\n-\nBush Hill Park Bowls Tennis & Social Club 1",
+      "away": "Mercury LTC 1\n-\nBush Hill Park Bowls Tennis & Social Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nVicars Moor LTC 2\n-\nWaterfall Tennis Club 1",
+      "away": "Vicars Moor LTC 2\n-\nWaterfall Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nHighgate Cricket and Lawn Tennis Club 1\n14:00\nConway Lawn Tennis Club 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n14:00\nConway Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sun 12/07/2026\nBush Hill Park Bowls Tennis & Social Club 1\n13:00\nVicars Moor LTC 2",
+      "away": "Bush Hill Park Bowls Tennis & Social Club 1\n13:00\nVicars Moor LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 12/07/2026"
+    },
+    {
+      "home": "Sun 19/07/2026\nHazelwood Lawn Tennis & Squash Club 2\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Hazelwood Lawn Tennis & Squash Club 2\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/07/2026"
+    },
+    {
+      "home": "Sun 19/07/2026\nConway Lawn Tennis Club 1\n-\nMercury LTC 1",
+      "away": "Conway Lawn Tennis Club 1\n-\nMercury LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/07/2026"
+    },
+    {
+      "home": "Sun 02/08/2026\nMercury LTC 1\n-\nHazelwood Lawn Tennis & Squash Club 2",
+      "away": "Mercury LTC 1\n-\nHazelwood Lawn Tennis & Squash Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 02/08/2026"
+    },
+    {
+      "home": "Sun 02/08/2026\nVicars Moor LTC 2\n-\nConway Lawn Tennis Club 1",
+      "away": "Vicars Moor LTC 2\n-\nConway Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 02/08/2026"
+    },
+    {
+      "home": "Sun 02/08/2026\nWaterfall Tennis Club 1\n13:00\nBush Hill Park Bowls Tennis & Social Club 1",
+      "away": "Waterfall Tennis Club 1\n13:00\nBush Hill Park Bowls Tennis & Social Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 02/08/2026"
+    }
+  ]
+}

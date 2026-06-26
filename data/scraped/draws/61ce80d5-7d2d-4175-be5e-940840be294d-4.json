@@ -1,0 +1,137 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-4",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "Open Womens Division 2 onwards\n \u2013 Open Womens Division 3              \u2013 Division 3 West",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/4",
+  "scrapedAt": "2026-06-26T19:05:25.997345+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "6",
+      "played": 5,
+      "won": 0,
+      "drawn": 1,
+      "lost": 10,
+      "rubbers": "54-18",
+      "points": 5821
+    },
+    {
+      "rank": 2,
+      "name": "5",
+      "played": 4,
+      "won": 0,
+      "drawn": 1,
+      "lost": 8,
+      "rubbers": "48-12",
+      "points": 5014
+    },
+    {
+      "rank": 3,
+      "name": "5",
+      "played": 1,
+      "won": 0,
+      "drawn": 4,
+      "lost": 2,
+      "rubbers": "16-44",
+      "points": 1848
+    },
+    {
+      "rank": 4,
+      "name": "4",
+      "played": 0,
+      "won": 0,
+      "drawn": 4,
+      "lost": 0,
+      "rubbers": "2-46",
+      "points": 346
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 19/04/2026\nKenton Lawn Tennis Club 1\n0\n-\n12\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "Kenton Lawn Tennis Club 1\n0\n-\n12\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nNo show\nTrailfinders Sports Club 1\n0\n-\n12\nTwickenham Lawn Tennis Club 1",
+      "away": "Trailfinders Sports Club 1\n0\n-\n12\nTwickenham Lawn Tennis Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nUnknown player\nKenton Lawn Tennis Club 1\n2\n-\n10\nTrailfinders Sports Club 1",
+      "away": "Kenton Lawn Tennis Club 1\n2\n-\n10\nTrailfinders Sports Club 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nWest Middlesex Lawn Tennis Club Ltd 1\n8\n-\n4\nTwickenham Lawn Tennis Club 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n8\n-\n4\nTwickenham Lawn Tennis Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nTrailfinders Sports Club 1\n2\n-\n10\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "Trailfinders Sports Club 1\n2\n-\n10\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nTwickenham Lawn Tennis Club 1\n12\n-\n0\nKenton Lawn Tennis Club 1",
+      "away": "Twickenham Lawn Tennis Club 1\n12\n-\n0\nKenton Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nNo show\nWest Middlesex Lawn Tennis Club Ltd 1\n12\n-\n0\nKenton Lawn Tennis Club 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n12\n-\n0\nKenton Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nTwickenham Lawn Tennis Club 1\n10\n-\n2\nTrailfinders Sports Club 1",
+      "away": "Twickenham Lawn Tennis Club 1\n10\n-\n2\nTrailfinders Sports Club 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nTrailfinders Sports Club 1\n-\nKenton Lawn Tennis Club 1",
+      "away": "Trailfinders Sports Club 1\n-\nKenton Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nTwickenham Lawn Tennis Club 1\n10\n-\n2\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "Twickenham Lawn Tennis Club 1\n10\n-\n2\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nUnknown player\nWest Middlesex Lawn Tennis Club Ltd 1\n10\n-\n2\nTrailfinders Sports Club 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n10\n-\n2\nTrailfinders Sports Club 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nKenton Lawn Tennis Club 1\n-\nTwickenham Lawn Tennis Club 1",
+      "away": "Kenton Lawn Tennis Club 1\n-\nTwickenham Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    }
+  ]
+}

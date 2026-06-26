@@ -1,0 +1,95 @@
+{
+  "drawId": "1424eff6-c4f2-4092-a7b9-032dbfcd0ba7-4",
+  "competitionId": "1424eff6-c4f2-4092-a7b9-032dbfcd0ba7",
+  "competitionName": "12 & Under Boys\n \u2013 12&U Boys              \u2013 South East North",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/1424EFF6-C4F2-4092-A7B9-032DBFCD0BA7/draw/4",
+  "scrapedAt": "2026-06-26T15:52:40.288654+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 6,
+      "rubbers": "28-8",
+      "points": 308
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "28-8",
+      "points": 2810
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "14-22",
+      "points": 1425
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 0,
+      "rubbers": "2-34",
+      "points": 534
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 21/03/2026\nSurbiton Racket & Fitness Club 2\n2\n-\n10\nCambridge Lawn Tennis Club 1",
+      "away": "Surbiton Racket & Fitness Club 2\n2\n-\n10\nCambridge Lawn Tennis Club 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sat 21/03/2026"
+    },
+    {
+      "home": "Sat 21/03/2026\nLetchworth Sports and Tennis Club Ltd 1\n0\n-\n12\nEaling Lawn Tennis Club 1",
+      "away": "Letchworth Sports and Tennis Club Ltd 1\n0\n-\n12\nEaling Lawn Tennis Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sat 21/03/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nSurbiton Racket & Fitness Club 2\n10\n-\n2\nLetchworth Sports and Tennis Club Ltd 1",
+      "away": "Surbiton Racket & Fitness Club 2\n10\n-\n2\nLetchworth Sports and Tennis Club Ltd 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nCambridge Lawn Tennis Club 1\n6\n-\n6\nEaling Lawn Tennis Club 1",
+      "away": "Cambridge Lawn Tennis Club 1\n6\n-\n6\nEaling Lawn Tennis Club 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nEaling Lawn Tennis Club 1\n10\n-\n2\nSurbiton Racket & Fitness Club 2",
+      "away": "Ealing Lawn Tennis Club 1\n10\n-\n2\nSurbiton Racket & Fitness Club 2",
+      "hs": 102,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nLetchworth Sports and Tennis Club Ltd 1\n0\n-\n12\nCambridge Lawn Tennis Club 1",
+      "away": "Letchworth Sports and Tennis Club Ltd 1\n0\n-\n12\nCambridge Lawn Tennis Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    }
+  ]
+}

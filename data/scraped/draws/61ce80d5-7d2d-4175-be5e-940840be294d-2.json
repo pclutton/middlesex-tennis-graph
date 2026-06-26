@@ -1,0 +1,178 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-2",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "Open Womens Division 1 \u2013 Open Womens Division 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/2",
+  "scrapedAt": "2026-06-26T15:41:48.242724+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 8,
+      "rubbers": "30-18",
+      "points": 3125
+    },
+    {
+      "rank": 2,
+      "name": "5",
+      "played": 4,
+      "won": 0,
+      "drawn": 1,
+      "lost": 8,
+      "rubbers": "40-20",
+      "points": 4220
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 4,
+      "rubbers": "32-16",
+      "points": 3319
+    },
+    {
+      "rank": 4,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 2,
+      "rubbers": "20-28",
+      "points": 2430
+    },
+    {
+      "rank": 5,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 2,
+      "rubbers": "10-38",
+      "points": 1138
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 0,
+      "rubbers": "12-24",
+      "points": 1524
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 19/04/2026\nCoolhurst LTC 1\n6\n-\n6\nThe Queens Club 2",
+      "away": "Coolhurst LTC 1\n6\n-\n6\nThe Queens Club 2",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nCumberland Lawn Tennis Club 2\n12\n-\n0\nThe Hurlingham Club 1",
+      "away": "Cumberland Lawn Tennis Club 2\n12\n-\n0\nThe Hurlingham Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nThe Queens Club 2\n10\n-\n2\nPaddington Sports Club 1",
+      "away": "The Queens Club 2\n10\n-\n2\nPaddington Sports Club 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nThe Hurlingham Club 1\n10\n-\n2\nDavid Lloyd Club Northwood 1",
+      "away": "The Hurlingham Club 1\n10\n-\n2\nDavid Lloyd Club Northwood 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nCoolhurst LTC 1\n6\n-\n6\nCumberland Lawn Tennis Club 2",
+      "away": "Coolhurst LTC 1\n6\n-\n6\nCumberland Lawn Tennis Club 2",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nCumberland Lawn Tennis Club 2\n4\n-\n8\nThe Queens Club 2",
+      "away": "Cumberland Lawn Tennis Club 2\n4\n-\n8\nThe Queens Club 2",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nUnknown player\nPaddington Sports Club 1\n12\n-\n0\nThe Hurlingham Club 1",
+      "away": "Paddington Sports Club 1\n12\n-\n0\nThe Hurlingham Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nDavid Lloyd Club Northwood 1\n4\n-\n8\nCoolhurst LTC 1",
+      "away": "David Lloyd Club Northwood 1\n4\n-\n8\nCoolhurst LTC 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nThe Queens Club 2\n-\nThe Hurlingham Club 1",
+      "away": "The Queens Club 2\n-\nThe Hurlingham Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nCoolhurst LTC 1\n8\n-\n4\nPaddington Sports Club 1",
+      "away": "Coolhurst LTC 1\n8\n-\n4\nPaddington Sports Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nPaddington Sports Club 1\n2\n-\n10\nCumberland Lawn Tennis Club 2",
+      "away": "Paddington Sports Club 1\n2\n-\n10\nCumberland Lawn Tennis Club 2",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nThe Hurlingham Club 1\n0\n-\n12\nCoolhurst LTC 1",
+      "away": "The Hurlingham Club 1\n0\n-\n12\nCoolhurst LTC 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nDavid Lloyd Club Northwood 1\n6\n-\n6\nThe Queens Club 2",
+      "away": "David Lloyd Club Northwood 1\n6\n-\n6\nThe Queens Club 2",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nCumberland Lawn Tennis Club 2\n14:00\nDavid Lloyd Club Northwood 1",
+      "away": "Cumberland Lawn Tennis Club 2\n14:00\nDavid Lloyd Club Northwood 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sun 12/07/2026\nDavid Lloyd Club Northwood 1\n15:00\nPaddington Sports Club 1",
+      "away": "David Lloyd Club Northwood 1\n15:00\nPaddington Sports Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 12/07/2026"
+    }
+  ]
+}

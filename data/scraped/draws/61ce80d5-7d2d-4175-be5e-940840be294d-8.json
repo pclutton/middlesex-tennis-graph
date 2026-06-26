@@ -1,0 +1,178 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-8",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "Open Mens Division 2 onwards\n \u2013 Open Mens Division 3              \u2013 Division 3 West",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/8",
+  "scrapedAt": "2026-06-26T15:43:58.549839+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 8,
+      "rubbers": "46-2",
+      "points": 465
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 6,
+      "rubbers": "20-28",
+      "points": 2432
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 4,
+      "rubbers": "28-20",
+      "points": 3121
+    },
+    {
+      "rank": 4,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 4,
+      "rubbers": "22-26",
+      "points": 2730
+    },
+    {
+      "rank": 5,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 2,
+      "rubbers": "18-30",
+      "points": 2134
+    },
+    {
+      "rank": 6,
+      "name": "4",
+      "played": 0,
+      "won": 0,
+      "drawn": 4,
+      "lost": 0,
+      "rubbers": "10-38",
+      "points": 1340
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 19/04/2026\nDavid Lloyd Club Acton Park 1\n12\n-\n0\nThe Hurlingham Club 2",
+      "away": "David Lloyd Club Acton Park 1\n12\n-\n0\nThe Hurlingham Club 2",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nPaddington Sports Club 1\n12\n-\n0\nHarbour Club Chelsea 1",
+      "away": "Paddington Sports Club 1\n12\n-\n0\nHarbour Club Chelsea 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nTeddington Lawn Tennis Club 1\n4\n-\n8\nHarbour Club Chelsea 1",
+      "away": "Teddington Lawn Tennis Club 1\n4\n-\n8\nHarbour Club Chelsea 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nThe Hurlingham Club 2\n0\n-\n12\nPaddington Sports Club 1",
+      "away": "The Hurlingham Club 2\n0\n-\n12\nPaddington Sports Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nThe Parsons Green Club 1\n8\n-\n4\nDavid Lloyd Club Acton Park 1",
+      "away": "The Parsons Green Club 1\n8\n-\n4\nDavid Lloyd Club Acton Park 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nHarbour Club Chelsea 1\n6\n-\n6\nThe Hurlingham Club 2",
+      "away": "Harbour Club Chelsea 1\n6\n-\n6\nThe Hurlingham Club 2",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nDavid Lloyd Club Acton Park 1\n10\n-\n2\nTeddington Lawn Tennis Club 1",
+      "away": "David Lloyd Club Acton Park 1\n10\n-\n2\nTeddington Lawn Tennis Club 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nPaddington Sports Club 1\n12\n-\n0\nThe Parsons Green Club 1",
+      "away": "Paddington Sports Club 1\n12\n-\n0\nThe Parsons Green Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nThe Parsons Green Club 1\n6\n-\n6\nHarbour Club Chelsea 1",
+      "away": "The Parsons Green Club 1\n6\n-\n6\nHarbour Club Chelsea 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nTeddington Lawn Tennis Club 1\n8\n-\n4\nThe Hurlingham Club 2",
+      "away": "Teddington Lawn Tennis Club 1\n8\n-\n4\nThe Hurlingham Club 2",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nDavid Lloyd Club Acton Park 1\n2\n-\n10\nPaddington Sports Club 1",
+      "away": "David Lloyd Club Acton Park 1\n2\n-\n10\nPaddington Sports Club 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nThe Parsons Green Club 1\n8\n-\n4\nTeddington Lawn Tennis Club 1",
+      "away": "The Parsons Green Club 1\n8\n-\n4\nTeddington Lawn Tennis Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nThe Hurlingham Club 2\n10:15\nThe Parsons Green Club 1",
+      "away": "The Hurlingham Club 2\n10:15\nThe Parsons Green Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nHarbour Club Chelsea 1\n15:00\nDavid Lloyd Club Acton Park 1",
+      "away": "Harbour Club Chelsea 1\n15:00\nDavid Lloyd Club Acton Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nPaddington Sports Club 1\n10:00\nTeddington Lawn Tennis Club 1",
+      "away": "Paddington Sports Club 1\n10:00\nTeddington Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    }
+  ]
+}

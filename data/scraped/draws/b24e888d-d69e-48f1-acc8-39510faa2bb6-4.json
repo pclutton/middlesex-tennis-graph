@@ -1,0 +1,230 @@
+{
+  "drawId": "b24e888d-d69e-48f1-acc8-39510faa2bb6-4",
+  "competitionId": "b24e888d-d69e-48f1-acc8-39510faa2bb6",
+  "competitionName": "40O Mixed League\n \u2013 Division 2              \u2013 Division 2 West",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B24E888D-D69E-48F1-ACC8-39510FAA2BB6/draw/4",
+  "scrapedAt": "2026-06-26T18:15:30.914451+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 49,
+      "rubbers": "49-15",
+      "points": 247
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 19,
+      "rubbers": "19-29",
+      "points": 914
+    },
+    {
+      "rank": 3,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 14,
+      "rubbers": "14-18",
+      "points": 79
+    },
+    {
+      "rank": 4,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 14,
+      "rubbers": "14-18",
+      "points": 79
+    },
+    {
+      "rank": 5,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 12,
+      "rubbers": "12-20",
+      "points": 510
+    },
+    {
+      "rank": 6,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "4-12",
+      "points": 25
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 09/05/2026\nHarrow Lawn Tennis Club 2\n13:00\nKenton Lawn Tennis Club 2",
+      "away": "Harrow Lawn Tennis Club 2\n13:00\nKenton Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nHartswood Lawn Tennis Club Ltd 1\n16\n-\n0\nPinner Lawn Tennis Club 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 1\n16\n-\n0\nPinner Lawn Tennis Club 1",
+      "hs": 160,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nVirgin Active Chiswick Riverside 1\n4\n-\n12\nThistleworth LTC 1",
+      "away": "Virgin Active Chiswick Riverside 1\n4\n-\n12\nThistleworth LTC 1",
+      "hs": 412,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nBushy Park Tennis Club Teddington 1\n10\n-\n6\nVirgin Active Chiswick Riverside 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n10\n-\n6\nVirgin Active Chiswick Riverside 1",
+      "hs": 106,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sat 23/05/2026\nThistleworth LTC 1\n2\n-\n14\nHartswood Lawn Tennis Club Ltd 1",
+      "away": "Thistleworth LTC 1\n2\n-\n14\nHartswood Lawn Tennis Club Ltd 1",
+      "hs": 214,
+      "as": null,
+      "date": "Sat 23/05/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nPinner Lawn Tennis Club 1\n-\nHarrow Lawn Tennis Club 2",
+      "away": "Pinner Lawn Tennis Club 1\n-\nHarrow Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sat 30/05/2026\nKenton Lawn Tennis Club 2\n4\n-\n12\nPinner Lawn Tennis Club 1",
+      "away": "Kenton Lawn Tennis Club 2\n4\n-\n12\nPinner Lawn Tennis Club 1",
+      "hs": 412,
+      "as": null,
+      "date": "Sat 30/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nHarrow Lawn Tennis Club 2\n13:00\nThistleworth LTC 1",
+      "away": "Harrow Lawn Tennis Club 2\n13:00\nThistleworth LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nHartswood Lawn Tennis Club Ltd 1\n12\n-\n4\nBushy Park Tennis Club Teddington 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 1\n12\n-\n4\nBushy Park Tennis Club Teddington 1",
+      "hs": 124,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nVirgin Active Chiswick Riverside 1\n9\n-\n7\nHartswood Lawn Tennis Club Ltd 1",
+      "away": "Virgin Active Chiswick Riverside 1\n9\n-\n7\nHartswood Lawn Tennis Club Ltd 1",
+      "hs": 97,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nThistleworth LTC 1\n15:30\nKenton Lawn Tennis Club 2",
+      "away": "Thistleworth LTC 1\n15:30\nKenton Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nBushy Park Tennis Club Teddington 1\n-\nHarrow Lawn Tennis Club 2",
+      "away": "Bushy Park Tennis Club Teddington 1\n-\nHarrow Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nHarrow Lawn Tennis Club 2\n13:00\nVirgin Active Chiswick Riverside 1",
+      "away": "Harrow Lawn Tennis Club 2\n13:00\nVirgin Active Chiswick Riverside 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sat 04/07/2026\nKenton Lawn Tennis Club 2\n13:00\nBushy Park Tennis Club Teddington 1",
+      "away": "Kenton Lawn Tennis Club 2\n13:00\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/07/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nPinner Lawn Tennis Club 1\n-\nThistleworth LTC 1",
+      "away": "Pinner Lawn Tennis Club 1\n-\nThistleworth LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sun 19/07/2026\nBushy Park Tennis Club Teddington 1\n-\nPinner Lawn Tennis Club 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n-\nPinner Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/07/2026"
+    },
+    {
+      "home": "Sun 19/07/2026\nHartswood Lawn Tennis Club Ltd 1\n10:30\nHarrow Lawn Tennis Club 2",
+      "away": "Hartswood Lawn Tennis Club Ltd 1\n10:30\nHarrow Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/07/2026"
+    },
+    {
+      "home": "Sun 19/07/2026\nVirgin Active Chiswick Riverside 1\n14:00\nKenton Lawn Tennis Club 2",
+      "away": "Virgin Active Chiswick Riverside 1\n14:00\nKenton Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/07/2026"
+    },
+    {
+      "home": "Sat 01/08/2026\nThistleworth LTC 1\n15:30\nBushy Park Tennis Club Teddington 1",
+      "away": "Thistleworth LTC 1\n15:30\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 01/08/2026"
+    },
+    {
+      "home": "Sun 02/08/2026\nPinner Lawn Tennis Club 1\n-\nVirgin Active Chiswick Riverside 1",
+      "away": "Pinner Lawn Tennis Club 1\n-\nVirgin Active Chiswick Riverside 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 02/08/2026"
+    },
+    {
+      "home": "Sun 02/08/2026\nKenton Lawn Tennis Club 2\n11:00\nHartswood Lawn Tennis Club Ltd 1",
+      "away": "Kenton Lawn Tennis Club 2\n11:00\nHartswood Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 02/08/2026"
+    }
+  ]
+}

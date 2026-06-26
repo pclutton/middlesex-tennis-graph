@@ -1,0 +1,137 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-65",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "12&U Girls Division 2\n \u2013 12&U Girls Division 2              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/65",
+  "scrapedAt": "2026-06-26T14:34:27.485134+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 6,
+      "rubbers": "16-8",
+      "points": 168
+    },
+    {
+      "rank": 2,
+      "name": "5",
+      "played": 3,
+      "won": 0,
+      "drawn": 2,
+      "lost": 6,
+      "rubbers": "22-8",
+      "points": 238
+    },
+    {
+      "rank": 3,
+      "name": "5",
+      "played": 2,
+      "won": 0,
+      "drawn": 3,
+      "lost": 4,
+      "rubbers": "12-18",
+      "points": 1419
+    },
+    {
+      "rank": 4,
+      "name": "6",
+      "played": 2,
+      "won": 0,
+      "drawn": 4,
+      "lost": 4,
+      "rubbers": "10-26",
+      "points": 1028
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 25/04/2026\nOakleigh Park Lawn Tennis & Squash Club 1\n4\n-\n2\nVicars Moor LTC 1",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 1\n4\n-\n2\nVicars Moor LTC 1",
+      "hs": 42,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sat 02/05/2026\nCumberland Lawn Tennis Club & Hampstead Cricket 1\n0\n-\n6\nConway Lawn Tennis Club 1",
+      "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1\n0\n-\n6\nConway Lawn Tennis Club 1",
+      "hs": 6,
+      "as": null,
+      "date": "Sat 02/05/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nNo show\nCumberland Lawn Tennis Club & Hampstead Cricket 1\n6\n-\n0\nOakleigh Park Lawn Tennis & Squash Club 1",
+      "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1\n6\n-\n0\nOakleigh Park Lawn Tennis & Squash Club 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nConway Lawn Tennis Club 1\n2\n-\n4\nVicars Moor LTC 1",
+      "away": "Conway Lawn Tennis Club 1\n2\n-\n4\nVicars Moor LTC 1",
+      "hs": 24,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sat 23/05/2026\nOakleigh Park Lawn Tennis & Squash Club 1\n0\n-\n6\nConway Lawn Tennis Club 1",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 1\n0\n-\n6\nConway Lawn Tennis Club 1",
+      "hs": 6,
+      "as": null,
+      "date": "Sat 23/05/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nUnknown player\nVicars Moor LTC 1\n0\n-\n6\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "away": "Vicars Moor LTC 1\n0\n-\n6\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "hs": 6,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nVicars Moor LTC 1\n2\n-\n4\nOakleigh Park Lawn Tennis & Squash Club 1",
+      "away": "Vicars Moor LTC 1\n2\n-\n4\nOakleigh Park Lawn Tennis & Squash Club 1",
+      "hs": 24,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nUnknown player\nOakleigh Park Lawn Tennis & Squash Club 1\n2\n-\n4\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 1\n2\n-\n4\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "hs": 24,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nVicars Moor LTC 1\n4\n-\n2\nConway Lawn Tennis Club 1",
+      "away": "Vicars Moor LTC 1\n4\n-\n2\nConway Lawn Tennis Club 1",
+      "hs": 42,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nConway Lawn Tennis Club 1\n6\n-\n0\nOakleigh Park Lawn Tennis & Squash Club 1",
+      "away": "Conway Lawn Tennis Club 1\n6\n-\n0\nOakleigh Park Lawn Tennis & Squash Club 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nCumberland Lawn Tennis Club & Hampstead Cricket 1\n16:00\nVicars Moor LTC 1",
+      "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1\n16:00\nVicars Moor LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nPostponed\nConway Lawn Tennis Club 1\n13:00\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "away": "Conway Lawn Tennis Club 1\n13:00\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    }
+  ]
+}

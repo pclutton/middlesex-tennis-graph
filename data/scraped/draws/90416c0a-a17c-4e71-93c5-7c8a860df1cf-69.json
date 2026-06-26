@@ -1,0 +1,230 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-69",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Womens Doubles\n \u2013 North East Division 3              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/69",
+  "scrapedAt": "2026-06-26T14:24:31.068595+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 62,
+      "rubbers": "62-10",
+      "points": 315
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 44,
+      "rubbers": "44-28",
+      "points": 2214
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 38,
+      "rubbers": "38-58",
+      "points": 1929
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 0,
+      "won": 1,
+      "drawn": 2,
+      "lost": 26,
+      "rubbers": "26-46",
+      "points": 1323
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 0,
+      "won": 1,
+      "drawn": 2,
+      "lost": 26,
+      "rubbers": "26-46",
+      "points": 1323
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 26,
+      "rubbers": "26-46",
+      "points": 1323
+    },
+    {
+      "rank": 7,
+      "name": "1",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 18,
+      "rubbers": "18-6",
+      "points": 93
+    }
+  ],
+  "matches": [
+    {
+      "home": "Thu 16/04/2026\nDavid Lloyd Finchley 3\n10\n-\n14\nFinchley Manor 2",
+      "away": "David Lloyd Finchley 3\n10\n-\n14\nFinchley Manor 2",
+      "hs": 1014,
+      "as": null,
+      "date": "Thu 16/04/2026"
+    },
+    {
+      "home": "Mon 20/04/2026\nFinchley 2\n20\n-\n4\nBrampton 1",
+      "away": "Finchley 2\n20\n-\n4\nBrampton 1",
+      "hs": 204,
+      "as": null,
+      "date": "Mon 20/04/2026"
+    },
+    {
+      "home": "Tue 05/05/2026\nOakleigh Park 2\n12\n-\n12\nBrampton 1",
+      "away": "Oakleigh Park 2\n12\n-\n12\nBrampton 1",
+      "hs": 1212,
+      "as": null,
+      "date": "Tue 05/05/2026"
+    },
+    {
+      "home": "Mon 11/05/2026\nElmwood 1\n18\n-\n6\nFinchley 2",
+      "away": "Elmwood 1\n18\n-\n6\nFinchley 2",
+      "hs": 186,
+      "as": null,
+      "date": "Mon 11/05/2026"
+    },
+    {
+      "home": "Mon 11/05/2026\nSouth Hampstead 2\n18\n-\n6\nOakleigh Park 2",
+      "away": "South Hampstead 2\n18\n-\n6\nOakleigh Park 2",
+      "hs": 186,
+      "as": null,
+      "date": "Mon 11/05/2026"
+    },
+    {
+      "home": "Tue 19/05/2026\nSouth Hampstead 2\n24\n-\n0\nDavid Lloyd Finchley 3",
+      "away": "South Hampstead 2\n24\n-\n0\nDavid Lloyd Finchley 3",
+      "hs": 240,
+      "as": null,
+      "date": "Tue 19/05/2026"
+    },
+    {
+      "home": "Mon 01/06/2026\nFinchley 2\n8\n-\n16\nFinchley Manor 2",
+      "away": "Finchley 2\n8\n-\n16\nFinchley Manor 2",
+      "hs": 816,
+      "as": null,
+      "date": "Mon 01/06/2026"
+    },
+    {
+      "home": "Fri 05/06/2026\nDavid Lloyd Finchley 3\n16\n-\n8\nOakleigh Park 2",
+      "away": "David Lloyd Finchley 3\n16\n-\n8\nOakleigh Park 2",
+      "hs": 168,
+      "as": null,
+      "date": "Fri 05/06/2026"
+    },
+    {
+      "home": "Thu 11/06/2026\nBrampton 1\n18:30\nElmwood 1",
+      "away": "Brampton 1\n18:30\nElmwood 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 11/06/2026"
+    },
+    {
+      "home": "Thu 18/06/2026\nFinchley Manor 2\n14\n-\n10\nBrampton 1",
+      "away": "Finchley Manor 2\n14\n-\n10\nBrampton 1",
+      "hs": 1410,
+      "as": null,
+      "date": "Thu 18/06/2026"
+    },
+    {
+      "home": "Thu 18/06/2026\nSouth Hampstead 2\n20\n-\n4\nFinchley 2",
+      "away": "South Hampstead 2\n20\n-\n4\nFinchley 2",
+      "hs": 204,
+      "as": null,
+      "date": "Thu 18/06/2026"
+    },
+    {
+      "home": "Tue 23/06/2026\nOakleigh Park 2\n19:00\nElmwood 1",
+      "away": "Oakleigh Park 2\n19:00\nElmwood 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 23/06/2026"
+    },
+    {
+      "home": "Mon 29/06/2026\nElmwood 1\n-\nFinchley Manor 2",
+      "away": "Elmwood 1\n-\nFinchley Manor 2",
+      "hs": null,
+      "as": null,
+      "date": "Mon 29/06/2026"
+    },
+    {
+      "home": "Mon 29/06/2026\nFinchley 2\n18:30\nDavid Lloyd Finchley 3",
+      "away": "Finchley 2\n18:30\nDavid Lloyd Finchley 3",
+      "hs": null,
+      "as": null,
+      "date": "Mon 29/06/2026"
+    },
+    {
+      "home": "Tue 07/07/2026\nBrampton 1\n18:30\nSouth Hampstead 2",
+      "away": "Brampton 1\n18:30\nSouth Hampstead 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 07/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nDavid Lloyd Finchley 3\n18:30\nBrampton 1",
+      "away": "David Lloyd Finchley 3\n18:30\nBrampton 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Tue 21/07/2026\nSouth Hampstead 2\n18:30\nElmwood 1",
+      "away": "South Hampstead 2\n18:30\nElmwood 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 21/07/2026"
+    },
+    {
+      "home": "Tue 21/07/2026\nOakleigh Park 2\n19:00\nFinchley Manor 2",
+      "away": "Oakleigh Park 2\n19:00\nFinchley Manor 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 21/07/2026"
+    },
+    {
+      "home": "Mon 27/07/2026\nFinchley 2\n18:30\nOakleigh Park 2",
+      "away": "Finchley 2\n18:30\nOakleigh Park 2",
+      "hs": null,
+      "as": null,
+      "date": "Mon 27/07/2026"
+    },
+    {
+      "home": "Mon 03/08/2026\nFinchley Manor 2\n18:30\nSouth Hampstead 2",
+      "away": "Finchley Manor 2\n18:30\nSouth Hampstead 2",
+      "hs": null,
+      "as": null,
+      "date": "Mon 03/08/2026"
+    },
+    {
+      "home": "Thu 06/08/2026\nElmwood 1\n18:30\nDavid Lloyd Finchley 3",
+      "away": "Elmwood 1\n18:30\nDavid Lloyd Finchley 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 06/08/2026"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-3",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Mens Doubles \n \u2013 North West Division 4              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/3",
+  "scrapedAt": "2026-06-26T14:21:02.228268+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 70,
+      "rubbers": "70-26",
+      "points": 3513
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 64,
+      "rubbers": "64-32",
+      "points": 3015
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 54,
+      "rubbers": "54-38",
+      "points": 2719
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 1,
+      "won": 1,
+      "drawn": 1,
+      "lost": 44,
+      "rubbers": "44-28",
+      "points": 2214
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 34,
+      "rubbers": "34-34",
+      "points": 1717
+    },
+    {
+      "rank": 6,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 34,
+      "rubbers": "34-62",
+      "points": 1731
+    },
+    {
+      "rank": 7,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 32,
+      "rubbers": "32-64",
+      "points": 1530
+    },
+    {
+      "rank": 8,
+      "name": "4",
+      "played": 0,
+      "won": 1,
+      "drawn": 3,
+      "lost": 24,
+      "rubbers": "24-72",
+      "points": 1236
+    }
+  ],
+  "matches": [
+    {
+      "home": "Thu 07/05/2026\nCarlton Century Tennis Club 1\n16\n-\n8\nWayfarers LTC 3",
+      "away": "Carlton Century Tennis Club 1\n16\n-\n8\nWayfarers LTC 3",
+      "hs": 168,
+      "as": null,
+      "date": "Thu 07/05/2026"
+    },
+    {
+      "home": "Thu 07/05/2026\nEastcote Lawn Tennis Club 4\n6\n-\n18\nAcorn Lawn Tennis Club 2",
+      "away": "Eastcote Lawn Tennis Club 4\n6\n-\n18\nAcorn Lawn Tennis Club 2",
+      "hs": 618,
+      "as": null,
+      "date": "Thu 07/05/2026"
+    },
+    {
+      "home": "Fri 08/05/2026\nPinner West End Lawn Tennis Club 2\n0\n-\n24\nPinner Lawn Tennis Club 4",
+      "away": "Pinner West End Lawn Tennis Club 2\n0\n-\n24\nPinner Lawn Tennis Club 4",
+      "hs": 24,
+      "as": null,
+      "date": "Fri 08/05/2026"
+    },
+    {
+      "home": "Mon 11/05/2026\nWembley Lawn Tennis Club 1\n24\n-\n0\nHarrow Lawn Tennis Club 3",
+      "away": "Wembley Lawn Tennis Club 1\n24\n-\n0\nHarrow Lawn Tennis Club 3",
+      "hs": 240,
+      "as": null,
+      "date": "Mon 11/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nHarrow Lawn Tennis Club 3\n18\n-\n6\nPinner West End Lawn Tennis Club 2",
+      "away": "Harrow Lawn Tennis Club 3\n18\n-\n6\nPinner West End Lawn Tennis Club 2",
+      "hs": 186,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nWayfarers LTC 3\n10\n-\n14\nAcorn Lawn Tennis Club 2",
+      "away": "Wayfarers LTC 3\n10\n-\n14\nAcorn Lawn Tennis Club 2",
+      "hs": 1014,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nPinner Lawn Tennis Club 4\n18\n-\n6\nEastcote Lawn Tennis Club 4",
+      "away": "Pinner Lawn Tennis Club 4\n18\n-\n6\nEastcote Lawn Tennis Club 4",
+      "hs": 186,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Thu 28/05/2026\nUnknown player\nCarlton Century Tennis Club 1\n16\n-\n8\nWembley Lawn Tennis Club 1",
+      "away": "Carlton Century Tennis Club 1\n16\n-\n8\nWembley Lawn Tennis Club 1",
+      "hs": 168,
+      "as": null,
+      "date": "Thu 28/05/2026"
+    },
+    {
+      "home": "Mon 01/06/2026\nEastcote Lawn Tennis Club 4\n18\n-\n6\nHarrow Lawn Tennis Club 3",
+      "away": "Eastcote Lawn Tennis Club 4\n18\n-\n6\nHarrow Lawn Tennis Club 3",
+      "hs": 186,
+      "as": null,
+      "date": "Mon 01/06/2026"
+    },
+    {
+      "home": "Tue 02/06/2026\nAcorn Lawn Tennis Club 2\n16\n-\n8\nPinner Lawn Tennis Club 4",
+      "away": "Acorn Lawn Tennis Club 2\n16\n-\n8\nPinner Lawn Tennis Club 4",
+      "hs": 168,
+      "as": null,
+      "date": "Tue 02/06/2026"
+    },
+    {
+      "home": "Wed 03/06/2026\nWembley Lawn Tennis Club 1\n18:30\nWayfarers LTC 3",
+      "away": "Wembley Lawn Tennis Club 1\n18:30\nWayfarers LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Wed 03/06/2026"
+    },
+    {
+      "home": "Mon 08/06/2026\nPinner West End Lawn Tennis Club 2\n6\n-\n18\nCarlton Century Tennis Club 1",
+      "away": "Pinner West End Lawn Tennis Club 2\n6\n-\n18\nCarlton Century Tennis Club 1",
+      "hs": 618,
+      "as": null,
+      "date": "Mon 08/06/2026"
+    },
+    {
+      "home": "Mon 15/06/2026\nWembley Lawn Tennis Club 1\n12\n-\n12\nPinner West End Lawn Tennis Club 2",
+      "away": "Wembley Lawn Tennis Club 1\n12\n-\n12\nPinner West End Lawn Tennis Club 2",
+      "hs": 1212,
+      "as": null,
+      "date": "Mon 15/06/2026"
+    },
+    {
+      "home": "Thu 18/06/2026\nCarlton Century Tennis Club 1\n20\n-\n4\nEastcote Lawn Tennis Club 4",
+      "away": "Carlton Century Tennis Club 1\n20\n-\n4\nEastcote Lawn Tennis Club 4",
+      "hs": 204,
+      "as": null,
+      "date": "Thu 18/06/2026"
+    },
+    {
+      "home": "Thu 18/06/2026\nUnknown player\nWayfarers LTC 3\n16\n-\n4\nPinner Lawn Tennis Club 4",
+      "away": "Wayfarers LTC 3\n16\n-\n4\nPinner Lawn Tennis Club 4",
+      "hs": 164,
+      "as": null,
+      "date": "Thu 18/06/2026"
+    },
+    {
+      "home": "Mon 22/06/2026\nAdmin modified\nHarrow Lawn Tennis Club 3\n8\n-\n16\nAcorn Lawn Tennis Club 2",
+      "away": "Harrow Lawn Tennis Club 3\n8\n-\n16\nAcorn Lawn Tennis Club 2",
+      "hs": 816,
+      "as": null,
+      "date": "Mon 22/06/2026"
+    },
+    {
+      "home": "Mon 29/06/2026\nPinner West End Lawn Tennis Club 2\n18:30\nWayfarers LTC 3",
+      "away": "Pinner West End Lawn Tennis Club 2\n18:30\nWayfarers LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Mon 29/06/2026"
+    },
+    {
+      "home": "Tue 30/06/2026\nAcorn Lawn Tennis Club 2\n18:30\nCarlton Century Tennis Club 1",
+      "away": "Acorn Lawn Tennis Club 2\n18:30\nCarlton Century Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 30/06/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nEastcote Lawn Tennis Club 4\n18:30\nWembley Lawn Tennis Club 1",
+      "away": "Eastcote Lawn Tennis Club 4\n18:30\nWembley Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nPinner Lawn Tennis Club 4\n18:30\nHarrow Lawn Tennis Club 3",
+      "away": "Pinner Lawn Tennis Club 4\n18:30\nHarrow Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nWayfarers LTC 3\n18:30\nHarrow Lawn Tennis Club 3",
+      "away": "Wayfarers LTC 3\n18:30\nHarrow Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nPinner West End Lawn Tennis Club 2\n18:30\nEastcote Lawn Tennis Club 4",
+      "away": "Pinner West End Lawn Tennis Club 2\n18:30\nEastcote Lawn Tennis Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Mon 20/07/2026\nWembley Lawn Tennis Club 1\n18:00\nAcorn Lawn Tennis Club 2",
+      "away": "Wembley Lawn Tennis Club 1\n18:00\nAcorn Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Mon 20/07/2026"
+    },
+    {
+      "home": "Thu 23/07/2026\nCarlton Century Tennis Club 1\n18:30\nPinner Lawn Tennis Club 4",
+      "away": "Carlton Century Tennis Club 1\n18:30\nPinner Lawn Tennis Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Thu 23/07/2026"
+    },
+    {
+      "home": "Tue 28/07/2026\nAcorn Lawn Tennis Club 2\n18:30\nPinner West End Lawn Tennis Club 2",
+      "away": "Acorn Lawn Tennis Club 2\n18:30\nPinner West End Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 28/07/2026"
+    },
+    {
+      "home": "Thu 30/07/2026\nEastcote Lawn Tennis Club 4\n18:30\nWayfarers LTC 3",
+      "away": "Eastcote Lawn Tennis Club 4\n18:30\nWayfarers LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 30/07/2026"
+    },
+    {
+      "home": "Tue 04/08/2026\nHarrow Lawn Tennis Club 3\n18:30\nCarlton Century Tennis Club 1",
+      "away": "Harrow Lawn Tennis Club 3\n18:30\nCarlton Century Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 04/08/2026"
+    },
+    {
+      "home": "Thu 06/08/2026\nPinner Lawn Tennis Club 4\n18:30\nWembley Lawn Tennis Club 1",
+      "away": "Pinner Lawn Tennis Club 4\n18:30\nWembley Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 06/08/2026"
+    }
+  ]
+}

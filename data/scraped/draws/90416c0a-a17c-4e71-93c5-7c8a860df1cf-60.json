@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-60",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Mens Doubles \n \u2013 East Division 6              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/60",
+  "scrapedAt": "2026-06-26T14:35:00.768861+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 74,
+      "rubbers": "74-22",
+      "points": 3711
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 56,
+      "rubbers": "56-16",
+      "points": 288
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 56,
+      "rubbers": "56-40",
+      "points": 2820
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 40,
+      "rubbers": "40-32",
+      "points": 2016
+    },
+    {
+      "rank": 5,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 38,
+      "rubbers": "38-58",
+      "points": 1929
+    },
+    {
+      "rank": 6,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 32,
+      "rubbers": "32-64",
+      "points": 1632
+    },
+    {
+      "rank": 7,
+      "name": "4",
+      "played": 0,
+      "won": 0,
+      "drawn": 4,
+      "lost": 32,
+      "rubbers": "32-64",
+      "points": 1632
+    },
+    {
+      "rank": 8,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 32,
+      "rubbers": "32-64",
+      "points": 1632
+    }
+  ],
+  "matches": [
+    {
+      "home": "Tue 05/05/2026\nPotters Bar 3\n18\n-\n6\nStormont 2",
+      "away": "Potters Bar 3\n18\n-\n6\nStormont 2",
+      "hs": 186,
+      "as": null,
+      "date": "Tue 05/05/2026"
+    },
+    {
+      "home": "Fri 08/05/2026\nGeorgians 1\n20\n-\n4\nConway 3",
+      "away": "Georgians 1\n20\n-\n4\nConway 3",
+      "hs": 204,
+      "as": null,
+      "date": "Fri 08/05/2026"
+    },
+    {
+      "home": "Mon 11/05/2026\nHighgate 4\n10\n-\n14\nBrackendale 1",
+      "away": "Highgate 4\n10\n-\n14\nBrackendale 1",
+      "hs": 1014,
+      "as": null,
+      "date": "Mon 11/05/2026"
+    },
+    {
+      "home": "Fri 15/05/2026\nMayfield 2\n16\n-\n8\nCoolhurst 8",
+      "away": "Mayfield 2\n16\n-\n8\nCoolhurst 8",
+      "hs": 168,
+      "as": null,
+      "date": "Fri 15/05/2026"
+    },
+    {
+      "home": "Tue 19/05/2026\nStormont 2\n6\n-\n18\nCoolhurst 8",
+      "away": "Stormont 2\n6\n-\n18\nCoolhurst 8",
+      "hs": 618,
+      "as": null,
+      "date": "Tue 19/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nBrackendale 1\n6\n-\n18\nMayfield 2",
+      "away": "Brackendale 1\n6\n-\n18\nMayfield 2",
+      "hs": 618,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Fri 22/05/2026\nConway 3\n16\n-\n8\nHighgate 4",
+      "away": "Conway 3\n16\n-\n8\nHighgate 4",
+      "hs": 168,
+      "as": null,
+      "date": "Fri 22/05/2026"
+    },
+    {
+      "home": "Thu 28/05/2026\nPotters Bar 3\n8\n-\n16\nGeorgians 1",
+      "away": "Potters Bar 3\n8\n-\n16\nGeorgians 1",
+      "hs": 816,
+      "as": null,
+      "date": "Thu 28/05/2026"
+    },
+    {
+      "home": "Wed 03/06/2026\nHighgate 4\n10\n-\n14\nPotters Bar 3",
+      "away": "Highgate 4\n10\n-\n14\nPotters Bar 3",
+      "hs": 1014,
+      "as": null,
+      "date": "Wed 03/06/2026"
+    },
+    {
+      "home": "Fri 05/06/2026\nMayfield 2\n22\n-\n2\nConway 3",
+      "away": "Mayfield 2\n22\n-\n2\nConway 3",
+      "hs": 222,
+      "as": null,
+      "date": "Fri 05/06/2026"
+    },
+    {
+      "home": "Thu 11/06/2026\nCoolhurst 8\n16\n-\n8\nBrackendale 1",
+      "away": "Coolhurst 8\n16\n-\n8\nBrackendale 1",
+      "hs": 168,
+      "as": null,
+      "date": "Thu 11/06/2026"
+    },
+    {
+      "home": "Fri 12/06/2026\nGeorgians 1\n18\n-\n6\nStormont 2",
+      "away": "Georgians 1\n18\n-\n6\nStormont 2",
+      "hs": 186,
+      "as": null,
+      "date": "Fri 12/06/2026"
+    },
+    {
+      "home": "Tue 16/06/2026\nStormont 2\n14\n-\n10\nBrackendale 1",
+      "away": "Stormont 2\n14\n-\n10\nBrackendale 1",
+      "hs": 1410,
+      "as": null,
+      "date": "Tue 16/06/2026"
+    },
+    {
+      "home": "Fri 19/06/2026\nConway 3\n10\n-\n14\nCoolhurst 8",
+      "away": "Conway 3\n10\n-\n14\nCoolhurst 8",
+      "hs": 1014,
+      "as": null,
+      "date": "Fri 19/06/2026"
+    },
+    {
+      "home": "Fri 19/06/2026\nGeorgians 1\n20\n-\n4\nHighgate 4",
+      "away": "Georgians 1\n20\n-\n4\nHighgate 4",
+      "hs": 204,
+      "as": null,
+      "date": "Fri 19/06/2026"
+    },
+    {
+      "home": "Wed 01/07/2026\nHighgate 4\n18:30\nStormont 2",
+      "away": "Highgate 4\n18:30\nStormont 2",
+      "hs": null,
+      "as": null,
+      "date": "Wed 01/07/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nCoolhurst 8\n18:30\nPotters Bar 3",
+      "away": "Coolhurst 8\n18:30\nPotters Bar 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Mon 06/07/2026\nBrackendale 1\n18:30\nConway 3",
+      "away": "Brackendale 1\n18:30\nConway 3",
+      "hs": null,
+      "as": null,
+      "date": "Mon 06/07/2026"
+    },
+    {
+      "home": "Wed 08/07/2026\nMayfield 2\n18:30\nGeorgians 1",
+      "away": "Mayfield 2\n18:30\nGeorgians 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 08/07/2026"
+    },
+    {
+      "home": "Tue 14/07/2026\nStormont 2\n18:30\nConway 3",
+      "away": "Stormont 2\n18:30\nConway 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 14/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nBrackendale 1\n18:30\nGeorgians 1",
+      "away": "Brackendale 1\n18:30\nGeorgians 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nConway 3\n18:30\nPotters Bar 3",
+      "away": "Conway 3\n18:30\nPotters Bar 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Mon 20/07/2026\nPostponed\nPotters Bar 3\n18:30\nMayfield 2",
+      "away": "Potters Bar 3\n18:30\nMayfield 2",
+      "hs": null,
+      "as": null,
+      "date": "Mon 20/07/2026"
+    },
+    {
+      "home": "Thu 23/07/2026\nPotters Bar 3\n18:30\nBrackendale 1",
+      "away": "Potters Bar 3\n18:30\nBrackendale 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 23/07/2026"
+    },
+    {
+      "home": "Fri 24/07/2026\nGeorgians 1\n-\nCoolhurst 8",
+      "away": "Georgians 1\n-\nCoolhurst 8",
+      "hs": null,
+      "as": null,
+      "date": "Fri 24/07/2026"
+    },
+    {
+      "home": "Fri 24/07/2026\nHighgate 4\n18:30\nMayfield 2",
+      "away": "Highgate 4\n18:30\nMayfield 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 24/07/2026"
+    },
+    {
+      "home": "Wed 29/07/2026\nMayfield 2\n18:30\nStormont 2",
+      "away": "Mayfield 2\n18:30\nStormont 2",
+      "hs": null,
+      "as": null,
+      "date": "Wed 29/07/2026"
+    },
+    {
+      "home": "Mon 03/08/2026\nCoolhurst 8\n18:30\nHighgate 4",
+      "away": "Coolhurst 8\n18:30\nHighgate 4",
+      "hs": null,
+      "as": null,
+      "date": "Mon 03/08/2026"
+    }
+  ]
+}

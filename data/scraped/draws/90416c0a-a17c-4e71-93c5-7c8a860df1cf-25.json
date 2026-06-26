@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-25",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Womens Doubles\n \u2013 West Division 4              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/25",
+  "scrapedAt": "2026-06-26T14:26:59.417935+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 62,
+      "rubbers": "62-10",
+      "points": 213
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 1,
+      "drawn": 0,
+      "lost": 50,
+      "rubbers": "50-22",
+      "points": 2511
+    },
+    {
+      "rank": 3,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 48,
+      "rubbers": "48-0",
+      "points": 240
+    },
+    {
+      "rank": 4,
+      "name": "4",
+      "played": 1,
+      "won": 1,
+      "drawn": 2,
+      "lost": 38,
+      "rubbers": "38-58",
+      "points": 1929
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 1,
+      "won": 1,
+      "drawn": 1,
+      "lost": 32,
+      "rubbers": "32-40",
+      "points": 1620
+    },
+    {
+      "rank": 6,
+      "name": "4",
+      "played": 1,
+      "won": 1,
+      "drawn": 2,
+      "lost": 32,
+      "rubbers": "32-64",
+      "points": 1632
+    },
+    {
+      "rank": 7,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 29,
+      "rubbers": "29-67",
+      "points": 618
+    },
+    {
+      "rank": 8,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 21,
+      "rubbers": "21-51",
+      "points": 519
+    }
+  ],
+  "matches": [
+    {
+      "home": "Tue 21/04/2026\nVirgin Active Chiswick Riverside 3\n0\n-\n24\nThe Queens Club Limited 2",
+      "away": "Virgin Active Chiswick Riverside 3\n0\n-\n24\nThe Queens Club Limited 2",
+      "hs": 24,
+      "as": null,
+      "date": "Tue 21/04/2026"
+    },
+    {
+      "home": "Fri 08/05/2026\nBrentham Lawn Tennis Club 2\n8\n-\n16\nWycombe House 1",
+      "away": "Brentham Lawn Tennis Club 2\n8\n-\n16\nWycombe House 1",
+      "hs": 816,
+      "as": null,
+      "date": "Fri 08/05/2026"
+    },
+    {
+      "home": "Mon 11/05/2026\nAdmin modified\nTwickenham Lawn Tennis Club 2\n4\n-\n20\nDavid Lloyd Club Acton Park 3",
+      "away": "Twickenham Lawn Tennis Club 2\n4\n-\n20\nDavid Lloyd Club Acton Park 3",
+      "hs": 420,
+      "as": null,
+      "date": "Mon 11/05/2026"
+    },
+    {
+      "home": "Tue 12/05/2026\nThe Hurlingham Club 4\n8\n-\n16\nTeddington Lawn Tennis Club 5",
+      "away": "The Hurlingham Club 4\n8\n-\n16\nTeddington Lawn Tennis Club 5",
+      "hs": 816,
+      "as": null,
+      "date": "Tue 12/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nTeddington Lawn Tennis Club 5\n22\n-\n2\nBrentham Lawn Tennis Club 2",
+      "away": "Teddington Lawn Tennis Club 5\n22\n-\n2\nBrentham Lawn Tennis Club 2",
+      "hs": 222,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Tue 19/05/2026\nDavid Lloyd Club Acton Park 3\n20\n-\n4\nWycombe House 1",
+      "away": "David Lloyd Club Acton Park 3\n20\n-\n4\nWycombe House 1",
+      "hs": 204,
+      "as": null,
+      "date": "Tue 19/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nTwickenham Lawn Tennis Club 2\n6\n-\n18\nVirgin Active Chiswick Riverside 3",
+      "away": "Twickenham Lawn Tennis Club 2\n6\n-\n18\nVirgin Active Chiswick Riverside 3",
+      "hs": 618,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Thu 28/05/2026\nThe Queens Club Limited 2\n24\n-\n0\nThe Hurlingham Club 4",
+      "away": "The Queens Club Limited 2\n24\n-\n0\nThe Hurlingham Club 4",
+      "hs": 240,
+      "as": null,
+      "date": "Thu 28/05/2026"
+    },
+    {
+      "home": "Tue 02/06/2026\nBrentham Lawn Tennis Club 2\n18:30\nThe Queens Club Limited 2",
+      "away": "Brentham Lawn Tennis Club 2\n18:30\nThe Queens Club Limited 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 02/06/2026"
+    },
+    {
+      "home": "Tue 02/06/2026\nWycombe House 1\n12\n-\n12\nTeddington Lawn Tennis Club 5",
+      "away": "Wycombe House 1\n12\n-\n12\nTeddington Lawn Tennis Club 5",
+      "hs": 1212,
+      "as": null,
+      "date": "Tue 02/06/2026"
+    },
+    {
+      "home": "Fri 05/06/2026\nVirgin Active Chiswick Riverside 3\n2\n-\n22\nDavid Lloyd Club Acton Park 3",
+      "away": "Virgin Active Chiswick Riverside 3\n2\n-\n22\nDavid Lloyd Club Acton Park 3",
+      "hs": 222,
+      "as": null,
+      "date": "Fri 05/06/2026"
+    },
+    {
+      "home": "Wed 10/06/2026\nThe Hurlingham Club 4\n18\n-\n6\nTwickenham Lawn Tennis Club 2",
+      "away": "The Hurlingham Club 4\n18\n-\n6\nTwickenham Lawn Tennis Club 2",
+      "hs": 186,
+      "as": null,
+      "date": "Wed 10/06/2026"
+    },
+    {
+      "home": "Wed 17/06/2026\nVirgin Active Chiswick Riverside 3\n12\n-\n12\nThe Hurlingham Club 4",
+      "away": "Virgin Active Chiswick Riverside 3\n12\n-\n12\nThe Hurlingham Club 4",
+      "hs": 1212,
+      "as": null,
+      "date": "Wed 17/06/2026"
+    },
+    {
+      "home": "Mon 22/06/2026\nAdmin modified\nTwickenham Lawn Tennis Club 2\n13\n-\n11\nBrentham Lawn Tennis Club 2",
+      "away": "Twickenham Lawn Tennis Club 2\n13\n-\n11\nBrentham Lawn Tennis Club 2",
+      "hs": 1311,
+      "as": null,
+      "date": "Mon 22/06/2026"
+    },
+    {
+      "home": "Mon 22/06/2026\nDavid Lloyd Club Acton Park 3\n18:30\nTeddington Lawn Tennis Club 5",
+      "away": "David Lloyd Club Acton Park 3\n18:30\nTeddington Lawn Tennis Club 5",
+      "hs": null,
+      "as": null,
+      "date": "Mon 22/06/2026"
+    },
+    {
+      "home": "Tue 23/06/2026\nThe Queens Club Limited 2\n18:30\nWycombe House 1",
+      "away": "The Queens Club Limited 2\n18:30\nWycombe House 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 23/06/2026"
+    },
+    {
+      "home": "Fri 03/07/2026\nTeddington Lawn Tennis Club 5\n18:30\nThe Queens Club Limited 2",
+      "away": "Teddington Lawn Tennis Club 5\n18:30\nThe Queens Club Limited 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 03/07/2026"
+    },
+    {
+      "home": "Wed 08/07/2026\nThe Hurlingham Club 4\n18:30\nDavid Lloyd Club Acton Park 3",
+      "away": "The Hurlingham Club 4\n18:30\nDavid Lloyd Club Acton Park 3",
+      "hs": null,
+      "as": null,
+      "date": "Wed 08/07/2026"
+    },
+    {
+      "home": "Wed 08/07/2026\nBrentham Lawn Tennis Club 2\n18:30\nVirgin Active Chiswick Riverside 3",
+      "away": "Brentham Lawn Tennis Club 2\n18:30\nVirgin Active Chiswick Riverside 3",
+      "hs": null,
+      "as": null,
+      "date": "Wed 08/07/2026"
+    },
+    {
+      "home": "Thu 09/07/2026\nWycombe House 1\n18:30\nTwickenham Lawn Tennis Club 2",
+      "away": "Wycombe House 1\n18:30\nTwickenham Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 09/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nVirgin Active Chiswick Riverside 3\n18:30\nWycombe House 1",
+      "away": "Virgin Active Chiswick Riverside 3\n18:30\nWycombe House 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Fri 17/07/2026\nThe Hurlingham Club 4\n18:30\nBrentham Lawn Tennis Club 2",
+      "away": "The Hurlingham Club 4\n18:30\nBrentham Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 17/07/2026"
+    },
+    {
+      "home": "Fri 17/07/2026\nDavid Lloyd Club Acton Park 3\n18:30\nThe Queens Club Limited 2",
+      "away": "David Lloyd Club Acton Park 3\n18:30\nThe Queens Club Limited 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 17/07/2026"
+    },
+    {
+      "home": "Mon 20/07/2026\nTwickenham Lawn Tennis Club 2\n18:30\nTeddington Lawn Tennis Club 5",
+      "away": "Twickenham Lawn Tennis Club 2\n18:30\nTeddington Lawn Tennis Club 5",
+      "hs": null,
+      "as": null,
+      "date": "Mon 20/07/2026"
+    },
+    {
+      "home": "Tue 28/07/2026\nBrentham Lawn Tennis Club 2\n18:30\nDavid Lloyd Club Acton Park 3",
+      "away": "Brentham Lawn Tennis Club 2\n18:30\nDavid Lloyd Club Acton Park 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 28/07/2026"
+    },
+    {
+      "home": "Mon 03/08/2026\nTeddington Lawn Tennis Club 5\n18:30\nVirgin Active Chiswick Riverside 3",
+      "away": "Teddington Lawn Tennis Club 5\n18:30\nVirgin Active Chiswick Riverside 3",
+      "hs": null,
+      "as": null,
+      "date": "Mon 03/08/2026"
+    },
+    {
+      "home": "Tue 04/08/2026\nWycombe House 1\n18:30\nThe Hurlingham Club 4",
+      "away": "Wycombe House 1\n18:30\nThe Hurlingham Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Tue 04/08/2026"
+    },
+    {
+      "home": "Thu 06/08/2026\nThe Queens Club Limited 2\n18:30\nTwickenham Lawn Tennis Club 2",
+      "away": "The Queens Club Limited 2\n18:30\nTwickenham Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 06/08/2026"
+    }
+  ]
+}

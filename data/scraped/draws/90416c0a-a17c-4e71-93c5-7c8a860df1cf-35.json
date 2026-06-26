@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-35",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Mens Doubles \n \u2013 North West Division 3              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/35",
+  "scrapedAt": "2026-06-26T14:20:54.187658+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 80,
+      "rubbers": "80-16",
+      "points": 408
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 58,
+      "rubbers": "58-38",
+      "points": 2919
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 46,
+      "rubbers": "46-50",
+      "points": 2325
+    },
+    {
+      "rank": 4,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 44,
+      "rubbers": "44-52",
+      "points": 2125
+    },
+    {
+      "rank": 5,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 38,
+      "rubbers": "38-58",
+      "points": 1929
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 31,
+      "rubbers": "31-41",
+      "points": 1520
+    },
+    {
+      "rank": 7,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 29,
+      "rubbers": "29-43",
+      "points": 1421
+    },
+    {
+      "rank": 8,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 10,
+      "rubbers": "10-38",
+      "points": 519
+    }
+  ],
+  "matches": [
+    {
+      "home": "Thu 30/04/2026\nAdmin modified\nLowlands Club 2\n13\n-\n11\nPaddington Sports Club 3",
+      "away": "Lowlands Club 2\n13\n-\n11\nPaddington Sports Club 3",
+      "hs": 1311,
+      "as": null,
+      "date": "Thu 30/04/2026"
+    },
+    {
+      "home": "Thu 07/05/2026\nHeadstone Lawn Tennis Club 2\n14\n-\n10\nKenton Lawn Tennis Club 2",
+      "away": "Headstone Lawn Tennis Club 2\n14\n-\n10\nKenton Lawn Tennis Club 2",
+      "hs": 1410,
+      "as": null,
+      "date": "Thu 07/05/2026"
+    },
+    {
+      "home": "Wed 13/05/2026\nDavid Lloyd Club Northwood 3\n8\n-\n16\nHarrow Weald Lawn Tennis Club 1",
+      "away": "David Lloyd Club Northwood 3\n8\n-\n16\nHarrow Weald Lawn Tennis Club 1",
+      "hs": 816,
+      "as": null,
+      "date": "Wed 13/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nPaddington Sports Club 3\n14\n-\n10\nHeadstone Lawn Tennis Club 2",
+      "away": "Paddington Sports Club 3\n14\n-\n10\nHeadstone Lawn Tennis Club 2",
+      "hs": 1410,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Tue 19/05/2026\nHarrow Weald Lawn Tennis Club 1\n10\n-\n14\nLowlands Club 2",
+      "away": "Harrow Weald Lawn Tennis Club 1\n10\n-\n14\nLowlands Club 2",
+      "hs": 1014,
+      "as": null,
+      "date": "Tue 19/05/2026"
+    },
+    {
+      "home": "Thu 28/05/2026\nAcorn Lawn Tennis Club 1\n22\n-\n2\nDavid Lloyd Club Northwood 3",
+      "away": "Acorn Lawn Tennis Club 1\n22\n-\n2\nDavid Lloyd Club Northwood 3",
+      "hs": 222,
+      "as": null,
+      "date": "Thu 28/05/2026"
+    },
+    {
+      "home": "Thu 28/05/2026\nUxbridge LTC 2\n16\n-\n8\nKenton Lawn Tennis Club 2",
+      "away": "Uxbridge LTC 2\n16\n-\n8\nKenton Lawn Tennis Club 2",
+      "hs": 168,
+      "as": null,
+      "date": "Thu 28/05/2026"
+    },
+    {
+      "home": "Thu 04/06/2026\nLowlands Club 2\n4\n-\n20\nAcorn Lawn Tennis Club 1",
+      "away": "Lowlands Club 2\n4\n-\n20\nAcorn Lawn Tennis Club 1",
+      "hs": 420,
+      "as": null,
+      "date": "Thu 04/06/2026"
+    },
+    {
+      "home": "Mon 08/06/2026\nHeadstone Lawn Tennis Club 2\n14\n-\n10\nHarrow Weald Lawn Tennis Club 1",
+      "away": "Headstone Lawn Tennis Club 2\n14\n-\n10\nHarrow Weald Lawn Tennis Club 1",
+      "hs": 1410,
+      "as": null,
+      "date": "Mon 08/06/2026"
+    },
+    {
+      "home": "Tue 09/06/2026\nKenton Lawn Tennis Club 2\n18\n-\n6\nPaddington Sports Club 3",
+      "away": "Kenton Lawn Tennis Club 2\n18\n-\n6\nPaddington Sports Club 3",
+      "hs": 186,
+      "as": null,
+      "date": "Tue 09/06/2026"
+    },
+    {
+      "home": "Fri 12/06/2026\nAcorn Lawn Tennis Club 1\n22\n-\n2\nUxbridge LTC 2",
+      "away": "Acorn Lawn Tennis Club 1\n22\n-\n2\nUxbridge LTC 2",
+      "hs": 222,
+      "as": null,
+      "date": "Fri 12/06/2026"
+    },
+    {
+      "home": "Tue 16/06/2026\nAdmin modified\nUxbridge LTC 2\n11\n-\n13\nPaddington Sports Club 3",
+      "away": "Uxbridge LTC 2\n11\n-\n13\nPaddington Sports Club 3",
+      "hs": 1113,
+      "as": null,
+      "date": "Tue 16/06/2026"
+    },
+    {
+      "home": "Thu 18/06/2026\nAcorn Lawn Tennis Club 1\n16\n-\n8\nHeadstone Lawn Tennis Club 2",
+      "away": "Acorn Lawn Tennis Club 1\n16\n-\n8\nHeadstone Lawn Tennis Club 2",
+      "hs": 168,
+      "as": null,
+      "date": "Thu 18/06/2026"
+    },
+    {
+      "home": "Wed 24/06/2026\nDavid Lloyd Club Northwood 3\n18:30\nLowlands Club 2",
+      "away": "David Lloyd Club Northwood 3\n18:30\nLowlands Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Wed 24/06/2026"
+    },
+    {
+      "home": "Thu 25/06/2026\nHarrow Weald Lawn Tennis Club 1\n2\n-\n22\nKenton Lawn Tennis Club 2",
+      "away": "Harrow Weald Lawn Tennis Club 1\n2\n-\n22\nKenton Lawn Tennis Club 2",
+      "hs": 222,
+      "as": null,
+      "date": "Thu 25/06/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nPaddington Sports Club 3\n18:30\nHarrow Weald Lawn Tennis Club 1",
+      "away": "Paddington Sports Club 3\n18:30\nHarrow Weald Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nHeadstone Lawn Tennis Club 2\n18:30\nDavid Lloyd Club Northwood 3",
+      "away": "Headstone Lawn Tennis Club 2\n18:30\nDavid Lloyd Club Northwood 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Tue 07/07/2026\nKenton Lawn Tennis Club 2\n18:30\nAcorn Lawn Tennis Club 1",
+      "away": "Kenton Lawn Tennis Club 2\n18:30\nAcorn Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 07/07/2026"
+    },
+    {
+      "home": "Thu 09/07/2026\nLowlands Club 2\n18:30\nUxbridge LTC 2",
+      "away": "Lowlands Club 2\n18:30\nUxbridge LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 09/07/2026"
+    },
+    {
+      "home": "Tue 14/07/2026\nLowlands Club 2\n18:30\nHeadstone Lawn Tennis Club 2",
+      "away": "Lowlands Club 2\n18:30\nHeadstone Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 14/07/2026"
+    },
+    {
+      "home": "Tue 14/07/2026\nUxbridge LTC 2\n18:30\nHarrow Weald Lawn Tennis Club 1",
+      "away": "Uxbridge LTC 2\n18:30\nHarrow Weald Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 14/07/2026"
+    },
+    {
+      "home": "Wed 15/07/2026\nDavid Lloyd Club Northwood 3\n18:30\nKenton Lawn Tennis Club 2",
+      "away": "David Lloyd Club Northwood 3\n18:30\nKenton Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Wed 15/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nAcorn Lawn Tennis Club 1\n18:30\nPaddington Sports Club 3",
+      "away": "Acorn Lawn Tennis Club 1\n18:30\nPaddington Sports Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Tue 21/07/2026\nHarrow Weald Lawn Tennis Club 1\n18:30\nAcorn Lawn Tennis Club 1",
+      "away": "Harrow Weald Lawn Tennis Club 1\n18:30\nAcorn Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 21/07/2026"
+    },
+    {
+      "home": "Fri 24/07/2026\nDavid Lloyd Club Northwood 3\n18:30\nUxbridge LTC 2",
+      "away": "David Lloyd Club Northwood 3\n18:30\nUxbridge LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 24/07/2026"
+    },
+    {
+      "home": "Tue 28/07/2026\nPaddington Sports Club 3\n18:30\nDavid Lloyd Club Northwood 3",
+      "away": "Paddington Sports Club 3\n18:30\nDavid Lloyd Club Northwood 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 28/07/2026"
+    },
+    {
+      "home": "Tue 28/07/2026\nHeadstone Lawn Tennis Club 2\n18:30\nUxbridge LTC 2",
+      "away": "Headstone Lawn Tennis Club 2\n18:30\nUxbridge LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 28/07/2026"
+    },
+    {
+      "home": "Thu 30/07/2026\nKenton Lawn Tennis Club 2\n18:30\nLowlands Club 2",
+      "away": "Kenton Lawn Tennis Club 2\n18:30\nLowlands Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 30/07/2026"
+    }
+  ]
+}

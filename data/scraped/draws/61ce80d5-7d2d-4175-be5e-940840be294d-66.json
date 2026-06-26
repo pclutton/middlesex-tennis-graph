@@ -1,0 +1,137 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-66",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "12&U Girls Division 2\n \u2013 12&U Girls Division 2              \u2013 Group 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/66",
+  "scrapedAt": "2026-06-26T15:53:17.676088+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "5",
+      "played": 4,
+      "won": 0,
+      "drawn": 1,
+      "lost": 8,
+      "rubbers": "22-8",
+      "points": 2311
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 6,
+      "rubbers": "14-10",
+      "points": 1610
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "8-10",
+      "points": 810
+    },
+    {
+      "rank": 4,
+      "name": "4",
+      "played": 0,
+      "won": 0,
+      "drawn": 4,
+      "lost": 0,
+      "rubbers": "4-20",
+      "points": 521
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 19/04/2026\nUnknown player\nElms LTC 1\n6\n-\n0\nKenton Lawn Tennis Club 1",
+      "away": "Elms LTC 1\n6\n-\n0\nKenton Lawn Tennis Club 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sat 25/04/2026\nKenton Lawn Tennis Club 1\n2\n-\n4\nElms LTC 1",
+      "away": "Kenton Lawn Tennis Club 1\n2\n-\n4\nElms LTC 1",
+      "hs": 24,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sat 25/04/2026\nEastcote Lawn Tennis Club 1\n2\n-\n4\nLowlands Club 1",
+      "away": "Eastcote Lawn Tennis Club 1\n2\n-\n4\nLowlands Club 1",
+      "hs": 24,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nEastcote Lawn Tennis Club 1\n6\n-\n0\nKenton Lawn Tennis Club 1",
+      "away": "Eastcote Lawn Tennis Club 1\n6\n-\n0\nKenton Lawn Tennis Club 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nLowlands Club 1\n2\n-\n4\nElms LTC 1",
+      "away": "Lowlands Club 1\n2\n-\n4\nElms LTC 1",
+      "hs": 24,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sat 23/05/2026\nKenton Lawn Tennis Club 1\n2\n-\n4\nLowlands Club 1",
+      "away": "Kenton Lawn Tennis Club 1\n2\n-\n4\nLowlands Club 1",
+      "hs": 24,
+      "as": null,
+      "date": "Sat 23/05/2026"
+    },
+    {
+      "home": "Sat 23/05/2026\nUnknown player\nElms LTC 1\n6\n-\n0\nEastcote Lawn Tennis Club 1",
+      "away": "Elms LTC 1\n6\n-\n0\nEastcote Lawn Tennis Club 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sat 23/05/2026"
+    },
+    {
+      "home": "Sat 06/06/2026\nLowlands Club 1\n-\nEastcote Lawn Tennis Club 1",
+      "away": "Lowlands Club 1\n-\nEastcote Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 06/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nKenton Lawn Tennis Club 1\n-\nEastcote Lawn Tennis Club 1",
+      "away": "Kenton Lawn Tennis Club 1\n-\nEastcote Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nUnknown player\nElms LTC 1\n2\n-\n4\nLowlands Club 1",
+      "away": "Elms LTC 1\n2\n-\n4\nLowlands Club 1",
+      "hs": 24,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nEastcote Lawn Tennis Club 1\n-\nElms LTC 1",
+      "away": "Eastcote Lawn Tennis Club 1\n-\nElms LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nLowlands Club 1\n-\nKenton Lawn Tennis Club 1",
+      "away": "Lowlands Club 1\n-\nKenton Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    }
+  ]
+}

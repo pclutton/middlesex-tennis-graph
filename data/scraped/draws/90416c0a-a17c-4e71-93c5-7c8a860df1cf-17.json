@@ -1,0 +1,355 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-17",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Mens Doubles \n \u2013 West Division 8              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/17",
+  "scrapedAt": "2026-06-26T14:26:40.211105+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 62,
+      "rubbers": "62-34",
+      "points": 3117
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 60,
+      "rubbers": "60-12",
+      "points": 306
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 2,
+      "won": 1,
+      "drawn": 1,
+      "lost": 60,
+      "rubbers": "60-36",
+      "points": 3018
+    },
+    {
+      "rank": 4,
+      "name": "5",
+      "played": 1,
+      "won": 0,
+      "drawn": 4,
+      "lost": 48,
+      "rubbers": "48-72",
+      "points": 2436
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 46,
+      "rubbers": "46-26",
+      "points": 2313
+    },
+    {
+      "rank": 6,
+      "name": "5",
+      "played": 1,
+      "won": 2,
+      "drawn": 2,
+      "lost": 46,
+      "rubbers": "46-74",
+      "points": 2337
+    },
+    {
+      "rank": 7,
+      "name": "4",
+      "played": 1,
+      "won": 1,
+      "drawn": 2,
+      "lost": 36,
+      "rubbers": "36-60",
+      "points": 1830
+    },
+    {
+      "rank": 8,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 28,
+      "rubbers": "28-44",
+      "points": 1422
+    },
+    {
+      "rank": 9,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 22,
+      "rubbers": "22-50",
+      "points": 1125
+    }
+  ],
+  "matches": [
+    {
+      "home": "Tue 05/05/2026\nBrentham Lawn Tennis Club 5\n14\n-\n10\nWhitton Tennis Club 2",
+      "away": "Brentham Lawn Tennis Club 5\n14\n-\n10\nWhitton Tennis Club 2",
+      "hs": 1410,
+      "as": null,
+      "date": "Tue 05/05/2026"
+    },
+    {
+      "home": "Tue 05/05/2026\nVirgin Active Chiswick Riverside 3\n20\n-\n4\nHartswood Lawn Tennis Club Ltd 3",
+      "away": "Virgin Active Chiswick Riverside 3\n20\n-\n4\nHartswood Lawn Tennis Club Ltd 3",
+      "hs": 204,
+      "as": null,
+      "date": "Tue 05/05/2026"
+    },
+    {
+      "home": "Thu 07/05/2026\nTeddington Lawn Tennis Club 8\n2\n-\n22\nGunnersbury Triangle Club 3",
+      "away": "Teddington Lawn Tennis Club 8\n2\n-\n22\nGunnersbury Triangle Club 3",
+      "hs": 222,
+      "as": null,
+      "date": "Thu 07/05/2026"
+    },
+    {
+      "home": "Fri 08/05/2026\nNot played\nPark Sports - Lammas Park 1\n0\n-\n0\nDavid Lloyd Club Hampton 2",
+      "away": "Park Sports - Lammas Park 1\n0\n-\n0\nDavid Lloyd Club Hampton 2",
+      "hs": 0,
+      "as": null,
+      "date": "Fri 08/05/2026"
+    },
+    {
+      "home": "Thu 14/05/2026\nWest Middlesex Lawn Tennis Club Ltd 4\n20\n-\n4\nPark Sports - Lammas Park 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 4\n20\n-\n4\nPark Sports - Lammas Park 1",
+      "hs": 204,
+      "as": null,
+      "date": "Thu 14/05/2026"
+    },
+    {
+      "home": "Thu 14/05/2026\nGunnersbury Triangle Club 3\n16\n-\n8\nBrentham Lawn Tennis Club 5",
+      "away": "Gunnersbury Triangle Club 3\n16\n-\n8\nBrentham Lawn Tennis Club 5",
+      "hs": 168,
+      "as": null,
+      "date": "Thu 14/05/2026"
+    },
+    {
+      "home": "Fri 15/05/2026\nHartswood Lawn Tennis Club Ltd 3\n14\n-\n10\nTeddington Lawn Tennis Club 8",
+      "away": "Hartswood Lawn Tennis Club Ltd 3\n14\n-\n10\nTeddington Lawn Tennis Club 8",
+      "hs": 1410,
+      "as": null,
+      "date": "Fri 15/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nWhitton Tennis Club 2\n20\n-\n4\nGunnersbury Triangle Club 3",
+      "away": "Whitton Tennis Club 2\n20\n-\n4\nGunnersbury Triangle Club 3",
+      "hs": 204,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nDavid Lloyd Club Hampton 2\n8\n-\n16\nVirgin Active Chiswick Riverside 3",
+      "away": "David Lloyd Club Hampton 2\n8\n-\n16\nVirgin Active Chiswick Riverside 3",
+      "hs": 816,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Wed 27/05/2026\nBrentham Lawn Tennis Club 5\n12\n-\n12\nHartswood Lawn Tennis Club Ltd 3",
+      "away": "Brentham Lawn Tennis Club 5\n12\n-\n12\nHartswood Lawn Tennis Club Ltd 3",
+      "hs": 1212,
+      "as": null,
+      "date": "Wed 27/05/2026"
+    },
+    {
+      "home": "Thu 28/05/2026\nTeddington Lawn Tennis Club 8\n10\n-\n14\nDavid Lloyd Club Hampton 2",
+      "away": "Teddington Lawn Tennis Club 8\n10\n-\n14\nDavid Lloyd Club Hampton 2",
+      "hs": 1014,
+      "as": null,
+      "date": "Thu 28/05/2026"
+    },
+    {
+      "home": "Thu 04/06/2026\nHartswood Lawn Tennis Club Ltd 3\n12\n-\n12\nWhitton Tennis Club 2",
+      "away": "Hartswood Lawn Tennis Club Ltd 3\n12\n-\n12\nWhitton Tennis Club 2",
+      "hs": 1212,
+      "as": null,
+      "date": "Thu 04/06/2026"
+    },
+    {
+      "home": "Thu 04/06/2026\nUnknown player\nWest Middlesex Lawn Tennis Club Ltd 4\n18\n-\n6\nTeddington Lawn Tennis Club 8",
+      "away": "West Middlesex Lawn Tennis Club Ltd 4\n18\n-\n6\nTeddington Lawn Tennis Club 8",
+      "hs": 186,
+      "as": null,
+      "date": "Thu 04/06/2026"
+    },
+    {
+      "home": "Fri 05/06/2026\nPark Sports - Lammas Park 1\n14\n-\n10\nVirgin Active Chiswick Riverside 3",
+      "away": "Park Sports - Lammas Park 1\n14\n-\n10\nVirgin Active Chiswick Riverside 3",
+      "hs": 1410,
+      "as": null,
+      "date": "Fri 05/06/2026"
+    },
+    {
+      "home": "Tue 09/06/2026\nGunnersbury Triangle Club 3\n20\n-\n4\nHartswood Lawn Tennis Club Ltd 3",
+      "away": "Gunnersbury Triangle Club 3\n20\n-\n4\nHartswood Lawn Tennis Club Ltd 3",
+      "hs": 204,
+      "as": null,
+      "date": "Tue 09/06/2026"
+    },
+    {
+      "home": "Tue 16/06/2026\nWhitton Tennis Club 2\n18\n-\n6\nDavid Lloyd Club Hampton 2",
+      "away": "Whitton Tennis Club 2\n18\n-\n6\nDavid Lloyd Club Hampton 2",
+      "hs": 186,
+      "as": null,
+      "date": "Tue 16/06/2026"
+    },
+    {
+      "home": "Tue 16/06/2026\nBrentham Lawn Tennis Club 5\n2\n-\n22\nWest Middlesex Lawn Tennis Club Ltd 4",
+      "away": "Brentham Lawn Tennis Club 5\n2\n-\n22\nWest Middlesex Lawn Tennis Club Ltd 4",
+      "hs": 222,
+      "as": null,
+      "date": "Tue 16/06/2026"
+    },
+    {
+      "home": "Thu 18/06/2026\nTeddington Lawn Tennis Club 8\n20\n-\n4\nPark Sports - Lammas Park 1",
+      "away": "Teddington Lawn Tennis Club 8\n20\n-\n4\nPark Sports - Lammas Park 1",
+      "hs": 204,
+      "as": null,
+      "date": "Thu 18/06/2026"
+    },
+    {
+      "home": "Fri 26/06/2026\nVirgin Active Chiswick Riverside 3\n18:30\nTeddington Lawn Tennis Club 8",
+      "away": "Virgin Active Chiswick Riverside 3\n18:30\nTeddington Lawn Tennis Club 8",
+      "hs": null,
+      "as": null,
+      "date": "Fri 26/06/2026"
+    },
+    {
+      "home": "Tue 30/06/2026\nWest Middlesex Lawn Tennis Club Ltd 4\n18:30\nWhitton Tennis Club 2",
+      "away": "West Middlesex Lawn Tennis Club Ltd 4\n18:30\nWhitton Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 30/06/2026"
+    },
+    {
+      "home": "Tue 30/06/2026\nDavid Lloyd Club Hampton 2\n18:30\nGunnersbury Triangle Club 3",
+      "away": "David Lloyd Club Hampton 2\n18:30\nGunnersbury Triangle Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 30/06/2026"
+    },
+    {
+      "home": "Fri 03/07/2026\nPark Sports - Lammas Park 1\n18:30\nBrentham Lawn Tennis Club 5",
+      "away": "Park Sports - Lammas Park 1\n18:30\nBrentham Lawn Tennis Club 5",
+      "hs": null,
+      "as": null,
+      "date": "Fri 03/07/2026"
+    },
+    {
+      "home": "Mon 06/07/2026\nWhitton Tennis Club 2\n18:30\nPark Sports - Lammas Park 1",
+      "away": "Whitton Tennis Club 2\n18:30\nPark Sports - Lammas Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 06/07/2026"
+    },
+    {
+      "home": "Mon 06/07/2026\nGunnersbury Triangle Club 3\n18:30\nWest Middlesex Lawn Tennis Club Ltd 4",
+      "away": "Gunnersbury Triangle Club 3\n18:30\nWest Middlesex Lawn Tennis Club Ltd 4",
+      "hs": null,
+      "as": null,
+      "date": "Mon 06/07/2026"
+    },
+    {
+      "home": "Tue 07/07/2026\nBrentham Lawn Tennis Club 5\n18:30\nVirgin Active Chiswick Riverside 3",
+      "away": "Brentham Lawn Tennis Club 5\n18:30\nVirgin Active Chiswick Riverside 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 07/07/2026"
+    },
+    {
+      "home": "Tue 07/07/2026\nHartswood Lawn Tennis Club Ltd 3\n18:30\nDavid Lloyd Club Hampton 2",
+      "away": "Hartswood Lawn Tennis Club Ltd 3\n18:30\nDavid Lloyd Club Hampton 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 07/07/2026"
+    },
+    {
+      "home": "Thu 09/07/2026\nVirgin Active Chiswick Riverside 3\n18:30\nWest Middlesex Lawn Tennis Club Ltd 4",
+      "away": "Virgin Active Chiswick Riverside 3\n18:30\nWest Middlesex Lawn Tennis Club Ltd 4",
+      "hs": null,
+      "as": null,
+      "date": "Thu 09/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nTeddington Lawn Tennis Club 8\n18:30\nBrentham Lawn Tennis Club 5",
+      "away": "Teddington Lawn Tennis Club 8\n18:30\nBrentham Lawn Tennis Club 5",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Tue 21/07/2026\nVirgin Active Chiswick Riverside 3\n18:30\nWhitton Tennis Club 2",
+      "away": "Virgin Active Chiswick Riverside 3\n18:30\nWhitton Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 21/07/2026"
+    },
+    {
+      "home": "Tue 21/07/2026\nWest Middlesex Lawn Tennis Club Ltd 4\n18:30\nHartswood Lawn Tennis Club Ltd 3",
+      "away": "West Middlesex Lawn Tennis Club Ltd 4\n18:30\nHartswood Lawn Tennis Club Ltd 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 21/07/2026"
+    },
+    {
+      "home": "Thu 23/07/2026\nPark Sports - Lammas Park 1\n18:30\nGunnersbury Triangle Club 3",
+      "away": "Park Sports - Lammas Park 1\n18:30\nGunnersbury Triangle Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 23/07/2026"
+    },
+    {
+      "home": "Tue 28/07/2026\nHartswood Lawn Tennis Club Ltd 3\n18:30\nPark Sports - Lammas Park 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 3\n18:30\nPark Sports - Lammas Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 28/07/2026"
+    },
+    {
+      "home": "Mon 03/08/2026\nDavid Lloyd Club Hampton 2\n18:30\nBrentham Lawn Tennis Club 5",
+      "away": "David Lloyd Club Hampton 2\n18:30\nBrentham Lawn Tennis Club 5",
+      "hs": null,
+      "as": null,
+      "date": "Mon 03/08/2026"
+    },
+    {
+      "home": "Tue 04/08/2026\nGunnersbury Triangle Club 3\n18:30\nVirgin Active Chiswick Riverside 3",
+      "away": "Gunnersbury Triangle Club 3\n18:30\nVirgin Active Chiswick Riverside 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 04/08/2026"
+    },
+    {
+      "home": "Tue 04/08/2026\nWhitton Tennis Club 2\n18:30\nTeddington Lawn Tennis Club 8",
+      "away": "Whitton Tennis Club 2\n18:30\nTeddington Lawn Tennis Club 8",
+      "hs": null,
+      "as": null,
+      "date": "Tue 04/08/2026"
+    },
+    {
+      "home": "Fri 07/08/2026\nDavid Lloyd Club Hampton 2\n18:30\nWest Middlesex Lawn Tennis Club Ltd 4",
+      "away": "David Lloyd Club Hampton 2\n18:30\nWest Middlesex Lawn Tennis Club Ltd 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 07/08/2026"
+    }
+  ]
+}

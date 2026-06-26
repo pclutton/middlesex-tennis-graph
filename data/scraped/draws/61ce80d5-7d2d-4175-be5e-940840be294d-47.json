@@ -1,0 +1,133 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-47",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "14&U Boys Division 2\n \u2013 14&U Boys Division 2              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/47",
+  "scrapedAt": "2026-06-26T19:09:46.155269+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 4,
+      "rubbers": "22-2",
+      "points": 224
+    },
+    {
+      "rank": 2,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "2-10",
+      "points": 310
+    },
+    {
+      "rank": 3,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "0-12",
+      "points": 112
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 09/05/2026\nThe Hurlingham Club 1\n15:15\nWycombe House 1",
+      "away": "The Hurlingham Club 1\n15:15\nWycombe House 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nTeddington Lawn Tennis Club 1\n-\nBushy Park Tennis Club Teddington 1",
+      "away": "Teddington Lawn Tennis Club 1\n-\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nUnknown player\nWycombe House 1\n0\n-\n12\nTeddington Lawn Tennis Club 1",
+      "away": "Wycombe House 1\n0\n-\n12\nTeddington Lawn Tennis Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nWhitton Tennis Club 1\n-\nThe Hurlingham Club 1",
+      "away": "Whitton Tennis Club 1\n-\nThe Hurlingham Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nTeddington Lawn Tennis Club 1\n-\nWhitton Tennis Club 1",
+      "away": "Teddington Lawn Tennis Club 1\n-\nWhitton Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nBushy Park Tennis Club Teddington 1\n-\nWycombe House 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n-\nWycombe House 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nWhitton Tennis Club 1\n-\nBushy Park Tennis Club Teddington 1",
+      "away": "Whitton Tennis Club 1\n-\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nWycombe House 1\n-\nWhitton Tennis Club 1",
+      "away": "Wycombe House 1\n-\nWhitton Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nBushy Park Tennis Club Teddington 1\n-\nThe Hurlingham Club 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n-\nThe Hurlingham Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nThe Hurlingham Club 1\n2\n-\n10\nTeddington Lawn Tennis Club 1",
+      "away": "The Hurlingham Club 1\n2\n-\n10\nTeddington Lawn Tennis Club 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    }
+  ]
+}

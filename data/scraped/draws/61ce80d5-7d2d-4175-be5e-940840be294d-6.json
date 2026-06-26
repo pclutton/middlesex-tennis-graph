@@ -1,0 +1,133 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-6",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "Open Womens Division 2 onwards\n \u2013 Open Womens Division 4              \u2013 Division 4 West",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/6",
+  "scrapedAt": "2026-06-26T15:50:03.996743+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 4,
+      "rubbers": "24-0",
+      "points": 241
+    },
+    {
+      "rank": 2,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 4,
+      "rubbers": "18-4",
+      "points": 184
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 4,
+      "rubbers": "24-24",
+      "points": 2525
+    },
+    {
+      "rank": 4,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "4-8",
+      "points": 58
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 0,
+      "rubbers": "0-34",
+      "points": 34
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 19/04/2026\nThistleworth LTC 1\n4\n-\n8\nDavid Lloyd Club Sudbury Hill 1",
+      "away": "Thistleworth LTC 1\n4\n-\n8\nDavid Lloyd Club Sudbury Hill 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nChristian Gallan's Lovetennis 1\n0\n-\n12\nElmwood Lawn Tennis Club 1",
+      "away": "Christian Gallan's Lovetennis 1\n0\n-\n12\nElmwood Lawn Tennis Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nUnknown player\nEastcote Lawn Tennis Club 1\n4\n-\n8\nThistleworth LTC 1",
+      "away": "Eastcote Lawn Tennis Club 1\n4\n-\n8\nThistleworth LTC 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nThistleworth LTC 1\n12\n-\n0\nChristian Gallan's Lovetennis 1",
+      "away": "Thistleworth LTC 1\n12\n-\n0\nChristian Gallan's Lovetennis 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nChristian Gallan's Lovetennis 1\n0\n-\n10\nDavid Lloyd Club Sudbury Hill 1",
+      "away": "Christian Gallan's Lovetennis 1\n0\n-\n10\nDavid Lloyd Club Sudbury Hill 1",
+      "hs": 10,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nElmwood Lawn Tennis Club 1\n12\n-\n0\nThistleworth LTC 1",
+      "away": "Elmwood Lawn Tennis Club 1\n12\n-\n0\nThistleworth LTC 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nEastcote Lawn Tennis Club 1\n-\nChristian Gallan's Lovetennis 1",
+      "away": "Eastcote Lawn Tennis Club 1\n-\nChristian Gallan's Lovetennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nDavid Lloyd Club Sudbury Hill 1\n13:30\nElmwood Lawn Tennis Club 1",
+      "away": "David Lloyd Club Sudbury Hill 1\n13:30\nElmwood Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nDavid Lloyd Club Sudbury Hill 1\n13:30\nEastcote Lawn Tennis Club 1",
+      "away": "David Lloyd Club Sudbury Hill 1\n13:30\nEastcote Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sun 12/07/2026\nElmwood Lawn Tennis Club 1\n16:00\nEastcote Lawn Tennis Club 1",
+      "away": "Elmwood Lawn Tennis Club 1\n16:00\nEastcote Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 12/07/2026"
+    }
+  ]
+}

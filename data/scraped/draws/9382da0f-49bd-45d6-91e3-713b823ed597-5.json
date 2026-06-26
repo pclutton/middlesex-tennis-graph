@@ -1,0 +1,230 @@
+{
+  "drawId": "9382da0f-49bd-45d6-91e3-713b823ed597-5",
+  "competitionId": "9382da0f-49bd-45d6-91e3-713b823ed597",
+  "competitionName": "Ladies Doubles\n \u2013 Division 1              \u2013 Group 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/9382DA0F-49BD-45D6-91E3-713B823ED597/draw/5",
+  "scrapedAt": "2026-06-26T19:03:24.967145+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "1",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 2,
+      "rubbers": "6-3",
+      "points": 93
+    },
+    {
+      "rank": 2,
+      "name": "1",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 2,
+      "rubbers": "5-4",
+      "points": 66
+    },
+    {
+      "rank": 3,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "12-6",
+      "points": 178
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "3-6",
+      "points": 39
+    },
+    {
+      "rank": 7,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "1-8",
+      "points": 211
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 04/04/2026\nHertford Lawn Tennis Club 1\n-\nHarpenden LTC 3",
+      "away": "Hertford Lawn Tennis Club 1\n-\nHarpenden LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/04/2026"
+    },
+    {
+      "home": "Sat 04/04/2026\nHertford Lawn Tennis Club 1\n5\n-\n4\nBrookmans Park Tennis Club 2",
+      "away": "Hertford Lawn Tennis Club 1\n5\n-\n4\nBrookmans Park Tennis Club 2",
+      "hs": 54,
+      "as": null,
+      "date": "Sat 04/04/2026"
+    },
+    {
+      "home": "Sat 04/04/2026\nWheathampstead Lawn Tennis Club 1\n-\nHertford Lawn Tennis Club 1",
+      "away": "Wheathampstead Lawn Tennis Club 1\n-\nHertford Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/04/2026"
+    },
+    {
+      "home": "Sat 23/05/2026\nHazelwood Lawn Tennis & Squash Club 1\n3\n-\n6\nHarpenden LTC 3",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n3\n-\n6\nHarpenden LTC 3",
+      "hs": 36,
+      "as": null,
+      "date": "Sat 23/05/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nLeverstock Green LTC 3\n13:00\nHertford Lawn Tennis Club 1",
+      "away": "Leverstock Green LTC 3\n13:00\nHertford Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sat 30/05/2026\nBrookmans Park Tennis Club 2\n8\n-\n1\nLeverstock Green LTC 3",
+      "away": "Brookmans Park Tennis Club 2\n8\n-\n1\nLeverstock Green LTC 3",
+      "hs": 81,
+      "as": null,
+      "date": "Sat 30/05/2026"
+    },
+    {
+      "home": "Sat 27/06/2026\nLeverstock Green LTC 3\n13:00\nWheathampstead Lawn Tennis Club 1",
+      "away": "Leverstock Green LTC 3\n13:00\nWheathampstead Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 27/06/2026"
+    },
+    {
+      "home": "Sat 18/07/2026\nHarpenden LTC 3\n13:00\nLeverstock Green LTC 3",
+      "away": "Harpenden LTC 3\n13:00\nLeverstock Green LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Sat 18/07/2026"
+    },
+    {
+      "home": "Sun 19/07/2026\nBishops Stortford Lawn Tennis Club 2\n12:00\nBrookmans Park Tennis Club 2",
+      "away": "Bishops Stortford Lawn Tennis Club 2\n12:00\nBrookmans Park Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/07/2026"
+    },
+    {
+      "home": "Sun 26/07/2026\nWheathampstead Lawn Tennis Club 1\n13:00\nBishops Stortford Lawn Tennis Club 2",
+      "away": "Wheathampstead Lawn Tennis Club 1\n13:00\nBishops Stortford Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 26/07/2026"
+    },
+    {
+      "home": "Sun 02/08/2026\nHarpenden LTC 3\n13:00\nWheathampstead Lawn Tennis Club 1",
+      "away": "Harpenden LTC 3\n13:00\nWheathampstead Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 02/08/2026"
+    },
+    {
+      "home": "Sun 09/08/2026\nBishops Stortford Lawn Tennis Club 2\n12:00\nHazelwood Lawn Tennis & Squash Club 1",
+      "away": "Bishops Stortford Lawn Tennis Club 2\n12:00\nHazelwood Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 09/08/2026"
+    },
+    {
+      "home": "Sat 15/08/2026\nBrookmans Park Tennis Club 2\n10:00\nHarpenden LTC 3",
+      "away": "Brookmans Park Tennis Club 2\n10:00\nHarpenden LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Sat 15/08/2026"
+    },
+    {
+      "home": "Sat 15/08/2026\nLeverstock Green LTC 3\n13:00\nBishops Stortford Lawn Tennis Club 2",
+      "away": "Leverstock Green LTC 3\n13:00\nBishops Stortford Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 15/08/2026"
+    },
+    {
+      "home": "Sun 16/08/2026\nWheathampstead Lawn Tennis Club 1\n13:00\nHazelwood Lawn Tennis & Squash Club 1",
+      "away": "Wheathampstead Lawn Tennis Club 1\n13:00\nHazelwood Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 16/08/2026"
+    },
+    {
+      "home": "Sat 22/08/2026\nHertford Lawn Tennis Club 1\n13:00\nHazelwood Lawn Tennis & Squash Club 1",
+      "away": "Hertford Lawn Tennis Club 1\n13:00\nHazelwood Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 22/08/2026"
+    },
+    {
+      "home": "Sun 23/08/2026\nBrookmans Park Tennis Club 2\n12:30\nWheathampstead Lawn Tennis Club 1",
+      "away": "Brookmans Park Tennis Club 2\n12:30\nWheathampstead Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 23/08/2026"
+    },
+    {
+      "home": "Sat 05/09/2026\nBishops Stortford Lawn Tennis Club 2\n13:00\nHertford Lawn Tennis Club 1",
+      "away": "Bishops Stortford Lawn Tennis Club 2\n13:00\nHertford Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 05/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nHazelwood Lawn Tennis & Squash Club 1\n11:00\nLeverstock Green LTC 3",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n11:00\nLeverstock Green LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nHarpenden LTC 3\n13:00\nBishops Stortford Lawn Tennis Club 2",
+      "away": "Harpenden LTC 3\n13:00\nBishops Stortford Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nHazelwood Lawn Tennis & Squash Club 1\n12:30\nBrookmans Park Tennis Club 2",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n12:30\nBrookmans Park Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    }
+  ]
+}

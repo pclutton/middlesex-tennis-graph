@@ -1,0 +1,137 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-60",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "16&U Girls Division 2\n \u2013 16&U Girls Division 2              \u2013 Group 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/60",
+  "scrapedAt": "2026-06-26T18:15:38.772144+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 8,
+      "rubbers": "20-4",
+      "points": 206
+    },
+    {
+      "rank": 2,
+      "name": "5",
+      "played": 4,
+      "won": 0,
+      "drawn": 1,
+      "lost": 8,
+      "rubbers": "26-4",
+      "points": 264
+    },
+    {
+      "rank": 3,
+      "name": "5",
+      "played": 1,
+      "won": 0,
+      "drawn": 4,
+      "lost": 2,
+      "rubbers": "6-24",
+      "points": 824
+    },
+    {
+      "rank": 4,
+      "name": "4",
+      "played": 0,
+      "won": 0,
+      "drawn": 4,
+      "lost": 0,
+      "rubbers": "2-22",
+      "points": 222
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 25/04/2026\nUnknown player\nHeadstone Lawn Tennis Club 1\n6\n-\n0\nHarrow Weald Lawn Tennis Club 1",
+      "away": "Headstone Lawn Tennis Club 1\n6\n-\n0\nHarrow Weald Lawn Tennis Club 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sun 26/04/2026\nLowlands Club 1\n0\n-\n6\nHarrow Lawn Tennis Club 1",
+      "away": "Lowlands Club 1\n0\n-\n6\nHarrow Lawn Tennis Club 1",
+      "hs": 6,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nUnknown player\nHarrow Weald Lawn Tennis Club 1\n0\n-\n6\nHarrow Lawn Tennis Club 1",
+      "away": "Harrow Weald Lawn Tennis Club 1\n0\n-\n6\nHarrow Lawn Tennis Club 1",
+      "hs": 6,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nHarrow Lawn Tennis Club 1\n4\n-\n2\nHeadstone Lawn Tennis Club 1",
+      "away": "Harrow Lawn Tennis Club 1\n4\n-\n2\nHeadstone Lawn Tennis Club 1",
+      "hs": 42,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nHeadstone Lawn Tennis Club 1\n6\n-\n0\nLowlands Club 1",
+      "away": "Headstone Lawn Tennis Club 1\n6\n-\n0\nLowlands Club 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nUnknown player\nHarrow Weald Lawn Tennis Club 1\n0\n-\n6\nHeadstone Lawn Tennis Club 1",
+      "away": "Harrow Weald Lawn Tennis Club 1\n0\n-\n6\nHeadstone Lawn Tennis Club 1",
+      "hs": 6,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nHarrow Lawn Tennis Club 1\n4\n-\n2\nLowlands Club 1",
+      "away": "Harrow Lawn Tennis Club 1\n4\n-\n2\nLowlands Club 1",
+      "hs": 42,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nLowlands Club 1\n4\n-\n2\nHarrow Weald Lawn Tennis Club 1",
+      "away": "Lowlands Club 1\n4\n-\n2\nHarrow Weald Lawn Tennis Club 1",
+      "hs": 42,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nHarrow Lawn Tennis Club 1\n-\nHarrow Weald Lawn Tennis Club 1",
+      "away": "Harrow Lawn Tennis Club 1\n-\nHarrow Weald Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nLowlands Club 1\n0\n-\n6\nHeadstone Lawn Tennis Club 1",
+      "away": "Lowlands Club 1\n0\n-\n6\nHeadstone Lawn Tennis Club 1",
+      "hs": 6,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sat 27/06/2026\nHeadstone Lawn Tennis Club 1\n15:00\nHarrow Lawn Tennis Club 1",
+      "away": "Headstone Lawn Tennis Club 1\n15:00\nHarrow Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 27/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nHarrow Weald Lawn Tennis Club 1\n-\nLowlands Club 1",
+      "away": "Harrow Weald Lawn Tennis Club 1\n-\nLowlands Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    }
+  ]
+}

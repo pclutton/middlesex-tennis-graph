@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-29",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Womens Doubles\n \u2013 West Division 8              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/29",
+  "scrapedAt": "2026-06-26T14:27:07.993256+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 69,
+      "rubbers": "69-27",
+      "points": 279
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 60,
+      "rubbers": "60-36",
+      "points": 1917
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 50,
+      "rubbers": "50-46",
+      "points": 2523
+    },
+    {
+      "rank": 4,
+      "name": "4",
+      "played": 1,
+      "won": 2,
+      "drawn": 1,
+      "lost": 49,
+      "rubbers": "49-47",
+      "points": 1719
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 1,
+      "won": 1,
+      "drawn": 1,
+      "lost": 42,
+      "rubbers": "42-30",
+      "points": 2115
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 0,
+      "won": 1,
+      "drawn": 2,
+      "lost": 26,
+      "rubbers": "26-46",
+      "points": 1323
+    },
+    {
+      "rank": 7,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 20,
+      "rubbers": "20-28",
+      "points": 1014
+    },
+    {
+      "rank": 8,
+      "name": "4",
+      "played": 0,
+      "won": 0,
+      "drawn": 4,
+      "lost": 20,
+      "rubbers": "20-76",
+      "points": 12
+    }
+  ],
+  "matches": [
+    {
+      "home": "Thu 30/04/2026\nThe Lensbury Club 5\n6\n-\n18\nThe Parsons Green Club 3",
+      "away": "The Lensbury Club 5\n6\n-\n18\nThe Parsons Green Club 3",
+      "hs": 618,
+      "as": null,
+      "date": "Thu 30/04/2026"
+    },
+    {
+      "home": "Thu 07/05/2026\nAdmin modified\nHartswood Lawn Tennis Club Ltd 5\n2\n-\n22\nGunnersbury Triangle Club 4",
+      "away": "Hartswood Lawn Tennis Club Ltd 5\n2\n-\n22\nGunnersbury Triangle Club 4",
+      "hs": 222,
+      "as": null,
+      "date": "Thu 07/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nGunnersbury Triangle Club 4\n14\n-\n10\nBrentham Lawn Tennis Club 3",
+      "away": "Gunnersbury Triangle Club 4\n14\n-\n10\nBrentham Lawn Tennis Club 3",
+      "hs": 1410,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nThe Parsons Green Club 3\n20\n-\n4\nTeddington Lawn Tennis Club 8",
+      "away": "The Parsons Green Club 3\n20\n-\n4\nTeddington Lawn Tennis Club 8",
+      "hs": 204,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nThe Lensbury Club 5\n24\n-\n0\nHartswood Lawn Tennis Club Ltd 5",
+      "away": "The Lensbury Club 5\n24\n-\n0\nHartswood Lawn Tennis Club Ltd 5",
+      "hs": 240,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Fri 05/06/2026\nBrentham Lawn Tennis Club 3\n12\n-\n12\nThe Lensbury Club 5",
+      "away": "Brentham Lawn Tennis Club 3\n12\n-\n12\nThe Lensbury Club 5",
+      "hs": 1212,
+      "as": null,
+      "date": "Fri 05/06/2026"
+    },
+    {
+      "home": "Mon 08/06/2026\nBrentham Lawn Tennis Club 3\n12\n-\n12\nThistleworth LTC 3",
+      "away": "Brentham Lawn Tennis Club 3\n12\n-\n12\nThistleworth LTC 3",
+      "hs": 1212,
+      "as": null,
+      "date": "Mon 08/06/2026"
+    },
+    {
+      "home": "Thu 11/06/2026\nTeddington Lawn Tennis Club 8\n18\n-\n6\nThistleworth LTC 3",
+      "away": "Teddington Lawn Tennis Club 8\n18\n-\n6\nThistleworth LTC 3",
+      "hs": 186,
+      "as": null,
+      "date": "Thu 11/06/2026"
+    },
+    {
+      "home": "Fri 12/06/2026\nAdmin modified\nHartswood Lawn Tennis Club Ltd 5\n9\n-\n15\nThe Parsons Green Club 3",
+      "away": "Hartswood Lawn Tennis Club Ltd 5\n9\n-\n15\nThe Parsons Green Club 3",
+      "hs": 915,
+      "as": null,
+      "date": "Fri 12/06/2026"
+    },
+    {
+      "home": "Fri 12/06/2026\nVirgin Active Chiswick Riverside 6\n10\n-\n14\nTeddington Lawn Tennis Club 8",
+      "away": "Virgin Active Chiswick Riverside 6\n10\n-\n14\nTeddington Lawn Tennis Club 8",
+      "hs": 1014,
+      "as": null,
+      "date": "Fri 12/06/2026"
+    },
+    {
+      "home": "Mon 15/06/2026\nThe Parsons Green Club 3\n16\n-\n8\nThistleworth LTC 3",
+      "away": "The Parsons Green Club 3\n16\n-\n8\nThistleworth LTC 3",
+      "hs": 168,
+      "as": null,
+      "date": "Mon 15/06/2026"
+    },
+    {
+      "home": "Tue 16/06/2026\nGunnersbury Triangle Club 4\n10\n-\n14\nTeddington Lawn Tennis Club 8",
+      "away": "Gunnersbury Triangle Club 4\n10\n-\n14\nTeddington Lawn Tennis Club 8",
+      "hs": 1014,
+      "as": null,
+      "date": "Tue 16/06/2026"
+    },
+    {
+      "home": "Thu 18/06/2026\nVirgin Active Chiswick Riverside 6\n10\n-\n14\nGunnersbury Triangle Club 4",
+      "away": "Virgin Active Chiswick Riverside 6\n10\n-\n14\nGunnersbury Triangle Club 4",
+      "hs": 1014,
+      "as": null,
+      "date": "Thu 18/06/2026"
+    },
+    {
+      "home": "Mon 22/06/2026\nAdmin modified\nHartswood Lawn Tennis Club Ltd 5\n9\n-\n15\nBrentham Lawn Tennis Club 3",
+      "away": "Hartswood Lawn Tennis Club Ltd 5\n9\n-\n15\nBrentham Lawn Tennis Club 3",
+      "hs": 915,
+      "as": null,
+      "date": "Mon 22/06/2026"
+    },
+    {
+      "home": "Tue 30/06/2026\nBrentham Lawn Tennis Club 3\n18:30\nThe Parsons Green Club 3",
+      "away": "Brentham Lawn Tennis Club 3\n18:30\nThe Parsons Green Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 30/06/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nThe Lensbury Club 5\n18:30\nTeddington Lawn Tennis Club 8",
+      "away": "The Lensbury Club 5\n18:30\nTeddington Lawn Tennis Club 8",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nThistleworth LTC 3\n18:30\nVirgin Active Chiswick Riverside 6",
+      "away": "Thistleworth LTC 3\n18:30\nVirgin Active Chiswick Riverside 6",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Mon 06/07/2026\nVirgin Active Chiswick Riverside 6\n18:30\nHartswood Lawn Tennis Club Ltd 5",
+      "away": "Virgin Active Chiswick Riverside 6\n18:30\nHartswood Lawn Tennis Club Ltd 5",
+      "hs": null,
+      "as": null,
+      "date": "Mon 06/07/2026"
+    },
+    {
+      "home": "Mon 13/07/2026\nThe Lensbury Club 5\n18:30\nVirgin Active Chiswick Riverside 6",
+      "away": "The Lensbury Club 5\n18:30\nVirgin Active Chiswick Riverside 6",
+      "hs": null,
+      "as": null,
+      "date": "Mon 13/07/2026"
+    },
+    {
+      "home": "Wed 15/07/2026\nThistleworth LTC 3\n18:30\nGunnersbury Triangle Club 4",
+      "away": "Thistleworth LTC 3\n18:30\nGunnersbury Triangle Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Wed 15/07/2026"
+    },
+    {
+      "home": "Mon 20/07/2026\nThe Parsons Green Club 3\n18:30\nGunnersbury Triangle Club 4",
+      "away": "The Parsons Green Club 3\n18:30\nGunnersbury Triangle Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Mon 20/07/2026"
+    },
+    {
+      "home": "Tue 21/07/2026\nHartswood Lawn Tennis Club Ltd 5\n18:30\nTeddington Lawn Tennis Club 8",
+      "away": "Hartswood Lawn Tennis Club Ltd 5\n18:30\nTeddington Lawn Tennis Club 8",
+      "hs": null,
+      "as": null,
+      "date": "Tue 21/07/2026"
+    },
+    {
+      "home": "Wed 22/07/2026\nBrentham Lawn Tennis Club 3\n18:30\nVirgin Active Chiswick Riverside 6",
+      "away": "Brentham Lawn Tennis Club 3\n18:30\nVirgin Active Chiswick Riverside 6",
+      "hs": null,
+      "as": null,
+      "date": "Wed 22/07/2026"
+    },
+    {
+      "home": "Thu 23/07/2026\nThe Lensbury Club 5\n18:30\nThistleworth LTC 3",
+      "away": "The Lensbury Club 5\n18:30\nThistleworth LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 23/07/2026"
+    },
+    {
+      "home": "Wed 29/07/2026\nThistleworth LTC 3\n18:30\nHartswood Lawn Tennis Club Ltd 5",
+      "away": "Thistleworth LTC 3\n18:30\nHartswood Lawn Tennis Club Ltd 5",
+      "hs": null,
+      "as": null,
+      "date": "Wed 29/07/2026"
+    },
+    {
+      "home": "Mon 03/08/2026\nGunnersbury Triangle Club 4\n18:30\nThe Lensbury Club 5",
+      "away": "Gunnersbury Triangle Club 4\n18:30\nThe Lensbury Club 5",
+      "hs": null,
+      "as": null,
+      "date": "Mon 03/08/2026"
+    },
+    {
+      "home": "Thu 06/08/2026\nTeddington Lawn Tennis Club 8\n18:30\nBrentham Lawn Tennis Club 3",
+      "away": "Teddington Lawn Tennis Club 8\n18:30\nBrentham Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 06/08/2026"
+    },
+    {
+      "home": "Thu 06/08/2026\nVirgin Active Chiswick Riverside 6\n18:30\nThe Parsons Green Club 3",
+      "away": "Virgin Active Chiswick Riverside 6\n18:30\nThe Parsons Green Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 06/08/2026"
+    }
+  ]
+}

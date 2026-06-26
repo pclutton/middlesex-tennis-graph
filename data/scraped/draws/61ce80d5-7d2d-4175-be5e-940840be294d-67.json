@@ -1,0 +1,137 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-67",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "12&U Girls Division 2\n \u2013 12&U Girls Division 2              \u2013 Group 3",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/67",
+  "scrapedAt": "2026-06-26T19:11:08.906408+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "12-6",
+      "points": 136
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 4,
+      "rubbers": "12-12",
+      "points": 1212
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "6-12",
+      "points": 613
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 25/04/2026\nChristian Gallan's Lovetennis 1\n-\nBushy Park Tennis Club Teddington 1",
+      "away": "Christian Gallan's Lovetennis 1\n-\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sat 25/04/2026\nThe Queens Club Limited 1\n4\n-\n2\nThe Parsons Green Club 1",
+      "away": "The Queens Club Limited 1\n4\n-\n2\nThe Parsons Green Club 1",
+      "hs": 42,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nChristian Gallan's Lovetennis 1\n4\n-\n2\nThe Queens Club Limited 1",
+      "away": "Christian Gallan's Lovetennis 1\n4\n-\n2\nThe Queens Club Limited 1",
+      "hs": 42,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nBushy Park Tennis Club Teddington 1\n-\nThe Parsons Green Club 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n-\nThe Parsons Green Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sat 16/05/2026\nThe Queens Club Limited 1\n6\n-\n0\nChristian Gallan's Lovetennis 1",
+      "away": "The Queens Club Limited 1\n6\n-\n0\nChristian Gallan's Lovetennis 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sat 16/05/2026"
+    },
+    {
+      "home": "Sat 23/05/2026\nThe Queens Club Limited 1\n-\nBushy Park Tennis Club Teddington 1",
+      "away": "The Queens Club Limited 1\n-\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 23/05/2026"
+    },
+    {
+      "home": "Sat 23/05/2026\nThe Parsons Green Club 1\n4\n-\n2\nChristian Gallan's Lovetennis 1",
+      "away": "The Parsons Green Club 1\n4\n-\n2\nChristian Gallan's Lovetennis 1",
+      "hs": 42,
+      "as": null,
+      "date": "Sat 23/05/2026"
+    },
+    {
+      "home": "Sat 06/06/2026\nBushy Park Tennis Club Teddington 1\n-\nChristian Gallan's Lovetennis 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n-\nChristian Gallan's Lovetennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 06/06/2026"
+    },
+    {
+      "home": "Sat 06/06/2026\nThe Parsons Green Club 1\n13:30\nThe Queens Club Limited 1",
+      "away": "The Parsons Green Club 1\n13:30\nThe Queens Club Limited 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 06/06/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nThe Parsons Green Club 1\n09:00\nBushy Park Tennis Club Teddington 1",
+      "away": "The Parsons Green Club 1\n09:00\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nBushy Park Tennis Club Teddington 1\n-\nThe Queens Club Limited 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n-\nThe Queens Club Limited 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nNo show\nChristian Gallan's Lovetennis 1\n6\n-\n0\nThe Parsons Green Club 1",
+      "away": "Christian Gallan's Lovetennis 1\n6\n-\n0\nThe Parsons Green Club 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    }
+  ]
+}

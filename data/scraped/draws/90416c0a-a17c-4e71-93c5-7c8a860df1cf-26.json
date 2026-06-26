@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-26",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Womens Doubles\n \u2013 West Division 5              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/26",
+  "scrapedAt": "2026-06-26T14:31:32.249617+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 65,
+      "rubbers": "65-31",
+      "points": 3215
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 46,
+      "rubbers": "46-26",
+      "points": 2313
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 43,
+      "rubbers": "43-29",
+      "points": 2114
+    },
+    {
+      "rank": 4,
+      "name": "4",
+      "played": 1,
+      "won": 1,
+      "drawn": 2,
+      "lost": 43,
+      "rubbers": "43-53",
+      "points": 2126
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 41,
+      "rubbers": "41-31",
+      "points": 2015
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 28,
+      "rubbers": "28-44",
+      "points": 1422
+    },
+    {
+      "rank": 7,
+      "name": "3",
+      "played": 0,
+      "won": 1,
+      "drawn": 2,
+      "lost": 28,
+      "rubbers": "28-44",
+      "points": 1422
+    },
+    {
+      "rank": 8,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 18,
+      "rubbers": "18-54",
+      "points": 927
+    }
+  ],
+  "matches": [
+    {
+      "home": "Mon 27/04/2026\nWest Middlesex Lawn Tennis Club Ltd 2\n6\n-\n18\nThistleworth LTC 2",
+      "away": "West Middlesex Lawn Tennis Club Ltd 2\n6\n-\n18\nThistleworth LTC 2",
+      "hs": 618,
+      "as": null,
+      "date": "Mon 27/04/2026"
+    },
+    {
+      "home": "Wed 29/04/2026\nAdmin modified\nThe Lensbury Club 3\n9\n-\n15\nCampden Hill Lawn Tennis Club 5",
+      "away": "The Lensbury Club 3\n9\n-\n15\nCampden Hill Lawn Tennis Club 5",
+      "hs": 915,
+      "as": null,
+      "date": "Wed 29/04/2026"
+    },
+    {
+      "home": "Tue 05/05/2026\nWhitton Tennis Club 1\n16\n-\n8\nHartswood Lawn Tennis Club Ltd 3",
+      "away": "Whitton Tennis Club 1\n16\n-\n8\nHartswood Lawn Tennis Club Ltd 3",
+      "hs": 168,
+      "as": null,
+      "date": "Tue 05/05/2026"
+    },
+    {
+      "home": "Mon 11/05/2026\nAdmin modified\nGunnersbury Triangle Club 2\n17\n-\n7\nTeddington Lawn Tennis Club 6",
+      "away": "Gunnersbury Triangle Club 2\n17\n-\n7\nTeddington Lawn Tennis Club 6",
+      "hs": 177,
+      "as": null,
+      "date": "Mon 11/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nWest Middlesex Lawn Tennis Club Ltd 2\n10\n-\n14\nThe Lensbury Club 3",
+      "away": "West Middlesex Lawn Tennis Club Ltd 2\n10\n-\n14\nThe Lensbury Club 3",
+      "hs": 1014,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Tue 19/05/2026\nCampden Hill Lawn Tennis Club 5\n16\n-\n8\nWhitton Tennis Club 1",
+      "away": "Campden Hill Lawn Tennis Club 5\n16\n-\n8\nWhitton Tennis Club 1",
+      "hs": 168,
+      "as": null,
+      "date": "Tue 19/05/2026"
+    },
+    {
+      "home": "Fri 22/05/2026\nHartswood Lawn Tennis Club Ltd 3\n8\n-\n16\nGunnersbury Triangle Club 2",
+      "away": "Hartswood Lawn Tennis Club Ltd 3\n8\n-\n16\nGunnersbury Triangle Club 2",
+      "hs": 816,
+      "as": null,
+      "date": "Fri 22/05/2026"
+    },
+    {
+      "home": "Thu 28/05/2026\nThistleworth LTC 2\n6\n-\n18\nTeddington Lawn Tennis Club 6",
+      "away": "Thistleworth LTC 2\n6\n-\n18\nTeddington Lawn Tennis Club 6",
+      "hs": 618,
+      "as": null,
+      "date": "Thu 28/05/2026"
+    },
+    {
+      "home": "Mon 01/06/2026\nTeddington Lawn Tennis Club 6\n12\n-\n12\nHartswood Lawn Tennis Club Ltd 3",
+      "away": "Teddington Lawn Tennis Club 6\n12\n-\n12\nHartswood Lawn Tennis Club Ltd 3",
+      "hs": 1212,
+      "as": null,
+      "date": "Mon 01/06/2026"
+    },
+    {
+      "home": "Mon 08/06/2026\nGunnersbury Triangle Club 2\n8\n-\n16\nCampden Hill Lawn Tennis Club 5",
+      "away": "Gunnersbury Triangle Club 2\n8\n-\n16\nCampden Hill Lawn Tennis Club 5",
+      "hs": 816,
+      "as": null,
+      "date": "Mon 08/06/2026"
+    },
+    {
+      "home": "Tue 09/06/2026\nWhitton Tennis Club 1\n22\n-\n2\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "away": "Whitton Tennis Club 1\n22\n-\n2\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "hs": 222,
+      "as": null,
+      "date": "Tue 09/06/2026"
+    },
+    {
+      "home": "Wed 10/06/2026\nThe Lensbury Club 3\n20\n-\n4\nThistleworth LTC 2",
+      "away": "The Lensbury Club 3\n20\n-\n4\nThistleworth LTC 2",
+      "hs": 204,
+      "as": null,
+      "date": "Wed 10/06/2026"
+    },
+    {
+      "home": "Wed 17/06/2026\nCampden Hill Lawn Tennis Club 5\n18\n-\n6\nTeddington Lawn Tennis Club 6",
+      "away": "Campden Hill Lawn Tennis Club 5\n18\n-\n6\nTeddington Lawn Tennis Club 6",
+      "hs": 186,
+      "as": null,
+      "date": "Wed 17/06/2026"
+    },
+    {
+      "home": "Tue 23/06/2026\nWest Middlesex Lawn Tennis Club Ltd 2\n18:30\nGunnersbury Triangle Club 2",
+      "away": "West Middlesex Lawn Tennis Club Ltd 2\n18:30\nGunnersbury Triangle Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 23/06/2026"
+    },
+    {
+      "home": "Wed 24/06/2026\nThe Lensbury Club 3\n18:30\nWhitton Tennis Club 1",
+      "away": "The Lensbury Club 3\n18:30\nWhitton Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 24/06/2026"
+    },
+    {
+      "home": "Mon 29/06/2026\nTeddington Lawn Tennis Club 6\n18:30\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "away": "Teddington Lawn Tennis Club 6\n18:30\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Mon 29/06/2026"
+    },
+    {
+      "home": "Tue 30/06/2026\nThistleworth LTC 2\n18:30\nHartswood Lawn Tennis Club Ltd 3",
+      "away": "Thistleworth LTC 2\n18:30\nHartswood Lawn Tennis Club Ltd 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 30/06/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nHartswood Lawn Tennis Club Ltd 3\n18:30\nCampden Hill Lawn Tennis Club 5",
+      "away": "Hartswood Lawn Tennis Club Ltd 3\n18:30\nCampden Hill Lawn Tennis Club 5",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Tue 07/07/2026\nWhitton Tennis Club 1\n18:30\nThistleworth LTC 2",
+      "away": "Whitton Tennis Club 1\n18:30\nThistleworth LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 07/07/2026"
+    },
+    {
+      "home": "Thu 09/07/2026\nGunnersbury Triangle Club 2\n18:30\nThe Lensbury Club 3",
+      "away": "Gunnersbury Triangle Club 2\n18:30\nThe Lensbury Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 09/07/2026"
+    },
+    {
+      "home": "Mon 20/07/2026\nThe Lensbury Club 3\n18:30\nTeddington Lawn Tennis Club 6",
+      "away": "The Lensbury Club 3\n18:30\nTeddington Lawn Tennis Club 6",
+      "hs": null,
+      "as": null,
+      "date": "Mon 20/07/2026"
+    },
+    {
+      "home": "Mon 20/07/2026\nWest Middlesex Lawn Tennis Club Ltd 2\n18:30\nHartswood Lawn Tennis Club Ltd 3",
+      "away": "West Middlesex Lawn Tennis Club Ltd 2\n18:30\nHartswood Lawn Tennis Club Ltd 3",
+      "hs": null,
+      "as": null,
+      "date": "Mon 20/07/2026"
+    },
+    {
+      "home": "Tue 21/07/2026\nWhitton Tennis Club 1\n18:30\nGunnersbury Triangle Club 2",
+      "away": "Whitton Tennis Club 1\n18:30\nGunnersbury Triangle Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 21/07/2026"
+    },
+    {
+      "home": "Tue 21/07/2026\nThistleworth LTC 2\n18:30\nCampden Hill Lawn Tennis Club 5",
+      "away": "Thistleworth LTC 2\n18:30\nCampden Hill Lawn Tennis Club 5",
+      "hs": null,
+      "as": null,
+      "date": "Tue 21/07/2026"
+    },
+    {
+      "home": "Tue 28/07/2026\nGunnersbury Triangle Club 2\n18:30\nThistleworth LTC 2",
+      "away": "Gunnersbury Triangle Club 2\n18:30\nThistleworth LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 28/07/2026"
+    },
+    {
+      "home": "Wed 29/07/2026\nCampden Hill Lawn Tennis Club 5\n18:30\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "away": "Campden Hill Lawn Tennis Club 5\n18:30\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Wed 29/07/2026"
+    },
+    {
+      "home": "Mon 03/08/2026\nHartswood Lawn Tennis Club Ltd 3\n18:30\nThe Lensbury Club 3",
+      "away": "Hartswood Lawn Tennis Club Ltd 3\n18:30\nThe Lensbury Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Mon 03/08/2026"
+    },
+    {
+      "home": "Wed 05/08/2026\nTeddington Lawn Tennis Club 6\n18:30\nWhitton Tennis Club 1",
+      "away": "Teddington Lawn Tennis Club 6\n18:30\nWhitton Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 05/08/2026"
+    }
+  ]
+}

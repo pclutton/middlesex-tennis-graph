@@ -1,0 +1,133 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-19",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "8&U Mixed Division 2\n \u2013 8&U Mixed Division 2              \u2013 Group 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/19",
+  "scrapedAt": "2026-06-26T15:47:39.036601+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 6,
+      "rubbers": "84-12",
+      "points": 426
+    },
+    {
+      "rank": 2,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "30-34",
+      "points": 1517
+    },
+    {
+      "rank": 3,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "10-22",
+      "points": 511
+    },
+    {
+      "rank": 4,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "4-28",
+      "points": 214
+    },
+    {
+      "rank": 5,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "0-32",
+      "points": 16
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 19/04/2026\nPinner West End Lawn Tennis Club 1\n8\n-\n24\nElms LTC 1",
+      "away": "Pinner West End Lawn Tennis Club 1\n8\n-\n24\nElms LTC 1",
+      "hs": 824,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sat 02/05/2026\nNo show\nElms LTC 1\n32\n-\n0\nWayfarers LTC 1",
+      "away": "Elms LTC 1\n32\n-\n0\nWayfarers LTC 1",
+      "hs": 320,
+      "as": null,
+      "date": "Sat 02/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nDavid Lloyd Club Northwood 1\n10\n-\n22\nPinner West End Lawn Tennis Club 1",
+      "away": "David Lloyd Club Northwood 1\n10\n-\n22\nPinner West End Lawn Tennis Club 1",
+      "hs": 1022,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nHarrow Lawn Tennis Club 1\n4\n-\n28\nElms LTC 1",
+      "away": "Harrow Lawn Tennis Club 1\n4\n-\n28\nElms LTC 1",
+      "hs": 428,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nPostponed\nWayfarers LTC 1\n17:00\nHarrow Lawn Tennis Club 1",
+      "away": "Wayfarers LTC 1\n17:00\nHarrow Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nPinner West End Lawn Tennis Club 1\n-\nWayfarers LTC 1",
+      "away": "Pinner West End Lawn Tennis Club 1\n-\nWayfarers LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sat 27/06/2026\nElms LTC 1\n-\nDavid Lloyd Club Northwood 1",
+      "away": "Elms LTC 1\n-\nDavid Lloyd Club Northwood 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 27/06/2026"
+    },
+    {
+      "home": "Sat 04/07/2026\nPostponed\nDavid Lloyd Club Northwood 1\n16:00\nHarrow Lawn Tennis Club 1",
+      "away": "David Lloyd Club Northwood 1\n16:00\nHarrow Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/07/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nPinner West End Lawn Tennis Club 1\n-\nHarrow Lawn Tennis Club 1",
+      "away": "Pinner West End Lawn Tennis Club 1\n-\nHarrow Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sat 25/07/2026\nPostponed\nWayfarers LTC 1\n15:00\nDavid Lloyd Club Northwood 1",
+      "away": "Wayfarers LTC 1\n15:00\nDavid Lloyd Club Northwood 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 25/07/2026"
+    }
+  ]
+}

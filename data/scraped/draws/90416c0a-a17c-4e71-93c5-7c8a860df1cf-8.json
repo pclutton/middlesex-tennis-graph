@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-8",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Mens Doubles \n \u2013 West Intermediate              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/8",
+  "scrapedAt": "2026-06-26T14:31:07.057231+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 65,
+      "rubbers": "65-31",
+      "points": 279
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 1,
+      "won": 1,
+      "drawn": 2,
+      "lost": 50,
+      "rubbers": "50-46",
+      "points": 2523
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 0,
+      "won": 3,
+      "drawn": 1,
+      "lost": 44,
+      "rubbers": "44-52",
+      "points": 2226
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 1,
+      "won": 2,
+      "drawn": 0,
+      "lost": 42,
+      "rubbers": "42-30",
+      "points": 2115
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 2,
+      "won": 1,
+      "drawn": 0,
+      "lost": 40,
+      "rubbers": "40-32",
+      "points": 2016
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 39,
+      "rubbers": "39-33",
+      "points": 1311
+    },
+    {
+      "rank": 7,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 30,
+      "rubbers": "30-66",
+      "points": 1533
+    },
+    {
+      "rank": 8,
+      "name": "3",
+      "played": 0,
+      "won": 1,
+      "drawn": 2,
+      "lost": 26,
+      "rubbers": "26-46",
+      "points": 1323
+    }
+  ],
+  "matches": [
+    {
+      "home": "Thu 07/05/2026\nWest Middlesex Lawn Tennis Club Ltd 1\n14\n-\n10\nPaddington Sports Club 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n14\n-\n10\nPaddington Sports Club 1",
+      "hs": 1410,
+      "as": null,
+      "date": "Thu 07/05/2026"
+    },
+    {
+      "home": "Thu 07/05/2026\nDavid Lloyd Club Acton Park 1\n18\n-\n6\nTeddington Lawn Tennis Club 2",
+      "away": "David Lloyd Club Acton Park 1\n18\n-\n6\nTeddington Lawn Tennis Club 2",
+      "hs": 186,
+      "as": null,
+      "date": "Thu 07/05/2026"
+    },
+    {
+      "home": "Tue 12/05/2026\nEaling Lawn Tennis Club 2\n12\n-\n12\nEastcote Lawn Tennis Club 1",
+      "away": "Ealing Lawn Tennis Club 2\n12\n-\n12\nEastcote Lawn Tennis Club 1",
+      "hs": 1212,
+      "as": null,
+      "date": "Tue 12/05/2026"
+    },
+    {
+      "home": "Wed 13/05/2026\nAdmin modified\nCampden Hill Lawn Tennis Club 4\n11\n-\n13\nCampden Hill Lawn Tennis Club 3",
+      "away": "Campden Hill Lawn Tennis Club 4\n11\n-\n13\nCampden Hill Lawn Tennis Club 3",
+      "hs": 1113,
+      "as": null,
+      "date": "Wed 13/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nPaddington Sports Club 1\n12\n-\n12\nDavid Lloyd Club Acton Park 1",
+      "away": "Paddington Sports Club 1\n12\n-\n12\nDavid Lloyd Club Acton Park 1",
+      "hs": 1212,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nEastcote Lawn Tennis Club 1\n18\n-\n6\nCampden Hill Lawn Tennis Club 3",
+      "away": "Eastcote Lawn Tennis Club 1\n18\n-\n6\nCampden Hill Lawn Tennis Club 3",
+      "hs": 186,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Fri 22/05/2026\nTeddington Lawn Tennis Club 2\n6\n-\n18\nCampden Hill Lawn Tennis Club 4",
+      "away": "Teddington Lawn Tennis Club 2\n6\n-\n18\nCampden Hill Lawn Tennis Club 4",
+      "hs": 618,
+      "as": null,
+      "date": "Fri 22/05/2026"
+    },
+    {
+      "home": "Tue 26/05/2026\nEaling Lawn Tennis Club 2\n12\n-\n12\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "Ealing Lawn Tennis Club 2\n12\n-\n12\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": 1212,
+      "as": null,
+      "date": "Tue 26/05/2026"
+    },
+    {
+      "home": "Mon 01/06/2026\nCampden Hill Lawn Tennis Club 4\n20\n-\n4\nPaddington Sports Club 1",
+      "away": "Campden Hill Lawn Tennis Club 4\n20\n-\n4\nPaddington Sports Club 1",
+      "hs": 204,
+      "as": null,
+      "date": "Mon 01/06/2026"
+    },
+    {
+      "home": "Mon 08/06/2026\nCampden Hill Lawn Tennis Club 3\n20\n-\n4\nTeddington Lawn Tennis Club 2",
+      "away": "Campden Hill Lawn Tennis Club 3\n20\n-\n4\nTeddington Lawn Tennis Club 2",
+      "hs": 204,
+      "as": null,
+      "date": "Mon 08/06/2026"
+    },
+    {
+      "home": "Thu 11/06/2026\nWest Middlesex Lawn Tennis Club Ltd 1\n14\n-\n10\nEastcote Lawn Tennis Club 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n14\n-\n10\nEastcote Lawn Tennis Club 1",
+      "hs": 1410,
+      "as": null,
+      "date": "Thu 11/06/2026"
+    },
+    {
+      "home": "Fri 12/06/2026\nDavid Lloyd Club Acton Park 1\n12\n-\n12\nEaling Lawn Tennis Club 2",
+      "away": "David Lloyd Club Acton Park 1\n12\n-\n12\nEaling Lawn Tennis Club 2",
+      "hs": 1212,
+      "as": null,
+      "date": "Fri 12/06/2026"
+    },
+    {
+      "home": "Mon 15/06/2026\nEaling Lawn Tennis Club 2\n8\n-\n16\nCampden Hill Lawn Tennis Club 4",
+      "away": "Ealing Lawn Tennis Club 2\n8\n-\n16\nCampden Hill Lawn Tennis Club 4",
+      "hs": 816,
+      "as": null,
+      "date": "Mon 15/06/2026"
+    },
+    {
+      "home": "Tue 23/06/2026\nPaddington Sports Club 1\n18:30\nCampden Hill Lawn Tennis Club 3",
+      "away": "Paddington Sports Club 1\n18:30\nCampden Hill Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 23/06/2026"
+    },
+    {
+      "home": "Thu 25/06/2026\nWest Middlesex Lawn Tennis Club Ltd 1\n18:30\nDavid Lloyd Club Acton Park 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n18:30\nDavid Lloyd Club Acton Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 25/06/2026"
+    },
+    {
+      "home": "Thu 25/06/2026\nUnknown player\nEastcote Lawn Tennis Club 1\n10\n-\n14\nTeddington Lawn Tennis Club 2",
+      "away": "Eastcote Lawn Tennis Club 1\n10\n-\n14\nTeddington Lawn Tennis Club 2",
+      "hs": 1014,
+      "as": null,
+      "date": "Thu 25/06/2026"
+    },
+    {
+      "home": "Tue 30/06/2026\nCampden Hill Lawn Tennis Club 3\n18:30\nEaling Lawn Tennis Club 2",
+      "away": "Campden Hill Lawn Tennis Club 3\n18:30\nEaling Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 30/06/2026"
+    },
+    {
+      "home": "Fri 03/07/2026\nTeddington Lawn Tennis Club 2\n18:30\nPaddington Sports Club 1",
+      "away": "Teddington Lawn Tennis Club 2\n18:30\nPaddington Sports Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 03/07/2026"
+    },
+    {
+      "home": "Fri 03/07/2026\nDavid Lloyd Club Acton Park 1\n18:30\nEastcote Lawn Tennis Club 1",
+      "away": "David Lloyd Club Acton Park 1\n18:30\nEastcote Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 03/07/2026"
+    },
+    {
+      "home": "Mon 06/07/2026\nCampden Hill Lawn Tennis Club 4\n18:30\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "Campden Hill Lawn Tennis Club 4\n18:30\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 06/07/2026"
+    },
+    {
+      "home": "Tue 14/07/2026\nEaling Lawn Tennis Club 2\n18:30\nTeddington Lawn Tennis Club 2",
+      "away": "Ealing Lawn Tennis Club 2\n18:30\nTeddington Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 14/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nEastcote Lawn Tennis Club 1\n18:30\nPaddington Sports Club 1",
+      "away": "Eastcote Lawn Tennis Club 1\n18:30\nPaddington Sports Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Tue 21/07/2026\nDavid Lloyd Club Acton Park 1\n18:30\nCampden Hill Lawn Tennis Club 4",
+      "away": "David Lloyd Club Acton Park 1\n18:30\nCampden Hill Lawn Tennis Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Tue 21/07/2026"
+    },
+    {
+      "home": "Thu 23/07/2026\nWest Middlesex Lawn Tennis Club Ltd 1\n18:30\nCampden Hill Lawn Tennis Club 3",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n18:30\nCampden Hill Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 23/07/2026"
+    },
+    {
+      "home": "Mon 27/07/2026\nCampden Hill Lawn Tennis Club 4\n18:30\nEastcote Lawn Tennis Club 1",
+      "away": "Campden Hill Lawn Tennis Club 4\n18:30\nEastcote Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 27/07/2026"
+    },
+    {
+      "home": "Tue 04/08/2026\nPaddington Sports Club 1\n18:30\nEaling Lawn Tennis Club 2",
+      "away": "Paddington Sports Club 1\n18:30\nEaling Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 04/08/2026"
+    },
+    {
+      "home": "Tue 04/08/2026\nCampden Hill Lawn Tennis Club 3\n18:30\nDavid Lloyd Club Acton Park 1",
+      "away": "Campden Hill Lawn Tennis Club 3\n18:30\nDavid Lloyd Club Acton Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 04/08/2026"
+    },
+    {
+      "home": "Fri 07/08/2026\nTeddington Lawn Tennis Club 2\n18:30\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "Teddington Lawn Tennis Club 2\n18:30\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 07/08/2026"
+    }
+  ]
+}

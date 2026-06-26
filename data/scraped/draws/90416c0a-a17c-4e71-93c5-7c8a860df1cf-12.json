@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-12",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Mens Doubles \n \u2013 West Division 3              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/12",
+  "scrapedAt": "2026-06-26T14:26:15.490850+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 60,
+      "rubbers": "60-36",
+      "points": 3018
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 2,
+      "won": 1,
+      "drawn": 1,
+      "lost": 58,
+      "rubbers": "58-38",
+      "points": 2919
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 2,
+      "won": 1,
+      "drawn": 1,
+      "lost": 56,
+      "rubbers": "56-40",
+      "points": 2820
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 50,
+      "rubbers": "50-22",
+      "points": 2511
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 42,
+      "rubbers": "42-30",
+      "points": 1311
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 0,
+      "won": 2,
+      "drawn": 1,
+      "lost": 26,
+      "rubbers": "26-46",
+      "points": 1323
+    },
+    {
+      "rank": 7,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 22,
+      "rubbers": "22-50",
+      "points": 1125
+    },
+    {
+      "rank": 8,
+      "name": "4",
+      "played": 0,
+      "won": 0,
+      "drawn": 4,
+      "lost": 22,
+      "rubbers": "22-74",
+      "points": 729
+    }
+  ],
+  "matches": [
+    {
+      "home": "Thu 23/04/2026\nPaddington Sports Club 2\n16\n-\n8\nThe Lensbury Club 1",
+      "away": "Paddington Sports Club 2\n16\n-\n8\nThe Lensbury Club 1",
+      "hs": 168,
+      "as": null,
+      "date": "Thu 23/04/2026"
+    },
+    {
+      "home": "Fri 01/05/2026\nWycombe House 1\n4\n-\n20\nBrentham Lawn Tennis Club 2",
+      "away": "Wycombe House 1\n4\n-\n20\nBrentham Lawn Tennis Club 2",
+      "hs": 420,
+      "as": null,
+      "date": "Fri 01/05/2026"
+    },
+    {
+      "home": "Tue 05/05/2026\nHolland Park Lawn Tennis Club 2\n16\n-\n8\nThistleworth LTC 1",
+      "away": "Holland Park Lawn Tennis Club 2\n16\n-\n8\nThistleworth LTC 1",
+      "hs": 168,
+      "as": null,
+      "date": "Tue 05/05/2026"
+    },
+    {
+      "home": "Tue 12/05/2026\nDavid Lloyd Club Sudbury Hill 1\n12\n-\n12\nTeddington Lawn Tennis Club 6",
+      "away": "David Lloyd Club Sudbury Hill 1\n12\n-\n12\nTeddington Lawn Tennis Club 6",
+      "hs": 1212,
+      "as": null,
+      "date": "Tue 12/05/2026"
+    },
+    {
+      "home": "Tue 19/05/2026\nPaddington Sports Club 2\n10\n-\n14\nHolland Park Lawn Tennis Club 2",
+      "away": "Paddington Sports Club 2\n10\n-\n14\nHolland Park Lawn Tennis Club 2",
+      "hs": 1014,
+      "as": null,
+      "date": "Tue 19/05/2026"
+    },
+    {
+      "home": "Wed 20/05/2026\nBrentham Lawn Tennis Club 2\n22\n-\n2\nDavid Lloyd Club Sudbury Hill 1",
+      "away": "Brentham Lawn Tennis Club 2\n22\n-\n2\nDavid Lloyd Club Sudbury Hill 1",
+      "hs": 222,
+      "as": null,
+      "date": "Wed 20/05/2026"
+    },
+    {
+      "home": "Wed 20/05/2026\nThistleworth LTC 1\n22\n-\n2\nWycombe House 1",
+      "away": "Thistleworth LTC 1\n22\n-\n2\nWycombe House 1",
+      "hs": 222,
+      "as": null,
+      "date": "Wed 20/05/2026"
+    },
+    {
+      "home": "Wed 27/05/2026\nTeddington Lawn Tennis Club 6\n20\n-\n4\nThe Lensbury Club 1",
+      "away": "Teddington Lawn Tennis Club 6\n20\n-\n4\nThe Lensbury Club 1",
+      "hs": 204,
+      "as": null,
+      "date": "Wed 27/05/2026"
+    },
+    {
+      "home": "Mon 08/06/2026\nTeddington Lawn Tennis Club 6\n16\n-\n8\nBrentham Lawn Tennis Club 2",
+      "away": "Teddington Lawn Tennis Club 6\n16\n-\n8\nBrentham Lawn Tennis Club 2",
+      "hs": 168,
+      "as": null,
+      "date": "Mon 08/06/2026"
+    },
+    {
+      "home": "Tue 09/06/2026\nAdmin modified\nWycombe House 1\n8\n-\n16\nPaddington Sports Club 2",
+      "away": "Wycombe House 1\n8\n-\n16\nPaddington Sports Club 2",
+      "hs": 816,
+      "as": null,
+      "date": "Tue 09/06/2026"
+    },
+    {
+      "home": "Tue 09/06/2026\nDavid Lloyd Club Sudbury Hill 1\n12\n-\n12\nThistleworth LTC 1",
+      "away": "David Lloyd Club Sudbury Hill 1\n12\n-\n12\nThistleworth LTC 1",
+      "hs": 1212,
+      "as": null,
+      "date": "Tue 09/06/2026"
+    },
+    {
+      "home": "Mon 15/06/2026\nThistleworth LTC 1\n14\n-\n10\nTeddington Lawn Tennis Club 6",
+      "away": "Thistleworth LTC 1\n14\n-\n10\nTeddington Lawn Tennis Club 6",
+      "hs": 1410,
+      "as": null,
+      "date": "Mon 15/06/2026"
+    },
+    {
+      "home": "Mon 15/06/2026\nHolland Park Lawn Tennis Club 2\n14\n-\n10\nThe Lensbury Club 1",
+      "away": "Holland Park Lawn Tennis Club 2\n14\n-\n10\nThe Lensbury Club 1",
+      "hs": 1410,
+      "as": null,
+      "date": "Mon 15/06/2026"
+    },
+    {
+      "home": "Wed 24/06/2026\nThe Lensbury Club 1\n18:30\nBrentham Lawn Tennis Club 2",
+      "away": "The Lensbury Club 1\n18:30\nBrentham Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Wed 24/06/2026"
+    },
+    {
+      "home": "Thu 25/06/2026\nPaddington Sports Club 2\n18:30\nDavid Lloyd Club Sudbury Hill 1",
+      "away": "Paddington Sports Club 2\n18:30\nDavid Lloyd Club Sudbury Hill 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 25/06/2026"
+    },
+    {
+      "home": "Thu 25/06/2026\nHolland Park Lawn Tennis Club 2\n16\n-\n8\nWycombe House 1",
+      "away": "Holland Park Lawn Tennis Club 2\n16\n-\n8\nWycombe House 1",
+      "hs": 168,
+      "as": null,
+      "date": "Thu 25/06/2026"
+    },
+    {
+      "home": "Wed 01/07/2026\nBrentham Lawn Tennis Club 2\n18:30\nThistleworth LTC 1",
+      "away": "Brentham Lawn Tennis Club 2\n18:30\nThistleworth LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 01/07/2026"
+    },
+    {
+      "home": "Mon 06/07/2026\nTeddington Lawn Tennis Club 6\n18:30\nPaddington Sports Club 2",
+      "away": "Teddington Lawn Tennis Club 6\n18:30\nPaddington Sports Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Mon 06/07/2026"
+    },
+    {
+      "home": "Tue 07/07/2026\nDavid Lloyd Club Sudbury Hill 1\n18:30\nHolland Park Lawn Tennis Club 2",
+      "away": "David Lloyd Club Sudbury Hill 1\n18:30\nHolland Park Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 07/07/2026"
+    },
+    {
+      "home": "Tue 07/07/2026\nWycombe House 1\n18:30\nThe Lensbury Club 1",
+      "away": "Wycombe House 1\n18:30\nThe Lensbury Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 07/07/2026"
+    },
+    {
+      "home": "Mon 13/07/2026\nHolland Park Lawn Tennis Club 2\n18:30\nTeddington Lawn Tennis Club 6",
+      "away": "Holland Park Lawn Tennis Club 2\n18:30\nTeddington Lawn Tennis Club 6",
+      "hs": null,
+      "as": null,
+      "date": "Mon 13/07/2026"
+    },
+    {
+      "home": "Tue 14/07/2026\nWycombe House 1\n18:30\nDavid Lloyd Club Sudbury Hill 1",
+      "away": "Wycombe House 1\n18:30\nDavid Lloyd Club Sudbury Hill 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 14/07/2026"
+    },
+    {
+      "home": "Wed 15/07/2026\nThe Lensbury Club 1\n18:30\nThistleworth LTC 1",
+      "away": "The Lensbury Club 1\n18:30\nThistleworth LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 15/07/2026"
+    },
+    {
+      "home": "Mon 20/07/2026\nPaddington Sports Club 2\n18:30\nBrentham Lawn Tennis Club 2",
+      "away": "Paddington Sports Club 2\n18:30\nBrentham Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Mon 20/07/2026"
+    },
+    {
+      "home": "Mon 27/07/2026\nBrentham Lawn Tennis Club 2\n18:30\nHolland Park Lawn Tennis Club 2",
+      "away": "Brentham Lawn Tennis Club 2\n18:30\nHolland Park Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Mon 27/07/2026"
+    },
+    {
+      "home": "Mon 03/08/2026\nTeddington Lawn Tennis Club 6\n18:30\nWycombe House 1",
+      "away": "Teddington Lawn Tennis Club 6\n18:30\nWycombe House 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 03/08/2026"
+    },
+    {
+      "home": "Tue 04/08/2026\nDavid Lloyd Club Sudbury Hill 1\n18:30\nThe Lensbury Club 1",
+      "away": "David Lloyd Club Sudbury Hill 1\n18:30\nThe Lensbury Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 04/08/2026"
+    },
+    {
+      "home": "Wed 05/08/2026\nThistleworth LTC 1\n18:30\nPaddington Sports Club 2",
+      "away": "Thistleworth LTC 1\n18:30\nPaddington Sports Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Wed 05/08/2026"
+    }
+  ]
+}

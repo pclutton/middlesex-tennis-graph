@@ -1,0 +1,133 @@
+{
+  "drawId": "1424eff6-c4f2-4092-a7b9-032dbfcd0ba7-21",
+  "competitionId": "1424eff6-c4f2-4092-a7b9-032dbfcd0ba7",
+  "competitionName": "12 & Under Girls\n \u2013 12&U Girls              \u2013 South East South",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/1424EFF6-C4F2-4092-A7B9-032DBFCD0BA7/draw/21",
+  "scrapedAt": "2026-06-26T15:45:44.625789+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 6,
+      "rubbers": "36-0",
+      "points": 361
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "24-12",
+      "points": 2513
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "10-26",
+      "points": 1027
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 0,
+      "rubbers": "2-34",
+      "points": 434
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 20/03/2026\nFinchley Manor Tennis Squash and Health Club 1\n0\n-\n12\nSurbiton Racket & Fitness Club 1",
+      "away": "Finchley Manor Tennis Squash and Health Club 1\n0\n-\n12\nSurbiton Racket & Fitness Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Fri 20/03/2026"
+    },
+    {
+      "home": "Sat 21/03/2026\nEsher Lawn Tennis Club 1\n12\n-\n0\nRoehampton Club 1",
+      "away": "Esher Lawn Tennis Club 1\n12\n-\n0\nRoehampton Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sat 21/03/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nDavid Lloyd Club Finchley 1\n10\n-\n2\nFinchley Manor Tennis Squash and Health Club 1",
+      "away": "David Lloyd Club Finchley 1\n10\n-\n2\nFinchley Manor Tennis Squash and Health Club 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nSurbiton Racket & Fitness Club 1\n0\n-\n12\nEsher Lawn Tennis Club 1",
+      "away": "Surbiton Racket & Fitness Club 1\n0\n-\n12\nEsher Lawn Tennis Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nRoehampton Club 1\n0\n-\n12\nSurbiton Racket & Fitness Club 1",
+      "away": "Roehampton Club 1\n0\n-\n12\nSurbiton Racket & Fitness Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nEsher Lawn Tennis Club 1\n12\n-\n0\nDavid Lloyd Club Finchley 1",
+      "away": "Esher Lawn Tennis Club 1\n12\n-\n0\nDavid Lloyd Club Finchley 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sat 23/05/2026\nDavid Lloyd Club Finchley 1\n13:00\nRoehampton Club 1",
+      "away": "David Lloyd Club Finchley 1\n13:00\nRoehampton Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 23/05/2026"
+    },
+    {
+      "home": "Sat 23/05/2026\nFinchley Manor Tennis Squash and Health Club 1\n0\n-\n12\nEsher Lawn Tennis Club 1",
+      "away": "Finchley Manor Tennis Squash and Health Club 1\n0\n-\n12\nEsher Lawn Tennis Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sat 23/05/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nRoehampton Club 1\n-\nFinchley Manor Tennis Squash and Health Club 1",
+      "away": "Roehampton Club 1\n-\nFinchley Manor Tennis Squash and Health Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nUnknown player\nSurbiton Racket & Fitness Club 1\n12\n-\n0\nDavid Lloyd Club Finchley 1",
+      "away": "Surbiton Racket & Fitness Club 1\n12\n-\n0\nDavid Lloyd Club Finchley 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    }
+  ]
+}

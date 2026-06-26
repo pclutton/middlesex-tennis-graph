@@ -1,0 +1,178 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-16",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "Open Mens Division 2 onwards\n \u2013 Open Mens Division 6              \u2013 Division 6 West",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/16",
+  "scrapedAt": "2026-06-26T19:06:22.542930+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 8,
+      "rubbers": "44-4",
+      "points": 446
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "22-14",
+      "points": 2314
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 4,
+      "rubbers": "18-30",
+      "points": 1931
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "12-24",
+      "points": 1224
+    },
+    {
+      "rank": 5,
+      "name": "4",
+      "played": 0,
+      "won": 0,
+      "drawn": 4,
+      "lost": 0,
+      "rubbers": "12-36",
+      "points": 1437
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 19/04/2026\nWembley & Sudbury Lawn Tennis Squash & Social Cl 1\n8\n-\n4\nTwickenham Lawn Tennis Club 1",
+      "away": "Wembley & Sudbury Lawn Tennis Squash & Social Cl 1\n8\n-\n4\nTwickenham Lawn Tennis Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nUxbridge LTC 1\n11:00\nWycombe House 1",
+      "away": "Uxbridge LTC 1\n11:00\nWycombe House 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nLowlands Club 1\n8\n-\n4\nVirgin Active Chiswick Riverside 1",
+      "away": "Lowlands Club 1\n8\n-\n4\nVirgin Active Chiswick Riverside 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Mon 04/05/2026\nLowlands Club 1\n12\n-\n0\nTwickenham Lawn Tennis Club 1",
+      "away": "Lowlands Club 1\n12\n-\n0\nTwickenham Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Mon 04/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nWycombe House 1\n-\nLowlands Club 1",
+      "away": "Wycombe House 1\n-\nLowlands Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nWembley & Sudbury Lawn Tennis Squash & Social Cl 1\n8\n-\n4\nUxbridge LTC 1",
+      "away": "Wembley & Sudbury Lawn Tennis Squash & Social Cl 1\n8\n-\n4\nUxbridge LTC 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nTwickenham Lawn Tennis Club 1\n4\n-\n8\nVirgin Active Chiswick Riverside 1",
+      "away": "Twickenham Lawn Tennis Club 1\n4\n-\n8\nVirgin Active Chiswick Riverside 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nLowlands Club 1\n12\n-\n0\nWembley & Sudbury Lawn Tennis Squash & Social Cl 1",
+      "away": "Lowlands Club 1\n12\n-\n0\nWembley & Sudbury Lawn Tennis Squash & Social Cl 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nUxbridge LTC 1\n8\n-\n4\nTwickenham Lawn Tennis Club 1",
+      "away": "Uxbridge LTC 1\n8\n-\n4\nTwickenham Lawn Tennis Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nVirgin Active Chiswick Riverside 1\n13:30\nWycombe House 1",
+      "away": "Virgin Active Chiswick Riverside 1\n13:30\nWycombe House 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nWembley & Sudbury Lawn Tennis Squash & Social Cl 1\n2\n-\n10\nVirgin Active Chiswick Riverside 1",
+      "away": "Wembley & Sudbury Lawn Tennis Squash & Social Cl 1\n2\n-\n10\nVirgin Active Chiswick Riverside 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nTwickenham Lawn Tennis Club 1\n-\nWycombe House 1",
+      "away": "Twickenham Lawn Tennis Club 1\n-\nWycombe House 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nUnknown player\nUxbridge LTC 1\n0\n-\n12\nLowlands Club 1",
+      "away": "Uxbridge LTC 1\n0\n-\n12\nLowlands Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nWycombe House 1\n-\nWembley & Sudbury Lawn Tennis Squash & Social Cl 1",
+      "away": "Wycombe House 1\n-\nWembley & Sudbury Lawn Tennis Squash & Social Cl 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nVirgin Active Chiswick Riverside 1\n13:30\nUxbridge LTC 1",
+      "away": "Virgin Active Chiswick Riverside 1\n13:30\nUxbridge LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    }
+  ]
+}

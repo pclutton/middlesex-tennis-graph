@@ -1,0 +1,230 @@
+{
+  "drawId": "e706d35c-e97d-4da9-b929-7ce48f06f6c8-3",
+  "competitionId": "e706d35c-e97d-4da9-b929-7ce48f06f6c8",
+  "competitionName": "Mens\n \u2013 National Tier              \u2013 National Open Men's - South East",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/E706D35C-E97D-4DA9-B929-7CE48F06F6C8/draw/3",
+  "scrapedAt": "2026-06-26T19:17:48.033937+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "5",
+      "played": 5,
+      "won": 0,
+      "drawn": 0,
+      "lost": 10,
+      "rubbers": "44-16",
+      "points": 4518
+    },
+    {
+      "rank": 2,
+      "name": "5",
+      "played": 4,
+      "won": 0,
+      "drawn": 1,
+      "lost": 8,
+      "rubbers": "34-26",
+      "points": 3929
+    },
+    {
+      "rank": 3,
+      "name": "5",
+      "played": 3,
+      "won": 0,
+      "drawn": 2,
+      "lost": 6,
+      "rubbers": "38-22",
+      "points": 3926
+    },
+    {
+      "rank": 4,
+      "name": "5",
+      "played": 2,
+      "won": 0,
+      "drawn": 3,
+      "lost": 4,
+      "rubbers": "32-28",
+      "points": 3629
+    },
+    {
+      "rank": 5,
+      "name": "5",
+      "played": 1,
+      "won": 0,
+      "drawn": 4,
+      "lost": 2,
+      "rubbers": "22-38",
+      "points": 2543
+    },
+    {
+      "rank": 6,
+      "name": "5",
+      "played": 0,
+      "won": 0,
+      "drawn": 5,
+      "lost": 0,
+      "rubbers": "10-50",
+      "points": 1352
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 22/03/2026\nDavid Lloyd Club Raynes Park 1\n10\n-\n2\nGidea Park LTC 1",
+      "away": "David Lloyd Club Raynes Park 1\n10\n-\n2\nGidea Park LTC 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 22/03/2026"
+    },
+    {
+      "home": "Sun 22/03/2026\nAdmin modified\nBerkhamsted Lawn Tennis & Squash Rackets Club 1\n12\n-\n0\nSutton Tennis & Squash Club 1",
+      "away": "Berkhamsted Lawn Tennis & Squash Rackets Club 1\n12\n-\n0\nSutton Tennis & Squash Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 22/03/2026"
+    },
+    {
+      "home": "Sun 22/03/2026\nThe Queens Club Limited 1\n4\n-\n8\nRoehampton Club 1",
+      "away": "The Queens Club Limited 1\n4\n-\n8\nRoehampton Club 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 22/03/2026"
+    },
+    {
+      "home": "Sun 12/04/2026\nGidea Park LTC 1\n4\n-\n8\nRoehampton Club 1",
+      "away": "Gidea Park LTC 1\n4\n-\n8\nRoehampton Club 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 12/04/2026"
+    },
+    {
+      "home": "Sun 12/04/2026\nSutton Tennis & Squash Club 1\n12:00\nDavid Lloyd Club Raynes Park 1",
+      "away": "Sutton Tennis & Squash Club 1\n12:00\nDavid Lloyd Club Raynes Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 12/04/2026"
+    },
+    {
+      "home": "Sun 12/04/2026\nBerkhamsted Lawn Tennis & Squash Rackets Club 1\n10\n-\n2\nDukes Meadows Tennis 1",
+      "away": "Berkhamsted Lawn Tennis & Squash Rackets Club 1\n10\n-\n2\nDukes Meadows Tennis 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 12/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nDavid Lloyd Club Raynes Park 1\n6\n-\n6\nDukes Meadows Tennis 1",
+      "away": "David Lloyd Club Raynes Park 1\n6\n-\n6\nDukes Meadows Tennis 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nThe Queens Club Limited 1\n12\n-\n0\nGidea Park LTC 1",
+      "away": "The Queens Club Limited 1\n12\n-\n0\nGidea Park LTC 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nRoehampton Club 1\n12:00\nSutton Tennis & Squash Club 1",
+      "away": "Roehampton Club 1\n12:00\nSutton Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 26/04/2026\nSutton Tennis & Squash Club 1\n12:00\nThe Queens Club Limited 1",
+      "away": "Sutton Tennis & Squash Club 1\n12:00\nThe Queens Club Limited 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 26/04/2026\nDukes Meadows Tennis 1\n0\n-\n12\nRoehampton Club 1",
+      "away": "Dukes Meadows Tennis 1\n0\n-\n12\nRoehampton Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 26/04/2026\nBerkhamsted Lawn Tennis & Squash Rackets Club 1\n6\n-\n6\nDavid Lloyd Club Raynes Park 1",
+      "away": "Berkhamsted Lawn Tennis & Squash Rackets Club 1\n6\n-\n6\nDavid Lloyd Club Raynes Park 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nRoehampton Club 1\n8\n-\n4\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "away": "Roehampton Club 1\n8\n-\n4\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nUnknown player\nDukes Meadows Tennis 1\n4\n-\n8\nThe Queens Club Limited 1",
+      "away": "Dukes Meadows Tennis 1\n4\n-\n8\nThe Queens Club Limited 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nGidea Park LTC 1\n12:00\nSutton Tennis & Squash Club 1",
+      "away": "Gidea Park LTC 1\n12:00\nSutton Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nDukes Meadows Tennis 1\n10\n-\n2\nGidea Park LTC 1",
+      "away": "Dukes Meadows Tennis 1\n10\n-\n2\nGidea Park LTC 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nRoehampton Club 1\n8\n-\n4\nDavid Lloyd Club Raynes Park 1",
+      "away": "Roehampton Club 1\n8\n-\n4\nDavid Lloyd Club Raynes Park 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nThe Queens Club Limited 1\n4\n-\n8\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "away": "The Queens Club Limited 1\n4\n-\n8\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nDavid Lloyd Club Raynes Park 1\n8\n-\n4\nThe Queens Club Limited 1",
+      "away": "David Lloyd Club Raynes Park 1\n8\n-\n4\nThe Queens Club Limited 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nGidea Park LTC 1\n2\n-\n10\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "away": "Gidea Park LTC 1\n2\n-\n10\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nSutton Tennis & Squash Club 1\n12:00\nDukes Meadows Tennis 1",
+      "away": "Sutton Tennis & Squash Club 1\n12:00\nDukes Meadows Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    }
+  ]
+}

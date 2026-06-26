@@ -1,0 +1,230 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-51",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Womens Doubles\n \u2013 East Premier              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/51",
+  "scrapedAt": "2026-06-26T14:33:08.622964+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 62,
+      "rubbers": "62-6",
+      "points": 283
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 59,
+      "rubbers": "59-37",
+      "points": 2210
+    },
+    {
+      "rank": 3,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 32,
+      "rubbers": "32-16",
+      "points": 93
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 29,
+      "rubbers": "29-43",
+      "points": 1321
+    },
+    {
+      "rank": 5,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 29,
+      "rubbers": "29-67",
+      "points": 1432
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 25,
+      "rubbers": "25-47",
+      "points": 1219
+    },
+    {
+      "rank": 7,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 24,
+      "rubbers": "24-44",
+      "points": 1121
+    }
+  ],
+  "matches": [
+    {
+      "home": "Thu 30/04/2026\nGlobe 1\n6\n-\n18\nHazelwood 1",
+      "away": "Globe 1\n6\n-\n18\nHazelwood 1",
+      "hs": 618,
+      "as": null,
+      "date": "Thu 30/04/2026"
+    },
+    {
+      "home": "Wed 06/05/2026\nTotteridge 1\n6\n-\n18\nCumberland 1",
+      "away": "Totteridge 1\n6\n-\n18\nCumberland 1",
+      "hs": 618,
+      "as": null,
+      "date": "Wed 06/05/2026"
+    },
+    {
+      "home": "Fri 08/05/2026\nAdmin modified\nChandos 1\n22\n-\n2\nCoolhurst LTC 1",
+      "away": "Chandos 1\n22\n-\n2\nCoolhurst LTC 1",
+      "hs": 222,
+      "as": null,
+      "date": "Fri 08/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nAdmin modified\nCumberland 1\n10\n-\n14\nHazelwood 1",
+      "away": "Cumberland 1\n10\n-\n14\nHazelwood 1",
+      "hs": 1014,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Tue 26/05/2026\nCoolhurst LTC 1\n16\n-\n8\nGlobe 1",
+      "away": "Coolhurst LTC 1\n16\n-\n8\nGlobe 1",
+      "hs": 168,
+      "as": null,
+      "date": "Tue 26/05/2026"
+    },
+    {
+      "home": "Thu 28/05/2026\nTotteridge 1\n14\n-\n10\nCumberland 2",
+      "away": "Totteridge 1\n14\n-\n10\nCumberland 2",
+      "hs": 1410,
+      "as": null,
+      "date": "Thu 28/05/2026"
+    },
+    {
+      "home": "Wed 03/06/2026\nChandos 1\n24\n-\n0\nTotteridge 1",
+      "away": "Chandos 1\n24\n-\n0\nTotteridge 1",
+      "hs": 240,
+      "as": null,
+      "date": "Wed 03/06/2026"
+    },
+    {
+      "home": "Mon 15/06/2026\nAdmin modified\nCumberland 2\n10\n-\n14\nCumberland 1",
+      "away": "Cumberland 2\n10\n-\n14\nCumberland 1",
+      "hs": 1014,
+      "as": null,
+      "date": "Mon 15/06/2026"
+    },
+    {
+      "home": "Tue 16/06/2026\nAdmin modified\nCumberland 1\n17\n-\n7\nCoolhurst LTC 1",
+      "away": "Cumberland 1\n17\n-\n7\nCoolhurst LTC 1",
+      "hs": 177,
+      "as": null,
+      "date": "Tue 16/06/2026"
+    },
+    {
+      "home": "Mon 22/06/2026\nAdmin modified\nTotteridge 1\n9\n-\n15\nGlobe 1",
+      "away": "Totteridge 1\n9\n-\n15\nGlobe 1",
+      "hs": 915,
+      "as": null,
+      "date": "Mon 22/06/2026"
+    },
+    {
+      "home": "Mon 22/06/2026\nCumberland 2\n4\n-\n16\nChandos 1",
+      "away": "Cumberland 2\n4\n-\n16\nChandos 1",
+      "hs": 416,
+      "as": null,
+      "date": "Mon 22/06/2026"
+    },
+    {
+      "home": "Tue 30/06/2026\nGlobe 1\n18:30\nCumberland 2",
+      "away": "Globe 1\n18:30\nCumberland 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 30/06/2026"
+    },
+    {
+      "home": "Wed 01/07/2026\nHazelwood 1\n18:30\nTotteridge 1",
+      "away": "Hazelwood 1\n18:30\nTotteridge 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 01/07/2026"
+    },
+    {
+      "home": "Wed 01/07/2026\nChandos 1\n18:30\nCumberland 1",
+      "away": "Chandos 1\n18:30\nCumberland 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 01/07/2026"
+    },
+    {
+      "home": "Wed 15/07/2026\nTotteridge 1\n18:30\nCoolhurst LTC 1",
+      "away": "Totteridge 1\n18:30\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 15/07/2026"
+    },
+    {
+      "home": "Wed 22/07/2026\nChandos 1\n18:30\nGlobe 1",
+      "away": "Chandos 1\n18:30\nGlobe 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 22/07/2026"
+    },
+    {
+      "home": "Thu 23/07/2026\nCumberland 2\n18:30\nHazelwood 1",
+      "away": "Cumberland 2\n18:30\nHazelwood 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 23/07/2026"
+    },
+    {
+      "home": "Wed 29/07/2026\nHazelwood 1\n18:30\nChandos 1",
+      "away": "Hazelwood 1\n18:30\nChandos 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 29/07/2026"
+    },
+    {
+      "home": "Thu 30/07/2026\nGlobe 1\n18:30\nCumberland 1",
+      "away": "Globe 1\n18:30\nCumberland 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 30/07/2026"
+    },
+    {
+      "home": "Wed 05/08/2026\nPostponed\nHazelwood 1\n18:30\nCoolhurst LTC 1",
+      "away": "Hazelwood 1\n18:30\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 05/08/2026"
+    },
+    {
+      "home": "Fri 07/08/2026\nCoolhurst LTC 1\n18:30\nCumberland 2",
+      "away": "Coolhurst LTC 1\n18:30\nCumberland 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 07/08/2026"
+    }
+  ]
+}

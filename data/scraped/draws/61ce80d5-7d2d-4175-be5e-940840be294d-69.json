@@ -1,0 +1,133 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-69",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "14&U Girls Division 2\n \u2013 14&U Girls Division 2              \u2013 Group 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/69",
+  "scrapedAt": "2026-06-26T14:25:18.315636+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "12-6",
+      "points": 136
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "10-8",
+      "points": 1010
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "8-10",
+      "points": 89
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "6-12",
+      "points": 612
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 10/05/2026\nGunnersbury Triangle Club 1\n6\n-\n0\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "Gunnersbury Triangle Club 1\n6\n-\n0\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nHarbour Club Chelsea 1\n13:00\nBushy Park Tennis Club Teddington 1",
+      "away": "Harbour Club Chelsea 1\n13:00\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nWest Middlesex Lawn Tennis Club Ltd 1\n6\n-\n0\nHarbour Club Chelsea 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n6\n-\n0\nHarbour Club Chelsea 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nBrentham Lawn Tennis Club 1\n6\n-\n0\nGunnersbury Triangle Club 1",
+      "away": "Brentham Lawn Tennis Club 1\n6\n-\n0\nGunnersbury Triangle Club 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nBushy Park Tennis Club Teddington 1\n-\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n-\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nHarbour Club Chelsea 1\n6\n-\n0\nBrentham Lawn Tennis Club 1",
+      "away": "Harbour Club Chelsea 1\n6\n-\n0\nBrentham Lawn Tennis Club 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nGunnersbury Triangle Club 1\n2\n-\n4\nHarbour Club Chelsea 1",
+      "away": "Gunnersbury Triangle Club 1\n2\n-\n4\nHarbour Club Chelsea 1",
+      "hs": 24,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nBrentham Lawn Tennis Club 1\n16:00\nBushy Park Tennis Club Teddington 1",
+      "away": "Brentham Lawn Tennis Club 1\n16:00\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nBushy Park Tennis Club Teddington 1\n-\nGunnersbury Triangle Club 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n-\nGunnersbury Triangle Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nWest Middlesex Lawn Tennis Club Ltd 1\n6\n-\n0\nBrentham Lawn Tennis Club 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n6\n-\n0\nBrentham Lawn Tennis Club 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    }
+  ]
+}

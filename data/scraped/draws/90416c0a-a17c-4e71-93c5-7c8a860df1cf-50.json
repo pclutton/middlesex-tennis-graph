@@ -1,0 +1,203 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-50",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Womens Doubles\n \u2013 North East Division 7              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/50",
+  "scrapedAt": "2026-06-26T19:07:29.754022+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "5",
+      "played": 4,
+      "won": 0,
+      "drawn": 1,
+      "lost": 79,
+      "rubbers": "79-41",
+      "points": 3820
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 54,
+      "rubbers": "54-18",
+      "points": 279
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 51,
+      "rubbers": "51-45",
+      "points": 2521
+    },
+    {
+      "rank": 4,
+      "name": "4",
+      "played": 0,
+      "won": 1,
+      "drawn": 3,
+      "lost": 28,
+      "rubbers": "28-68",
+      "points": 1434
+    },
+    {
+      "rank": 5,
+      "name": "4",
+      "played": 0,
+      "won": 1,
+      "drawn": 3,
+      "lost": 28,
+      "rubbers": "28-68",
+      "points": 1434
+    }
+  ],
+  "matches": [
+    {
+      "home": "Tue 21/04/2026\nTotteridge 5\n18\n-\n6\nMercury 2",
+      "away": "Totteridge 5\n18\n-\n6\nMercury 2",
+      "hs": 186,
+      "as": null,
+      "date": "Tue 21/04/2026"
+    },
+    {
+      "home": "Tue 28/04/2026\nOakleigh Park 5\n4\n-\n20\nWaterfall 1",
+      "away": "Oakleigh Park 5\n4\n-\n20\nWaterfall 1",
+      "hs": 420,
+      "as": null,
+      "date": "Tue 28/04/2026"
+    },
+    {
+      "home": "Thu 30/04/2026\nFarm Walk 2\n4\n-\n20\nTotteridge 5",
+      "away": "Farm Walk 2\n4\n-\n20\nTotteridge 5",
+      "hs": 420,
+      "as": null,
+      "date": "Thu 30/04/2026"
+    },
+    {
+      "home": "Wed 06/05/2026\nWaterfall 1\n18\n-\n6\nMercury 2",
+      "away": "Waterfall 1\n18\n-\n6\nMercury 2",
+      "hs": 186,
+      "as": null,
+      "date": "Wed 06/05/2026"
+    },
+    {
+      "home": "Tue 19/05/2026\nWaterfall 1\n16\n-\n8\nTotteridge 5",
+      "away": "Waterfall 1\n16\n-\n8\nTotteridge 5",
+      "hs": 168,
+      "as": null,
+      "date": "Tue 19/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nFarm Walk 2\n20\n-\n4\nOakleigh Park 5",
+      "away": "Farm Walk 2\n20\n-\n4\nOakleigh Park 5",
+      "hs": 204,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Thu 28/05/2026\nOakleigh Park 5\n12\n-\n12\nMercury 2",
+      "away": "Oakleigh Park 5\n12\n-\n12\nMercury 2",
+      "hs": 1212,
+      "as": null,
+      "date": "Thu 28/05/2026"
+    },
+    {
+      "home": "Mon 01/06/2026\nAdmin modified\nTotteridge 5\n17\n-\n7\nFarm Walk 2",
+      "away": "Totteridge 5\n17\n-\n7\nFarm Walk 2",
+      "hs": 177,
+      "as": null,
+      "date": "Mon 01/06/2026"
+    },
+    {
+      "home": "Wed 10/06/2026\nWaterfall 1\n19:00\nFarm Walk 2",
+      "away": "Waterfall 1\n19:00\nFarm Walk 2",
+      "hs": null,
+      "as": null,
+      "date": "Wed 10/06/2026"
+    },
+    {
+      "home": "Thu 18/06/2026\nFarm Walk 2\n20\n-\n4\nMercury 2",
+      "away": "Farm Walk 2\n20\n-\n4\nMercury 2",
+      "hs": 204,
+      "as": null,
+      "date": "Thu 18/06/2026"
+    },
+    {
+      "home": "Thu 18/06/2026\nOakleigh Park 5\n8\n-\n16\nTotteridge 5",
+      "away": "Oakleigh Park 5\n8\n-\n16\nTotteridge 5",
+      "hs": 816,
+      "as": null,
+      "date": "Thu 18/06/2026"
+    },
+    {
+      "home": "Thu 25/06/2026\nMercury 2\n2\n-\n0\nOakleigh Park 5",
+      "away": "Mercury 2\n2\n-\n0\nOakleigh Park 5",
+      "hs": 20,
+      "as": null,
+      "date": "Thu 25/06/2026"
+    },
+    {
+      "home": "Tue 30/06/2026\nWaterfall 1\n19:00\nOakleigh Park 5",
+      "away": "Waterfall 1\n19:00\nOakleigh Park 5",
+      "hs": null,
+      "as": null,
+      "date": "Tue 30/06/2026"
+    },
+    {
+      "home": "Tue 07/07/2026\nMercury 2\n18:30\nTotteridge 5",
+      "away": "Mercury 2\n18:30\nTotteridge 5",
+      "hs": null,
+      "as": null,
+      "date": "Tue 07/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nOakleigh Park 5\n19:00\nFarm Walk 2",
+      "away": "Oakleigh Park 5\n19:00\nFarm Walk 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Mon 20/07/2026\nMercury 2\n18:30\nFarm Walk 2",
+      "away": "Mercury 2\n18:30\nFarm Walk 2",
+      "hs": null,
+      "as": null,
+      "date": "Mon 20/07/2026"
+    },
+    {
+      "home": "Wed 22/07/2026\nTotteridge 5\n18:30\nWaterfall 1",
+      "away": "Totteridge 5\n18:30\nWaterfall 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 22/07/2026"
+    },
+    {
+      "home": "Fri 24/07/2026\nPostponed\nMercury 2\n18:30\nWaterfall 1",
+      "away": "Mercury 2\n18:30\nWaterfall 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 24/07/2026"
+    },
+    {
+      "home": "Thu 30/07/2026\nFarm Walk 2\n18:45\nWaterfall 1",
+      "away": "Farm Walk 2\n18:45\nWaterfall 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 30/07/2026"
+    },
+    {
+      "home": "Tue 04/08/2026\nTotteridge 5\n18:30\nOakleigh Park 5",
+      "away": "Totteridge 5\n18:30\nOakleigh Park 5",
+      "hs": null,
+      "as": null,
+      "date": "Tue 04/08/2026"
+    }
+  ]
+}

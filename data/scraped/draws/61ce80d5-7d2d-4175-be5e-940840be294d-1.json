@@ -1,0 +1,178 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-1",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "18&U Girls Division 2\n \u2013 18&U Girls Division 2              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/1",
+  "scrapedAt": "2026-06-26T15:41:40.212284+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "1",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 2,
+      "rubbers": "6-0",
+      "points": 60
+    },
+    {
+      "rank": 2,
+      "name": "1",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 2,
+      "rubbers": "4-2",
+      "points": 42
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "8-10",
+      "points": 810
+    },
+    {
+      "rank": 4,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "rubbers": "0-6",
+      "points": 6
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 25/04/2026\nPostponed\nDavid Lloyd Club Finchley 3\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "David Lloyd Club Finchley 3\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nUnknown player\nCoolhurst LTC 1\n6\n-\n0\nSouth Hampstead Tennis Club 1",
+      "away": "Coolhurst LTC 1\n6\n-\n0\nSouth Hampstead Tennis Club 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nDavid Lloyd Club Finchley 2\n13:00\nElms LTC 1",
+      "away": "David Lloyd Club Finchley 2\n13:00\nElms LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nSouth Hampstead Tennis Club 1\n13:30\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "South Hampstead Tennis Club 1\n13:30\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nPostponed\nElms LTC 1\n16:00\nDavid Lloyd Club Finchley 3",
+      "away": "Elms LTC 1\n16:00\nDavid Lloyd Club Finchley 3",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sat 30/05/2026\nDavid Lloyd Club Finchley 2\n16:00\nSouth Hampstead Tennis Club 1",
+      "away": "David Lloyd Club Finchley 2\n16:00\nSouth Hampstead Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 30/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nHighgate Cricket and Lawn Tennis Club 1\n-\nElms LTC 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n-\nElms LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nUnknown player\nDavid Lloyd Club Finchley 3\n6\n-\n0\nCoolhurst LTC 1",
+      "away": "David Lloyd Club Finchley 3\n6\n-\n0\nCoolhurst LTC 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nCoolhurst LTC 1\n2\n-\n4\nDavid Lloyd Club Finchley 2",
+      "away": "Coolhurst LTC 1\n2\n-\n4\nDavid Lloyd Club Finchley 2",
+      "hs": 24,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nCoolhurst LTC 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Coolhurst LTC 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nDavid Lloyd Club Finchley 2\n-\nDavid Lloyd Club Finchley 3",
+      "away": "David Lloyd Club Finchley 2\n-\nDavid Lloyd Club Finchley 3",
+      "hs": null,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nSouth Hampstead Tennis Club 1\n13:30\nElms LTC 1",
+      "away": "South Hampstead Tennis Club 1\n13:30\nElms LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sat 27/06/2026\nDavid Lloyd Club Finchley 3\n16:00\nSouth Hampstead Tennis Club 1",
+      "away": "David Lloyd Club Finchley 3\n16:00\nSouth Hampstead Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 27/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nHighgate Cricket and Lawn Tennis Club 1\n-\nDavid Lloyd Club Finchley 2",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n-\nDavid Lloyd Club Finchley 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nElms LTC 1\n-\nCoolhurst LTC 1",
+      "away": "Elms LTC 1\n-\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "drawId": "e706d35c-e97d-4da9-b929-7ce48f06f6c8-11",
+  "competitionId": "e706d35c-e97d-4da9-b929-7ce48f06f6c8",
+  "competitionName": "Mens\n \u2013 Regional Tier              \u2013 Regional Men's Open - South East South",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/E706D35C-E97D-4DA9-B929-7CE48F06F6C8/draw/11",
+  "scrapedAt": "2026-06-26T14:32:18.207166+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "7",
+      "played": 6,
+      "won": 0,
+      "drawn": 1,
+      "lost": 12,
+      "rubbers": "68-16",
+      "points": 7120
+    },
+    {
+      "rank": 2,
+      "name": "7",
+      "played": 6,
+      "won": 0,
+      "drawn": 1,
+      "lost": 12,
+      "rubbers": "52-32",
+      "points": 5836
+    },
+    {
+      "rank": 3,
+      "name": "7",
+      "played": 5,
+      "won": 0,
+      "drawn": 2,
+      "lost": 10,
+      "rubbers": "56-28",
+      "points": 5737
+    },
+    {
+      "rank": 4,
+      "name": "7",
+      "played": 3,
+      "won": 0,
+      "drawn": 4,
+      "lost": 6,
+      "rubbers": "42-42",
+      "points": 4847
+    },
+    {
+      "rank": 5,
+      "name": "7",
+      "played": 3,
+      "won": 0,
+      "drawn": 4,
+      "lost": 6,
+      "rubbers": "34-50",
+      "points": 4454
+    },
+    {
+      "rank": 6,
+      "name": "7",
+      "played": 3,
+      "won": 0,
+      "drawn": 4,
+      "lost": 6,
+      "rubbers": "32-52",
+      "points": 3754
+    },
+    {
+      "rank": 7,
+      "name": "7",
+      "played": 1,
+      "won": 0,
+      "drawn": 6,
+      "lost": 2,
+      "rubbers": "32-52",
+      "points": 3761
+    },
+    {
+      "rank": 8,
+      "name": "7",
+      "played": 1,
+      "won": 0,
+      "drawn": 6,
+      "lost": 2,
+      "rubbers": "20-64",
+      "points": 2265
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 22/03/2026\nFreedom Leisure Maidstone 1\n2\n-\n10\nSt George's Hill LTC 1",
+      "away": "Freedom Leisure Maidstone 1\n2\n-\n10\nSt George's Hill LTC 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 22/03/2026"
+    },
+    {
+      "home": "Sun 22/03/2026\nPutney Lawn Tennis Club 1\n2\n-\n10\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "away": "Putney Lawn Tennis Club 1\n2\n-\n10\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 22/03/2026"
+    },
+    {
+      "home": "Sun 22/03/2026\nCampden Hill Lawn Tennis Club 1\n6\n-\n6\nMagdalen Park LTC 1",
+      "away": "Campden Hill Lawn Tennis Club 1\n6\n-\n6\nMagdalen Park LTC 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 22/03/2026"
+    },
+    {
+      "home": "Sun 22/03/2026\nRoehampton Club 2\n10\n-\n2\nThe Sundridge Park Club 1",
+      "away": "Roehampton Club 2\n10\n-\n2\nThe Sundridge Park Club 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 22/03/2026"
+    },
+    {
+      "home": "Sun 12/04/2026\nThe Sundridge Park Club 1\n6\n-\n6\nFreedom Leisure Maidstone 1",
+      "away": "The Sundridge Park Club 1\n6\n-\n6\nFreedom Leisure Maidstone 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 12/04/2026"
+    },
+    {
+      "home": "Sun 12/04/2026\nCumberland Lawn Tennis Club & Hampstead Cricket 1\n6\n-\n6\nSt George's Hill LTC 1",
+      "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1\n6\n-\n6\nSt George's Hill LTC 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 12/04/2026"
+    },
+    {
+      "home": "Sun 12/04/2026\nMagdalen Park LTC 1\n2\n-\n10\nPutney Lawn Tennis Club 1",
+      "away": "Magdalen Park LTC 1\n2\n-\n10\nPutney Lawn Tennis Club 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 12/04/2026"
+    },
+    {
+      "home": "Sun 12/04/2026\nRoehampton Club 2\n6\n-\n6\nCampden Hill Lawn Tennis Club 1",
+      "away": "Roehampton Club 2\n6\n-\n6\nCampden Hill Lawn Tennis Club 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 12/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nPutney Lawn Tennis Club 1\n0\n-\n12\nRoehampton Club 2",
+      "away": "Putney Lawn Tennis Club 1\n0\n-\n12\nRoehampton Club 2",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nSt George's Hill LTC 1\n6\n-\n6\nMagdalen Park LTC 1",
+      "away": "St George's Hill LTC 1\n6\n-\n6\nMagdalen Park LTC 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nCumberland Lawn Tennis Club & Hampstead Cricket 1\n10\n-\n2\nFreedom Leisure Maidstone 1",
+      "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1\n10\n-\n2\nFreedom Leisure Maidstone 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nCampden Hill Lawn Tennis Club 1\n8\n-\n4\nThe Sundridge Park Club 1",
+      "away": "Campden Hill Lawn Tennis Club 1\n8\n-\n4\nThe Sundridge Park Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 26/04/2026\nThe Sundridge Park Club 1\n6\n-\n6\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "away": "The Sundridge Park Club 1\n6\n-\n6\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 26/04/2026\nMagdalen Park LTC 1\n6\n-\n6\nFreedom Leisure Maidstone 1",
+      "away": "Magdalen Park LTC 1\n6\n-\n6\nFreedom Leisure Maidstone 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 26/04/2026\nRoehampton Club 2\n10\n-\n2\nSt George's Hill LTC 1",
+      "away": "Roehampton Club 2\n10\n-\n2\nSt George's Hill LTC 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 26/04/2026\nPutney Lawn Tennis Club 1\n12\n-\n0\nCampden Hill Lawn Tennis Club 1",
+      "away": "Putney Lawn Tennis Club 1\n12\n-\n0\nCampden Hill Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nSt George's Hill LTC 1\n12\n-\n0\nCampden Hill Lawn Tennis Club 1",
+      "away": "St George's Hill LTC 1\n12\n-\n0\nCampden Hill Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nFreedom Leisure Maidstone 1\n4\n-\n8\nRoehampton Club 2",
+      "away": "Freedom Leisure Maidstone 1\n4\n-\n8\nRoehampton Club 2",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nCumberland Lawn Tennis Club & Hampstead Cricket 1\n12\n-\n0\nMagdalen Park LTC 1",
+      "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1\n12\n-\n0\nMagdalen Park LTC 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nThe Sundridge Park Club 1\n4\n-\n8\nPutney Lawn Tennis Club 1",
+      "away": "The Sundridge Park Club 1\n4\n-\n8\nPutney Lawn Tennis Club 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nRoehampton Club 2\n0\n-\n12\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "away": "Roehampton Club 2\n0\n-\n12\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nPutney Lawn Tennis Club 1\n0\n-\n12\nSt George's Hill LTC 1",
+      "away": "Putney Lawn Tennis Club 1\n0\n-\n12\nSt George's Hill LTC 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nFreedom Leisure Maidstone 1\n12\n-\n0\nCampden Hill Lawn Tennis Club 1",
+      "away": "Freedom Leisure Maidstone 1\n12\n-\n0\nCampden Hill Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nThe Sundridge Park Club 1\n6\n-\n6\nMagdalen Park LTC 1",
+      "away": "The Sundridge Park Club 1\n6\n-\n6\nMagdalen Park LTC 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nFreedom Leisure Maidstone 1\n10\n-\n2\nPutney Lawn Tennis Club 1",
+      "away": "Freedom Leisure Maidstone 1\n10\n-\n2\nPutney Lawn Tennis Club 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nCampden Hill Lawn Tennis Club 1\n0\n-\n12\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "away": "Campden Hill Lawn Tennis Club 1\n0\n-\n12\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nMagdalen Park LTC 1\n6\n-\n6\nRoehampton Club 2",
+      "away": "Magdalen Park LTC 1\n6\n-\n6\nRoehampton Club 2",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nSt George's Hill LTC 1\n8\n-\n4\nThe Sundridge Park Club 1",
+      "away": "St George's Hill LTC 1\n8\n-\n4\nThe Sundridge Park Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    }
+  ]
+}

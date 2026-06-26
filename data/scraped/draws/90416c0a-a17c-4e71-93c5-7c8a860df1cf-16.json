@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-16",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Mens Doubles \n \u2013 West Division 7              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/16",
+  "scrapedAt": "2026-06-26T14:26:31.862752+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 52,
+      "rubbers": "52-20",
+      "points": 2610
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 1,
+      "drawn": 0,
+      "lost": 44,
+      "rubbers": "44-28",
+      "points": 2214
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 42,
+      "rubbers": "42-30",
+      "points": 2115
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 1,
+      "won": 1,
+      "drawn": 1,
+      "lost": 32,
+      "rubbers": "32-40",
+      "points": 1620
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 30,
+      "rubbers": "30-42",
+      "points": 1521
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 22,
+      "rubbers": "22-50",
+      "points": 1125
+    },
+    {
+      "rank": 7,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 18,
+      "rubbers": "18-30",
+      "points": 915
+    },
+    {
+      "rank": 8,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Thu 07/05/2026\nTwickenham Lawn Tennis Club 4\n4\n-\n20\nTwickenham Lawn Tennis Club 3",
+      "away": "Twickenham Lawn Tennis Club 4\n4\n-\n20\nTwickenham Lawn Tennis Club 3",
+      "hs": 420,
+      "as": null,
+      "date": "Thu 07/05/2026"
+    },
+    {
+      "home": "Fri 08/05/2026\nDavid Lloyd Club Sudbury Hill 2\n6\n-\n18\nThistleworth LTC 3",
+      "away": "David Lloyd Club Sudbury Hill 2\n6\n-\n18\nThistleworth LTC 3",
+      "hs": 618,
+      "as": null,
+      "date": "Fri 08/05/2026"
+    },
+    {
+      "home": "Tue 12/05/2026\nGunnersbury Triangle Club 2\n18\n-\n6\nSt. Mary's Tennis Club 1",
+      "away": "Gunnersbury Triangle Club 2\n18\n-\n6\nSt. Mary's Tennis Club 1",
+      "hs": 186,
+      "as": null,
+      "date": "Tue 12/05/2026"
+    },
+    {
+      "home": "Fri 15/05/2026\nBrentham Lawn Tennis Club 4\n18\n-\n6\nBushy Park Tennis Club Teddington 1",
+      "away": "Brentham Lawn Tennis Club 4\n18\n-\n6\nBushy Park Tennis Club Teddington 1",
+      "hs": 186,
+      "as": null,
+      "date": "Fri 15/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nThistleworth LTC 3\n8\n-\n16\nTwickenham Lawn Tennis Club 3",
+      "away": "Thistleworth LTC 3\n8\n-\n16\nTwickenham Lawn Tennis Club 3",
+      "hs": 816,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Fri 22/05/2026\nDavid Lloyd Club Sudbury Hill 2\n6\n-\n18\nGunnersbury Triangle Club 2",
+      "away": "David Lloyd Club Sudbury Hill 2\n6\n-\n18\nGunnersbury Triangle Club 2",
+      "hs": 618,
+      "as": null,
+      "date": "Fri 22/05/2026"
+    },
+    {
+      "home": "Thu 28/05/2026\nBushy Park Tennis Club Teddington 1\n8\n-\n16\nTwickenham Lawn Tennis Club 4",
+      "away": "Bushy Park Tennis Club Teddington 1\n8\n-\n16\nTwickenham Lawn Tennis Club 4",
+      "hs": 816,
+      "as": null,
+      "date": "Thu 28/05/2026"
+    },
+    {
+      "home": "Fri 29/05/2026\nSt. Mary's Tennis Club 1\n22\n-\n2\nBrentham Lawn Tennis Club 4",
+      "away": "St. Mary's Tennis Club 1\n22\n-\n2\nBrentham Lawn Tennis Club 4",
+      "hs": 222,
+      "as": null,
+      "date": "Fri 29/05/2026"
+    },
+    {
+      "home": "Wed 03/06/2026\nTwickenham Lawn Tennis Club 3\n16\n-\n8\nBushy Park Tennis Club Teddington 1",
+      "away": "Twickenham Lawn Tennis Club 3\n16\n-\n8\nBushy Park Tennis Club Teddington 1",
+      "hs": 168,
+      "as": null,
+      "date": "Wed 03/06/2026"
+    },
+    {
+      "home": "Wed 03/06/2026\nBrentham Lawn Tennis Club 4\n22\n-\n2\nDavid Lloyd Club Sudbury Hill 2",
+      "away": "Brentham Lawn Tennis Club 4\n22\n-\n2\nDavid Lloyd Club Sudbury Hill 2",
+      "hs": 222,
+      "as": null,
+      "date": "Wed 03/06/2026"
+    },
+    {
+      "home": "Thu 04/06/2026\nTwickenham Lawn Tennis Club 4\n10\n-\n14\nSt. Mary's Tennis Club 1",
+      "away": "Twickenham Lawn Tennis Club 4\n10\n-\n14\nSt. Mary's Tennis Club 1",
+      "hs": 1014,
+      "as": null,
+      "date": "Thu 04/06/2026"
+    },
+    {
+      "home": "Thu 11/06/2026\nGunnersbury Triangle Club 2\n14\n-\n10\nThistleworth LTC 3",
+      "away": "Gunnersbury Triangle Club 2\n14\n-\n10\nThistleworth LTC 3",
+      "hs": 1410,
+      "as": null,
+      "date": "Thu 11/06/2026"
+    },
+    {
+      "home": "Tue 23/06/2026\nGunnersbury Triangle Club 2\n12\n-\n12\nBrentham Lawn Tennis Club 4",
+      "away": "Gunnersbury Triangle Club 2\n12\n-\n12\nBrentham Lawn Tennis Club 4",
+      "hs": 1212,
+      "as": null,
+      "date": "Tue 23/06/2026"
+    },
+    {
+      "home": "Tue 23/06/2026\nDavid Lloyd Club Sudbury Hill 2\n18:30\nTwickenham Lawn Tennis Club 4",
+      "away": "David Lloyd Club Sudbury Hill 2\n18:30\nTwickenham Lawn Tennis Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Tue 23/06/2026"
+    },
+    {
+      "home": "Thu 25/06/2026\nThistleworth LTC 3\n18:30\nBushy Park Tennis Club Teddington 1",
+      "away": "Thistleworth LTC 3\n18:30\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 25/06/2026"
+    },
+    {
+      "home": "Fri 26/06/2026\nSt. Mary's Tennis Club 1\n18:30\nTwickenham Lawn Tennis Club 3",
+      "away": "St. Mary's Tennis Club 1\n18:30\nTwickenham Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 26/06/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nTwickenham Lawn Tennis Club 4\n18:30\nGunnersbury Triangle Club 2",
+      "away": "Twickenham Lawn Tennis Club 4\n18:30\nGunnersbury Triangle Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Wed 08/07/2026\nTwickenham Lawn Tennis Club 3\n18:30\nDavid Lloyd Club Sudbury Hill 2",
+      "away": "Twickenham Lawn Tennis Club 3\n18:30\nDavid Lloyd Club Sudbury Hill 2",
+      "hs": null,
+      "as": null,
+      "date": "Wed 08/07/2026"
+    },
+    {
+      "home": "Wed 08/07/2026\nBushy Park Tennis Club Teddington 1\n18:30\nSt. Mary's Tennis Club 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n18:30\nSt. Mary's Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 08/07/2026"
+    },
+    {
+      "home": "Tue 14/07/2026\nBrentham Lawn Tennis Club 4\n18:30\nThistleworth LTC 3",
+      "away": "Brentham Lawn Tennis Club 4\n18:30\nThistleworth LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 14/07/2026"
+    },
+    {
+      "home": "Mon 20/07/2026\nThistleworth LTC 3\n18:30\nSt. Mary's Tennis Club 1",
+      "away": "Thistleworth LTC 3\n18:30\nSt. Mary's Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 20/07/2026"
+    },
+    {
+      "home": "Mon 20/07/2026\nGunnersbury Triangle Club 2\n18:30\nTwickenham Lawn Tennis Club 3",
+      "away": "Gunnersbury Triangle Club 2\n18:30\nTwickenham Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Mon 20/07/2026"
+    },
+    {
+      "home": "Tue 21/07/2026\nBrentham Lawn Tennis Club 4\n18:30\nTwickenham Lawn Tennis Club 4",
+      "away": "Brentham Lawn Tennis Club 4\n18:30\nTwickenham Lawn Tennis Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Tue 21/07/2026"
+    },
+    {
+      "home": "Fri 24/07/2026\nDavid Lloyd Club Sudbury Hill 2\n18:30\nBushy Park Tennis Club Teddington 1",
+      "away": "David Lloyd Club Sudbury Hill 2\n18:30\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 24/07/2026"
+    },
+    {
+      "home": "Wed 29/07/2026\nTwickenham Lawn Tennis Club 3\n18:30\nBrentham Lawn Tennis Club 4",
+      "away": "Twickenham Lawn Tennis Club 3\n18:30\nBrentham Lawn Tennis Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Wed 29/07/2026"
+    },
+    {
+      "home": "Wed 29/07/2026\nBushy Park Tennis Club Teddington 1\n18:30\nGunnersbury Triangle Club 2",
+      "away": "Bushy Park Tennis Club Teddington 1\n18:30\nGunnersbury Triangle Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Wed 29/07/2026"
+    },
+    {
+      "home": "Thu 30/07/2026\nTwickenham Lawn Tennis Club 4\n18:30\nThistleworth LTC 3",
+      "away": "Twickenham Lawn Tennis Club 4\n18:30\nThistleworth LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 30/07/2026"
+    },
+    {
+      "home": "Fri 07/08/2026\nSt. Mary's Tennis Club 1\n18:30\nDavid Lloyd Club Sudbury Hill 2",
+      "away": "St. Mary's Tennis Club 1\n18:30\nDavid Lloyd Club Sudbury Hill 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 07/08/2026"
+    }
+  ]
+}

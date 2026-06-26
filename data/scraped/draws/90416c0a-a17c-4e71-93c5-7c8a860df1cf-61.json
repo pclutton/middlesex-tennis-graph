@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-61",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Mens Doubles \n \u2013 East Division 7              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/61",
+  "scrapedAt": "2026-06-26T14:22:47.641933+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 3,
+      "won": 1,
+      "drawn": 0,
+      "lost": 62,
+      "rubbers": "62-34",
+      "points": 3117
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 58,
+      "rubbers": "58-14",
+      "points": 297
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 56,
+      "rubbers": "56-16",
+      "points": 288
+    },
+    {
+      "rank": 4,
+      "name": "4",
+      "played": 2,
+      "won": 1,
+      "drawn": 1,
+      "lost": 56,
+      "rubbers": "56-40",
+      "points": 2820
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 38,
+      "rubbers": "38-34",
+      "points": 1917
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 16,
+      "rubbers": "16-56",
+      "points": 828
+    },
+    {
+      "rank": 7,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 16,
+      "rubbers": "16-56",
+      "points": 828
+    },
+    {
+      "rank": 8,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 10,
+      "rubbers": "10-62",
+      "points": 531
+    }
+  ],
+  "matches": [
+    {
+      "home": "Mon 20/04/2026\nBounds Green 2\n6\n-\n18\nWood Vale 3",
+      "away": "Bounds Green 2\n6\n-\n18\nWood Vale 3",
+      "hs": 618,
+      "as": null,
+      "date": "Mon 20/04/2026"
+    },
+    {
+      "home": "Fri 08/05/2026\nMuswell Hill Methodist 3\n20\n-\n4\nVicars Moor 5",
+      "away": "Muswell Hill Methodist 3\n20\n-\n4\nVicars Moor 5",
+      "hs": 204,
+      "as": null,
+      "date": "Fri 08/05/2026"
+    },
+    {
+      "home": "Mon 11/05/2026\nBounds Green 2\n6\n-\n18\nWinchmore Hill 3",
+      "away": "Bounds Green 2\n6\n-\n18\nWinchmore Hill 3",
+      "hs": 618,
+      "as": null,
+      "date": "Mon 11/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nWood Vale 3\n24\n-\n0\nBarnet 4",
+      "away": "Wood Vale 3\n24\n-\n0\nBarnet 4",
+      "hs": 240,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nWinchmore Hill 3\n22\n-\n2\nVicars Moor 5",
+      "away": "Winchmore Hill 3\n22\n-\n2\nVicars Moor 5",
+      "hs": 222,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Fri 22/05/2026\nDavid Lloyd Enfield 2\n20\n-\n4\nWinchmore Hill 3",
+      "away": "David Lloyd Enfield 2\n20\n-\n4\nWinchmore Hill 3",
+      "hs": 204,
+      "as": null,
+      "date": "Fri 22/05/2026"
+    },
+    {
+      "home": "Fri 29/05/2026\nEnfield Chase 2\n14\n-\n10\nMuswell Hill Methodist 3",
+      "away": "Enfield Chase 2\n14\n-\n10\nMuswell Hill Methodist 3",
+      "hs": 1410,
+      "as": null,
+      "date": "Fri 29/05/2026"
+    },
+    {
+      "home": "Fri 29/05/2026\nDavid Lloyd Enfield 2\n20\n-\n4\nBounds Green 2",
+      "away": "David Lloyd Enfield 2\n20\n-\n4\nBounds Green 2",
+      "hs": 204,
+      "as": null,
+      "date": "Fri 29/05/2026"
+    },
+    {
+      "home": "Mon 08/06/2026\nBarnet 4\n8\n-\n16\nDavid Lloyd Enfield 2",
+      "away": "Barnet 4\n8\n-\n16\nDavid Lloyd Enfield 2",
+      "hs": 816,
+      "as": null,
+      "date": "Mon 08/06/2026"
+    },
+    {
+      "home": "Mon 08/06/2026\nMuswell Hill Methodist 3\n8\n-\n16\nWood Vale 3",
+      "away": "Muswell Hill Methodist 3\n8\n-\n16\nWood Vale 3",
+      "hs": 816,
+      "as": null,
+      "date": "Mon 08/06/2026"
+    },
+    {
+      "home": "Fri 12/06/2026\nUnknown player\nVicars Moor 5\n4\n-\n20\nEnfield Chase 2",
+      "away": "Vicars Moor 5\n4\n-\n20\nEnfield Chase 2",
+      "hs": 420,
+      "as": null,
+      "date": "Fri 12/06/2026"
+    },
+    {
+      "home": "Mon 15/06/2026\nWinchmore Hill 3\n12\n-\n12\nEnfield Chase 2",
+      "away": "Winchmore Hill 3\n12\n-\n12\nEnfield Chase 2",
+      "hs": 1212,
+      "as": null,
+      "date": "Mon 15/06/2026"
+    },
+    {
+      "home": "Mon 22/06/2026\nBarnet 4\n8\n-\n16\nEnfield Chase 2",
+      "away": "Barnet 4\n8\n-\n16\nEnfield Chase 2",
+      "hs": 816,
+      "as": null,
+      "date": "Mon 22/06/2026"
+    },
+    {
+      "home": "Tue 23/06/2026\nPostponed\nWood Vale 3\n18:30\nVicars Moor 5",
+      "away": "Wood Vale 3\n18:30\nVicars Moor 5",
+      "hs": null,
+      "as": null,
+      "date": "Tue 23/06/2026"
+    },
+    {
+      "home": "Fri 26/06/2026\nDavid Lloyd Enfield 2\n18:30\nMuswell Hill Methodist 3",
+      "away": "David Lloyd Enfield 2\n18:30\nMuswell Hill Methodist 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 26/06/2026"
+    },
+    {
+      "home": "Mon 29/06/2026\nBounds Green 2\n18:30\nBarnet 4",
+      "away": "Bounds Green 2\n18:30\nBarnet 4",
+      "hs": null,
+      "as": null,
+      "date": "Mon 29/06/2026"
+    },
+    {
+      "home": "Mon 29/06/2026\nMuswell Hill Methodist 3\n18:30\nBounds Green 2",
+      "away": "Muswell Hill Methodist 3\n18:30\nBounds Green 2",
+      "hs": null,
+      "as": null,
+      "date": "Mon 29/06/2026"
+    },
+    {
+      "home": "Wed 01/07/2026\nVicars Moor 5\n18:30\nDavid Lloyd Enfield 2",
+      "away": "Vicars Moor 5\n18:30\nDavid Lloyd Enfield 2",
+      "hs": null,
+      "as": null,
+      "date": "Wed 01/07/2026"
+    },
+    {
+      "home": "Tue 07/07/2026\nBarnet 4\n18:30\nWinchmore Hill 3",
+      "away": "Barnet 4\n18:30\nWinchmore Hill 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 07/07/2026"
+    },
+    {
+      "home": "Wed 08/07/2026\nEnfield Chase 2\n18:30\nWood Vale 3",
+      "away": "Enfield Chase 2\n18:30\nWood Vale 3",
+      "hs": null,
+      "as": null,
+      "date": "Wed 08/07/2026"
+    },
+    {
+      "home": "Wed 15/07/2026\nBarnet 4\n18:30\nMuswell Hill Methodist 3",
+      "away": "Barnet 4\n18:30\nMuswell Hill Methodist 3",
+      "hs": null,
+      "as": null,
+      "date": "Wed 15/07/2026"
+    },
+    {
+      "home": "Mon 20/07/2026\nBounds Green 2\n18:30\nVicars Moor 5",
+      "away": "Bounds Green 2\n18:30\nVicars Moor 5",
+      "hs": null,
+      "as": null,
+      "date": "Mon 20/07/2026"
+    },
+    {
+      "home": "Mon 20/07/2026\nWinchmore Hill 3\n18:30\nWood Vale 3",
+      "away": "Winchmore Hill 3\n18:30\nWood Vale 3",
+      "hs": null,
+      "as": null,
+      "date": "Mon 20/07/2026"
+    },
+    {
+      "home": "Fri 24/07/2026\nDavid Lloyd Enfield 2\n18:30\nEnfield Chase 2",
+      "away": "David Lloyd Enfield 2\n18:30\nEnfield Chase 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 24/07/2026"
+    },
+    {
+      "home": "Mon 27/07/2026\nMuswell Hill Methodist 3\n18:30\nWinchmore Hill 3",
+      "away": "Muswell Hill Methodist 3\n18:30\nWinchmore Hill 3",
+      "hs": null,
+      "as": null,
+      "date": "Mon 27/07/2026"
+    },
+    {
+      "home": "Tue 28/07/2026\nWood Vale 3\n18:30\nDavid Lloyd Enfield 2",
+      "away": "Wood Vale 3\n18:30\nDavid Lloyd Enfield 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 28/07/2026"
+    },
+    {
+      "home": "Wed 05/08/2026\nVicars Moor 5\n18:30\nBarnet 4",
+      "away": "Vicars Moor 5\n18:30\nBarnet 4",
+      "hs": null,
+      "as": null,
+      "date": "Wed 05/08/2026"
+    },
+    {
+      "home": "Wed 05/08/2026\nEnfield Chase 2\n18:30\nBounds Green 2",
+      "away": "Enfield Chase 2\n18:30\nBounds Green 2",
+      "hs": null,
+      "as": null,
+      "date": "Wed 05/08/2026"
+    }
+  ]
+}

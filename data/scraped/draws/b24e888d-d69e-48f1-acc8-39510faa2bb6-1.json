@@ -1,0 +1,230 @@
+{
+  "drawId": "b24e888d-d69e-48f1-acc8-39510faa2bb6-1",
+  "competitionId": "b24e888d-d69e-48f1-acc8-39510faa2bb6",
+  "competitionName": "40O Mixed League\n \u2013 Division 1              \u2013 Division 1 East",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B24E888D-D69E-48F1-ACC8-39510FAA2BB6/draw/1",
+  "scrapedAt": "2026-06-26T15:40:52.316427+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 40,
+      "rubbers": "40-8",
+      "points": 204
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 24,
+      "rubbers": "24-24",
+      "points": 1212
+    },
+    {
+      "rank": 3,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 20,
+      "rubbers": "20-12",
+      "points": 106
+    },
+    {
+      "rank": 4,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 14,
+      "rubbers": "14-18",
+      "points": 79
+    },
+    {
+      "rank": 5,
+      "name": "1",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 12,
+      "rubbers": "12-4",
+      "points": 62
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 12,
+      "rubbers": "12-36",
+      "points": 618
+    },
+    {
+      "rank": 7,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 6,
+      "rubbers": "6-26",
+      "points": 313
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 10/05/2026\nCoolhurst LTC 2\n12\n-\n4\nVicars Moor LTC 1",
+      "away": "Coolhurst LTC 2\n12\n-\n4\nVicars Moor LTC 1",
+      "hs": 124,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nElmwood Lawn Tennis Club 1\n6\n-\n10\nFinchley Manor Tennis Squash and Health Club 1",
+      "away": "Elmwood Lawn Tennis Club 1\n6\n-\n10\nFinchley Manor Tennis Squash and Health Club 1",
+      "hs": 610,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nDavid Lloyd Club Finchley 1\n4\n-\n12\nHazelwood Lawn Tennis & Squash Club 1",
+      "away": "David Lloyd Club Finchley 1\n4\n-\n12\nHazelwood Lawn Tennis & Squash Club 1",
+      "hs": 412,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nHazelwood Lawn Tennis & Squash Club 1\n-\nElmwood Lawn Tennis Club 1",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n-\nElmwood Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nCoolhurst LTC 1\n14\n-\n2\nCoolhurst LTC 2",
+      "away": "Coolhurst LTC 1\n14\n-\n2\nCoolhurst LTC 2",
+      "hs": 142,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nVicars Moor LTC 1\n14\n-\n2\nDavid Lloyd Club Finchley 1",
+      "away": "Vicars Moor LTC 1\n14\n-\n2\nDavid Lloyd Club Finchley 1",
+      "hs": 142,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nElmwood Lawn Tennis Club 1\n-\nVicars Moor LTC 1",
+      "away": "Elmwood Lawn Tennis Club 1\n-\nVicars Moor LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nFinchley Manor Tennis Squash and Health Club 1\n12:00\nHazelwood Lawn Tennis & Squash Club 1",
+      "away": "Finchley Manor Tennis Squash and Health Club 1\n12:00\nHazelwood Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nDavid Lloyd Club Finchley 1\n6\n-\n10\nCoolhurst LTC 1",
+      "away": "David Lloyd Club Finchley 1\n6\n-\n10\nCoolhurst LTC 1",
+      "hs": 610,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nVicars Moor LTC 1\n6\n-\n10\nFinchley Manor Tennis Squash and Health Club 1",
+      "away": "Vicars Moor LTC 1\n6\n-\n10\nFinchley Manor Tennis Squash and Health Club 1",
+      "hs": 610,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nCoolhurst LTC 1\n16\n-\n0\nElmwood Lawn Tennis Club 1",
+      "away": "Coolhurst LTC 1\n16\n-\n0\nElmwood Lawn Tennis Club 1",
+      "hs": 160,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sun 12/07/2026\nCoolhurst LTC 2\n12:00\nDavid Lloyd Club Finchley 1",
+      "away": "Coolhurst LTC 2\n12:00\nDavid Lloyd Club Finchley 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 12/07/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nElmwood Lawn Tennis Club 1\n-\nCoolhurst LTC 2",
+      "away": "Elmwood Lawn Tennis Club 1\n-\nCoolhurst LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nHazelwood Lawn Tennis & Squash Club 1\n-\nVicars Moor LTC 1",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n-\nVicars Moor LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nFinchley Manor Tennis Squash and Health Club 1\n12:00\nCoolhurst LTC 1",
+      "away": "Finchley Manor Tennis Squash and Health Club 1\n12:00\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sun 19/07/2026\nCoolhurst LTC 1\n12:00\nHazelwood Lawn Tennis & Squash Club 1",
+      "away": "Coolhurst LTC 1\n12:00\nHazelwood Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/07/2026"
+    },
+    {
+      "home": "Sun 19/07/2026\nDavid Lloyd Club Finchley 1\n12:00\nElmwood Lawn Tennis Club 1",
+      "away": "David Lloyd Club Finchley 1\n12:00\nElmwood Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/07/2026"
+    },
+    {
+      "home": "Sun 26/07/2026\nPostponed\nCoolhurst LTC 2\n12:00\nFinchley Manor Tennis Squash and Health Club 1",
+      "away": "Coolhurst LTC 2\n12:00\nFinchley Manor Tennis Squash and Health Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 26/07/2026"
+    },
+    {
+      "home": "Sun 26/07/2026\nVicars Moor LTC 1\n14:00\nCoolhurst LTC 1",
+      "away": "Vicars Moor LTC 1\n14:00\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 26/07/2026"
+    },
+    {
+      "home": "Sun 02/08/2026\nHazelwood Lawn Tennis & Squash Club 1\n-\nCoolhurst LTC 2",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n-\nCoolhurst LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 02/08/2026"
+    },
+    {
+      "home": "Sun 02/08/2026\nFinchley Manor Tennis Squash and Health Club 1\n12:00\nDavid Lloyd Club Finchley 1",
+      "away": "Finchley Manor Tennis Squash and Health Club 1\n12:00\nDavid Lloyd Club Finchley 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 02/08/2026"
+    }
+  ]
+}

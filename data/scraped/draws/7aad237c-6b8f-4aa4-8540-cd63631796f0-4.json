@@ -1,0 +1,230 @@
+{
+  "drawId": "7aad237c-6b8f-4aa4-8540-cd63631796f0-4",
+  "competitionId": "7aad237c-6b8f-4aa4-8540-cd63631796f0",
+  "competitionName": "55/Over Mixed League\n \u2013 Division 2 West              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/7AAD237C-6B8F-4AA4-8540-CD63631796F0/draw/4",
+  "scrapedAt": "2026-06-26T15:52:24.561227+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 32,
+      "rubbers": "32-0",
+      "points": 160
+    },
+    {
+      "rank": 2,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 32,
+      "rubbers": "32-0",
+      "points": 160
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 1,
+      "won": 1,
+      "drawn": 1,
+      "lost": 24,
+      "rubbers": "24-24",
+      "points": 1212
+    },
+    {
+      "rank": 4,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 12,
+      "rubbers": "12-20",
+      "points": 610
+    },
+    {
+      "rank": 5,
+      "name": "2",
+      "played": 0,
+      "won": 1,
+      "drawn": 1,
+      "lost": 8,
+      "rubbers": "8-24",
+      "points": 412
+    },
+    {
+      "rank": 6,
+      "name": "1",
+      "played": 0,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "4-12",
+      "points": 26
+    },
+    {
+      "rank": 7,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 0,
+      "rubbers": "0-32",
+      "points": 16
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 01/05/2026\nHartswood Lawn Tennis Club Ltd 2\n8\n-\n8\nThistleworth LTC 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 2\n8\n-\n8\nThistleworth LTC 1",
+      "hs": 88,
+      "as": null,
+      "date": "Fri 01/05/2026"
+    },
+    {
+      "home": "Tue 05/05/2026\nLammas & Walpole Tennis Association 1\n0\n-\n16\nLowlands Club 1",
+      "away": "Lammas & Walpole Tennis Association 1\n0\n-\n16\nLowlands Club 1",
+      "hs": 16,
+      "as": null,
+      "date": "Tue 05/05/2026"
+    },
+    {
+      "home": "Fri 22/05/2026\nThistleworth LTC 1\n16\n-\n0\nLammas & Walpole Tennis Association 1",
+      "away": "Thistleworth LTC 1\n16\n-\n0\nLammas & Walpole Tennis Association 1",
+      "hs": 160,
+      "as": null,
+      "date": "Fri 22/05/2026"
+    },
+    {
+      "home": "Fri 22/05/2026\nEaling Lawn Tennis Club 1\n16\n-\n0\nGunnersbury Triangle Club 2",
+      "away": "Ealing Lawn Tennis Club 1\n16\n-\n0\nGunnersbury Triangle Club 2",
+      "hs": 160,
+      "as": null,
+      "date": "Fri 22/05/2026"
+    },
+    {
+      "home": "Tue 02/06/2026\nLowlands Club 1\n16\n-\n0\nThistleworth LTC 1",
+      "away": "Lowlands Club 1\n16\n-\n0\nThistleworth LTC 1",
+      "hs": 160,
+      "as": null,
+      "date": "Tue 02/06/2026"
+    },
+    {
+      "home": "Fri 05/06/2026\nHartswood Lawn Tennis Club Ltd 2\n0\n-\n16\nEaling Lawn Tennis Club 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 2\n0\n-\n16\nEaling Lawn Tennis Club 1",
+      "hs": 16,
+      "as": null,
+      "date": "Fri 05/06/2026"
+    },
+    {
+      "home": "Fri 19/06/2026\nEaling Lawn Tennis Club 1\n-\nLammas & Walpole Tennis Association 1",
+      "away": "Ealing Lawn Tennis Club 1\n-\nLammas & Walpole Tennis Association 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/06/2026"
+    },
+    {
+      "home": "Mon 22/06/2026\nGunnersbury Triangle Club 2\n12\n-\n4\nUxbridge LTC 1",
+      "away": "Gunnersbury Triangle Club 2\n12\n-\n4\nUxbridge LTC 1",
+      "hs": 124,
+      "as": null,
+      "date": "Mon 22/06/2026"
+    },
+    {
+      "home": "Fri 26/06/2026\nThistleworth LTC 1\n11:00\nUxbridge LTC 1",
+      "away": "Thistleworth LTC 1\n11:00\nUxbridge LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 26/06/2026"
+    },
+    {
+      "home": "Tue 30/06/2026\nLowlands Club 1\n10:30\nEaling Lawn Tennis Club 1",
+      "away": "Lowlands Club 1\n10:30\nEaling Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 30/06/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nLammas & Walpole Tennis Association 1\n11:30\nGunnersbury Triangle Club 2",
+      "away": "Lammas & Walpole Tennis Association 1\n11:30\nGunnersbury Triangle Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Tue 07/07/2026\nLammas & Walpole Tennis Association 1\n11:00\nUxbridge LTC 1",
+      "away": "Lammas & Walpole Tennis Association 1\n11:00\nUxbridge LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 07/07/2026"
+    },
+    {
+      "home": "Mon 13/07/2026\nHartswood Lawn Tennis Club Ltd 2\n10:30\nLammas & Walpole Tennis Association 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 2\n10:30\nLammas & Walpole Tennis Association 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 13/07/2026"
+    },
+    {
+      "home": "Mon 13/07/2026\nGunnersbury Triangle Club 2\n10:30\nLowlands Club 1",
+      "away": "Gunnersbury Triangle Club 2\n10:30\nLowlands Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 13/07/2026"
+    },
+    {
+      "home": "Fri 17/07/2026\nEaling Lawn Tennis Club 1\n-\nThistleworth LTC 1",
+      "away": "Ealing Lawn Tennis Club 1\n-\nThistleworth LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 17/07/2026"
+    },
+    {
+      "home": "Wed 22/07/2026\nUxbridge LTC 1\n11:00\nEaling Lawn Tennis Club 1",
+      "away": "Uxbridge LTC 1\n11:00\nEaling Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 22/07/2026"
+    },
+    {
+      "home": "Fri 24/07/2026\nThistleworth LTC 1\n-\nGunnersbury Triangle Club 2",
+      "away": "Thistleworth LTC 1\n-\nGunnersbury Triangle Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 24/07/2026"
+    },
+    {
+      "home": "Tue 28/07/2026\nLowlands Club 1\n11:00\nHartswood Lawn Tennis Club Ltd 2",
+      "away": "Lowlands Club 1\n11:00\nHartswood Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 28/07/2026"
+    },
+    {
+      "home": "Fri 31/07/2026\nGunnersbury Triangle Club 2\n-\nHartswood Lawn Tennis Club Ltd 2",
+      "away": "Gunnersbury Triangle Club 2\n-\nHartswood Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 31/07/2026"
+    },
+    {
+      "home": "Wed 05/08/2026\nUxbridge LTC 1\n11:00\nHartswood Lawn Tennis Club Ltd 2",
+      "away": "Uxbridge LTC 1\n11:00\nHartswood Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Wed 05/08/2026"
+    },
+    {
+      "home": "Thu 13/08/2026\nUxbridge LTC 1\n11:00\nLowlands Club 1",
+      "away": "Uxbridge LTC 1\n11:00\nLowlands Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 13/08/2026"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-57",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Mens Doubles \n \u2013 East Division 3              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/57",
+  "scrapedAt": "2026-06-26T15:42:20.812129+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 66,
+      "rubbers": "66-30",
+      "points": 3315
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 56,
+      "rubbers": "56-16",
+      "points": 288
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 48,
+      "rubbers": "48-48",
+      "points": 2424
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 42,
+      "rubbers": "42-30",
+      "points": 2115
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 40,
+      "rubbers": "40-32",
+      "points": 2016
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 24,
+      "rubbers": "24-48",
+      "points": 1224
+    },
+    {
+      "rank": 7,
+      "name": "4",
+      "played": 0,
+      "won": 0,
+      "drawn": 4,
+      "lost": 24,
+      "rubbers": "24-72",
+      "points": 1236
+    },
+    {
+      "rank": 8,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 12,
+      "rubbers": "12-36",
+      "points": 618
+    }
+  ],
+  "matches": [
+    {
+      "home": "Tue 28/04/2026\nBounds Green 1\n6\n-\n18\nHighgate Cricket 3",
+      "away": "Bounds Green 1\n6\n-\n18\nHighgate Cricket 3",
+      "hs": 618,
+      "as": null,
+      "date": "Tue 28/04/2026"
+    },
+    {
+      "home": "Tue 05/05/2026\nWinchmore Hill 1\n14\n-\n10\nStormont 1",
+      "away": "Winchmore Hill 1\n14\n-\n10\nStormont 1",
+      "hs": 1410,
+      "as": null,
+      "date": "Tue 05/05/2026"
+    },
+    {
+      "home": "Thu 07/05/2026\nHazelwood 4\n14\n-\n10\nEnfield Chase 1",
+      "away": "Hazelwood 4\n14\n-\n10\nEnfield Chase 1",
+      "hs": 1410,
+      "as": null,
+      "date": "Thu 07/05/2026"
+    },
+    {
+      "home": "Fri 08/05/2026\nHackney 3\n20\n-\n4\nCoolhurst 7",
+      "away": "Hackney 3\n20\n-\n4\nCoolhurst 7",
+      "hs": 204,
+      "as": null,
+      "date": "Fri 08/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nHighgate Cricket 3\n6\n-\n18\nHackney 3",
+      "away": "Highgate Cricket 3\n6\n-\n18\nHackney 3",
+      "hs": 618,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Fri 22/05/2026\nHazelwood 4\n18\n-\n6\nBounds Green 1",
+      "away": "Hazelwood 4\n18\n-\n6\nBounds Green 1",
+      "hs": 186,
+      "as": null,
+      "date": "Fri 22/05/2026"
+    },
+    {
+      "home": "Fri 22/05/2026\nCoolhurst 7\n10\n-\n14\nWinchmore Hill 1",
+      "away": "Coolhurst 7\n10\n-\n14\nWinchmore Hill 1",
+      "hs": 1014,
+      "as": null,
+      "date": "Fri 22/05/2026"
+    },
+    {
+      "home": "Fri 22/05/2026\nEnfield Chase 1\n14\n-\n10\nStormont 1",
+      "away": "Enfield Chase 1\n14\n-\n10\nStormont 1",
+      "hs": 1410,
+      "as": null,
+      "date": "Fri 22/05/2026"
+    },
+    {
+      "home": "Tue 02/06/2026\nBounds Green 1\n18:30\nEnfield Chase 1",
+      "away": "Bounds Green 1\n18:30\nEnfield Chase 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 02/06/2026"
+    },
+    {
+      "home": "Fri 05/06/2026\nHackney 3\n18\n-\n6\nHazelwood 4",
+      "away": "Hackney 3\n18\n-\n6\nHazelwood 4",
+      "hs": 186,
+      "as": null,
+      "date": "Fri 05/06/2026"
+    },
+    {
+      "home": "Mon 08/06/2026\nStormont 1\n22\n-\n2\nCoolhurst 7",
+      "away": "Stormont 1\n22\n-\n2\nCoolhurst 7",
+      "hs": 222,
+      "as": null,
+      "date": "Mon 08/06/2026"
+    },
+    {
+      "home": "Mon 08/06/2026\nWinchmore Hill 1\n24\n-\n0\nHighgate Cricket 3",
+      "away": "Winchmore Hill 1\n24\n-\n0\nHighgate Cricket 3",
+      "hs": 240,
+      "as": null,
+      "date": "Mon 08/06/2026"
+    },
+    {
+      "home": "Fri 19/06/2026\nEnfield Chase 1\n16\n-\n8\nCoolhurst 7",
+      "away": "Enfield Chase 1\n16\n-\n8\nCoolhurst 7",
+      "hs": 168,
+      "as": null,
+      "date": "Fri 19/06/2026"
+    },
+    {
+      "home": "Fri 19/06/2026\nHazelwood 4\n10\n-\n14\nWinchmore Hill 1",
+      "away": "Hazelwood 4\n10\n-\n14\nWinchmore Hill 1",
+      "hs": 1014,
+      "as": null,
+      "date": "Fri 19/06/2026"
+    },
+    {
+      "home": "Mon 29/06/2026\nStormont 1\n18:30\nHazelwood 4",
+      "away": "Stormont 1\n18:30\nHazelwood 4",
+      "hs": null,
+      "as": null,
+      "date": "Mon 29/06/2026"
+    },
+    {
+      "home": "Mon 29/06/2026\nCoolhurst 7\n18:30\nHighgate Cricket 3",
+      "away": "Coolhurst 7\n18:30\nHighgate Cricket 3",
+      "hs": null,
+      "as": null,
+      "date": "Mon 29/06/2026"
+    },
+    {
+      "home": "Tue 30/06/2026\nBounds Green 1\n18:30\nHackney 3",
+      "away": "Bounds Green 1\n18:30\nHackney 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 30/06/2026"
+    },
+    {
+      "home": "Fri 03/07/2026\nHackney 3\n18:30\nEnfield Chase 1",
+      "away": "Hackney 3\n18:30\nEnfield Chase 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 03/07/2026"
+    },
+    {
+      "home": "Fri 03/07/2026\nHighgate Cricket 3\n18:30\nStormont 1",
+      "away": "Highgate Cricket 3\n18:30\nStormont 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 03/07/2026"
+    },
+    {
+      "home": "Tue 07/07/2026\nWinchmore Hill 1\n18:30\nBounds Green 1",
+      "away": "Winchmore Hill 1\n18:30\nBounds Green 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 07/07/2026"
+    },
+    {
+      "home": "Fri 17/07/2026\nHazelwood 4\n-\nCoolhurst 7",
+      "away": "Hazelwood 4\n-\nCoolhurst 7",
+      "hs": null,
+      "as": null,
+      "date": "Fri 17/07/2026"
+    },
+    {
+      "home": "Fri 17/07/2026\nHackney 3\n18:30\nWinchmore Hill 1",
+      "away": "Hackney 3\n18:30\nWinchmore Hill 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 17/07/2026"
+    },
+    {
+      "home": "Wed 22/07/2026\nEnfield Chase 1\n18:30\nHighgate Cricket 3",
+      "away": "Enfield Chase 1\n18:30\nHighgate Cricket 3",
+      "hs": null,
+      "as": null,
+      "date": "Wed 22/07/2026"
+    },
+    {
+      "home": "Fri 24/07/2026\nBounds Green 1\n18:30\nStormont 1",
+      "away": "Bounds Green 1\n18:30\nStormont 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 24/07/2026"
+    },
+    {
+      "home": "Tue 28/07/2026\nCoolhurst 7\n18:30\nBounds Green 1",
+      "away": "Coolhurst 7\n18:30\nBounds Green 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 28/07/2026"
+    },
+    {
+      "home": "Tue 28/07/2026\nWinchmore Hill 1\n18:30\nEnfield Chase 1",
+      "away": "Winchmore Hill 1\n18:30\nEnfield Chase 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 28/07/2026"
+    },
+    {
+      "home": "Wed 29/07/2026\nHighgate Cricket 3\n18:30\nHazelwood 4",
+      "away": "Highgate Cricket 3\n18:30\nHazelwood 4",
+      "hs": null,
+      "as": null,
+      "date": "Wed 29/07/2026"
+    },
+    {
+      "home": "Mon 03/08/2026\nStormont 1\n18:30\nHackney 3",
+      "away": "Stormont 1\n18:30\nHackney 3",
+      "hs": null,
+      "as": null,
+      "date": "Mon 03/08/2026"
+    }
+  ]
+}

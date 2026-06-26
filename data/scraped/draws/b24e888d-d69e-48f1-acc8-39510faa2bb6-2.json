@@ -1,0 +1,230 @@
+{
+  "drawId": "b24e888d-d69e-48f1-acc8-39510faa2bb6-2",
+  "competitionId": "b24e888d-d69e-48f1-acc8-39510faa2bb6",
+  "competitionName": "40O Mixed League\n \u2013 Division 1              \u2013 Division 1 West",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B24E888D-D69E-48F1-ACC8-39510FAA2BB6/draw/2",
+  "scrapedAt": "2026-06-26T14:30:50.581835+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 1,
+      "won": 2,
+      "drawn": 1,
+      "lost": 32,
+      "rubbers": "32-32",
+      "points": 1616
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 26,
+      "rubbers": "26-6",
+      "points": 133
+    },
+    {
+      "rank": 3,
+      "name": "2",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 24,
+      "rubbers": "24-8",
+      "points": 124
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 1,
+      "won": 1,
+      "drawn": 0,
+      "lost": 18,
+      "rubbers": "18-14",
+      "points": 97
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 12,
+      "rubbers": "12-36",
+      "points": 618
+    },
+    {
+      "rank": 6,
+      "name": "1",
+      "played": 0,
+      "won": 1,
+      "drawn": 0,
+      "lost": 8,
+      "rubbers": "8-8",
+      "points": 44
+    },
+    {
+      "rank": 7,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 8,
+      "rubbers": "8-24",
+      "points": 412
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 09/05/2026\nUnknown player\nKenton Lawn Tennis Club 1\n6\n-\n10\nLowlands Club 1",
+      "away": "Kenton Lawn Tennis Club 1\n6\n-\n10\nLowlands Club 1",
+      "hs": 610,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nHarrow Lawn Tennis Club 1\n6\n-\n10\nTeddington Lawn Tennis Club 1",
+      "away": "Harrow Lawn Tennis Club 1\n6\n-\n10\nTeddington Lawn Tennis Club 1",
+      "hs": 610,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nGunnersbury Triangle Club 1\n6\n-\n10\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "Gunnersbury Triangle Club 1\n6\n-\n10\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": 610,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nCampden Hill Lawn Tennis Club 1\n8\n-\n8\nGunnersbury Triangle Club 1",
+      "away": "Campden Hill Lawn Tennis Club 1\n8\n-\n8\nGunnersbury Triangle Club 1",
+      "hs": 88,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nWest Middlesex Lawn Tennis Club Ltd 1\n16\n-\n0\nHarrow Lawn Tennis Club 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n16\n-\n0\nHarrow Lawn Tennis Club 1",
+      "hs": 160,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sat 06/06/2026\nTeddington Lawn Tennis Club 1\n14\n-\n2\nKenton Lawn Tennis Club 1",
+      "away": "Teddington Lawn Tennis Club 1\n14\n-\n2\nKenton Lawn Tennis Club 1",
+      "hs": 142,
+      "as": null,
+      "date": "Sat 06/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nLowlands Club 1\n13:00\nTeddington Lawn Tennis Club 1",
+      "away": "Lowlands Club 1\n13:00\nTeddington Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 26/07/2026\nPostponed\nHarrow Lawn Tennis Club 1\n13:00\nCampden Hill Lawn Tennis Club 1",
+      "away": "Harrow Lawn Tennis Club 1\n13:00\nCampden Hill Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 26/07/2026"
+    },
+    {
+      "home": "Sun 09/08/2026\nKenton Lawn Tennis Club 1\n13:30\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "Kenton Lawn Tennis Club 1\n13:30\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 09/08/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nGunnersbury Triangle Club 1\n10\n-\n6\nHarrow Lawn Tennis Club 1",
+      "away": "Gunnersbury Triangle Club 1\n10\n-\n6\nHarrow Lawn Tennis Club 1",
+      "hs": 106,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nAdmin modified\nWest Middlesex Lawn Tennis Club Ltd 1\n0\n-\n0\nLowlands Club 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n0\n-\n0\nLowlands Club 1",
+      "hs": 0,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nCampden Hill Lawn Tennis Club 1\n12:00\nKenton Lawn Tennis Club 1",
+      "away": "Campden Hill Lawn Tennis Club 1\n12:00\nKenton Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nLowlands Club 1\n-\nCampden Hill Lawn Tennis Club 1",
+      "away": "Lowlands Club 1\n-\nCampden Hill Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nTeddington Lawn Tennis Club 1\n10:00\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "Teddington Lawn Tennis Club 1\n10:00\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sun 12/07/2026\nKenton Lawn Tennis Club 1\n13:30\nGunnersbury Triangle Club 1",
+      "away": "Kenton Lawn Tennis Club 1\n13:30\nGunnersbury Triangle Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 12/07/2026"
+    },
+    {
+      "home": "Sun 21/06/2026\nGunnersbury Triangle Club 1\n8\n-\n8\nLowlands Club 1",
+      "away": "Gunnersbury Triangle Club 1\n8\n-\n8\nLowlands Club 1",
+      "hs": 88,
+      "as": null,
+      "date": "Sun 21/06/2026"
+    },
+    {
+      "home": "Sun 05/07/2026\nHarrow Lawn Tennis Club 1\n13:00\nKenton Lawn Tennis Club 1",
+      "away": "Harrow Lawn Tennis Club 1\n13:00\nKenton Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 05/07/2026"
+    },
+    {
+      "home": "Sun 19/07/2026\nCampden Hill Lawn Tennis Club 1\n12:00\nTeddington Lawn Tennis Club 1",
+      "away": "Campden Hill Lawn Tennis Club 1\n12:00\nTeddington Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 19/07/2026"
+    },
+    {
+      "home": "Sun 02/08/2026\nLowlands Club 1\n-\nHarrow Lawn Tennis Club 1",
+      "away": "Lowlands Club 1\n-\nHarrow Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 02/08/2026"
+    },
+    {
+      "home": "Sun 02/08/2026\nTeddington Lawn Tennis Club 1\n10:00\nGunnersbury Triangle Club 1",
+      "away": "Teddington Lawn Tennis Club 1\n10:00\nGunnersbury Triangle Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 02/08/2026"
+    },
+    {
+      "home": "Sun 02/08/2026\nWest Middlesex Lawn Tennis Club Ltd 1\n10:30\nCampden Hill Lawn Tennis Club 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n10:30\nCampden Hill Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 02/08/2026"
+    }
+  ]
+}

@@ -83,7 +83,7 @@ def parse_division(div_str: str) -> tuple[str | None, str | None]:
     is_top = bool(re.search(r"premier|intermediate", div_str, re.I))
     is_lower = bool(re.search(r"division", div_str, re.I))
     tier = "top" if is_top else ("lower" if is_lower else None)
-    m = re.match(r"^(North[\s-]East|North[\s-]West|East|West)", div_str, re.I)
+    m = re.search(r"\b(North[\s-]East|North[\s-]West|East|West)\b", div_str, re.I)
     zone = None
     if m:
         raw_zone = re.sub(r"\s+", "-", m.group(1)).title()
@@ -210,41 +210,78 @@ def ingest_results_js(data: dict) -> None:
                 )
 
 
+def _parse_scraped_match(match: dict) -> tuple[str, str, int | None, int | None] | None:
+    """
+    The scraper's DOM selectors capture the full match block as text in the 'away' field:
+    'HomeTeam\nHS\n-\nAS\nAwayTeam'  (5 parts after splitting on newline)
+    Returns (home_name, away_name, hs, as_) or None if unparseable.
+    """
+    raw = match.get("away", "")
+    parts = [p.strip() for p in raw.split("\n") if p.strip()]
+    if len(parts) >= 5:
+        home = parts[0]
+        away = parts[-1]
+        try:
+            hs: int | None = int(parts[1])
+            as_: int | None = int(parts[3])
+        except (ValueError, IndexError):
+            hs = as_ = None
+        return home, away, hs, as_
+    if len(parts) == 3:
+        home, score_block, away = parts
+        m = re.match(r"(\d+)\s*-\s*(\d+)", score_block)
+        if m:
+            return home, away, int(m.group(1)), int(m.group(2))
+    return None
+
+
 def ingest_scraped_draw(draw: dict) -> None:
     """Ingest a scraped draw JSON (produced by scrape_clubs.py)."""
     comp_id = draw["competitionId"]
-    comp_name = draw["competitionName"]
-    div_name = draw["divisionName"]
-    tier, zone = parse_division(draw.get("division", ""))
-    season = _extract_season(comp_name)
-    period = parse_period(comp_name)
+    # competitionName = draw-link text, e.g. "Mens Doubles \n ⬤ North West Division 1 ⬤ Group 1"
+    # Strip non-ASCII bullet chars then parse zone/tier from what remains.
+    raw_comp = re.sub(r"[^\x00-\x7F]", " ", draw.get("competitionName", ""))
+    raw_comp = re.sub(r"\s+", " ", raw_comp).strip()
+    tier, zone = parse_division(raw_comp)
+    season = _extract_season(raw_comp)
+    period = parse_period(raw_comp)
 
-    for row in draw.get("standings", []):
-        slug = club_slug(row["name"])
-        n = ensure_node(slug)
-        if zone:
-            n["zones"].add(zone)
+    # Fall back to year from match dates if season not in competition name
+    if season == "unknown":
+        for match in draw.get("matches", []):
+            date_str = match.get("date", "") or match.get("home", "")
+            yr = re.search(r"\b(20\d\d)\b", date_str)
+            if yr:
+                season = yr.group(1)
+                break
 
     for match in draw.get("matches", []):
-        home_slug = club_slug(match["home"])
-        away_slug = club_slug(match["away"])
-        if home_slug == away_slug:
+        parsed = _parse_scraped_match(match)
+        if not parsed:
+            continue
+        home_name, away_name, hs, as_ = parsed
+        home_slug = club_slug(home_name)
+        away_slug = club_slug(away_name)
+        if not home_name or not away_name or home_slug == away_slug:
             continue
         ensure_node(home_slug)
         ensure_node(away_slug)
+        if zone:
+            nodes[home_slug]["zones"].add(zone)
+            nodes[away_slug]["zones"].add(zone)
         record_edge(
             slug_a=home_slug,
             slug_b=away_slug,
             comp_id=comp_id,
-            comp_name=comp_name,
-            div_name=div_name,
+            comp_name=raw_comp,
+            div_name=raw_comp,
             season=season,
             period=period,
             zone=zone,
             tier=tier,
             home_slug=home_slug,
-            hs=match.get("hs"),
-            as_=match.get("as"),
+            hs=hs,
+            as_=as_,
         )
 
 
@@ -274,8 +311,17 @@ if scraped_count:
 # Serialise
 # ---------------------------------------------------------------------------
 
+def _primary_zone(zones: set) -> str | None:
+    """Pick a single zone label from a node's zone set (alphabetically first for stability)."""
+    return sorted(zones)[0] if zones else None
+
+
 node_list = [
-    {**{k: v for k, v in n.items() if k != "zones"}, "zones": sorted(n["zones"])}
+    {
+        **{k: v for k, v in n.items() if k != "zones"},
+        "zones": sorted(n["zones"]),
+        "zone": _primary_zone(n["zones"]),
+    }
     for n in nodes.values()
 ]
 link_list = list(edges.values())

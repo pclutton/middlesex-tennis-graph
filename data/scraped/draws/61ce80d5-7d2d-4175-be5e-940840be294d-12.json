@@ -1,0 +1,178 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-12",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "Open Mens Division 2 onwards\n \u2013 Open Mens Division 4              \u2013 Division 4 West",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/12",
+  "scrapedAt": "2026-06-26T15:44:06.808195+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 6,
+      "rubbers": "30-18",
+      "points": 3419
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 6,
+      "rubbers": "30-18",
+      "points": 3124
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "20-16",
+      "points": 2217
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "18-16",
+      "points": 1921
+    },
+    {
+      "rank": 5,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 2,
+      "rubbers": "22-26",
+      "points": 2729
+    },
+    {
+      "rank": 6,
+      "name": "4",
+      "played": 0,
+      "won": 0,
+      "drawn": 4,
+      "lost": 0,
+      "rubbers": "10-36",
+      "points": 1538
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 19/04/2026\nThe Hurlingham Club 3\n4\n-\n8\nEastcote Lawn Tennis Club 1",
+      "away": "The Hurlingham Club 3\n4\n-\n8\nEastcote Lawn Tennis Club 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nDavid Lloyd Club Northwood 1\n8\n-\n4\nEaling Lawn Tennis Club 2",
+      "away": "David Lloyd Club Northwood 1\n8\n-\n4\nEaling Lawn Tennis Club 2",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nEaling Lawn Tennis Club 2\n12\n-\n0\nDavid Lloyd Club Acton Park 2",
+      "away": "Ealing Lawn Tennis Club 2\n12\n-\n0\nDavid Lloyd Club Acton Park 2",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nDavid Lloyd Club Northwood 1\n8\n-\n4\nEastcote Lawn Tennis Club 1",
+      "away": "David Lloyd Club Northwood 1\n8\n-\n4\nEastcote Lawn Tennis Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nWest Middlesex Lawn Tennis Club Ltd 2\n10\n-\n0\nThe Hurlingham Club 3",
+      "away": "West Middlesex Lawn Tennis Club Ltd 2\n10\n-\n0\nThe Hurlingham Club 3",
+      "hs": 100,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nEastcote Lawn Tennis Club 1\n4\n-\n8\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "away": "Eastcote Lawn Tennis Club 1\n4\n-\n8\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nThe Hurlingham Club 3\n4\n-\n8\nEaling Lawn Tennis Club 2",
+      "away": "The Hurlingham Club 3\n4\n-\n8\nEaling Lawn Tennis Club 2",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nDavid Lloyd Club Acton Park 2\n10\n-\n2\nDavid Lloyd Club Northwood 1",
+      "away": "David Lloyd Club Acton Park 2\n10\n-\n2\nDavid Lloyd Club Northwood 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nDavid Lloyd Club Acton Park 2\n10\n-\n2\nThe Hurlingham Club 3",
+      "away": "David Lloyd Club Acton Park 2\n10\n-\n2\nThe Hurlingham Club 3",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nEaling Lawn Tennis Club 2\n6\n-\n6\nEastcote Lawn Tennis Club 1",
+      "away": "Ealing Lawn Tennis Club 2\n6\n-\n6\nEastcote Lawn Tennis Club 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nDavid Lloyd Club Northwood 1\n12\n-\n0\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "away": "David Lloyd Club Northwood 1\n12\n-\n0\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nEastcote Lawn Tennis Club 1\n-\nDavid Lloyd Club Acton Park 2",
+      "away": "Eastcote Lawn Tennis Club 1\n-\nDavid Lloyd Club Acton Park 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nWest Middlesex Lawn Tennis Club Ltd 2\n13:00\nEaling Lawn Tennis Club 2",
+      "away": "West Middlesex Lawn Tennis Club Ltd 2\n13:00\nEaling Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nThe Hurlingham Club 3\n14:00\nDavid Lloyd Club Northwood 1",
+      "away": "The Hurlingham Club 3\n14:00\nDavid Lloyd Club Northwood 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    },
+    {
+      "home": "Sun 12/07/2026\nDavid Lloyd Club Acton Park 2\n09:30\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "away": "David Lloyd Club Acton Park 2\n09:30\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 12/07/2026"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-17",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "8&U Mixed Division 1\n \u2013 8&U Mixed Division 1              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/17",
+  "scrapedAt": "2026-06-26T18:13:16.252734+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "48-48",
+      "points": 2424
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "44-48",
+      "points": 2210
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "50-42",
+      "points": 1121
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "46-50",
+      "points": 2325
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 19/04/2026\nCumberland Lawn Tennis Club & Hampstead Cricket 1\n8\n-\n24\nTemple Fortune Club 1",
+      "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1\n8\n-\n24\nTemple Fortune Club 1",
+      "hs": 824,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nUnknown player\nHackney Tennis 1\n10\n-\n22\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Hackney Tennis 1\n10\n-\n22\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": 1022,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sat 02/05/2026\nCumberland Lawn Tennis Club & Hampstead Cricket 1\n20\n-\n12\nHackney Tennis 1",
+      "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1\n20\n-\n12\nHackney Tennis 1",
+      "hs": 2012,
+      "as": null,
+      "date": "Sat 02/05/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nUnknown player\nTemple Fortune Club 1\n20\n-\n12\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Temple Fortune Club 1\n20\n-\n12\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": 2012,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nAdmin modified\nHackney Tennis 1\n28\n-\n0\nTemple Fortune Club 1",
+      "away": "Hackney Tennis 1\n28\n-\n0\nTemple Fortune Club 1",
+      "hs": 280,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nHighgate Cricket and Lawn Tennis Club 1\n12\n-\n20\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n12\n-\n20\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "hs": 1220,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nHighgate Cricket and Lawn Tennis Club 1\n-\nHackney Tennis 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n-\nHackney Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nTemple Fortune Club 1\n14:30\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "away": "Temple Fortune Club 1\n14:30\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sat 27/06/2026\nHighgate Cricket and Lawn Tennis Club 1\n-\nTemple Fortune Club 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n-\nTemple Fortune Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 27/06/2026"
+    },
+    {
+      "home": "Sat 27/06/2026\nHackney Tennis 1\n12:00\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "away": "Hackney Tennis 1\n12:00\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 27/06/2026"
+    },
+    {
+      "home": "Sat 04/07/2026\nCumberland Lawn Tennis Club & Hampstead Cricket 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/07/2026"
+    },
+    {
+      "home": "Sat 04/07/2026\nTemple Fortune Club 1\n15:00\nHackney Tennis 1",
+      "away": "Temple Fortune Club 1\n15:00\nHackney Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/07/2026"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-46",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "12&U Boys Division 2\n \u2013 12&U Boys Division 2              \u2013 Group 4",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/46",
+  "scrapedAt": "2026-06-26T18:15:03.056131+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 6,
+      "rubbers": "34-2",
+      "points": 352
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "16-20",
+      "points": 1823
+    },
+    {
+      "rank": 3,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "10-14",
+      "points": 1415
+    },
+    {
+      "rank": 4,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 2,
+      "rubbers": "22-26",
+      "points": 2330
+    },
+    {
+      "rank": 5,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 0,
+      "rubbers": "2-22",
+      "points": 222
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 25/04/2026\nThe Parsons Green Club 1\n8\n-\n4\nThe Hurlingham Club 1",
+      "away": "The Parsons Green Club 1\n8\n-\n4\nThe Hurlingham Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nHarbour Club Chelsea 1\n12\n-\n0\nTeddington Lawn Tennis Club 1",
+      "away": "Harbour Club Chelsea 1\n12\n-\n0\nTeddington Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nUnknown player\nGunnersbury Triangle Club 1\n10\n-\n2\nThe Parsons Green Club 1",
+      "away": "Gunnersbury Triangle Club 1\n10\n-\n2\nThe Parsons Green Club 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sun 17/05/2026\nThe Hurlingham Club 1\n2\n-\n10\nHarbour Club Chelsea 1",
+      "away": "The Hurlingham Club 1\n2\n-\n10\nHarbour Club Chelsea 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 17/05/2026"
+    },
+    {
+      "home": "Sat 23/05/2026\nTeddington Lawn Tennis Club 1\n2\n-\n10\nThe Hurlingham Club 1",
+      "away": "Teddington Lawn Tennis Club 1\n2\n-\n10\nThe Hurlingham Club 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sat 23/05/2026"
+    },
+    {
+      "home": "Sat 23/05/2026\nUnknown player\nHarbour Club Chelsea 1\n12\n-\n0\nGunnersbury Triangle Club 1",
+      "away": "Harbour Club Chelsea 1\n12\n-\n0\nGunnersbury Triangle Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sat 23/05/2026"
+    },
+    {
+      "home": "Sat 06/06/2026\nGunnersbury Triangle Club 1\n-\nTeddington Lawn Tennis Club 1",
+      "away": "Gunnersbury Triangle Club 1\n-\nTeddington Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 06/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nTeddington Lawn Tennis Club 1\n-\nThe Parsons Green Club 1",
+      "away": "Teddington Lawn Tennis Club 1\n-\nThe Parsons Green Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nThe Hurlingham Club 1\n6\n-\n6\nGunnersbury Triangle Club 1",
+      "away": "The Hurlingham Club 1\n6\n-\n6\nGunnersbury Triangle Club 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sat 27/06/2026\nThe Parsons Green Club 1\n13:30\nHarbour Club Chelsea 1",
+      "away": "The Parsons Green Club 1\n13:30\nHarbour Club Chelsea 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 27/06/2026"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "drawId": "1424eff6-c4f2-4092-a7b9-032dbfcd0ba7-8",
+  "competitionId": "1424eff6-c4f2-4092-a7b9-032dbfcd0ba7",
+  "competitionName": "14 & Under Boys\n \u2013 14&U Boys              \u2013 South East North 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/1424EFF6-C4F2-4092-A7B9-032DBFCD0BA7/draw/8",
+  "scrapedAt": "2026-06-26T19:17:55.490540+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 6,
+      "rubbers": "36-0",
+      "points": 361
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "20-16",
+      "points": 2119
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "10-26",
+      "points": 1326
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 0,
+      "rubbers": "6-30",
+      "points": 731
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 12/04/2026\nMilton Keynes Tennis Club 1\n10\n-\n2\nLetchworth Sports and Tennis Club Ltd 1",
+      "away": "Milton Keynes Tennis Club 1\n10\n-\n2\nLetchworth Sports and Tennis Club Ltd 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 12/04/2026"
+    },
+    {
+      "home": "Sun 12/04/2026\nNo show\nCambridge Lawn Tennis Club 1\n12\n-\n0\nThe Queens Club Limited 1",
+      "away": "Cambridge Lawn Tennis Club 1\n12\n-\n0\nThe Queens Club Limited 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 12/04/2026"
+    },
+    {
+      "home": "Sat 25/04/2026\nMilton Keynes Tennis Club 1\n0\n-\n12\nCambridge Lawn Tennis Club 1",
+      "away": "Milton Keynes Tennis Club 1\n0\n-\n12\nCambridge Lawn Tennis Club 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sat 25/04/2026\nLetchworth Sports and Tennis Club Ltd 1\n4\n-\n8\nThe Queens Club Limited 1",
+      "away": "Letchworth Sports and Tennis Club Ltd 1\n4\n-\n8\nThe Queens Club Limited 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sat 25/04/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nCambridge Lawn Tennis Club 1\n12\n-\n0\nLetchworth Sports and Tennis Club Ltd 1",
+      "away": "Cambridge Lawn Tennis Club 1\n12\n-\n0\nLetchworth Sports and Tennis Club Ltd 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nThe Queens Club Limited 1\n2\n-\n10\nMilton Keynes Tennis Club 1",
+      "away": "The Queens Club Limited 1\n2\n-\n10\nMilton Keynes Tennis Club 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    }
+  ]
+}

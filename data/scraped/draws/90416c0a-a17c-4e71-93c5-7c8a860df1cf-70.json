@@ -1,0 +1,230 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-70",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Womens Doubles\n \u2013 East Division 8              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/70",
+  "scrapedAt": "2026-06-26T14:23:29.063737+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 72,
+      "rubbers": "72-24",
+      "points": 3612
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 47,
+      "rubbers": "47-25",
+      "points": 2311
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 47,
+      "rubbers": "47-25",
+      "points": 2212
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 30,
+      "rubbers": "30-42",
+      "points": 1521
+    },
+    {
+      "rank": 5,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 24,
+      "rubbers": "24-24",
+      "points": 1212
+    },
+    {
+      "rank": 6,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 12,
+      "rubbers": "12-36",
+      "points": 618
+    },
+    {
+      "rank": 7,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 8,
+      "rubbers": "8-64",
+      "points": 432
+    }
+  ],
+  "matches": [
+    {
+      "home": "Tue 21/04/2026\nWood Vale 4\n24\n-\n0\nOur Lady of Muswell 4",
+      "away": "Wood Vale 4\n24\n-\n0\nOur Lady of Muswell 4",
+      "hs": 240,
+      "as": null,
+      "date": "Tue 21/04/2026"
+    },
+    {
+      "home": "Fri 08/05/2026\nBush Hill Park 1\n20\n-\n4\nHadley Wood 3",
+      "away": "Bush Hill Park 1\n20\n-\n4\nHadley Wood 3",
+      "hs": 204,
+      "as": null,
+      "date": "Fri 08/05/2026"
+    },
+    {
+      "home": "Fri 15/05/2026\nConway 5\n8\n-\n16\nHighgate 5",
+      "away": "Conway 5\n8\n-\n16\nHighgate 5",
+      "hs": 816,
+      "as": null,
+      "date": "Fri 15/05/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nUnknown player\nBarnet 3\n20\n-\n4\nConway 5",
+      "away": "Barnet 3\n20\n-\n4\nConway 5",
+      "hs": 204,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Fri 22/05/2026\nOur Lady of Muswell 4\n4\n-\n20\nBush Hill Park 1",
+      "away": "Our Lady of Muswell 4\n4\n-\n20\nBush Hill Park 1",
+      "hs": 420,
+      "as": null,
+      "date": "Fri 22/05/2026"
+    },
+    {
+      "home": "Fri 29/05/2026\nHighgate 5\n8\n-\n16\nWood Vale 4",
+      "away": "Highgate 5\n8\n-\n16\nWood Vale 4",
+      "hs": 816,
+      "as": null,
+      "date": "Fri 29/05/2026"
+    },
+    {
+      "home": "Mon 01/06/2026\nAdmin modified\nWood Vale 4\n7\n-\n17\nBarnet 3",
+      "away": "Wood Vale 4\n7\n-\n17\nBarnet 3",
+      "hs": 717,
+      "as": null,
+      "date": "Mon 01/06/2026"
+    },
+    {
+      "home": "Fri 05/06/2026\nBush Hill Park 1\n18\n-\n6\nHighgate 5",
+      "away": "Bush Hill Park 1\n18\n-\n6\nHighgate 5",
+      "hs": 186,
+      "as": null,
+      "date": "Fri 05/06/2026"
+    },
+    {
+      "home": "Wed 17/06/2026\nHadley Wood 3\n20\n-\n4\nOur Lady of Muswell 4",
+      "away": "Hadley Wood 3\n20\n-\n4\nOur Lady of Muswell 4",
+      "hs": 204,
+      "as": null,
+      "date": "Wed 17/06/2026"
+    },
+    {
+      "home": "Thu 18/06/2026\nBarnet 3\n10\n-\n14\nBush Hill Park 1",
+      "away": "Barnet 3\n10\n-\n14\nBush Hill Park 1",
+      "hs": 1014,
+      "as": null,
+      "date": "Thu 18/06/2026"
+    },
+    {
+      "home": "Wed 24/06/2026\nHighgate 5\n18:30\nHadley Wood 3",
+      "away": "Highgate 5\n18:30\nHadley Wood 3",
+      "hs": null,
+      "as": null,
+      "date": "Wed 24/06/2026"
+    },
+    {
+      "home": "Fri 26/06/2026\nConway 5\n18:30\nWood Vale 4",
+      "away": "Conway 5\n18:30\nWood Vale 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 26/06/2026"
+    },
+    {
+      "home": "Tue 30/06/2026\nHadley Wood 3\n18:30\nBarnet 3",
+      "away": "Hadley Wood 3\n18:30\nBarnet 3",
+      "hs": null,
+      "as": null,
+      "date": "Tue 30/06/2026"
+    },
+    {
+      "home": "Fri 10/07/2026\nBush Hill Park 1\n18:30\nConway 5",
+      "away": "Bush Hill Park 1\n18:30\nConway 5",
+      "hs": null,
+      "as": null,
+      "date": "Fri 10/07/2026"
+    },
+    {
+      "home": "Fri 10/07/2026\nOur Lady of Muswell 4\n18:30\nHighgate 5",
+      "away": "Our Lady of Muswell 4\n18:30\nHighgate 5",
+      "hs": null,
+      "as": null,
+      "date": "Fri 10/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nBarnet 3\n18:30\nOur Lady of Muswell 4",
+      "away": "Barnet 3\n18:30\nOur Lady of Muswell 4",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Mon 20/07/2026\nWood Vale 4\n18:30\nBush Hill Park 1",
+      "away": "Wood Vale 4\n18:30\nBush Hill Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 20/07/2026"
+    },
+    {
+      "home": "Fri 24/07/2026\nConway 5\n18:30\nHadley Wood 3",
+      "away": "Conway 5\n18:30\nHadley Wood 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 24/07/2026"
+    },
+    {
+      "home": "Tue 28/07/2026\nHadley Wood 3\n18:30\nWood Vale 4",
+      "away": "Hadley Wood 3\n18:30\nWood Vale 4",
+      "hs": null,
+      "as": null,
+      "date": "Tue 28/07/2026"
+    },
+    {
+      "home": "Fri 31/07/2026\nOur Lady of Muswell 4\n18:30\nConway 5",
+      "away": "Our Lady of Muswell 4\n18:30\nConway 5",
+      "hs": null,
+      "as": null,
+      "date": "Fri 31/07/2026"
+    },
+    {
+      "home": "Mon 03/08/2026\nHighgate 5\n18:30\nBarnet 3",
+      "away": "Highgate 5\n18:30\nBarnet 3",
+      "hs": null,
+      "as": null,
+      "date": "Mon 03/08/2026"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-3",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "Open Womens Division 2 onwards \u2013 Open Womens Division 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/3",
+  "scrapedAt": "2026-06-26T14:25:34.212375+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 6,
+      "rubbers": "32-16",
+      "points": 3418
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 6,
+      "rubbers": "32-16",
+      "points": 3217
+    },
+    {
+      "rank": 3,
+      "name": "5",
+      "played": 3,
+      "won": 0,
+      "drawn": 2,
+      "lost": 6,
+      "rubbers": "34-26",
+      "points": 3530
+    },
+    {
+      "rank": 4,
+      "name": "5",
+      "played": 3,
+      "won": 0,
+      "drawn": 2,
+      "lost": 6,
+      "rubbers": "24-36",
+      "points": 2637
+    },
+    {
+      "rank": 5,
+      "name": "5",
+      "played": 2,
+      "won": 0,
+      "drawn": 3,
+      "lost": 4,
+      "rubbers": "36-24",
+      "points": 3725
+    },
+    {
+      "rank": 6,
+      "name": "5",
+      "played": 0,
+      "won": 0,
+      "drawn": 5,
+      "lost": 0,
+      "rubbers": "10-50",
+      "points": 1451
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 18/04/2026\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 1\n6\n-\n6\nTotteridge Tennis Club 1",
+      "away": "OUR LADY OF MUSWELL LAWN TENNIS CLUB 1\n6\n-\n6\nTotteridge Tennis Club 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sat 18/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nNo show\nDavid Lloyd Club Acton Park 1\n0\n-\n12\nVirgin Active Chiswick Riverside 1",
+      "away": "David Lloyd Club Acton Park 1\n0\n-\n12\nVirgin Active Chiswick Riverside 1",
+      "hs": 12,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 19/04/2026\nBrentham Lawn Tennis Club 1\n10\n-\n2\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Brentham Lawn Tennis Club 1\n10\n-\n2\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 19/04/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nHighgate Cricket and Lawn Tennis Club 1\n2\n-\n10\nTotteridge Tennis Club 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n2\n-\n10\nTotteridge Tennis Club 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nBrentham Lawn Tennis Club 1\n2\n-\n10\nDavid Lloyd Club Acton Park 1",
+      "away": "Brentham Lawn Tennis Club 1\n2\n-\n10\nDavid Lloyd Club Acton Park 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nVirgin Active Chiswick Riverside 1\n8\n-\n4\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 1",
+      "away": "Virgin Active Chiswick Riverside 1\n8\n-\n4\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nTotteridge Tennis Club 1\n12\n-\n0\nVirgin Active Chiswick Riverside 1",
+      "away": "Totteridge Tennis Club 1\n12\n-\n0\nVirgin Active Chiswick Riverside 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nNo show\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 1\n12\n-\n0\nBrentham Lawn Tennis Club 1",
+      "away": "OUR LADY OF MUSWELL LAWN TENNIS CLUB 1\n12\n-\n0\nBrentham Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nDavid Lloyd Club Acton Park 1\n12\n-\n0\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "David Lloyd Club Acton Park 1\n12\n-\n0\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nHighgate Cricket and Lawn Tennis Club 1\n4\n-\n8\nVirgin Active Chiswick Riverside 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n4\n-\n8\nVirgin Active Chiswick Riverside 1",
+      "hs": 48,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nBrentham Lawn Tennis Club 1\n6\n-\n6\nTotteridge Tennis Club 1",
+      "away": "Brentham Lawn Tennis Club 1\n6\n-\n6\nTotteridge Tennis Club 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nUnknown player\nTotteridge Tennis Club 1\n2\n-\n10\nDavid Lloyd Club Acton Park 1",
+      "away": "Totteridge Tennis Club 1\n2\n-\n10\nDavid Lloyd Club Acton Park 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 1\n10\n-\n2\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "OUR LADY OF MUSWELL LAWN TENNIS CLUB 1\n10\n-\n2\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nVirgin Active Chiswick Riverside 1\n6\n-\n6\nBrentham Lawn Tennis Club 1",
+      "away": "Virgin Active Chiswick Riverside 1\n6\n-\n6\nBrentham Lawn Tennis Club 1",
+      "hs": 66,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nDavid Lloyd Club Acton Park 1\n09:30\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 1",
+      "away": "David Lloyd Club Acton Park 1\n09:30\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    }
+  ]
+}

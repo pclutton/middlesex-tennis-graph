@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-73",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Womens Doubles\n \u2013 North East Division 4              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/73",
+  "scrapedAt": "2026-06-26T14:29:48.159848+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 94,
+      "rubbers": "94-2",
+      "points": 471
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 3,
+      "won": 1,
+      "drawn": 0,
+      "lost": 61,
+      "rubbers": "61-35",
+      "points": 1911
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 3,
+      "won": 1,
+      "drawn": 0,
+      "lost": 58,
+      "rubbers": "58-38",
+      "points": 2616
+    },
+    {
+      "rank": 4,
+      "name": "5",
+      "played": 1,
+      "won": 0,
+      "drawn": 4,
+      "lost": 34,
+      "rubbers": "34-86",
+      "points": 1743
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 32,
+      "rubbers": "32-40",
+      "points": 1620
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 29,
+      "rubbers": "29-43",
+      "points": 1113
+    },
+    {
+      "rank": 7,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 26,
+      "rubbers": "26-46",
+      "points": 1323
+    },
+    {
+      "rank": 8,
+      "name": "4",
+      "played": 0,
+      "won": 0,
+      "drawn": 4,
+      "lost": 26,
+      "rubbers": "26-70",
+      "points": 1335
+    }
+  ],
+  "matches": [
+    {
+      "home": "Tue 21/04/2026\nTemple Fortune 3\n22\n-\n2\nTemple Fortune 4",
+      "away": "Temple Fortune 3\n22\n-\n2\nTemple Fortune 4",
+      "hs": 222,
+      "as": null,
+      "date": "Tue 21/04/2026"
+    },
+    {
+      "home": "Thu 30/04/2026\nDavid Lloyd Finchley 4\n14\n-\n10\nTemple Fortune 3",
+      "away": "David Lloyd Finchley 4\n14\n-\n10\nTemple Fortune 3",
+      "hs": 1410,
+      "as": null,
+      "date": "Thu 30/04/2026"
+    },
+    {
+      "home": "Mon 04/05/2026\nBrondesbury 4\n8\n-\n16\nThe Avenue 1",
+      "away": "Brondesbury 4\n8\n-\n16\nThe Avenue 1",
+      "hs": 816,
+      "as": null,
+      "date": "Mon 04/05/2026"
+    },
+    {
+      "home": "Thu 07/05/2026\nGlobe Lawn Tennis 2\n24\n-\n0\nMercury 1",
+      "away": "Globe Lawn Tennis 2\n24\n-\n0\nMercury 1",
+      "hs": 240,
+      "as": null,
+      "date": "Thu 07/05/2026"
+    },
+    {
+      "home": "Tue 12/05/2026\nTemple Fortune 4\n8\n-\n16\nTotteridge 3",
+      "away": "Temple Fortune 4\n8\n-\n16\nTotteridge 3",
+      "hs": 816,
+      "as": null,
+      "date": "Tue 12/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nGlobe Lawn Tennis 2\n24\n-\n0\nTemple Fortune 3",
+      "away": "Globe Lawn Tennis 2\n24\n-\n0\nTemple Fortune 3",
+      "hs": 240,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Mon 18/05/2026\nAdmin modified\nThe Avenue 1\n17\n-\n7\nMercury 1",
+      "away": "The Avenue 1\n17\n-\n7\nMercury 1",
+      "hs": 177,
+      "as": null,
+      "date": "Mon 18/05/2026"
+    },
+    {
+      "home": "Tue 19/05/2026\nBrondesbury 4\n10\n-\n14\nDavid Lloyd Finchley 4",
+      "away": "Brondesbury 4\n10\n-\n14\nDavid Lloyd Finchley 4",
+      "hs": 1014,
+      "as": null,
+      "date": "Tue 19/05/2026"
+    },
+    {
+      "home": "Fri 29/05/2026\nTotteridge 3\n2\n-\n22\nGlobe Lawn Tennis 2",
+      "away": "Totteridge 3\n2\n-\n22\nGlobe Lawn Tennis 2",
+      "hs": 222,
+      "as": null,
+      "date": "Fri 29/05/2026"
+    },
+    {
+      "home": "Mon 01/06/2026\nAdmin modified\nDavid Lloyd Finchley 4\n12\n-\n12\nThe Avenue 1",
+      "away": "David Lloyd Finchley 4\n12\n-\n12\nThe Avenue 1",
+      "hs": 1212,
+      "as": null,
+      "date": "Mon 01/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nMercury 1\n22\n-\n2\nTemple Fortune 4",
+      "away": "Mercury 1\n22\n-\n2\nTemple Fortune 4",
+      "hs": 222,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Wed 10/06/2026\nTemple Fortune 4\n16\n-\n8\nBrondesbury 4",
+      "away": "Temple Fortune 4\n16\n-\n8\nBrondesbury 4",
+      "hs": 168,
+      "as": null,
+      "date": "Wed 10/06/2026"
+    },
+    {
+      "home": "Wed 17/06/2026\nBrondesbury 4\n0\n-\n24\nGlobe Lawn Tennis 2",
+      "away": "Brondesbury 4\n0\n-\n24\nGlobe Lawn Tennis 2",
+      "hs": 24,
+      "as": null,
+      "date": "Wed 17/06/2026"
+    },
+    {
+      "home": "Wed 17/06/2026\nUnknown player\nThe Avenue 1\n16\n-\n8\nTotteridge 3",
+      "away": "The Avenue 1\n16\n-\n8\nTotteridge 3",
+      "hs": 168,
+      "as": null,
+      "date": "Wed 17/06/2026"
+    },
+    {
+      "home": "Tue 23/06/2026\nTemple Fortune 3\n19:00\nMercury 1",
+      "away": "Temple Fortune 3\n19:00\nMercury 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 23/06/2026"
+    },
+    {
+      "home": "Thu 25/06/2026\nDavid Lloyd Finchley 4\n18\n-\n6\nTemple Fortune 4",
+      "away": "David Lloyd Finchley 4\n18\n-\n6\nTemple Fortune 4",
+      "hs": 186,
+      "as": null,
+      "date": "Thu 25/06/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nGlobe Lawn Tennis 2\n18:30\nDavid Lloyd Finchley 4",
+      "away": "Globe Lawn Tennis 2\n18:30\nDavid Lloyd Finchley 4",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nMercury 1\n18:30\nBrondesbury 4",
+      "away": "Mercury 1\n18:30\nBrondesbury 4",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nTotteridge 3\n18:30\nTemple Fortune 3",
+      "away": "Totteridge 3\n18:30\nTemple Fortune 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Wed 08/07/2026\nMercury 1\n18:30\nTotteridge 3",
+      "away": "Mercury 1\n18:30\nTotteridge 3",
+      "hs": null,
+      "as": null,
+      "date": "Wed 08/07/2026"
+    },
+    {
+      "home": "Wed 08/07/2026\nTemple Fortune 4\n19:00\nThe Avenue 1",
+      "away": "Temple Fortune 4\n19:00\nThe Avenue 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 08/07/2026"
+    },
+    {
+      "home": "Mon 13/07/2026\nThe Avenue 1\n19:00\nTemple Fortune 3",
+      "away": "The Avenue 1\n19:00\nTemple Fortune 3",
+      "hs": null,
+      "as": null,
+      "date": "Mon 13/07/2026"
+    },
+    {
+      "home": "Tue 21/07/2026\nTemple Fortune 4\n19:00\nGlobe Lawn Tennis 2",
+      "away": "Temple Fortune 4\n19:00\nGlobe Lawn Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 21/07/2026"
+    },
+    {
+      "home": "Wed 22/07/2026\nBrondesbury 4\n18:30\nTotteridge 3",
+      "away": "Brondesbury 4\n18:30\nTotteridge 3",
+      "hs": null,
+      "as": null,
+      "date": "Wed 22/07/2026"
+    },
+    {
+      "home": "Thu 23/07/2026\nDavid Lloyd Finchley 4\n18:30\nMercury 1",
+      "away": "David Lloyd Finchley 4\n18:30\nMercury 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 23/07/2026"
+    },
+    {
+      "home": "Tue 28/07/2026\nTotteridge 3\n18:30\nDavid Lloyd Finchley 4",
+      "away": "Totteridge 3\n18:30\nDavid Lloyd Finchley 4",
+      "hs": null,
+      "as": null,
+      "date": "Tue 28/07/2026"
+    },
+    {
+      "home": "Wed 29/07/2026\nTemple Fortune 3\n19:00\nBrondesbury 4",
+      "away": "Temple Fortune 3\n19:00\nBrondesbury 4",
+      "hs": null,
+      "as": null,
+      "date": "Wed 29/07/2026"
+    },
+    {
+      "home": "Tue 04/08/2026\nGlobe Lawn Tennis 2\n18:30\nThe Avenue 1",
+      "away": "Globe Lawn Tennis 2\n18:30\nThe Avenue 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 04/08/2026"
+    }
+  ]
+}

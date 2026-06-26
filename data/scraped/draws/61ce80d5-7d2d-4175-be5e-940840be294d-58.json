@@ -1,0 +1,178 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-58",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "16&U Boys Division 2\n \u2013 16&U Boys Division 2              \u2013 Group 5",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/58",
+  "scrapedAt": "2026-06-26T14:25:10.835428+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "22-14",
+      "points": 2315
+    },
+    {
+      "rank": 2,
+      "name": "3",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 4,
+      "rubbers": "20-16",
+      "points": 2119
+    },
+    {
+      "rank": 3,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "14-10",
+      "points": 1412
+    },
+    {
+      "rank": 4,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "16-20",
+      "points": 1920
+    },
+    {
+      "rank": 5,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "12-24",
+      "points": 1425
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 26/04/2026\nChristian Gallan's Lovetennis 1\n-\nThe Lensbury Club 1",
+      "away": "Christian Gallan's Lovetennis 1\n-\nThe Lensbury Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 26/04/2026\nWest Middlesex Lawn Tennis Club Ltd 1\n12\n-\n0\nTeddington Lawn Tennis Club 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n12\n-\n0\nTeddington Lawn Tennis Club 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 26/04/2026\nThe Parsons Green Club 1\n8\n-\n4\nBrentham Lawn Tennis Club 1",
+      "away": "The Parsons Green Club 1\n8\n-\n4\nBrentham Lawn Tennis Club 1",
+      "hs": 84,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nTeddington Lawn Tennis Club 1\n2\n-\n10\nBrentham Lawn Tennis Club 1",
+      "away": "Teddington Lawn Tennis Club 1\n2\n-\n10\nBrentham Lawn Tennis Club 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nThe Lensbury Club 1\n2\n-\n10\nThe Parsons Green Club 1",
+      "away": "The Lensbury Club 1\n2\n-\n10\nThe Parsons Green Club 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nWest Middlesex Lawn Tennis Club Ltd 1\n14:30\nChristian Gallan's Lovetennis 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n14:30\nChristian Gallan's Lovetennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nBrentham Lawn Tennis Club 1\n16:00\nThe Lensbury Club 1",
+      "away": "Brentham Lawn Tennis Club 1\n16:00\nThe Lensbury Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nChristian Gallan's Lovetennis 1\n-\nTeddington Lawn Tennis Club 1",
+      "away": "Christian Gallan's Lovetennis 1\n-\nTeddington Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 10/05/2026\nThe Parsons Green Club 1\n2\n-\n10\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "The Parsons Green Club 1\n2\n-\n10\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": 210,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nChristian Gallan's Lovetennis 1\n-\nThe Parsons Green Club 1",
+      "away": "Christian Gallan's Lovetennis 1\n-\nThe Parsons Green Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sun 24/05/2026\nUnknown player\nTeddington Lawn Tennis Club 1\n10\n-\n2\nThe Lensbury Club 1",
+      "away": "Teddington Lawn Tennis Club 1\n10\n-\n2\nThe Lensbury Club 1",
+      "hs": 102,
+      "as": null,
+      "date": "Sun 24/05/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nNo show\nThe Lensbury Club 1\n12\n-\n0\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "The Lensbury Club 1\n12\n-\n0\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": 120,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nBrentham Lawn Tennis Club 1\n-\nChristian Gallan's Lovetennis 1",
+      "away": "Brentham Lawn Tennis Club 1\n-\nChristian Gallan's Lovetennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nThe Parsons Green Club 1\n13:30\nTeddington Lawn Tennis Club 1",
+      "away": "The Parsons Green Club 1\n13:30\nTeddington Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sun 28/06/2026\nWest Middlesex Lawn Tennis Club Ltd 1\n16:00\nBrentham Lawn Tennis Club 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n16:00\nBrentham Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/06/2026"
+    }
+  ]
+}

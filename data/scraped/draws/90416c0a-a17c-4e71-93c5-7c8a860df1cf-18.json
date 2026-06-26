@@ -1,0 +1,289 @@
+{
+  "drawId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf-18",
+  "competitionId": "90416c0a-a17c-4e71-93c5-7c8a860df1cf",
+  "competitionName": "Mens Doubles \n \u2013 West Division 9              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/90416C0A-A17C-4E71-93C5-7C8A860DF1CF/draw/18",
+  "scrapedAt": "2026-06-26T15:50:12.683343+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 66,
+      "rubbers": "66-6",
+      "points": 333
+    },
+    {
+      "rank": 2,
+      "name": "4",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 64,
+      "rubbers": "64-32",
+      "points": 3216
+    },
+    {
+      "rank": 3,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 46,
+      "rubbers": "46-50",
+      "points": 2325
+    },
+    {
+      "rank": 4,
+      "name": "4",
+      "played": 2,
+      "won": 0,
+      "drawn": 2,
+      "lost": 42,
+      "rubbers": "42-54",
+      "points": 2127
+    },
+    {
+      "rank": 5,
+      "name": "4",
+      "played": 1,
+      "won": 1,
+      "drawn": 2,
+      "lost": 42,
+      "rubbers": "42-54",
+      "points": 2127
+    },
+    {
+      "rank": 6,
+      "name": "3",
+      "played": 1,
+      "won": 1,
+      "drawn": 1,
+      "lost": 32,
+      "rubbers": "32-40",
+      "points": 1620
+    },
+    {
+      "rank": 7,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 30,
+      "rubbers": "30-42",
+      "points": 1521
+    },
+    {
+      "rank": 8,
+      "name": "3",
+      "played": 0,
+      "won": 0,
+      "drawn": 3,
+      "lost": 14,
+      "rubbers": "14-58",
+      "points": 729
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 01/05/2026\nMode Club 1\n22\n-\n2\nHartswood Lawn Tennis Club Ltd 4",
+      "away": "Mode Club 1\n22\n-\n2\nHartswood Lawn Tennis Club Ltd 4",
+      "hs": 222,
+      "as": null,
+      "date": "Fri 01/05/2026"
+    },
+    {
+      "home": "Tue 12/05/2026\nThe Lensbury Club 3\n16\n-\n8\nDavid Lloyd Club Sudbury Hill 3",
+      "away": "The Lensbury Club 3\n16\n-\n8\nDavid Lloyd Club Sudbury Hill 3",
+      "hs": 168,
+      "as": null,
+      "date": "Tue 12/05/2026"
+    },
+    {
+      "home": "Wed 13/05/2026\nWhitton Tennis Club 3\n6\n-\n18\nElthorne Tennis 1",
+      "away": "Whitton Tennis Club 3\n6\n-\n18\nElthorne Tennis 1",
+      "hs": 618,
+      "as": null,
+      "date": "Wed 13/05/2026"
+    },
+    {
+      "home": "Thu 14/05/2026\nBushy Park Tennis Club Teddington 2\n16\n-\n8\nThistleworth LTC 4",
+      "away": "Bushy Park Tennis Club Teddington 2\n16\n-\n8\nThistleworth LTC 4",
+      "hs": 168,
+      "as": null,
+      "date": "Thu 14/05/2026"
+    },
+    {
+      "home": "Tue 19/05/2026\nHartswood Lawn Tennis Club Ltd 4\n18\n-\n6\nThistleworth LTC 4",
+      "away": "Hartswood Lawn Tennis Club Ltd 4\n18\n-\n6\nThistleworth LTC 4",
+      "hs": 186,
+      "as": null,
+      "date": "Tue 19/05/2026"
+    },
+    {
+      "home": "Fri 22/05/2026\nElthorne Tennis 1\n24\n-\n0\nBushy Park Tennis Club Teddington 2",
+      "away": "Elthorne Tennis 1\n24\n-\n0\nBushy Park Tennis Club Teddington 2",
+      "hs": 240,
+      "as": null,
+      "date": "Fri 22/05/2026"
+    },
+    {
+      "home": "Fri 29/05/2026\nDavid Lloyd Club Sudbury Hill 3\n16\n-\n8\nWhitton Tennis Club 3",
+      "away": "David Lloyd Club Sudbury Hill 3\n16\n-\n8\nWhitton Tennis Club 3",
+      "hs": 168,
+      "as": null,
+      "date": "Fri 29/05/2026"
+    },
+    {
+      "home": "Fri 29/05/2026\nMode Club 1\n20\n-\n4\nThe Lensbury Club 3",
+      "away": "Mode Club 1\n20\n-\n4\nThe Lensbury Club 3",
+      "hs": 204,
+      "as": null,
+      "date": "Fri 29/05/2026"
+    },
+    {
+      "home": "Mon 01/06/2026\nThe Lensbury Club 3\n12\n-\n12\nHartswood Lawn Tennis Club Ltd 4",
+      "away": "The Lensbury Club 3\n12\n-\n12\nHartswood Lawn Tennis Club Ltd 4",
+      "hs": 1212,
+      "as": null,
+      "date": "Mon 01/06/2026"
+    },
+    {
+      "home": "Wed 10/06/2026\nBushy Park Tennis Club Teddington 2\n18\n-\n6\nDavid Lloyd Club Sudbury Hill 3",
+      "away": "Bushy Park Tennis Club Teddington 2\n18\n-\n6\nDavid Lloyd Club Sudbury Hill 3",
+      "hs": 186,
+      "as": null,
+      "date": "Wed 10/06/2026"
+    },
+    {
+      "home": "Wed 10/06/2026\nThistleworth LTC 4\n0\n-\n24\nElthorne Tennis 1",
+      "away": "Thistleworth LTC 4\n0\n-\n24\nElthorne Tennis 1",
+      "hs": 24,
+      "as": null,
+      "date": "Wed 10/06/2026"
+    },
+    {
+      "home": "Thu 11/06/2026\nUnknown player\nWhitton Tennis Club 3\n18\n-\n6\nMode Club 1",
+      "away": "Whitton Tennis Club 3\n18\n-\n6\nMode Club 1",
+      "hs": 186,
+      "as": null,
+      "date": "Thu 11/06/2026"
+    },
+    {
+      "home": "Mon 15/06/2026\nThe Lensbury Club 3\n10\n-\n14\nWhitton Tennis Club 3",
+      "away": "The Lensbury Club 3\n10\n-\n14\nWhitton Tennis Club 3",
+      "hs": 1014,
+      "as": null,
+      "date": "Mon 15/06/2026"
+    },
+    {
+      "home": "Fri 19/06/2026\nMode Club 1\n16\n-\n8\nBushy Park Tennis Club Teddington 2",
+      "away": "Mode Club 1\n16\n-\n8\nBushy Park Tennis Club Teddington 2",
+      "hs": 168,
+      "as": null,
+      "date": "Fri 19/06/2026"
+    },
+    {
+      "home": "Fri 26/06/2026\nDavid Lloyd Club Sudbury Hill 3\n18:30\nThistleworth LTC 4",
+      "away": "David Lloyd Club Sudbury Hill 3\n18:30\nThistleworth LTC 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 26/06/2026"
+    },
+    {
+      "home": "Wed 01/07/2026\nWhitton Tennis Club 3\n18:30\nHartswood Lawn Tennis Club Ltd 4",
+      "away": "Whitton Tennis Club 3\n18:30\nHartswood Lawn Tennis Club Ltd 4",
+      "hs": null,
+      "as": null,
+      "date": "Wed 01/07/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nBushy Park Tennis Club Teddington 2\n18:30\nThe Lensbury Club 3",
+      "away": "Bushy Park Tennis Club Teddington 2\n18:30\nThe Lensbury Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Fri 03/07/2026\nElthorne Tennis 1\n18:30\nDavid Lloyd Club Sudbury Hill 3",
+      "away": "Elthorne Tennis 1\n18:30\nDavid Lloyd Club Sudbury Hill 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 03/07/2026"
+    },
+    {
+      "home": "Wed 08/07/2026\nThistleworth LTC 4\n18:30\nMode Club 1",
+      "away": "Thistleworth LTC 4\n18:30\nMode Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 08/07/2026"
+    },
+    {
+      "home": "Mon 13/07/2026\nHartswood Lawn Tennis Club Ltd 4\n18:30\nElthorne Tennis 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 4\n18:30\nElthorne Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Mon 13/07/2026"
+    },
+    {
+      "home": "Tue 14/07/2026\nWhitton Tennis Club 3\n18:30\nBushy Park Tennis Club Teddington 2",
+      "away": "Whitton Tennis Club 3\n18:30\nBushy Park Tennis Club Teddington 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 14/07/2026"
+    },
+    {
+      "home": "Fri 17/07/2026\nHartswood Lawn Tennis Club Ltd 4\n18:30\nDavid Lloyd Club Sudbury Hill 3",
+      "away": "Hartswood Lawn Tennis Club Ltd 4\n18:30\nDavid Lloyd Club Sudbury Hill 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 17/07/2026"
+    },
+    {
+      "home": "Mon 20/07/2026\nThe Lensbury Club 3\n18:30\nThistleworth LTC 4",
+      "away": "The Lensbury Club 3\n18:30\nThistleworth LTC 4",
+      "hs": null,
+      "as": null,
+      "date": "Mon 20/07/2026"
+    },
+    {
+      "home": "Wed 22/07/2026\nBushy Park Tennis Club Teddington 2\n18:30\nHartswood Lawn Tennis Club Ltd 4",
+      "away": "Bushy Park Tennis Club Teddington 2\n18:30\nHartswood Lawn Tennis Club Ltd 4",
+      "hs": null,
+      "as": null,
+      "date": "Wed 22/07/2026"
+    },
+    {
+      "home": "Fri 24/07/2026\nMode Club 1\n18:30\nElthorne Tennis 1",
+      "away": "Mode Club 1\n18:30\nElthorne Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 24/07/2026"
+    },
+    {
+      "home": "Thu 30/07/2026\nThistleworth LTC 4\n18:30\nWhitton Tennis Club 3",
+      "away": "Thistleworth LTC 4\n18:30\nWhitton Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 30/07/2026"
+    },
+    {
+      "home": "Fri 31/07/2026\nElthorne Tennis 1\n18:30\nThe Lensbury Club 3",
+      "away": "Elthorne Tennis 1\n18:30\nThe Lensbury Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 31/07/2026"
+    },
+    {
+      "home": "Fri 07/08/2026\nDavid Lloyd Club Sudbury Hill 3\n18:30\nMode Club 1",
+      "away": "David Lloyd Club Sudbury Hill 3\n18:30\nMode Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 07/08/2026"
+    }
+  ]
+}

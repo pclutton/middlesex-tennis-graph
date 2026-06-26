@@ -1,0 +1,133 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-27",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "9&U Mixed Division 2\n \u2013 9&U Mixed Division 2              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/27",
+  "scrapedAt": "2026-06-26T14:30:32.081980+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "3",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 6,
+      "rubbers": "54-6",
+      "points": 567
+    },
+    {
+      "rank": 2,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "16-24",
+      "points": 1725
+    },
+    {
+      "rank": 3,
+      "name": "3",
+      "played": 1,
+      "won": 0,
+      "drawn": 2,
+      "lost": 2,
+      "rubbers": "24-36",
+      "points": 2642
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "2",
+      "played": 0,
+      "won": 0,
+      "drawn": 2,
+      "lost": 0,
+      "rubbers": "6-34",
+      "points": 934
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 26/04/2026\nVicars Moor LTC 1\n6\n-\n14\nHackney Tennis 2",
+      "away": "Vicars Moor LTC 1\n6\n-\n14\nHackney Tennis 2",
+      "hs": 614,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 26/04/2026\nCoolhurst LTC 1\n14:00\nBroomfield Park 1",
+      "away": "Coolhurst LTC 1\n14:00\nBroomfield Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 26/04/2026"
+    },
+    {
+      "home": "Sun 03/05/2026\nUnknown player\nBroomfield Park 1\n6\n-\n14\nVicars Moor LTC 1",
+      "away": "Broomfield Park 1\n6\n-\n14\nVicars Moor LTC 1",
+      "hs": 614,
+      "as": null,
+      "date": "Sun 03/05/2026"
+    },
+    {
+      "home": "Sat 09/05/2026\nNo show\nHackney Tennis 2\n20\n-\n0\nBroomfield Park 1",
+      "away": "Hackney Tennis 2\n20\n-\n0\nBroomfield Park 1",
+      "hs": 200,
+      "as": null,
+      "date": "Sat 09/05/2026"
+    },
+    {
+      "home": "Sat 23/05/2026\nHighgate Cricket and Lawn Tennis Club 1\n-\nHackney Tennis 2",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n-\nHackney Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 23/05/2026"
+    },
+    {
+      "home": "Sat 23/05/2026\nUnknown player\nCoolhurst LTC 1\n16\n-\n4\nVicars Moor LTC 1",
+      "away": "Coolhurst LTC 1\n16\n-\n4\nVicars Moor LTC 1",
+      "hs": 164,
+      "as": null,
+      "date": "Sat 23/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nBroomfield Park 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Broomfield Park 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nNo show\nHackney Tennis 2\n20\n-\n0\nCoolhurst LTC 1",
+      "away": "Hackney Tennis 2\n20\n-\n0\nCoolhurst LTC 1",
+      "hs": 200,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nVicars Moor LTC 1\n16:00\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Vicars Moor LTC 1\n16:00\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sat 04/07/2026\nHighgate Cricket and Lawn Tennis Club 1\n16:30\nCoolhurst LTC 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n16:30\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 04/07/2026"
+    }
+  ]
+}

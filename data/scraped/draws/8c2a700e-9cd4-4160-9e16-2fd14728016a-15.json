@@ -1,0 +1,377 @@
+{
+  "drawId": "8c2a700e-9cd4-4160-9e16-2fd14728016a-15",
+  "competitionId": "8c2a700e-9cd4-4160-9e16-2fd14728016a",
+  "competitionName": "Mixed Doubles\n \u2013 Division 5              \u2013 Group 5",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/8C2A700E-9CD4-4160-9E16-2FD14728016A/draw/15",
+  "scrapedAt": "2026-06-26T15:48:46.750553+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "8",
+      "played": 7,
+      "won": 0,
+      "drawn": 1,
+      "lost": 14,
+      "rubbers": "46-26",
+      "points": 4626
+    },
+    {
+      "rank": 2,
+      "name": "5",
+      "played": 4,
+      "won": 0,
+      "drawn": 1,
+      "lost": 8,
+      "rubbers": "28-17",
+      "points": 2817
+    },
+    {
+      "rank": 3,
+      "name": "7",
+      "played": 4,
+      "won": 0,
+      "drawn": 3,
+      "lost": 8,
+      "rubbers": "27-36",
+      "points": 2736
+    },
+    {
+      "rank": 4,
+      "name": "6",
+      "played": 3,
+      "won": 0,
+      "drawn": 3,
+      "lost": 6,
+      "rubbers": "31-23",
+      "points": 3123
+    },
+    {
+      "rank": 5,
+      "name": "8",
+      "played": 2,
+      "won": 0,
+      "drawn": 6,
+      "lost": 4,
+      "rubbers": "30-41",
+      "points": 3041
+    },
+    {
+      "rank": 6,
+      "name": "8",
+      "played": 2,
+      "won": 0,
+      "drawn": 6,
+      "lost": 4,
+      "rubbers": "26-45",
+      "points": 2645
+    },
+    {
+      "rank": 7,
+      "name": "4",
+      "played": 1,
+      "won": 0,
+      "drawn": 3,
+      "lost": 2,
+      "rubbers": "18-18",
+      "points": 1818
+    }
+  ],
+  "matches": [
+    {
+      "home": "Thu 16/04/2026\nChorleywood Lawn Tennis Club 2\n7\n-\n2\nChorleywood Lawn Tennis Club 3",
+      "away": "Chorleywood Lawn Tennis Club 2\n7\n-\n2\nChorleywood Lawn Tennis Club 3",
+      "hs": 72,
+      "as": null,
+      "date": "Thu 16/04/2026"
+    },
+    {
+      "home": "Fri 17/04/2026\nGreenwood Park LTC 1\n5\n-\n4\nDavid Lloyd Club Northwood 2",
+      "away": "Greenwood Park LTC 1\n5\n-\n4\nDavid Lloyd Club Northwood 2",
+      "hs": 54,
+      "as": null,
+      "date": "Fri 17/04/2026"
+    },
+    {
+      "home": "Thu 11/06/2026\nMoor Park Lawn Tennis Club 2\n2\n-\n7\nBovingdon and Flaunden Tennis Club 2",
+      "away": "Moor Park Lawn Tennis Club 2\n2\n-\n7\nBovingdon and Flaunden Tennis Club 2",
+      "hs": 27,
+      "as": null,
+      "date": "Thu 11/06/2026"
+    },
+    {
+      "home": "Fri 24/04/2026\nRadlett Lawn Tennis and Squash Club 3\n4\n-\n5\nGreenwood Park LTC 1",
+      "away": "Radlett Lawn Tennis and Squash Club 3\n4\n-\n5\nGreenwood Park LTC 1",
+      "hs": 45,
+      "as": null,
+      "date": "Fri 24/04/2026"
+    },
+    {
+      "home": "Fri 24/04/2026\nDavid Lloyd Club Northwood 2\n4\n-\n5\nChorleywood Lawn Tennis Club 2",
+      "away": "David Lloyd Club Northwood 2\n4\n-\n5\nChorleywood Lawn Tennis Club 2",
+      "hs": 45,
+      "as": null,
+      "date": "Fri 24/04/2026"
+    },
+    {
+      "home": "Fri 24/04/2026\nChorleywood Lawn Tennis Club 3\n5\n-\n4\nMoor Park Lawn Tennis Club 2",
+      "away": "Chorleywood Lawn Tennis Club 3\n5\n-\n4\nMoor Park Lawn Tennis Club 2",
+      "hs": 54,
+      "as": null,
+      "date": "Fri 24/04/2026"
+    },
+    {
+      "home": "Thu 30/04/2026\nChorleywood Lawn Tennis Club 2\n6\n-\n3\nRadlett Lawn Tennis and Squash Club 3",
+      "away": "Chorleywood Lawn Tennis Club 2\n6\n-\n3\nRadlett Lawn Tennis and Squash Club 3",
+      "hs": 63,
+      "as": null,
+      "date": "Thu 30/04/2026"
+    },
+    {
+      "home": "Thu 30/04/2026\nBovingdon and Flaunden Tennis Club 2\n7\n-\n2\nChorleywood Lawn Tennis Club 3",
+      "away": "Bovingdon and Flaunden Tennis Club 2\n7\n-\n2\nChorleywood Lawn Tennis Club 3",
+      "hs": 72,
+      "as": null,
+      "date": "Thu 30/04/2026"
+    },
+    {
+      "home": "Thu 30/04/2026\nMoor Park Lawn Tennis Club 2\n2\n-\n7\nDavid Lloyd Club Northwood 2",
+      "away": "Moor Park Lawn Tennis Club 2\n2\n-\n7\nDavid Lloyd Club Northwood 2",
+      "hs": 27,
+      "as": null,
+      "date": "Thu 30/04/2026"
+    },
+    {
+      "home": "Fri 08/05/2026\nGreenwood Park LTC 1\n6\n-\n3\nChorleywood Lawn Tennis Club 2",
+      "away": "Greenwood Park LTC 1\n6\n-\n3\nChorleywood Lawn Tennis Club 2",
+      "hs": 63,
+      "as": null,
+      "date": "Fri 08/05/2026"
+    },
+    {
+      "home": "Fri 08/05/2026\nUnknown player\nRadlett Lawn Tennis and Squash Club 3\n3\n-\n6\nMoor Park Lawn Tennis Club 2",
+      "away": "Radlett Lawn Tennis and Squash Club 3\n3\n-\n6\nMoor Park Lawn Tennis Club 2",
+      "hs": 36,
+      "as": null,
+      "date": "Fri 08/05/2026"
+    },
+    {
+      "home": "Fri 03/07/2026\nDavid Lloyd Club Northwood 2\n18:30\nBovingdon and Flaunden Tennis Club 2",
+      "away": "David Lloyd Club Northwood 2\n18:30\nBovingdon and Flaunden Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 03/07/2026"
+    },
+    {
+      "home": "Thu 14/05/2026\nBovingdon and Flaunden Tennis Club 2\n18:30\nRadlett Lawn Tennis and Squash Club 3",
+      "away": "Bovingdon and Flaunden Tennis Club 2\n18:30\nRadlett Lawn Tennis and Squash Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 14/05/2026"
+    },
+    {
+      "home": "Fri 15/05/2026\nChorleywood Lawn Tennis Club 3\n3\n-\n6\nDavid Lloyd Club Northwood 2",
+      "away": "Chorleywood Lawn Tennis Club 3\n3\n-\n6\nDavid Lloyd Club Northwood 2",
+      "hs": 36,
+      "as": null,
+      "date": "Fri 15/05/2026"
+    },
+    {
+      "home": "Thu 09/07/2026\nMoor Park Lawn Tennis Club 2\n18:30\nGreenwood Park LTC 1",
+      "away": "Moor Park Lawn Tennis Club 2\n18:30\nGreenwood Park LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 09/07/2026"
+    },
+    {
+      "home": "Thu 28/05/2026\nChorleywood Lawn Tennis Club 2\n7\n-\n2\nMoor Park Lawn Tennis Club 2",
+      "away": "Chorleywood Lawn Tennis Club 2\n7\n-\n2\nMoor Park Lawn Tennis Club 2",
+      "hs": 72,
+      "as": null,
+      "date": "Thu 28/05/2026"
+    },
+    {
+      "home": "Fri 29/05/2026\nGreenwood Park LTC 1\n2\n-\n7\nBovingdon and Flaunden Tennis Club 2",
+      "away": "Greenwood Park LTC 1\n2\n-\n7\nBovingdon and Flaunden Tennis Club 2",
+      "hs": 27,
+      "as": null,
+      "date": "Fri 29/05/2026"
+    },
+    {
+      "home": "Fri 29/05/2026\nRadlett Lawn Tennis and Squash Club 3\n8\n-\n1\nChorleywood Lawn Tennis Club 3",
+      "away": "Radlett Lawn Tennis and Squash Club 3\n8\n-\n1\nChorleywood Lawn Tennis Club 3",
+      "hs": 81,
+      "as": null,
+      "date": "Fri 29/05/2026"
+    },
+    {
+      "home": "Thu 04/06/2026\nBovingdon and Flaunden Tennis Club 2\n2\n-\n7\nChorleywood Lawn Tennis Club 2",
+      "away": "Bovingdon and Flaunden Tennis Club 2\n2\n-\n7\nChorleywood Lawn Tennis Club 2",
+      "hs": 27,
+      "as": null,
+      "date": "Thu 04/06/2026"
+    },
+    {
+      "home": "Fri 05/06/2026\nDavid Lloyd Club Northwood 2\n18:30\nRadlett Lawn Tennis and Squash Club 3",
+      "away": "David Lloyd Club Northwood 2\n18:30\nRadlett Lawn Tennis and Squash Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/06/2026"
+    },
+    {
+      "home": "Fri 05/06/2026\nChorleywood Lawn Tennis Club 3\n8\n-\n1\nGreenwood Park LTC 1",
+      "away": "Chorleywood Lawn Tennis Club 3\n8\n-\n1\nGreenwood Park LTC 1",
+      "hs": 81,
+      "as": null,
+      "date": "Fri 05/06/2026"
+    },
+    {
+      "home": "Thu 21/05/2026\nBovingdon and Flaunden Tennis Club 2\n5\n-\n4\nMoor Park Lawn Tennis Club 2",
+      "away": "Bovingdon and Flaunden Tennis Club 2\n5\n-\n4\nMoor Park Lawn Tennis Club 2",
+      "hs": 54,
+      "as": null,
+      "date": "Thu 21/05/2026"
+    },
+    {
+      "home": "Fri 12/06/2026\nDavid Lloyd Club Northwood 2\n6\n-\n3\nGreenwood Park LTC 1",
+      "away": "David Lloyd Club Northwood 2\n6\n-\n3\nGreenwood Park LTC 1",
+      "hs": 63,
+      "as": null,
+      "date": "Fri 12/06/2026"
+    },
+    {
+      "home": "Fri 12/06/2026\nChorleywood Lawn Tennis Club 3\n3\n-\n6\nChorleywood Lawn Tennis Club 2",
+      "away": "Chorleywood Lawn Tennis Club 3\n3\n-\n6\nChorleywood Lawn Tennis Club 2",
+      "hs": 36,
+      "as": null,
+      "date": "Fri 12/06/2026"
+    },
+    {
+      "home": "Thu 18/06/2026\nMoor Park Lawn Tennis Club 2\n6\n-\n2\nChorleywood Lawn Tennis Club 3",
+      "away": "Moor Park Lawn Tennis Club 2\n6\n-\n2\nChorleywood Lawn Tennis Club 3",
+      "hs": 62,
+      "as": null,
+      "date": "Thu 18/06/2026"
+    },
+    {
+      "home": "Thu 18/06/2026\nChorleywood Lawn Tennis Club 2\n5\n-\n4\nDavid Lloyd Club Northwood 2",
+      "away": "Chorleywood Lawn Tennis Club 2\n5\n-\n4\nDavid Lloyd Club Northwood 2",
+      "hs": 54,
+      "as": null,
+      "date": "Thu 18/06/2026"
+    },
+    {
+      "home": "Fri 19/06/2026\nGreenwood Park LTC 1\n18:30\nRadlett Lawn Tennis and Squash Club 3",
+      "away": "Greenwood Park LTC 1\n18:30\nRadlett Lawn Tennis and Squash Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/06/2026"
+    },
+    {
+      "home": "Fri 26/06/2026\nRadlett Lawn Tennis and Squash Club 3\n18:30\nChorleywood Lawn Tennis Club 2",
+      "away": "Radlett Lawn Tennis and Squash Club 3\n18:30\nChorleywood Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 26/06/2026"
+    },
+    {
+      "home": "Fri 26/06/2026\nDavid Lloyd Club Northwood 2\n18:30\nMoor Park Lawn Tennis Club 2",
+      "away": "David Lloyd Club Northwood 2\n18:30\nMoor Park Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 26/06/2026"
+    },
+    {
+      "home": "Fri 26/06/2026\nChorleywood Lawn Tennis Club 3\n18:30\nBovingdon and Flaunden Tennis Club 2",
+      "away": "Chorleywood Lawn Tennis Club 3\n18:30\nBovingdon and Flaunden Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 26/06/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nMoor Park Lawn Tennis Club 2\n18:30\nRadlett Lawn Tennis and Squash Club 3",
+      "away": "Moor Park Lawn Tennis Club 2\n18:30\nRadlett Lawn Tennis and Squash Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Thu 02/07/2026\nChorleywood Lawn Tennis Club 2\n18:30\nGreenwood Park LTC 1",
+      "away": "Chorleywood Lawn Tennis Club 2\n18:30\nGreenwood Park LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 02/07/2026"
+    },
+    {
+      "home": "Thu 30/07/2026\nBovingdon and Flaunden Tennis Club 2\n18:30\nDavid Lloyd Club Northwood 2",
+      "away": "Bovingdon and Flaunden Tennis Club 2\n18:30\nDavid Lloyd Club Northwood 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 30/07/2026"
+    },
+    {
+      "home": "Fri 15/05/2026\nGreenwood Park LTC 1\n5\n-\n4\nMoor Park Lawn Tennis Club 2",
+      "away": "Greenwood Park LTC 1\n5\n-\n4\nMoor Park Lawn Tennis Club 2",
+      "hs": 54,
+      "as": null,
+      "date": "Fri 15/05/2026"
+    },
+    {
+      "home": "Fri 10/07/2026\nRadlett Lawn Tennis and Squash Club 3\n18:30\nBovingdon and Flaunden Tennis Club 2",
+      "away": "Radlett Lawn Tennis and Squash Club 3\n18:30\nBovingdon and Flaunden Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 10/07/2026"
+    },
+    {
+      "home": "Fri 10/07/2026\nDavid Lloyd Club Northwood 2\n18:30\nChorleywood Lawn Tennis Club 3",
+      "away": "David Lloyd Club Northwood 2\n18:30\nChorleywood Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 10/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nBovingdon and Flaunden Tennis Club 2\n18:30\nGreenwood Park LTC 1",
+      "away": "Bovingdon and Flaunden Tennis Club 2\n18:30\nGreenwood Park LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Thu 16/07/2026\nMoor Park Lawn Tennis Club 2\n18:30\nChorleywood Lawn Tennis Club 2",
+      "away": "Moor Park Lawn Tennis Club 2\n18:30\nChorleywood Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 16/07/2026"
+    },
+    {
+      "home": "Fri 17/07/2026\nChorleywood Lawn Tennis Club 3\n18:30\nRadlett Lawn Tennis and Squash Club 3",
+      "away": "Chorleywood Lawn Tennis Club 3\n18:30\nRadlett Lawn Tennis and Squash Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 17/07/2026"
+    },
+    {
+      "home": "Thu 23/07/2026\nChorleywood Lawn Tennis Club 2\n18:30\nBovingdon and Flaunden Tennis Club 2",
+      "away": "Chorleywood Lawn Tennis Club 2\n18:30\nBovingdon and Flaunden Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 23/07/2026"
+    },
+    {
+      "home": "Fri 24/07/2026\nGreenwood Park LTC 1\n18:30\nChorleywood Lawn Tennis Club 3",
+      "away": "Greenwood Park LTC 1\n18:30\nChorleywood Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 24/07/2026"
+    },
+    {
+      "home": "Fri 24/07/2026\nRadlett Lawn Tennis and Squash Club 3\n18:30\nDavid Lloyd Club Northwood 2",
+      "away": "Radlett Lawn Tennis and Squash Club 3\n18:30\nDavid Lloyd Club Northwood 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 24/07/2026"
+    }
+  ]
+}

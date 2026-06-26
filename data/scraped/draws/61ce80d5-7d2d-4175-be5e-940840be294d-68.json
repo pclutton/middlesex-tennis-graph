@@ -1,0 +1,133 @@
+{
+  "drawId": "61ce80d5-7d2d-4175-be5e-940840be294d-68",
+  "competitionId": "61ce80d5-7d2d-4175-be5e-940840be294d",
+  "competitionName": "14&U Girls Division 2\n \u2013 14&U Girls Division 2              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/61CE80D5-7D2D-4175-BE5E-940840BE294D/draw/68",
+  "scrapedAt": "2026-06-26T14:28:15.658017+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "4",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 8,
+      "rubbers": "24-0",
+      "points": 244
+    },
+    {
+      "rank": 2,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "6-6",
+      "points": 77
+    },
+    {
+      "rank": 3,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "4-8",
+      "points": 68
+    },
+    {
+      "rank": 4,
+      "name": "2",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "rubbers": "4-8",
+      "points": 58
+    },
+    {
+      "rank": 5,
+      "name": "4",
+      "played": 0,
+      "won": 0,
+      "drawn": 4,
+      "lost": 0,
+      "rubbers": "4-20",
+      "points": 621
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 10/05/2026\nUnknown player\nVicars Moor LTC 2\n0\n-\n6\nBrondesbury Sports Club 1",
+      "away": "Vicars Moor LTC 2\n0\n-\n6\nBrondesbury Sports Club 1",
+      "hs": 6,
+      "as": null,
+      "date": "Sun 10/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nPavilion Tennis 1\n-\nFarm Walk 1",
+      "away": "Pavilion Tennis 1\n-\nFarm Walk 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 31/05/2026\nUnknown player\nVicars Moor LTC 1\n6\n-\n0\nVicars Moor LTC 2",
+      "away": "Vicars Moor LTC 1\n6\n-\n0\nVicars Moor LTC 2",
+      "hs": 60,
+      "as": null,
+      "date": "Sun 31/05/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nBrondesbury Sports Club 1\n6\n-\n0\nVicars Moor LTC 1",
+      "away": "Brondesbury Sports Club 1\n6\n-\n0\nVicars Moor LTC 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sun 07/06/2026\nVicars Moor LTC 2\n2\n-\n4\nPavilion Tennis 1",
+      "away": "Vicars Moor LTC 2\n2\n-\n4\nPavilion Tennis 1",
+      "hs": 24,
+      "as": null,
+      "date": "Sun 07/06/2026"
+    },
+    {
+      "home": "Sat 13/06/2026\nFarm Walk 1\n4\n-\n2\nVicars Moor LTC 2",
+      "away": "Farm Walk 1\n4\n-\n2\nVicars Moor LTC 2",
+      "hs": 42,
+      "as": null,
+      "date": "Sat 13/06/2026"
+    },
+    {
+      "home": "Sun 14/06/2026\nPavilion Tennis 1\n0\n-\n6\nBrondesbury Sports Club 1",
+      "away": "Pavilion Tennis 1\n0\n-\n6\nBrondesbury Sports Club 1",
+      "hs": 6,
+      "as": null,
+      "date": "Sun 14/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nVicars Moor LTC 1\n15:00\nPavilion Tennis 1",
+      "away": "Vicars Moor LTC 1\n15:00\nPavilion Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sat 20/06/2026\nBrondesbury Sports Club 1\n6\n-\n0\nFarm Walk 1",
+      "away": "Brondesbury Sports Club 1\n6\n-\n0\nFarm Walk 1",
+      "hs": 60,
+      "as": null,
+      "date": "Sat 20/06/2026"
+    },
+    {
+      "home": "Sat 11/07/2026\nVicars Moor LTC 1\n15:00\nFarm Walk 1",
+      "away": "Vicars Moor LTC 1\n15:00\nFarm Walk 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 11/07/2026"
+    }
+  ]
+}
