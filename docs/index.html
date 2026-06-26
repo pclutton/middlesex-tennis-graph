@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Middlesex Tennis Club Graph</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #0f1117;
+    --surface: #1a1d27;
+    --border: #2a2d3a;
+    --text: #e8eaf0;
+    --muted: #7a7f96;
+    --accent: #4a9eff;
+
+    --zone-east: #e05a5a;
+    --zone-west: #4a9eff;
+    --zone-ne: #f0a040;
+    --zone-nw: #60c86a;
+    --zone-none: #888;
+
+    --seed: #fff;
+    --node-r: 6px;
+    --seed-r: 10px;
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: system-ui, sans-serif;
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+    height: 100dvh;
+    overflow: hidden;
+  }
+
+  header {
+    padding: 10px 16px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-shrink: 0;
+  }
+
+  header h1 { font-size: 15px; font-weight: 600; }
+  header .sub { color: var(--muted); font-size: 12px; }
+
+  .controls {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    margin-left: auto;
+    flex-wrap: wrap;
+  }
+
+  select, button {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 12px;
+    cursor: pointer;
+  }
+
+  button:hover { border-color: var(--accent); color: var(--accent); }
+
+  .main {
+    flex: 1;
+    display: flex;
+    overflow: hidden;
+  }
+
+  #canvas {
+    flex: 1;
+    cursor: grab;
+  }
+  #canvas:active { cursor: grabbing; }
+
+  /* Sidebar */
+  .sidebar {
+    width: 260px;
+    border-left: 1px solid var(--border);
+    overflow-y: auto;
+    padding: 12px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .panel-title { font-weight: 600; font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; margin-bottom: 6px; }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 5px;
+    font-size: 12px;
+  }
+
+  .swatch {
+    width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0;
+  }
+
+  .swatch.east  { background: var(--zone-east); }
+  .swatch.west  { background: var(--zone-west); }
+  .swatch.ne    { background: var(--zone-ne); }
+  .swatch.nw    { background: var(--zone-nw); }
+  .swatch.none  { background: var(--zone-none); }
+  .swatch.seed  { background: var(--seed); border: 2px solid var(--accent); }
+
+  hr.divider { border: none; border-top: 1px solid var(--border); }
+
+  #info-panel { font-size: 12px; color: var(--muted); line-height: 1.6; }
+  #info-panel strong { color: var(--text); }
+  #info-panel .label { color: var(--muted); font-size: 11px; }
+
+  .stat-row { display: flex; justify-content: space-between; margin-top: 4px; }
+  .stat-val { color: var(--accent); font-weight: 600; }
+
+  #filter-section { display: flex; flex-direction: column; gap: 6px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>Middlesex Tennis · Club Graph</h1>
+    <div class="sub">Ego-network: CLTC &amp; PSC divisions · Summer 2026</div>
+  </div>
+  <div class="controls">
+    <select id="sel-period">
+      <option value="all">All periods</option>
+      <option value="summer" selected>Summer</option>
+      <option value="winter">Winter</option>
+    </select>
+    <select id="sel-zone">
+      <option value="all">All zones</option>
+      <option value="East">East</option>
+      <option value="West">West</option>
+      <option value="North-East">North-East</option>
+      <option value="North-West">North-West</option>
+    </select>
+    <select id="sel-tier">
+      <option value="all">All tiers</option>
+      <option value="top">Top (Premier/Inter)</option>
+      <option value="lower">Lower (Div 1+)</option>
+      <option value="null">No tier (Youth/Seniors)</option>
+    </select>
+    <button id="btn-reset">Reset view</button>
+  </div>
+</header>
+
+<div class="main">
+  <svg id="canvas"></svg>
+
+  <aside class="sidebar">
+    <div>
+      <div class="panel-title">Zone colours</div>
+      <div class="legend-item"><div class="swatch east"></div> East</div>
+      <div class="legend-item"><div class="swatch west"></div> West</div>
+      <div class="legend-item"><div class="swatch ne"></div> North-East</div>
+      <div class="legend-item"><div class="swatch nw"></div> North-West</div>
+      <div class="legend-item"><div class="swatch none"></div> No zone (Youth/Seniors/NPL)</div>
+      <div class="legend-item"><div class="swatch seed"></div> Seed club (CLTC / PSC)</div>
+    </div>
+
+    <hr class="divider">
+
+    <div id="filter-section">
+      <div class="panel-title">Graph stats</div>
+      <div id="stats-panel" style="font-size:12px;color:var(--muted);line-height:1.8">
+        Loading…
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <div>
+      <div class="panel-title">Selected</div>
+      <div id="info-panel">Click a node or edge to inspect.</div>
+    </div>
+  </aside>
+</div>
+
+<script type="module">
+// ---------------------------------------------------------------------------
+// Load D3 from CDN
+// ---------------------------------------------------------------------------
+const d3Url = "https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js";
+await import(d3Url);
+const d3 = window.d3;
+
+// ---------------------------------------------------------------------------
+// Data
+// ---------------------------------------------------------------------------
+const raw = await fetch("graph.json").then(r => r.json());
+
+// ---------------------------------------------------------------------------
+// Zone colour scale
+// ---------------------------------------------------------------------------
+const zoneColor = zone => {
+  switch(zone) {
+    case "East":       return "var(--zone-east)";
+    case "West":       return "var(--zone-west)";
+    case "North-East": return "var(--zone-ne)";
+    case "North-West": return "var(--zone-nw)";
+    default:           return "var(--zone-none)";
+  }
+};
+
+// Pick the "primary" zone for a node (seed clubs may appear in multiple zones)
+function primaryZone(node) {
+  const pref = ["East", "West", "North-East", "North-West"];
+  for (const z of pref) if (node.zones.includes(z)) return z;
+  return null;
+}
+
+// ---------------------------------------------------------------------------
+// Filters
+// ---------------------------------------------------------------------------
+let activePeriod = "summer";
+let activeZone   = "all";
+let activeTier   = "all";
+
+function applyFilters() {
+  let links = raw.links;
+  if (activePeriod !== "all") links = links.filter(l => l.period === activePeriod);
+  if (activeZone   !== "all") links = links.filter(l => l.zone === activeZone || l.zone === null);
+  if (activeTier   !== "all") {
+    const t = activeTier === "null" ? null : activeTier;
+    links = links.filter(l => l.tier === t);
+  }
+
+  // Nodes that appear in at least one visible link
+  const visibleSlugs = new Set(links.flatMap(l => [l.source, l.target]));
+  // Always include seed clubs even if isolated
+  raw.nodes.filter(n => n.seedClub).forEach(n => visibleSlugs.add(n.id));
+  const nodes = raw.nodes.filter(n => visibleSlugs.has(n.id));
+
+  return { nodes, links };
+}
+
+// ---------------------------------------------------------------------------
+// SVG setup
+// ---------------------------------------------------------------------------
+const svg = d3.select("#canvas");
+const container = svg.append("g");
+
+const zoom = d3.zoom()
+  .scaleExtent([0.2, 4])
+  .on("zoom", e => container.attr("transform", e.transform));
+svg.call(zoom);
+
+function resetView() {
+  const el = document.getElementById("canvas");
+  const w = el.clientWidth, h = el.clientHeight;
+  svg.transition().duration(400).call(zoom.transform, d3.zoomIdentity.translate(w/2, h/2));
+}
+document.getElementById("btn-reset").addEventListener("click", resetView);
+
+// ---------------------------------------------------------------------------
+// Simulation
+// ---------------------------------------------------------------------------
+let simulation;
+let gLink, gNode, gLabel;
+
+function build({ nodes, links }) {
+  container.selectAll("*").remove();
+
+  // Deep-copy for simulation mutation
+  const simNodes = nodes.map(n => ({ ...n }));
+  const nodeById = new Map(simNodes.map(n => [n.id, n]));
+
+  // Aggregate parallel edges for display (same source+target pair → one visual edge)
+  const pairMap = new Map();
+  for (const l of links) {
+    const key = [l.source, l.target].sort().join("|");
+    if (!pairMap.has(key)) pairMap.set(key, []);
+    pairMap.get(key).push(l);
+  }
+  const aggLinks = [...pairMap.values()].map(group => {
+    const wL = group.reduce((s, l) => s + l.winsLeft, 0);
+    const wR = group.reduce((s, l) => s + l.winsRight, 0);
+    const dr = group.reduce((s, l) => s + l.draws, 0);
+    const total = wL + wR + dr;
+    return {
+      source: group[0].source,
+      target: group[0].target,
+      divisions: group.length,
+      winsLeft: wL, winsRight: wR, draws: dr, total,
+      zone: group[0].zone,
+      tier: group[0].tier,
+      _raw: group,
+    };
+  });
+
+  const simLinks = aggLinks.map(l => ({
+    ...l,
+    source: nodeById.get(l.source) ?? l.source,
+    target: nodeById.get(l.target) ?? l.target,
+  }));
+
+  // Update stats
+  document.getElementById("stats-panel").innerHTML = `
+    <div class="stat-row"><span>Clubs</span><span class="stat-val">${simNodes.length}</span></div>
+    <div class="stat-row"><span>Ties (div-pairs)</span><span class="stat-val">${links.length}</span></div>
+    <div class="stat-row"><span>Visual edges</span><span class="stat-val">${aggLinks.length}</span></div>
+  `;
+
+  // Edge width by number of divisions shared
+  const wScale = d3.scaleLinear().domain([1, 5]).range([1, 5]).clamp(true);
+
+  // Layers
+  gLink  = container.append("g").attr("class", "links");
+  gNode  = container.append("g").attr("class", "nodes");
+  gLabel = container.append("g").attr("class", "labels");
+
+  const link = gLink.selectAll("line")
+    .data(simLinks)
+    .join("line")
+    .attr("stroke", d => zoneColor(d.zone))
+    .attr("stroke-opacity", 0.55)
+    .attr("stroke-width", d => wScale(d.divisions))
+    .style("cursor", "pointer")
+    .on("click", (event, d) => showEdgeInfo(d));
+
+  const node = gNode.selectAll("circle")
+    .data(simNodes)
+    .join("circle")
+    .attr("r", d => d.seedClub ? 10 : 6)
+    .attr("fill", d => zoneColor(primaryZone(d)))
+    .attr("stroke", d => d.seedClub ? "white" : "none")
+    .attr("stroke-width", d => d.seedClub ? 2 : 0)
+    .style("cursor", "pointer")
+    .on("click", (event, d) => showNodeInfo(d, simLinks))
+    .call(
+      d3.drag()
+        .on("start", (e, d) => { if (!e.active) simulation.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+        .on("drag",  (e, d) => { d.fx = e.x; d.fy = e.y; })
+        .on("end",   (e, d) => { if (!e.active) simulation.alphaTarget(0); d.fx = null; d.fy = null; })
+    );
+
+  const label = gLabel.selectAll("text")
+    .data(simNodes.filter(n => n.seedClub))
+    .join("text")
+    .text(d => d.name)
+    .attr("font-size", 11)
+    .attr("fill", "white")
+    .attr("dx", 13)
+    .attr("dy", 4)
+    .style("pointer-events", "none");
+
+  simulation = d3.forceSimulation(simNodes)
+    .force("link", d3.forceLink(simLinks).id(d => d.id).distance(80).strength(0.4))
+    .force("charge", d3.forceManyBody().strength(-180))
+    .force("center", d3.forceCenter(0, 0))
+    .force("collision", d3.forceCollide(14))
+    .on("tick", () => {
+      link
+        .attr("x1", d => d.source.x)
+        .attr("y1", d => d.source.y)
+        .attr("x2", d => d.target.x)
+        .attr("y2", d => d.target.y);
+      node
+        .attr("cx", d => d.x)
+        .attr("cy", d => d.y);
+      label
+        .attr("x", d => d.x)
+        .attr("y", d => d.y);
+    });
+
+  resetView();
+}
+
+// ---------------------------------------------------------------------------
+// Info panels
+// ---------------------------------------------------------------------------
+function showNodeInfo(d, simLinks) {
+  const myEdges = simLinks.filter(l => l.source.id === d.id || l.target.id === d.id);
+  const wins = myEdges.reduce((s, l) => s + (l.source.id === d.id ? l.winsLeft : l.winsRight), 0);
+  const losses = myEdges.reduce((s, l) => s + (l.source.id === d.id ? l.winsRight : l.winsLeft), 0);
+  const draws = myEdges.reduce((s, l) => s + l.draws, 0);
+
+  document.getElementById("info-panel").innerHTML = `
+    <strong>${d.name}</strong><br>
+    <span class="label">Zones:</span> ${d.zones.length ? d.zones.join(", ") : "—"}<br>
+    <span class="label">Seed club:</span> ${d.seedClub ? "Yes" : "No"}<br>
+    <br>
+    <span class="label">Vs other clubs (visible):</span><br>
+    <div class="stat-row"><span>Wins</span><span class="stat-val" style="color:#60c86a">${wins}</span></div>
+    <div class="stat-row"><span>Draws</span><span class="stat-val" style="color:#f0a040">${draws}</span></div>
+    <div class="stat-row"><span>Losses</span><span class="stat-val" style="color:#e05a5a">${losses}</span></div>
+    <div class="stat-row"><span>Tie-series</span><span class="stat-val">${myEdges.length}</span></div>
+  `;
+}
+
+function showEdgeInfo(d) {
+  const sl = typeof d.source === "object" ? d.source.id : d.source;
+  const tl = typeof d.target === "object" ? d.target.id : d.target;
+  const sn = typeof d.source === "object" ? d.source.name : sl;
+  const tn = typeof d.target === "object" ? d.target.name : tl;
+
+  const divLines = (d._raw ?? []).map(r =>
+    `<div style="margin-top:6px;border-top:1px solid var(--border);padding-top:6px">
+      <strong>${r.divisionName}</strong><br>
+      <span class="label">${r.competitionName}</span><br>
+      W/D/L: <span class="stat-val">${r.winsLeft}–${r.draws}–${r.winsRight}</span>
+    </div>`
+  ).join("");
+
+  document.getElementById("info-panel").innerHTML = `
+    <strong>${sn}</strong> vs <strong>${tn}</strong><br>
+    <span class="label">Zone:</span> ${d.zone ?? "—"} &nbsp; <span class="label">Tier:</span> ${d.tier ?? "—"}<br>
+    <span class="label">Divisions shared:</span> ${d.divisions}<br>
+    <div class="stat-row" style="margin-top:8px">
+      <span>${sn}</span><span class="stat-val" style="color:#60c86a">${d.winsLeft}W</span>
+    </div>
+    <div class="stat-row">
+      <span>Draws</span><span class="stat-val" style="color:#f0a040">${d.draws}D</span>
+    </div>
+    <div class="stat-row">
+      <span>${tn}</span><span class="stat-val" style="color:#e05a5a">${d.winsRight}W</span>
+    </div>
+    ${divLines}
+  `;
+}
+
+// ---------------------------------------------------------------------------
+// Filter wiring
+// ---------------------------------------------------------------------------
+document.getElementById("sel-period").addEventListener("change", e => { activePeriod = e.target.value; build(applyFilters()); });
+document.getElementById("sel-zone").addEventListener("change",   e => { activeZone   = e.target.value; build(applyFilters()); });
+document.getElementById("sel-tier").addEventListener("change",   e => { activeTier   = e.target.value; build(applyFilters()); });
+
+// ---------------------------------------------------------------------------
+// Init
+// ---------------------------------------------------------------------------
+build(applyFilters());
+</script>
+</body>
+</html>
