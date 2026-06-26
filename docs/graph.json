@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-26T07:44:22.217418+00:00",
+    "generatedAt": "2026-06-26T12:25:19.526827+00:00",
     "seedClubs": [
       "cltc",
       "psc"
@@ -8,7 +8,7 @@
     "seasons": [
       "2026"
     ],
-    "note": "Ego-network graph from CLTC + PSC division data. Edge = one per (club-pair \u00d7 competition \u00d7 division \u00d7 season \u00d7 period)."
+    "note": "Ego-network graph: seed clubs CLTC + PSC plus Level-1 clubs from data/scraped/draws/. Edge = one per (club-pair \u00d7 competition \u00d7 division \u00d7 season \u00d7 period)."
   },
   "nodes": [
     {

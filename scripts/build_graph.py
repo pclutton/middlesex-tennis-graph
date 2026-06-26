@@ -13,12 +13,19 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
-PSC_TENNIS = ROOT.parent / "psc-tennis"
+SEED_DIR = ROOT / "data" / "seed"
+DRAWS_DIR = ROOT / "data" / "scraped" / "draws"
 
-SOURCE_FILES = [
-    PSC_TENNIS / "clubs" / "cltc" / "data" / "results.js",
-    PSC_TENNIS / "clubs" / "psc" / "data" / "results.js",
-]
+# Seed results: prefer data/seed/ (CI + local after sync), fall back to sibling repo for local dev
+def _seed_files() -> list[Path]:
+    seeded = list(SEED_DIR.glob("*.js"))
+    if seeded:
+        return seeded
+    fallback = ROOT.parent / "psc-tennis"
+    return [
+        fallback / "clubs" / "cltc" / "data" / "results.js",
+        fallback / "clubs" / "psc" / "data" / "results.js",
+    ]
 
 SEED_CLUBS = {"cltc", "psc"}
 
@@ -162,43 +169,31 @@ def record_edge(
 
 
 # ---------------------------------------------------------------------------
-# Main
+# Main — ingest seed data (results.js format)
 # ---------------------------------------------------------------------------
 
-for source_path in SOURCE_FILES:
-    if not source_path.exists():
-        print(f"WARNING: {source_path} not found — skipping", file=sys.stderr)
-        continue
-
-    data = load_results(source_path)
+def ingest_results_js(data: dict) -> None:
     season = data["season"]
-
     for comp in data.get("competitions", []):
         period = parse_period(comp["name"])
-
         for team in comp.get("teams", []):
             tier, zone = parse_division(team.get("division", ""))
             seed_slug = club_slug(team["pscName"])
             seed_node = ensure_node(seed_slug)
             if zone:
                 seed_node["zones"].add(zone)
-
             for row in team.get("standings", []):
                 slug = club_slug(row["name"])
                 n = ensure_node(slug)
                 if zone:
                     n["zones"].add(zone)
-
             for match in team.get("matches", []):
                 home_slug = club_slug(match["home"])
                 away_slug = club_slug(match["away"])
-
                 if home_slug == away_slug:
-                    continue  # internal match
-
+                    continue
                 ensure_node(home_slug)
                 ensure_node(away_slug)
-
                 record_edge(
                     slug_a=home_slug,
                     slug_b=away_slug,
@@ -213,6 +208,67 @@ for source_path in SOURCE_FILES:
                     hs=match.get("hs"),
                     as_=match.get("as"),
                 )
+
+
+def ingest_scraped_draw(draw: dict) -> None:
+    """Ingest a scraped draw JSON (produced by scrape_clubs.py)."""
+    comp_id = draw["competitionId"]
+    comp_name = draw["competitionName"]
+    div_name = draw["divisionName"]
+    tier, zone = parse_division(draw.get("division", ""))
+    season = _extract_season(comp_name)
+    period = parse_period(comp_name)
+
+    for row in draw.get("standings", []):
+        slug = club_slug(row["name"])
+        n = ensure_node(slug)
+        if zone:
+            n["zones"].add(zone)
+
+    for match in draw.get("matches", []):
+        home_slug = club_slug(match["home"])
+        away_slug = club_slug(match["away"])
+        if home_slug == away_slug:
+            continue
+        ensure_node(home_slug)
+        ensure_node(away_slug)
+        record_edge(
+            slug_a=home_slug,
+            slug_b=away_slug,
+            comp_id=comp_id,
+            comp_name=comp_name,
+            div_name=div_name,
+            season=season,
+            period=period,
+            zone=zone,
+            tier=tier,
+            home_slug=home_slug,
+            hs=match.get("hs"),
+            as_=match.get("as"),
+        )
+
+
+def _extract_season(comp_name: str) -> str:
+    m = re.search(r"\b(20\d\d)\b", comp_name)
+    return m.group(1) if m else "unknown"
+
+
+# Seed sources
+for source_path in _seed_files():
+    if not source_path.exists():
+        print(f"WARNING: {source_path} not found — skipping", file=sys.stderr)
+        continue
+    print(f"Ingesting seed: {source_path.name}")
+    ingest_results_js(load_results(source_path))
+
+# Additional scraped draws
+scraped_count = 0
+for draw_path in sorted(DRAWS_DIR.glob("*.json")):
+    draw = json.loads(draw_path.read_text(encoding="utf-8"))
+    ingest_scraped_draw(draw)
+    scraped_count += 1
+if scraped_count:
+    print(f"Ingested {scraped_count} additional scraped draws")
 
 # ---------------------------------------------------------------------------
 # Serialise
@@ -233,7 +289,7 @@ graph = {
         "generatedAt": datetime.now(timezone.utc).isoformat(),
         "seedClubs": sorted(SEED_CLUBS),
         "seasons": seasons,
-        "note": "Ego-network graph from CLTC + PSC division data. Edge = one per (club-pair × competition × division × season × period).",
+        "note": "Ego-network graph: seed clubs CLTC + PSC plus Level-1 clubs from data/scraped/draws/. Edge = one per (club-pair × competition × division × season × period).",
     },
     "nodes": node_list,
     "links": link_list,

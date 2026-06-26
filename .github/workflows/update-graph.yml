@@ -1,0 +1,89 @@
+name: Update graph & deploy
+
+# Runs every Wednesday at 09:00 UTC — mid-week, after weekend matches are
+# entered but before the next round. Also triggerable manually.
+on:
+  schedule:
+    - cron: "0 9 * * 3"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          version: "latest"
+
+      - name: Install Python deps
+        run: uv sync
+
+      - name: Install Playwright browser
+        run: uv run playwright install chromium --with-deps
+
+      # Fetch the latest seed data from the live results repo.
+      # Using raw.githubusercontent so we always get the most recent committed data
+      # without cloning the whole repo.
+      - name: Fetch seed data (CLTC + PSC results)
+        run: |
+          mkdir -p data/seed
+          curl -sSf "https://raw.githubusercontent.com/pclutton/lta-club/main/clubs/cltc/data/results.js" \
+            -o data/seed/cltc-results.js
+          curl -sSf "https://raw.githubusercontent.com/pclutton/lta-club/main/clubs/psc/data/results.js" \
+            -o data/seed/psc-results.js
+
+      # Scrape Level-1 clubs listed in clubs-registry.json.
+      # New draws are written to data/scraped/draws/; existing draws are skipped
+      # so we make the minimum number of requests to the LTA site.
+      - name: Scrape Level-1 club draws
+        run: uv run python scripts/scrape_clubs.py
+        continue-on-error: true   # keep existing data if scrape fails
+
+      # Rebuild graph.json from all sources.
+      - name: Build graph
+        run: uv run python scripts/build_graph.py
+
+      # Commit any new/updated data files and the rebuilt graph.
+      - name: Commit updated data
+        run: |
+          git config user.name "graph-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/scraped/ docs/graph.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh graph data [skip ci]"
+            for i in 1 2 3; do
+              if git pull --rebase --autostash origin master && git push; then break; fi
+              echo "push attempt $i failed; retrying in 5s"; sleep 5
+            done
+          else
+            echo "No data changes."
+          fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
