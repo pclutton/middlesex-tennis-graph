@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-26T22:35:48.072291+00:00",
+    "generatedAt": "2026-07-01T12:46:45.887070+00:00",
     "seedClubs": [
       "cltc",
       "psc"
@@ -78,21 +78,21 @@
       "zone": "East"
     },
     {
-      "id": "hazelwood-lawn-tennis-club",
-      "name": "Hazelwood Lawn Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "East"
-      ],
-      "zone": "East"
-    },
-    {
       "id": "chandos-lawn-tennis-club",
       "name": "Chandos Lawn Tennis Club",
       "seedClub": false,
       "zones": [
         "East",
         "North-East"
+      ],
+      "zone": "East"
+    },
+    {
+      "id": "hazelwood-lawn-tennis-club",
+      "name": "Hazelwood Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "East"
       ],
       "zone": "East"
     },
@@ -334,6 +334,15 @@
       "zone": "East"
     },
     {
+      "id": "west-heath-lawn-tennis-club-limited",
+      "name": "West Heath Lawn Tennis Club Limited",
+      "seedClub": false,
+      "zones": [
+        "North-East"
+      ],
+      "zone": "North-East"
+    },
+    {
       "id": "totteridge-tennis-club",
       "name": "Totteridge Tennis Club",
       "seedClub": false,
@@ -342,15 +351,6 @@
         "North-East"
       ],
       "zone": "East"
-    },
-    {
-      "id": "west-heath-lawn-tennis-club-limited",
-      "name": "West Heath Lawn Tennis Club Limited",
-      "seedClub": false,
-      "zones": [
-        "North-East"
-      ],
-      "zone": "North-East"
     },
     {
       "id": "brampton-lawn-tennis-club",
@@ -400,6 +400,15 @@
       "zone": "East"
     },
     {
+      "id": "finchley",
+      "name": "Finchley",
+      "seedClub": false,
+      "zones": [
+        "North-East"
+      ],
+      "zone": "North-East"
+    },
+    {
       "id": "david-lloyd-finchley",
       "name": "David Lloyd Finchley",
       "seedClub": false,
@@ -411,15 +420,6 @@
     {
       "id": "temple-fortune",
       "name": "Temple Fortune",
-      "seedClub": false,
-      "zones": [
-        "North-East"
-      ],
-      "zone": "North-East"
-    },
-    {
-      "id": "finchley",
-      "name": "Finchley",
       "seedClub": false,
       "zones": [
         "North-East"
@@ -474,8 +474,8 @@
       "zone": "West"
     },
     {
-      "id": "david-lloyd-club-acton-park",
-      "name": "David Lloyd Club Acton Park",
+      "id": "the-parsons-green-club",
+      "name": "The Parsons Green Club",
       "seedClub": false,
       "zones": [
         "West"
@@ -483,8 +483,8 @@
       "zone": "West"
     },
     {
-      "id": "the-parsons-green-club",
-      "name": "The Parsons Green Club",
+      "id": "david-lloyd-club-acton-park",
+      "name": "David Lloyd Club Acton Park",
       "seedClub": false,
       "zones": [
         "West"
@@ -512,53 +512,13 @@
       "zone": "North-West"
     },
     {
-      "id": "acorn-lawn-tennis-club",
-      "name": "Acorn Lawn Tennis Club",
+      "id": "holland-park-lawn-tennis-club",
+      "name": "Holland Park Lawn Tennis Club",
       "seedClub": false,
       "zones": [
-        "East",
-        "North-West"
-      ],
-      "zone": "East"
-    },
-    {
-      "id": "headstone-lawn-tennis-club",
-      "name": "Headstone Lawn Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "North-West",
         "West"
       ],
-      "zone": "North-West"
-    },
-    {
-      "id": "harrow-weald-lawn-tennis-club",
-      "name": "Harrow Weald Lawn Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "North-West"
-      ],
-      "zone": "North-West"
-    },
-    {
-      "id": "kenton-lawn-tennis-club",
-      "name": "Kenton Lawn Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "North-West",
-        "West"
-      ],
-      "zone": "North-West"
-    },
-    {
-      "id": "uxbridge-ltc",
-      "name": "Uxbridge LTC",
-      "seedClub": false,
-      "zones": [
-        "North-West",
-        "West"
-      ],
-      "zone": "North-West"
+      "zone": "West"
     },
     {
       "id": "thistleworth-ltc",
@@ -572,15 +532,6 @@
     {
       "id": "brentham-lawn-tennis-club",
       "name": "Brentham Lawn Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "West"
-      ],
-      "zone": "West"
-    },
-    {
-      "id": "holland-park-lawn-tennis-club",
-      "name": "Holland Park Lawn Tennis Club",
       "seedClub": false,
       "zones": [
         "West"
@@ -616,6 +567,55 @@
       "zone": "West"
     },
     {
+      "id": "acorn-lawn-tennis-club",
+      "name": "Acorn Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "East",
+        "North-West"
+      ],
+      "zone": "East"
+    },
+    {
+      "id": "kenton-lawn-tennis-club",
+      "name": "Kenton Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "North-West",
+        "West"
+      ],
+      "zone": "North-West"
+    },
+    {
+      "id": "headstone-lawn-tennis-club",
+      "name": "Headstone Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "North-West",
+        "West"
+      ],
+      "zone": "North-West"
+    },
+    {
+      "id": "harrow-weald-lawn-tennis-club",
+      "name": "Harrow Weald Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "North-West"
+      ],
+      "zone": "North-West"
+    },
+    {
+      "id": "uxbridge-ltc",
+      "name": "Uxbridge LTC",
+      "seedClub": false,
+      "zones": [
+        "North-West",
+        "West"
+      ],
+      "zone": "North-West"
+    },
+    {
       "id": "harrow-baptist-tennis-club",
       "name": "Harrow Baptist Tennis Club",
       "seedClub": false,
@@ -634,21 +634,21 @@
       "zone": "North-West"
     },
     {
+      "id": "greenford-tennis-club",
+      "name": "Greenford Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "North-West"
+      ],
+      "zone": "North-West"
+    },
+    {
       "id": "harrow-lawn-tennis-club",
       "name": "Harrow Lawn Tennis Club",
       "seedClub": false,
       "zones": [
         "North-West",
         "West"
-      ],
-      "zone": "North-West"
-    },
-    {
-      "id": "greenford-tennis-club",
-      "name": "Greenford Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "North-West"
       ],
       "zone": "North-West"
     },
@@ -692,8 +692,8 @@
       "zone": "North-West"
     },
     {
-      "id": "hartswood-lawn-tennis-club-ltd",
-      "name": "Hartswood Lawn Tennis Club Ltd",
+      "id": "old-actonians-association-tennis-club",
+      "name": "Old Actonians Association Tennis Club",
       "seedClub": false,
       "zones": [
         "West"
@@ -701,8 +701,8 @@
       "zone": "West"
     },
     {
-      "id": "old-actonians-association-tennis-club",
-      "name": "Old Actonians Association Tennis Club",
+      "id": "hartswood-lawn-tennis-club-ltd",
+      "name": "Hartswood Lawn Tennis Club Ltd",
       "seedClub": false,
       "zones": [
         "West"
@@ -1799,7 +1799,7 @@
       "period": "summer",
       "zone": null,
       "tier": null,
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -1813,7 +1813,7 @@
       "period": "summer",
       "zone": null,
       "tier": null,
-      "winsLeft": 1,
+      "winsLeft": 2,
       "draws": 0,
       "winsRight": 0
     },
@@ -1958,8 +1958,8 @@
       "winsRight": 0
     },
     {
-      "source": "cltc",
-      "target": "virgin-active-chiswick-riverside",
+      "source": "coolhurst-ltc",
+      "target": "david-lloyd-club-finchley",
       "competitionId": "61ce80d5",
       "competitionName": "Middlesex Youth & National League - Summer 2026",
       "divisionName": "12&U Boys Division 1",
@@ -1986,8 +1986,8 @@
       "winsRight": 0
     },
     {
-      "source": "coolhurst-ltc",
-      "target": "david-lloyd-club-finchley",
+      "source": "cltc",
+      "target": "virgin-active-chiswick-riverside",
       "competitionId": "61ce80d5",
       "competitionName": "Middlesex Youth & National League - Summer 2026",
       "divisionName": "12&U Boys Division 1",
@@ -1997,7 +1997,7 @@
       "tier": null,
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "chandos-lawn-tennis-club",
@@ -2177,7 +2177,7 @@
       "period": "summer",
       "zone": null,
       "tier": null,
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -2193,7 +2193,7 @@
       "tier": null,
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "cltc",
@@ -2347,7 +2347,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "cltc",
@@ -2388,7 +2388,7 @@
       "zone": null,
       "tier": "lower",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -2863,7 +2863,7 @@
       "period": "summer",
       "zone": null,
       "tier": null,
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -3171,7 +3171,7 @@
       "period": "summer",
       "zone": null,
       "tier": null,
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 1
     },
@@ -3186,7 +3186,7 @@
       "zone": null,
       "tier": null,
       "winsLeft": 1,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -3227,7 +3227,7 @@
       "period": "summer",
       "zone": null,
       "tier": null,
-      "winsLeft": 1,
+      "winsLeft": 2,
       "draws": 0,
       "winsRight": 0
     },
@@ -3353,7 +3353,7 @@
       "period": "summer",
       "zone": null,
       "tier": null,
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -3369,7 +3369,7 @@
       "tier": null,
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "cltc",
@@ -3425,7 +3425,7 @@
       "tier": null,
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "cltc",
@@ -3731,7 +3731,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -4025,7 +4025,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -4601,7 +4601,7 @@
       "tier": "lower",
       "winsLeft": 1,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "coolhurst-ltc",
@@ -4629,7 +4629,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "cltc",
@@ -4641,7 +4641,7 @@
       "period": "summer",
       "zone": "North-East",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -4993,7 +4993,7 @@
       "tier": "lower",
       "winsLeft": 1,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "coolhurst-ltc",
@@ -5021,7 +5021,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "cltc",
@@ -5033,7 +5033,7 @@
       "period": "summer",
       "zone": "North-East",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -5738,20 +5738,6 @@
       "winsRight": 1
     },
     {
-      "source": "cltc",
-      "target": "conway",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Womens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "East",
-      "tier": "top",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
       "source": "conway",
       "target": "coolhurst",
       "competitionId": "90416c0a",
@@ -5976,6 +5962,20 @@
       "winsRight": 0
     },
     {
+      "source": "cltc",
+      "target": "conway",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "East",
+      "tier": "top",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
       "source": "conway",
       "target": "finchley-manor",
       "competitionId": "90416c0a",
@@ -6088,20 +6088,6 @@
       "winsRight": 0
     },
     {
-      "source": "cltc",
-      "target": "totteridge",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Womens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-East",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
       "source": "finchley",
       "target": "temple-fortune",
       "competitionId": "90416c0a",
@@ -6111,23 +6097,9 @@
       "period": "summer",
       "zone": "North-East",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 1
-    },
-    {
-      "source": "brondesbury",
-      "target": "chandos",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Womens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-East",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
     },
     {
       "source": "chandos",
@@ -6183,7 +6155,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "david-lloyd-finchley",
@@ -6242,8 +6214,36 @@
       "winsRight": 0
     },
     {
+      "source": "brondesbury",
+      "target": "chandos",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
       "source": "chandos",
       "target": "temple-fortune",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "totteridge",
       "competitionId": "90416c0a",
       "competitionName": "Middlesex Summer League 2026",
       "divisionName": "Womens Doubles",
@@ -6771,7 +6771,7 @@
       "tier": null,
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "coolhurst-ltc",
@@ -6785,7 +6785,7 @@
       "tier": null,
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "david-lloyd-club-finchley",
@@ -6797,7 +6797,7 @@
       "period": "summer",
       "zone": null,
       "tier": null,
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -6923,7 +6923,7 @@
       "period": "summer",
       "zone": null,
       "tier": null,
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -7135,7 +7135,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "david-lloyd-club-acton-park",
@@ -7148,7 +7148,7 @@
       "zone": "West",
       "tier": "lower",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -7331,7 +7331,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "eastcote-lawn-tennis-club",
@@ -7345,7 +7345,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "psc",
@@ -7455,398 +7455,6 @@
       "period": "summer",
       "zone": "West",
       "tier": "top",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "lowlands-club",
-      "target": "psc",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 2,
-      "draws": 0,
-      "winsRight": 1
-    },
-    {
-      "source": "headstone-lawn-tennis-club",
-      "target": "kenton-lawn-tennis-club",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 1,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "david-lloyd-club-northwood",
-      "target": "harrow-weald-lawn-tennis-club",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 1
-    },
-    {
-      "source": "headstone-lawn-tennis-club",
-      "target": "psc",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 1
-    },
-    {
-      "source": "harrow-weald-lawn-tennis-club",
-      "target": "lowlands-club",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 1
-    },
-    {
-      "source": "acorn-lawn-tennis-club",
-      "target": "david-lloyd-club-northwood",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 1,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "kenton-lawn-tennis-club",
-      "target": "uxbridge-ltc",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 1
-    },
-    {
-      "source": "acorn-lawn-tennis-club",
-      "target": "lowlands-club",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 1,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "harrow-weald-lawn-tennis-club",
-      "target": "headstone-lawn-tennis-club",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 1
-    },
-    {
-      "source": "kenton-lawn-tennis-club",
-      "target": "psc",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 1,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "acorn-lawn-tennis-club",
-      "target": "uxbridge-ltc",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 1,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "psc",
-      "target": "uxbridge-ltc",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 1,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "acorn-lawn-tennis-club",
-      "target": "headstone-lawn-tennis-club",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 1,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "david-lloyd-club-northwood",
-      "target": "lowlands-club",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "harrow-weald-lawn-tennis-club",
-      "target": "kenton-lawn-tennis-club",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "harrow-weald-lawn-tennis-club",
-      "target": "psc",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "david-lloyd-club-northwood",
-      "target": "headstone-lawn-tennis-club",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "acorn-lawn-tennis-club",
-      "target": "kenton-lawn-tennis-club",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "lowlands-club",
-      "target": "uxbridge-ltc",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "headstone-lawn-tennis-club",
-      "target": "lowlands-club",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "harrow-weald-lawn-tennis-club",
-      "target": "uxbridge-ltc",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "david-lloyd-club-northwood",
-      "target": "kenton-lawn-tennis-club",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "acorn-lawn-tennis-club",
-      "target": "psc",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "acorn-lawn-tennis-club",
-      "target": "harrow-weald-lawn-tennis-club",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "david-lloyd-club-northwood",
-      "target": "uxbridge-ltc",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "david-lloyd-club-northwood",
-      "target": "psc",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "headstone-lawn-tennis-club",
-      "target": "uxbridge-ltc",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "kenton-lawn-tennis-club",
-      "target": "lowlands-club",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
       "winsRight": 0
@@ -8059,7 +7667,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "holland-park-lawn-tennis-club",
@@ -8071,7 +7679,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -8224,6 +7832,398 @@
       "season": "2026",
       "period": "summer",
       "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "lowlands-club",
+      "target": "psc",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 2,
+      "draws": 0,
+      "winsRight": 1
+    },
+    {
+      "source": "headstone-lawn-tennis-club",
+      "target": "kenton-lawn-tennis-club",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 1,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-northwood",
+      "target": "harrow-weald-lawn-tennis-club",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 1
+    },
+    {
+      "source": "headstone-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 1
+    },
+    {
+      "source": "harrow-weald-lawn-tennis-club",
+      "target": "lowlands-club",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 1
+    },
+    {
+      "source": "acorn-lawn-tennis-club",
+      "target": "david-lloyd-club-northwood",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 1,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "kenton-lawn-tennis-club",
+      "target": "uxbridge-ltc",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 1
+    },
+    {
+      "source": "acorn-lawn-tennis-club",
+      "target": "lowlands-club",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 1,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "harrow-weald-lawn-tennis-club",
+      "target": "headstone-lawn-tennis-club",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 1
+    },
+    {
+      "source": "kenton-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 1,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "acorn-lawn-tennis-club",
+      "target": "uxbridge-ltc",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 1,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "uxbridge-ltc",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 1,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "acorn-lawn-tennis-club",
+      "target": "headstone-lawn-tennis-club",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 1,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "harrow-weald-lawn-tennis-club",
+      "target": "kenton-lawn-tennis-club",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 1
+    },
+    {
+      "source": "harrow-weald-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-northwood",
+      "target": "headstone-lawn-tennis-club",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "acorn-lawn-tennis-club",
+      "target": "kenton-lawn-tennis-club",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "lowlands-club",
+      "target": "uxbridge-ltc",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "headstone-lawn-tennis-club",
+      "target": "lowlands-club",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "harrow-weald-lawn-tennis-club",
+      "target": "uxbridge-ltc",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-northwood",
+      "target": "kenton-lawn-tennis-club",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "acorn-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "acorn-lawn-tennis-club",
+      "target": "harrow-weald-lawn-tennis-club",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-northwood",
+      "target": "uxbridge-ltc",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-northwood",
+      "target": "psc",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "headstone-lawn-tennis-club",
+      "target": "uxbridge-ltc",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "kenton-lawn-tennis-club",
+      "target": "lowlands-club",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-northwood",
+      "target": "lowlands-club",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -8435,9 +8435,9 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "harrow-baptist-tennis-club",
@@ -8773,7 +8773,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "virgin-active-chiswick-riverside",
@@ -9434,34 +9434,6 @@
       "winsRight": 1
     },
     {
-      "source": "david-lloyd-club-sudbury-hill",
-      "target": "psc",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Womens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "david-lloyd-club-northwood",
-      "target": "lowlands-club",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Womens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-West",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
       "source": "david-lloyd-club-northwood",
       "target": "david-lloyd-club-sudbury-hill",
       "competitionId": "90416c0a",
@@ -9487,7 +9459,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "kenton-lawn-tennis-club",
@@ -9520,6 +9492,34 @@
     {
       "source": "david-lloyd-club-sudbury-hill",
       "target": "kenton-lawn-tennis-club",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-sudbury-hill",
+      "target": "psc",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-northwood",
+      "target": "lowlands-club",
       "competitionId": "90416c0a",
       "competitionName": "Middlesex Summer League 2026",
       "divisionName": "Womens Doubles",
@@ -9752,7 +9752,7 @@
       "zone": "West",
       "tier": "lower",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
