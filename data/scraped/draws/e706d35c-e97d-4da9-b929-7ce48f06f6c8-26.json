@@ -1,0 +1,33 @@
+{
+  "drawId": "e706d35c-e97d-4da9-b929-7ce48f06f6c8-26",
+  "competitionId": "e706d35c-e97d-4da9-b929-7ce48f06f6c8",
+  "competitionName": "Mens\n \u2013 National Tier              \u2013 Playoff",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/E706D35C-E97D-4DA9-B929-7CE48F06F6C8/draw/26",
+  "scrapedAt": "2026-07-08T11:41:27.169448+00:00",
+  "standings": [],
+  "matches": [
+    {
+      "home": "The Queens Club Limited 1\n-\nDavid Lloyd Club Bristol Long Ashton 1",
+      "away": "The Queens Club Limited 1\n-\nDavid Lloyd Club Bristol Long Ashton 1",
+      "hs": null,
+      "as": null,
+      "date": "-"
+    },
+    {
+      "home": "Wrexham Lawn Tennis Club 1\n-\nUniversity Of Stirling 1",
+      "away": "Wrexham Lawn Tennis Club 1\n-\nUniversity Of Stirling 1",
+      "hs": null,
+      "as": null,
+      "date": "-"
+    },
+    {
+      "home": "David Lloyd Club Raynes Park 1\n-\nStourbridge Lawn Tennis & Squash Club 1",
+      "away": "David Lloyd Club Raynes Park 1\n-\nStourbridge Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "-"
+    }
+  ]
+}

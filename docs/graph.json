@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-01T12:46:45.887070+00:00",
+    "generatedAt": "2026-07-08T11:47:17.680514+00:00",
     "seedClubs": [
       "cltc",
       "psc"
@@ -190,8 +190,8 @@
       "zone": "East"
     },
     {
-      "id": "broomfield-park",
-      "name": "Broomfield Park",
+      "id": "highgate-cricket-and-lawn-tennis-club",
+      "name": "Highgate Cricket and Lawn Tennis Club",
       "seedClub": false,
       "zones": [
         "East"
@@ -199,8 +199,8 @@
       "zone": "East"
     },
     {
-      "id": "highgate-cricket-and-lawn-tennis-club",
-      "name": "Highgate Cricket and Lawn Tennis Club",
+      "id": "broomfield-park",
+      "name": "Broomfield Park",
       "seedClub": false,
       "zones": [
         "East"
@@ -217,16 +217,6 @@
       "zone": "East"
     },
     {
-      "id": "chandos",
-      "name": "Chandos",
-      "seedClub": false,
-      "zones": [
-        "East",
-        "North-East"
-      ],
-      "zone": "East"
-    },
-    {
       "id": "vicars-moor",
       "name": "Vicars Moor",
       "seedClub": false,
@@ -238,6 +228,16 @@
     {
       "id": "coolhurst",
       "name": "Coolhurst",
+      "seedClub": false,
+      "zones": [
+        "East",
+        "North-East"
+      ],
+      "zone": "East"
+    },
+    {
+      "id": "chandos",
+      "name": "Chandos",
       "seedClub": false,
       "zones": [
         "East",
@@ -276,21 +276,21 @@
       "zone": "East"
     },
     {
-      "id": "highgate",
-      "name": "Highgate",
-      "seedClub": false,
-      "zones": [
-        "East"
-      ],
-      "zone": "East"
-    },
-    {
       "id": "globe",
       "name": "Globe",
       "seedClub": false,
       "zones": [
         "East",
         "North-East"
+      ],
+      "zone": "East"
+    },
+    {
+      "id": "highgate",
+      "name": "Highgate",
+      "seedClub": false,
+      "zones": [
+        "East"
       ],
       "zone": "East"
     },
@@ -304,16 +304,6 @@
       "zone": "East"
     },
     {
-      "id": "brondesbury",
-      "name": "Brondesbury",
-      "seedClub": false,
-      "zones": [
-        "East",
-        "North-East"
-      ],
-      "zone": "East"
-    },
-    {
       "id": "barnet",
       "name": "Barnet",
       "seedClub": false,
@@ -323,13 +313,12 @@
       "zone": "East"
     },
     {
-      "id": "elmwood-lawn-tennis-club",
-      "name": "Elmwood Lawn Tennis Club",
+      "id": "brondesbury",
+      "name": "Brondesbury",
       "seedClub": false,
       "zones": [
         "East",
-        "North-East",
-        "West"
+        "North-East"
       ],
       "zone": "East"
     },
@@ -349,6 +338,17 @@
       "zones": [
         "East",
         "North-East"
+      ],
+      "zone": "East"
+    },
+    {
+      "id": "elmwood-lawn-tennis-club",
+      "name": "Elmwood Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "East",
+        "North-East",
+        "West"
       ],
       "zone": "East"
     },
@@ -512,8 +512,8 @@
       "zone": "North-West"
     },
     {
-      "id": "holland-park-lawn-tennis-club",
-      "name": "Holland Park Lawn Tennis Club",
+      "id": "brentham-lawn-tennis-club",
+      "name": "Brentham Lawn Tennis Club",
       "seedClub": false,
       "zones": [
         "West"
@@ -530,8 +530,17 @@
       "zone": "West"
     },
     {
-      "id": "brentham-lawn-tennis-club",
-      "name": "Brentham Lawn Tennis Club",
+      "id": "holland-park-lawn-tennis-club",
+      "name": "Holland Park Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "West"
+      ],
+      "zone": "West"
+    },
+    {
+      "id": "the-lensbury-club",
+      "name": "The Lensbury Club",
       "seedClub": false,
       "zones": [
         "West"
@@ -547,15 +556,6 @@
         "West"
       ],
       "zone": "North-West"
-    },
-    {
-      "id": "the-lensbury-club",
-      "name": "The Lensbury Club",
-      "seedClub": false,
-      "zones": [
-        "West"
-      ],
-      "zone": "West"
     },
     {
       "id": "wycombe-house",
@@ -616,8 +616,8 @@
       "zone": "North-West"
     },
     {
-      "id": "harrow-baptist-tennis-club",
-      "name": "Harrow Baptist Tennis Club",
+      "id": "hatch-end-lawn-tennis-club",
+      "name": "Hatch End Lawn Tennis Club",
       "seedClub": false,
       "zones": [
         "North-West"
@@ -625,8 +625,8 @@
       "zone": "North-West"
     },
     {
-      "id": "hatch-end-lawn-tennis-club",
-      "name": "Hatch End Lawn Tennis Club",
+      "id": "harrow-baptist-tennis-club",
+      "name": "Harrow Baptist Tennis Club",
       "seedClub": false,
       "zones": [
         "North-West"
@@ -692,8 +692,8 @@
       "zone": "North-West"
     },
     {
-      "id": "old-actonians-association-tennis-club",
-      "name": "Old Actonians Association Tennis Club",
+      "id": "hartswood-lawn-tennis-club-ltd",
+      "name": "Hartswood Lawn Tennis Club Ltd",
       "seedClub": false,
       "zones": [
         "West"
@@ -701,8 +701,8 @@
       "zone": "West"
     },
     {
-      "id": "hartswood-lawn-tennis-club-ltd",
-      "name": "Hartswood Lawn Tennis Club Ltd",
+      "id": "old-actonians-association-tennis-club",
+      "name": "Old Actonians Association Tennis Club",
       "seedClub": false,
       "zones": [
         "West"
@@ -2206,7 +2206,7 @@
       "zone": null,
       "tier": null,
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -2402,7 +2402,7 @@
       "zone": null,
       "tier": "lower",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -2417,21 +2417,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "coolhurst-ltc",
-      "target": "david-lloyd-club-finchley",
-      "competitionId": "61ce80d5",
-      "competitionName": "Middlesex Youth & National League - Summer 2026",
-      "divisionName": "14&U Girls Division 1",
-      "season": "2026",
-      "period": "summer",
-      "zone": null,
-      "tier": null,
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "david-lloyd-club-finchley",
@@ -2471,7 +2457,7 @@
       "period": "summer",
       "zone": null,
       "tier": null,
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -2518,6 +2504,20 @@
       "winsRight": 1
     },
     {
+      "source": "coolhurst-ltc",
+      "target": "david-lloyd-club-finchley",
+      "competitionId": "61ce80d5",
+      "competitionName": "Middlesex Youth & National League - Summer 2026",
+      "divisionName": "14&U Girls Division 1",
+      "season": "2026",
+      "period": "summer",
+      "zone": null,
+      "tier": null,
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 1
+    },
+    {
       "source": "cltc",
       "target": "conway-lawn-tennis-club",
       "competitionId": "61ce80d5",
@@ -2528,7 +2528,7 @@
       "zone": null,
       "tier": null,
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -2683,7 +2683,7 @@
       "tier": null,
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 2
     },
     {
       "source": "coolhurst-ltc",
@@ -2751,7 +2751,7 @@
       "period": "summer",
       "zone": null,
       "tier": null,
-      "winsLeft": 0,
+      "winsLeft": 2,
       "draws": 0,
       "winsRight": 0
     },
@@ -2793,7 +2793,7 @@
       "period": "summer",
       "zone": null,
       "tier": null,
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 1
     },
@@ -3116,12 +3116,12 @@
       "zone": null,
       "tier": null,
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
-      "source": "cltc",
-      "target": "finchley-manor-tennis-squash-and-health-club",
+      "source": "broomfield-park",
+      "target": "ealing-lawn-tennis-club",
       "competitionId": "61ce80d5",
       "competitionName": "Middlesex Youth & National League - Summer 2026",
       "divisionName": "10&U Mixed Division 1",
@@ -3131,11 +3131,11 @@
       "tier": null,
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
-      "source": "broomfield-park",
-      "target": "ealing-lawn-tennis-club",
+      "source": "cltc",
+      "target": "finchley-manor-tennis-squash-and-health-club",
       "competitionId": "61ce80d5",
       "competitionName": "Middlesex Youth & National League - Summer 2026",
       "divisionName": "10&U Mixed Division 1",
@@ -3213,7 +3213,7 @@
       "period": "summer",
       "zone": null,
       "tier": null,
-      "winsLeft": 1,
+      "winsLeft": 2,
       "draws": 0,
       "winsRight": 0
     },
@@ -3456,20 +3456,6 @@
       "winsRight": 0
     },
     {
-      "source": "david-lloyd-club-finchley",
-      "target": "ealing-lawn-tennis-club",
-      "competitionId": "61ce80d5",
-      "competitionName": "Middlesex Youth & National League - Summer 2026",
-      "divisionName": "9&U Mixed Division 1",
-      "season": "2026",
-      "period": "summer",
-      "zone": null,
-      "tier": null,
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
       "source": "hackney-tennis",
       "target": "highgate-cricket-and-lawn-tennis-club",
       "competitionId": "61ce80d5",
@@ -3484,6 +3470,20 @@
       "winsRight": 0
     },
     {
+      "source": "david-lloyd-club-finchley",
+      "target": "ealing-lawn-tennis-club",
+      "competitionId": "61ce80d5",
+      "competitionName": "Middlesex Youth & National League - Summer 2026",
+      "divisionName": "9&U Mixed Division 1",
+      "season": "2026",
+      "period": "summer",
+      "zone": null,
+      "tier": null,
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
       "source": "coolhurst-ltc",
       "target": "highgate-cricket-and-lawn-tennis-club",
       "competitionId": "61ce80d5",
@@ -3675,7 +3675,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 1,
       "winsRight": 0
     },
@@ -3718,7 +3718,7 @@
       "zone": "East",
       "tier": "top",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -3969,7 +3969,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 1,
       "winsRight": 0
     },
@@ -4012,7 +4012,7 @@
       "zone": "East",
       "tier": "top",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -4212,20 +4212,6 @@
       "winsRight": 0
     },
     {
-      "source": "brondesbury",
-      "target": "hackney",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "East",
-      "tier": "top",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
       "source": "hazelwood",
       "target": "highgate",
       "competitionId": "90416c0a",
@@ -4279,7 +4265,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "globe",
@@ -4291,7 +4277,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -4312,6 +4298,20 @@
     {
       "source": "hackney",
       "target": "hazelwood",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "East",
+      "tier": "top",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brondesbury",
+      "target": "hackney",
       "competitionId": "90416c0a",
       "competitionName": "Middlesex Summer League 2026",
       "divisionName": "Mens Doubles",
@@ -4643,7 +4643,7 @@
       "tier": "lower",
       "winsLeft": 1,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "chandos-lawn-tennis-club",
@@ -4671,7 +4671,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "finchley-manor-tennis-squash-and-health-club",
@@ -5035,7 +5035,7 @@
       "tier": "lower",
       "winsLeft": 1,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "chandos-lawn-tennis-club",
@@ -5063,7 +5063,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "finchley-manor-tennis-squash-and-health-club",
@@ -5314,7 +5314,7 @@
       "zone": "East",
       "tier": "top",
       "winsLeft": 1,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -5327,7 +5327,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -5341,7 +5341,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -5524,7 +5524,7 @@
       "zone": "East",
       "tier": "top",
       "winsLeft": 1,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -5537,7 +5537,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -5551,7 +5551,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -5804,7 +5804,7 @@
       "zone": "East",
       "tier": "top",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -5819,7 +5819,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "finchley-manor",
@@ -5831,7 +5831,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -5845,7 +5845,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -5859,7 +5859,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -6169,7 +6169,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "chandos",
@@ -6953,7 +6953,7 @@
       "tier": null,
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "david-lloyd-club-acton-park",
@@ -7315,7 +7315,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "top",
-      "winsLeft": 1,
+      "winsLeft": 2,
       "draws": 0,
       "winsRight": 0
     },
@@ -7357,9 +7357,9 @@
       "period": "summer",
       "zone": "West",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "david-lloyd-club-acton-park",
@@ -7371,7 +7371,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -7387,7 +7387,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "ealing-lawn-tennis-club",
@@ -7652,7 +7652,7 @@
       "zone": "West",
       "tier": "lower",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -7693,7 +7693,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -8045,7 +8045,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "david-lloyd-club-northwood",
@@ -8059,7 +8059,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "acorn-lawn-tennis-club",
@@ -8073,7 +8073,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "lowlands-club",
@@ -8479,7 +8479,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "harrow-baptist-tennis-club",
@@ -8841,7 +8841,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 1
     },
@@ -8856,7 +8856,7 @@
       "zone": "West",
       "tier": "top",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -8885,7 +8885,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "lowlands-club",
@@ -9191,7 +9191,7 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -9205,7 +9205,7 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -9443,7 +9443,7 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -9471,7 +9471,7 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -9514,7 +9514,7 @@
       "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -9765,7 +9765,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -9779,7 +9779,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -9794,7 +9794,7 @@
       "zone": "West",
       "tier": "lower",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
