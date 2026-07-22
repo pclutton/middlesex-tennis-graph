@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-15T11:30:01.373812+00:00",
+    "generatedAt": "2026-07-22T11:49:52.949436+00:00",
     "seedClubs": [
       "cltc",
       "psc"
@@ -226,6 +226,16 @@
       "zone": "East"
     },
     {
+      "id": "hazelwood",
+      "name": "Hazelwood",
+      "seedClub": false,
+      "zones": [
+        "East",
+        "North-East"
+      ],
+      "zone": "East"
+    },
+    {
       "id": "coolhurst",
       "name": "Coolhurst",
       "seedClub": false,
@@ -246,8 +256,8 @@
       "zone": "East"
     },
     {
-      "id": "hazelwood",
-      "name": "Hazelwood",
+      "id": "coles-green",
+      "name": "Coles Green",
       "seedClub": false,
       "zones": [
         "East",
@@ -266,8 +276,8 @@
       "zone": "East"
     },
     {
-      "id": "coles-green",
-      "name": "Coles Green",
+      "id": "globe",
+      "name": "Globe",
       "seedClub": false,
       "zones": [
         "East",
@@ -281,16 +291,6 @@
       "seedClub": false,
       "zones": [
         "East"
-      ],
-      "zone": "East"
-    },
-    {
-      "id": "globe",
-      "name": "Globe",
-      "seedClub": false,
-      "zones": [
-        "East",
-        "North-East"
       ],
       "zone": "East"
     },
@@ -634,21 +634,21 @@
       "zone": "North-West"
     },
     {
+      "id": "hatch-end-lawn-tennis-club",
+      "name": "Hatch End Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "North-West"
+      ],
+      "zone": "North-West"
+    },
+    {
       "id": "harrow-lawn-tennis-club",
       "name": "Harrow Lawn Tennis Club",
       "seedClub": false,
       "zones": [
         "North-West",
         "West"
-      ],
-      "zone": "North-West"
-    },
-    {
-      "id": "hatch-end-lawn-tennis-club",
-      "name": "Hatch End Lawn Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "North-West"
       ],
       "zone": "North-West"
     },
@@ -1799,7 +1799,7 @@
       "period": "summer",
       "zone": null,
       "tier": null,
-      "winsLeft": 1,
+      "winsLeft": 2,
       "draws": 0,
       "winsRight": 0
     },
@@ -2486,7 +2486,7 @@
       "zone": null,
       "tier": null,
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -2556,7 +2556,7 @@
       "zone": null,
       "tier": null,
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -2765,7 +2765,7 @@
       "period": "summer",
       "zone": null,
       "tier": null,
-      "winsLeft": 0,
+      "winsLeft": 2,
       "draws": 0,
       "winsRight": 0
     },
@@ -3144,7 +3144,7 @@
       "zone": null,
       "tier": null,
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -3467,7 +3467,7 @@
       "tier": null,
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "david-lloyd-club-finchley",
@@ -3481,7 +3481,7 @@
       "tier": null,
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "coolhurst-ltc",
@@ -3705,7 +3705,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "hazelwood",
@@ -3747,21 +3747,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "cltc",
-      "target": "vicars-moor",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles (1)",
-      "season": "2026",
-      "period": "summer",
-      "zone": "East",
-      "tier": "top",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "chandos",
@@ -3794,6 +3780,20 @@
     {
       "source": "coolhurst",
       "target": "finchley-manor",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles (1)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "East",
+      "tier": "top",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "vicars-moor",
       "competitionId": "90416c0a",
       "competitionName": "Middlesex Summer League 2026",
       "divisionName": "Mens Doubles (1)",
@@ -3999,7 +3999,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "hazelwood",
@@ -4041,21 +4041,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "cltc",
-      "target": "vicars-moor",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles (2)",
-      "season": "2026",
-      "period": "summer",
-      "zone": "East",
-      "tier": "top",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "chandos",
@@ -4100,6 +4086,20 @@
       "winsRight": 0
     },
     {
+      "source": "cltc",
+      "target": "vicars-moor",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "East",
+      "tier": "top",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
       "source": "chandos",
       "target": "finchley-manor",
       "competitionId": "90416c0a",
@@ -4333,7 +4333,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -4349,7 +4349,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "barnet",
@@ -4697,9 +4697,9 @@
       "period": "summer",
       "zone": "North-East",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "chandos-lawn-tennis-club",
@@ -4711,7 +4711,7 @@
       "period": "summer",
       "zone": "North-East",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -5089,9 +5089,9 @@
       "period": "summer",
       "zone": "North-East",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "chandos-lawn-tennis-club",
@@ -5103,7 +5103,7 @@
       "period": "summer",
       "zone": "North-East",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -5355,7 +5355,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -5565,7 +5565,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -5888,7 +5888,7 @@
       "zone": "East",
       "tier": "top",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -5901,7 +5901,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -5915,7 +5915,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -6131,20 +6131,6 @@
     },
     {
       "source": "brondesbury",
-      "target": "temple-fortune",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Womens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-East",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 1
-    },
-    {
-      "source": "brondesbury",
       "target": "finchley",
       "competitionId": "90416c0a",
       "competitionName": "Middlesex Summer League 2026",
@@ -6200,6 +6186,20 @@
       "winsRight": 1
     },
     {
+      "source": "brondesbury",
+      "target": "temple-fortune",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 1
+    },
+    {
       "source": "cltc",
       "target": "finchley",
       "competitionId": "90416c0a",
@@ -6225,7 +6225,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "chandos",
@@ -6237,7 +6237,7 @@
       "period": "summer",
       "zone": "North-East",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 2,
       "draws": 0,
       "winsRight": 0
     },
@@ -6813,7 +6813,7 @@
       "tier": null,
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "lowlands-club",
@@ -7413,7 +7413,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -7427,7 +7427,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -7735,7 +7735,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -7765,7 +7765,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "brentham-lawn-tennis-club",
@@ -7777,7 +7777,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -8143,7 +8143,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "acorn-lawn-tennis-club",
@@ -8155,7 +8155,7 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -8477,7 +8477,7 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 1
     },
@@ -8533,7 +8533,7 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -8547,7 +8547,7 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -8927,7 +8927,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "teddington-lawn-tennis-club",
@@ -8939,7 +8939,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -8953,7 +8953,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -9093,7 +9093,7 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 1,
+      "winsLeft": 2,
       "draws": 0,
       "winsRight": 0
     },
@@ -9262,7 +9262,7 @@
       "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -9529,7 +9529,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "kenton-lawn-tennis-club",
@@ -9837,7 +9837,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "old-actonians-association-tennis-club",
@@ -9849,7 +9849,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -9863,7 +9863,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -9879,7 +9879,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "old-actonians-association-tennis-club",
