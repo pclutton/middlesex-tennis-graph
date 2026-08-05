@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-29T12:08:12.017229+00:00",
+    "generatedAt": "2026-08-05T12:30:55.659786+00:00",
     "seedClubs": [
       "cltc",
       "psc"
@@ -500,11 +500,12 @@
       "zone": "East"
     },
     {
-      "id": "vicars-moor",
-      "name": "Vicars Moor",
+      "id": "chandos",
+      "name": "Chandos",
       "seedClub": false,
       "zones": [
-        "East"
+        "East",
+        "North-East"
       ],
       "zone": "East"
     },
@@ -519,12 +520,11 @@
       "zone": "East"
     },
     {
-      "id": "chandos",
-      "name": "Chandos",
+      "id": "vicars-moor",
+      "name": "Vicars Moor",
       "seedClub": false,
       "zones": [
-        "East",
-        "North-East"
+        "East"
       ],
       "zone": "East"
     },
@@ -539,8 +539,8 @@
       "zone": "East"
     },
     {
-      "id": "coles-green",
-      "name": "Coles Green",
+      "id": "finchley-manor",
+      "name": "Finchley Manor",
       "seedClub": false,
       "zones": [
         "East",
@@ -549,8 +549,8 @@
       "zone": "East"
     },
     {
-      "id": "finchley-manor",
-      "name": "Finchley Manor",
+      "id": "coles-green",
+      "name": "Coles Green",
       "seedClub": false,
       "zones": [
         "East",
@@ -617,15 +617,6 @@
       "zone": "East"
     },
     {
-      "id": "west-heath-lawn-tennis-club-limited",
-      "name": "West Heath Lawn Tennis Club Limited",
-      "seedClub": false,
-      "zones": [
-        "North-East"
-      ],
-      "zone": "North-East"
-    },
-    {
       "id": "totteridge-tennis-club",
       "name": "Totteridge Tennis Club",
       "seedClub": false,
@@ -634,6 +625,15 @@
         "North-East"
       ],
       "zone": "East"
+    },
+    {
+      "id": "west-heath-lawn-tennis-club-limited",
+      "name": "West Heath Lawn Tennis Club Limited",
+      "seedClub": false,
+      "zones": [
+        "North-East"
+      ],
+      "zone": "North-East"
     },
     {
       "id": "brampton-lawn-tennis-club",
@@ -2751,7 +2751,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -3102,7 +3102,7 @@
       "zone": "West",
       "tier": "lower",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -3115,7 +3115,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -3129,7 +3129,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -3479,7 +3479,7 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -3507,7 +3507,7 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -3914,7 +3914,7 @@
       "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -4027,7 +4027,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 1
+      "winsRight": 2
     },
     {
       "source": "david-lloyd-club-acton-park",
@@ -4293,7 +4293,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "lowlands-club",
@@ -4600,8 +4600,8 @@
       "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
-      "draws": 1,
-      "winsRight": 0
+      "draws": 0,
+      "winsRight": 1
     },
     {
       "source": "david-lloyd-club-northwood",
@@ -4613,7 +4613,7 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -4627,7 +4627,7 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -4641,7 +4641,7 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -4851,7 +4851,7 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -4866,7 +4866,7 @@
       "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -5217,7 +5217,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "hartswood-lawn-tennis-club-ltd",
@@ -6531,7 +6531,7 @@
       "period": "summer",
       "zone": null,
       "tier": null,
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -6867,7 +6867,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 1,
+      "winsLeft": 2,
       "draws": 0,
       "winsRight": 0
     },
@@ -6994,7 +6994,7 @@
       "zone": "East",
       "tier": "top",
       "winsLeft": 1,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -7051,7 +7051,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "cltc",
@@ -7064,7 +7064,7 @@
       "zone": "East",
       "tier": "top",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -7077,7 +7077,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -7161,7 +7161,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 1,
+      "winsLeft": 2,
       "draws": 0,
       "winsRight": 0
     },
@@ -7288,7 +7288,7 @@
       "zone": "East",
       "tier": "top",
       "winsLeft": 1,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -7345,7 +7345,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "cltc",
@@ -7358,7 +7358,7 @@
       "zone": "East",
       "tier": "top",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -7371,7 +7371,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -8015,7 +8015,7 @@
       "period": "summer",
       "zone": "North-East",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -8029,7 +8029,7 @@
       "period": "summer",
       "zone": "North-East",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -8045,7 +8045,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "coolhurst-ltc",
@@ -8407,7 +8407,7 @@
       "period": "summer",
       "zone": "North-East",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -8421,7 +8421,7 @@
       "period": "summer",
       "zone": "North-East",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -8437,7 +8437,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "coolhurst-ltc",
@@ -8589,7 +8589,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 1,
+      "winsLeft": 2,
       "draws": 0,
       "winsRight": 0
     },
@@ -8645,7 +8645,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -8799,7 +8799,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 1,
+      "winsLeft": 2,
       "draws": 0,
       "winsRight": 0
     },
@@ -8855,7 +8855,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -8897,9 +8897,9 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 1,
+      "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "brondesbury",
@@ -9234,7 +9234,7 @@
       "zone": "East",
       "tier": "top",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -9249,7 +9249,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "brondesbury",
@@ -9261,7 +9261,7 @@
       "period": "summer",
       "zone": "East",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -9317,7 +9317,7 @@
       "period": "summer",
       "zone": "North-East",
       "tier": "lower",
-      "winsLeft": 1,
+      "winsLeft": 2,
       "draws": 0,
       "winsRight": 0
     },
