@@ -1,0 +1,289 @@
+{
+  "drawId": "b86e129e-9a10-4e98-9e83-71d5e607e375-57",
+  "competitionId": "b86e129e-9a10-4e98-9e83-71d5e607e375",
+  "competitionName": "Mixed Doubles\n \u2013 Division 2              \u2013 Division 2 East",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/57",
+  "scrapedAt": "2026-08-12T10:28:34.362096+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 8,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 25/09/2026\nEnfield Chase LTC 1\n-\nCoolhurst LTC 3",
+      "away": "Enfield Chase LTC 1\n-\nCoolhurst LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nWinchmore Hill Tennis Club 1\n-\nVicars Moor LTC 2",
+      "away": "Winchmore Hill Tennis Club 1\n-\nVicars Moor LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nPotters Bar Tennis Club 1\n-\nStormont LT and SRC 2",
+      "away": "Potters Bar Tennis Club 1\n-\nStormont LT and SRC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nCoolhurst LTC 2\n-\nHackney Tennis 2",
+      "away": "Coolhurst LTC 2\n-\nHackney Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nHackney Tennis 2\n-\nCoolhurst LTC 3",
+      "away": "Hackney Tennis 2\n-\nCoolhurst LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nVicars Moor LTC 2\n-\nEnfield Chase LTC 1",
+      "away": "Vicars Moor LTC 2\n-\nEnfield Chase LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nStormont LT and SRC 2\n-\nWinchmore Hill Tennis Club 1",
+      "away": "Stormont LT and SRC 2\n-\nWinchmore Hill Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nCoolhurst LTC 2\n-\nPotters Bar Tennis Club 1",
+      "away": "Coolhurst LTC 2\n-\nPotters Bar Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nWinchmore Hill Tennis Club 1\n-\nCoolhurst LTC 2",
+      "away": "Winchmore Hill Tennis Club 1\n-\nCoolhurst LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nEnfield Chase LTC 1\n-\nStormont LT and SRC 2",
+      "away": "Enfield Chase LTC 1\n-\nStormont LT and SRC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nCoolhurst LTC 3\n-\nVicars Moor LTC 2",
+      "away": "Coolhurst LTC 3\n-\nVicars Moor LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nPotters Bar Tennis Club 1\n-\nHackney Tennis 2",
+      "away": "Potters Bar Tennis Club 1\n-\nHackney Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 22/01/2027\nHackney Tennis 2\n-\nVicars Moor LTC 2",
+      "away": "Hackney Tennis 2\n-\nVicars Moor LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nStormont LT and SRC 2\n-\nCoolhurst LTC 3",
+      "away": "Stormont LT and SRC 2\n-\nCoolhurst LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nCoolhurst LTC 2\n-\nEnfield Chase LTC 1",
+      "away": "Coolhurst LTC 2\n-\nEnfield Chase LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nPotters Bar Tennis Club 1\n-\nWinchmore Hill Tennis Club 1",
+      "away": "Potters Bar Tennis Club 1\n-\nWinchmore Hill Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nEnfield Chase LTC 1\n-\nPotters Bar Tennis Club 1",
+      "away": "Enfield Chase LTC 1\n-\nPotters Bar Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nCoolhurst LTC 3\n-\nCoolhurst LTC 2",
+      "away": "Coolhurst LTC 3\n-\nCoolhurst LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nVicars Moor LTC 2\n-\nStormont LT and SRC 2",
+      "away": "Vicars Moor LTC 2\n-\nStormont LT and SRC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nWinchmore Hill Tennis Club 1\n-\nHackney Tennis 2",
+      "away": "Winchmore Hill Tennis Club 1\n-\nHackney Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nCoolhurst LTC 2\n-\nVicars Moor LTC 2",
+      "away": "Coolhurst LTC 2\n-\nVicars Moor LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nWinchmore Hill Tennis Club 1\n-\nEnfield Chase LTC 1",
+      "away": "Winchmore Hill Tennis Club 1\n-\nEnfield Chase LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nPotters Bar Tennis Club 1\n-\nCoolhurst LTC 3",
+      "away": "Potters Bar Tennis Club 1\n-\nCoolhurst LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nHackney Tennis 2\n-\nStormont LT and SRC 2",
+      "away": "Hackney Tennis 2\n-\nStormont LT and SRC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nCoolhurst LTC 3\n-\nWinchmore Hill Tennis Club 1",
+      "away": "Coolhurst LTC 3\n-\nWinchmore Hill Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nVicars Moor LTC 2\n-\nPotters Bar Tennis Club 1",
+      "away": "Vicars Moor LTC 2\n-\nPotters Bar Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nStormont LT and SRC 2\n-\nCoolhurst LTC 2",
+      "away": "Stormont LT and SRC 2\n-\nCoolhurst LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nEnfield Chase LTC 1\n-\nHackney Tennis 2",
+      "away": "Enfield Chase LTC 1\n-\nHackney Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    }
+  ]
+}

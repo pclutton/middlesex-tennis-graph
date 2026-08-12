@@ -1,0 +1,289 @@
+{
+  "drawId": "3d5a9c4c-2eb8-4ab6-b630-02701426f087-2",
+  "competitionId": "3d5a9c4c-2eb8-4ab6-b630-02701426f087",
+  "competitionName": "55 and Over Mixed\n \u2013 Division 1              \u2013 Division 1 West",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/3D5A9C4C-2EB8-4AB6-B630-02701426F087/draw/2",
+  "scrapedAt": "2026-08-12T10:17:38.905919+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 8,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 27/09/2026\nGunnersbury Triangle Club 1\n-\nThe Parsons Green Club 1",
+      "away": "Gunnersbury Triangle Club 1\n-\nThe Parsons Green Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nLowlands Club 1\n-\nDavid Lloyd Club Hampton 1",
+      "away": "Lowlands Club 1\n-\nDavid Lloyd Club Hampton 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nHartswood Lawn Tennis Club Ltd 1\n-\nTwickenham Lawn Tennis Club 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 1\n-\nTwickenham Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nBrentham Lawn Tennis Club 1\n-\nBushy Park Tennis Club Teddington 1",
+      "away": "Brentham Lawn Tennis Club 1\n-\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 18/10/2026\nBushy Park Tennis Club Teddington 1\n-\nHartswood Lawn Tennis Club Ltd 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n-\nHartswood Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 18/10/2026"
+    },
+    {
+      "home": "Sun 18/10/2026\nLowlands Club 1\n-\nGunnersbury Triangle Club 1",
+      "away": "Lowlands Club 1\n-\nGunnersbury Triangle Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 18/10/2026"
+    },
+    {
+      "home": "Sun 18/10/2026\nThe Parsons Green Club 1\n-\nBrentham Lawn Tennis Club 1",
+      "away": "The Parsons Green Club 1\n-\nBrentham Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 18/10/2026"
+    },
+    {
+      "home": "Sun 18/10/2026\nDavid Lloyd Club Hampton 1\n-\nTwickenham Lawn Tennis Club 1",
+      "away": "David Lloyd Club Hampton 1\n-\nTwickenham Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 18/10/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nHartswood Lawn Tennis Club Ltd 1\n-\nThe Parsons Green Club 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 1\n-\nThe Parsons Green Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nBrentham Lawn Tennis Club 1\n-\nLowlands Club 1",
+      "away": "Brentham Lawn Tennis Club 1\n-\nLowlands Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nTwickenham Lawn Tennis Club 1\n-\nBushy Park Tennis Club Teddington 1",
+      "away": "Twickenham Lawn Tennis Club 1\n-\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nGunnersbury Triangle Club 1\n-\nDavid Lloyd Club Hampton 1",
+      "away": "Gunnersbury Triangle Club 1\n-\nDavid Lloyd Club Hampton 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nLowlands Club 1\n-\nHartswood Lawn Tennis Club Ltd 1",
+      "away": "Lowlands Club 1\n-\nHartswood Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nGunnersbury Triangle Club 1\n-\nBrentham Lawn Tennis Club 1",
+      "away": "Gunnersbury Triangle Club 1\n-\nBrentham Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nThe Parsons Green Club 1\n-\nTwickenham Lawn Tennis Club 1",
+      "away": "The Parsons Green Club 1\n-\nTwickenham Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nDavid Lloyd Club Hampton 1\n-\nBushy Park Tennis Club Teddington 1",
+      "away": "David Lloyd Club Hampton 1\n-\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 17/01/2027\nBushy Park Tennis Club Teddington 1\n-\nThe Parsons Green Club 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n-\nThe Parsons Green Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nBrentham Lawn Tennis Club 1\n-\nDavid Lloyd Club Hampton 1",
+      "away": "Brentham Lawn Tennis Club 1\n-\nDavid Lloyd Club Hampton 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nHartswood Lawn Tennis Club Ltd 1\n-\nGunnersbury Triangle Club 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 1\n-\nGunnersbury Triangle Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nTwickenham Lawn Tennis Club 1\n-\nLowlands Club 1",
+      "away": "Twickenham Lawn Tennis Club 1\n-\nLowlands Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nTwickenham Lawn Tennis Club 1\n-\nBrentham Lawn Tennis Club 1",
+      "away": "Twickenham Lawn Tennis Club 1\n-\nBrentham Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nBushy Park Tennis Club Teddington 1\n-\nGunnersbury Triangle Club 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n-\nGunnersbury Triangle Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nThe Parsons Green Club 1\n-\nLowlands Club 1",
+      "away": "The Parsons Green Club 1\n-\nLowlands Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nHartswood Lawn Tennis Club Ltd 1\n-\nDavid Lloyd Club Hampton 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 1\n-\nDavid Lloyd Club Hampton 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nDavid Lloyd Club Hampton 1\n-\nThe Parsons Green Club 1",
+      "away": "David Lloyd Club Hampton 1\n-\nThe Parsons Green Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nLowlands Club 1\n-\nBushy Park Tennis Club Teddington 1",
+      "away": "Lowlands Club 1\n-\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nBrentham Lawn Tennis Club 1\n-\nHartswood Lawn Tennis Club Ltd 1",
+      "away": "Brentham Lawn Tennis Club 1\n-\nHartswood Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nGunnersbury Triangle Club 1\n-\nTwickenham Lawn Tennis Club 1",
+      "away": "Gunnersbury Triangle Club 1\n-\nTwickenham Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    }
+  ]
+}

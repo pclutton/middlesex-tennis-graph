@@ -1,0 +1,289 @@
+{
+  "drawId": "f100dee9-1484-4a82-aa8a-e1ba8507fbbe-3",
+  "competitionId": "f100dee9-1484-4a82-aa8a-e1ba8507fbbe",
+  "competitionName": "40/Over\n \u2013 Division 3              \u2013 Group 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/F100DEE9-1484-4A82-AA8A-E1BA8507FBBE/draw/3",
+  "scrapedAt": "2026-08-12T10:21:08.169127+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 8,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 27/09/2026\nGunnersbury Triangle Club 1\n-\nHartswood Lawn Tennis Club Ltd 1",
+      "away": "Gunnersbury Triangle Club 1\n-\nHartswood Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nCampden Hill Lawn Tennis Club 1\n-\nPinner Lawn Tennis Club 1",
+      "away": "Campden Hill Lawn Tennis Club 1\n-\nPinner Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nTeddington Lawn Tennis Club 3\n-\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "Teddington Lawn Tennis Club 3\n-\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nHeadstone Lawn Tennis Club 1\n-\nPinner Lawn Tennis Club 2",
+      "away": "Headstone Lawn Tennis Club 1\n-\nPinner Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nPinner Lawn Tennis Club 2\n-\nHartswood Lawn Tennis Club Ltd 1",
+      "away": "Pinner Lawn Tennis Club 2\n-\nHartswood Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nPinner Lawn Tennis Club 1\n-\nGunnersbury Triangle Club 1",
+      "away": "Pinner Lawn Tennis Club 1\n-\nGunnersbury Triangle Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nWest Middlesex Lawn Tennis Club Ltd 1\n-\nCampden Hill Lawn Tennis Club 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n-\nCampden Hill Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nHeadstone Lawn Tennis Club 1\n-\nTeddington Lawn Tennis Club 3",
+      "away": "Headstone Lawn Tennis Club 1\n-\nTeddington Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nCampden Hill Lawn Tennis Club 1\n-\nHeadstone Lawn Tennis Club 1",
+      "away": "Campden Hill Lawn Tennis Club 1\n-\nHeadstone Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nGunnersbury Triangle Club 1\n-\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "Gunnersbury Triangle Club 1\n-\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nHartswood Lawn Tennis Club Ltd 1\n-\nPinner Lawn Tennis Club 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 1\n-\nPinner Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nTeddington Lawn Tennis Club 3\n-\nPinner Lawn Tennis Club 2",
+      "away": "Teddington Lawn Tennis Club 3\n-\nPinner Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 17/01/2027\nPinner Lawn Tennis Club 2\n-\nPinner Lawn Tennis Club 1",
+      "away": "Pinner Lawn Tennis Club 2\n-\nPinner Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nWest Middlesex Lawn Tennis Club Ltd 1\n-\nHartswood Lawn Tennis Club Ltd 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n-\nHartswood Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nHeadstone Lawn Tennis Club 1\n-\nGunnersbury Triangle Club 1",
+      "away": "Headstone Lawn Tennis Club 1\n-\nGunnersbury Triangle Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nTeddington Lawn Tennis Club 3\n-\nCampden Hill Lawn Tennis Club 1",
+      "away": "Teddington Lawn Tennis Club 3\n-\nCampden Hill Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nGunnersbury Triangle Club 1\n-\nTeddington Lawn Tennis Club 3",
+      "away": "Gunnersbury Triangle Club 1\n-\nTeddington Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nHartswood Lawn Tennis Club Ltd 1\n-\nHeadstone Lawn Tennis Club 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 1\n-\nHeadstone Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nPinner Lawn Tennis Club 1\n-\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "Pinner Lawn Tennis Club 1\n-\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nCampden Hill Lawn Tennis Club 1\n-\nPinner Lawn Tennis Club 2",
+      "away": "Campden Hill Lawn Tennis Club 1\n-\nPinner Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nHeadstone Lawn Tennis Club 1\n-\nPinner Lawn Tennis Club 1",
+      "away": "Headstone Lawn Tennis Club 1\n-\nPinner Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nCampden Hill Lawn Tennis Club 1\n-\nGunnersbury Triangle Club 1",
+      "away": "Campden Hill Lawn Tennis Club 1\n-\nGunnersbury Triangle Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nTeddington Lawn Tennis Club 3\n-\nHartswood Lawn Tennis Club Ltd 1",
+      "away": "Teddington Lawn Tennis Club 3\n-\nHartswood Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nPinner Lawn Tennis Club 2\n-\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "away": "Pinner Lawn Tennis Club 2\n-\nWest Middlesex Lawn Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nHartswood Lawn Tennis Club Ltd 1\n-\nCampden Hill Lawn Tennis Club 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 1\n-\nCampden Hill Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nPinner Lawn Tennis Club 1\n-\nTeddington Lawn Tennis Club 3",
+      "away": "Pinner Lawn Tennis Club 1\n-\nTeddington Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nWest Middlesex Lawn Tennis Club Ltd 1\n-\nHeadstone Lawn Tennis Club 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 1\n-\nHeadstone Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nGunnersbury Triangle Club 1\n-\nPinner Lawn Tennis Club 2",
+      "away": "Gunnersbury Triangle Club 1\n-\nPinner Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    }
+  ]
+}

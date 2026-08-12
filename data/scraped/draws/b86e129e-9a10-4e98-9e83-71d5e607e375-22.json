@@ -1,0 +1,289 @@
+{
+  "drawId": "b86e129e-9a10-4e98-9e83-71d5e607e375-22",
+  "competitionId": "b86e129e-9a10-4e98-9e83-71d5e607e375",
+  "competitionName": "Mens Doubles\n \u2013 Division 4              \u2013 Division 4 North East",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/22",
+  "scrapedAt": "2026-08-12T10:31:06.610017+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 8,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 25/09/2026\nTotteridge Tennis Club 3\n-\nOakleigh Park Lawn Tennis & Squash Club 2",
+      "away": "Totteridge Tennis Club 3\n-\nOakleigh Park Lawn Tennis & Squash Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nSouth Hampstead Tennis Club 3\n-\nFinchley Lawn Tennis Club 3",
+      "away": "South Hampstead Tennis Club 3\n-\nFinchley Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nTemple Fortune Club 2\n-\nDavid Lloyd Club Finchley 2",
+      "away": "Temple Fortune Club 2\n-\nDavid Lloyd Club Finchley 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nGlobe Lawn Tennis Club 1\n-\nElmwood Lawn Tennis Club 4",
+      "away": "Globe Lawn Tennis Club 1\n-\nElmwood Lawn Tennis Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nElmwood Lawn Tennis Club 4\n-\nOakleigh Park Lawn Tennis & Squash Club 2",
+      "away": "Elmwood Lawn Tennis Club 4\n-\nOakleigh Park Lawn Tennis & Squash Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nFinchley Lawn Tennis Club 3\n-\nTotteridge Tennis Club 3",
+      "away": "Finchley Lawn Tennis Club 3\n-\nTotteridge Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nDavid Lloyd Club Finchley 2\n-\nSouth Hampstead Tennis Club 3",
+      "away": "David Lloyd Club Finchley 2\n-\nSouth Hampstead Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nGlobe Lawn Tennis Club 1\n-\nTemple Fortune Club 2",
+      "away": "Globe Lawn Tennis Club 1\n-\nTemple Fortune Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nSouth Hampstead Tennis Club 3\n-\nGlobe Lawn Tennis Club 1",
+      "away": "South Hampstead Tennis Club 3\n-\nGlobe Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nTotteridge Tennis Club 3\n-\nDavid Lloyd Club Finchley 2",
+      "away": "Totteridge Tennis Club 3\n-\nDavid Lloyd Club Finchley 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nOakleigh Park Lawn Tennis & Squash Club 2\n-\nFinchley Lawn Tennis Club 3",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 2\n-\nFinchley Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nTemple Fortune Club 2\n-\nElmwood Lawn Tennis Club 4",
+      "away": "Temple Fortune Club 2\n-\nElmwood Lawn Tennis Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 22/01/2027\nElmwood Lawn Tennis Club 4\n-\nFinchley Lawn Tennis Club 3",
+      "away": "Elmwood Lawn Tennis Club 4\n-\nFinchley Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nDavid Lloyd Club Finchley 2\n-\nOakleigh Park Lawn Tennis & Squash Club 2",
+      "away": "David Lloyd Club Finchley 2\n-\nOakleigh Park Lawn Tennis & Squash Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nGlobe Lawn Tennis Club 1\n-\nTotteridge Tennis Club 3",
+      "away": "Globe Lawn Tennis Club 1\n-\nTotteridge Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nTemple Fortune Club 2\n-\nSouth Hampstead Tennis Club 3",
+      "away": "Temple Fortune Club 2\n-\nSouth Hampstead Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nTotteridge Tennis Club 3\n-\nTemple Fortune Club 2",
+      "away": "Totteridge Tennis Club 3\n-\nTemple Fortune Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nOakleigh Park Lawn Tennis & Squash Club 2\n-\nGlobe Lawn Tennis Club 1",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 2\n-\nGlobe Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nFinchley Lawn Tennis Club 3\n-\nDavid Lloyd Club Finchley 2",
+      "away": "Finchley Lawn Tennis Club 3\n-\nDavid Lloyd Club Finchley 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nSouth Hampstead Tennis Club 3\n-\nElmwood Lawn Tennis Club 4",
+      "away": "South Hampstead Tennis Club 3\n-\nElmwood Lawn Tennis Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nGlobe Lawn Tennis Club 1\n-\nFinchley Lawn Tennis Club 3",
+      "away": "Globe Lawn Tennis Club 1\n-\nFinchley Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nSouth Hampstead Tennis Club 3\n-\nTotteridge Tennis Club 3",
+      "away": "South Hampstead Tennis Club 3\n-\nTotteridge Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nTemple Fortune Club 2\n-\nOakleigh Park Lawn Tennis & Squash Club 2",
+      "away": "Temple Fortune Club 2\n-\nOakleigh Park Lawn Tennis & Squash Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nElmwood Lawn Tennis Club 4\n-\nDavid Lloyd Club Finchley 2",
+      "away": "Elmwood Lawn Tennis Club 4\n-\nDavid Lloyd Club Finchley 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nOakleigh Park Lawn Tennis & Squash Club 2\n-\nSouth Hampstead Tennis Club 3",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 2\n-\nSouth Hampstead Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nFinchley Lawn Tennis Club 3\n-\nTemple Fortune Club 2",
+      "away": "Finchley Lawn Tennis Club 3\n-\nTemple Fortune Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nDavid Lloyd Club Finchley 2\n-\nGlobe Lawn Tennis Club 1",
+      "away": "David Lloyd Club Finchley 2\n-\nGlobe Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nTotteridge Tennis Club 3\n-\nElmwood Lawn Tennis Club 4",
+      "away": "Totteridge Tennis Club 3\n-\nElmwood Lawn Tennis Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    }
+  ]
+}

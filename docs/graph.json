@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-05T12:30:55.659786+00:00",
+    "generatedAt": "2026-08-12T11:39:33.522922+00:00",
     "seedClubs": [
       "cltc",
       "psc"
@@ -16,23 +16,252 @@
       "name": "Paddington SC",
       "seedClub": true,
       "zones": [
+        "North-East",
         "North-West",
         "West"
       ],
-      "zone": "North-West"
-    },
-    {
-      "id": "hackney-tennis",
-      "name": "Hackney Tennis",
-      "seedClub": false,
-      "zones": [
-        "East"
-      ],
-      "zone": "East"
+      "zone": "North-East"
     },
     {
       "id": "david-lloyd-club-finchley",
       "name": "David Lloyd Club Finchley",
+      "seedClub": false,
+      "zones": [
+        "East",
+        "North-East"
+      ],
+      "zone": "East"
+    },
+    {
+      "id": "west-heath-lawn-tennis-club-limited",
+      "name": "West Heath Lawn Tennis Club Limited",
+      "seedClub": false,
+      "zones": [
+        "North-East"
+      ],
+      "zone": "North-East"
+    },
+    {
+      "id": "elmwood-lawn-tennis-club",
+      "name": "Elmwood Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "East",
+        "North-East",
+        "West"
+      ],
+      "zone": "East"
+    },
+    {
+      "id": "finchley-lawn-tennis-club",
+      "name": "Finchley Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "East",
+        "North-East"
+      ],
+      "zone": "East"
+    },
+    {
+      "id": "brondesbury-sports-club",
+      "name": "Brondesbury Sports Club",
+      "seedClub": false,
+      "zones": [
+        "North-East"
+      ],
+      "zone": "North-East"
+    },
+    {
+      "id": "oakleigh-park-lawn-tennis-squash-club",
+      "name": "Oakleigh Park Lawn Tennis & Squash Club",
+      "seedClub": false,
+      "zones": [
+        "East",
+        "North-East"
+      ],
+      "zone": "East"
+    },
+    {
+      "id": "finchley-manor-tennis-squash-and-health-club",
+      "name": "Finchley Manor Tennis Squash and Health Club",
+      "seedClub": false,
+      "zones": [
+        "East",
+        "North-East"
+      ],
+      "zone": "East"
+    },
+    {
+      "id": "south-hampstead-tennis-club",
+      "name": "South Hampstead Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "East",
+        "North-East"
+      ],
+      "zone": "East"
+    },
+    {
+      "id": "cltc",
+      "name": "Cumberland LTC",
+      "seedClub": true,
+      "zones": [
+        "East",
+        "North-East"
+      ],
+      "zone": "East"
+    },
+    {
+      "id": "totteridge-tennis-club",
+      "name": "Totteridge Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "East",
+        "North-East"
+      ],
+      "zone": "East"
+    },
+    {
+      "id": "mercury-ltc",
+      "name": "Mercury LTC",
+      "seedClub": false,
+      "zones": [
+        "East",
+        "North-East"
+      ],
+      "zone": "East"
+    },
+    {
+      "id": "temple-fortune-club",
+      "name": "Temple Fortune Club",
+      "seedClub": false,
+      "zones": [
+        "East",
+        "North-East"
+      ],
+      "zone": "East"
+    },
+    {
+      "id": "lowlands-club",
+      "name": "Lowlands Club",
+      "seedClub": false,
+      "zones": [
+        "North-East",
+        "North-West",
+        "West"
+      ],
+      "zone": "North-East"
+    },
+    {
+      "id": "wayfarers-ltc",
+      "name": "Wayfarers LTC",
+      "seedClub": false,
+      "zones": [
+        "North-East",
+        "North-West",
+        "West"
+      ],
+      "zone": "North-East"
+    },
+    {
+      "id": "pinner-lawn-tennis-club",
+      "name": "Pinner Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "North-East",
+        "North-West",
+        "West"
+      ],
+      "zone": "North-East"
+    },
+    {
+      "id": "harrow-lawn-tennis-club",
+      "name": "Harrow Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "North-East",
+        "North-West",
+        "West"
+      ],
+      "zone": "North-East"
+    },
+    {
+      "id": "eastcote-lawn-tennis-club",
+      "name": "Eastcote Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "North-East",
+        "North-West",
+        "West"
+      ],
+      "zone": "North-East"
+    },
+    {
+      "id": "park-sports-lammas-park",
+      "name": "Park Sports - Lammas Park",
+      "seedClub": false,
+      "zones": [
+        "West"
+      ],
+      "zone": "West"
+    },
+    {
+      "id": "brentham-lawn-tennis-club",
+      "name": "Brentham Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "West"
+      ],
+      "zone": "West"
+    },
+    {
+      "id": "twickenham-lawn-tennis-club",
+      "name": "Twickenham Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "West"
+      ],
+      "zone": "West"
+    },
+    {
+      "id": "thistleworth-ltc",
+      "name": "Thistleworth LTC",
+      "seedClub": false,
+      "zones": [
+        "West"
+      ],
+      "zone": "West"
+    },
+    {
+      "id": "virgin-active-chiswick-riverside",
+      "name": "Virgin Active Chiswick Riverside",
+      "seedClub": false,
+      "zones": [
+        "West"
+      ],
+      "zone": "West"
+    },
+    {
+      "id": "holland-park-lawn-tennis-club",
+      "name": "Holland Park Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "West"
+      ],
+      "zone": "West"
+    },
+    {
+      "id": "david-lloyd-club-hampton",
+      "name": "David Lloyd Club Hampton",
+      "seedClub": false,
+      "zones": [
+        "West"
+      ],
+      "zone": "West"
+    },
+    {
+      "id": "hackney-tennis",
+      "name": "Hackney Tennis",
       "seedClub": false,
       "zones": [
         "East"
@@ -57,16 +286,6 @@
         "North-East"
       ],
       "zone": "East"
-    },
-    {
-      "id": "lowlands-club",
-      "name": "Lowlands Club",
-      "seedClub": false,
-      "zones": [
-        "North-West",
-        "West"
-      ],
-      "zone": "North-West"
     },
     {
       "id": "ealing-lawn-tennis-club",
@@ -132,16 +351,6 @@
       "zone": null
     },
     {
-      "id": "cltc",
-      "name": "Cumberland LTC",
-      "seedClub": true,
-      "zones": [
-        "East",
-        "North-East"
-      ],
-      "zone": "East"
-    },
-    {
       "id": "david-lloyd-club-northwood",
       "name": "David Lloyd Club Northwood",
       "seedClub": false,
@@ -164,43 +373,6 @@
     {
       "id": "west-middlesex-lawn-tennis-club-ltd",
       "name": "West Middlesex Lawn Tennis Club Ltd",
-      "seedClub": false,
-      "zones": [
-        "West"
-      ],
-      "zone": "West"
-    },
-    {
-      "id": "eastcote-lawn-tennis-club",
-      "name": "Eastcote Lawn Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "North-West",
-        "West"
-      ],
-      "zone": "North-West"
-    },
-    {
-      "id": "brentham-lawn-tennis-club",
-      "name": "Brentham Lawn Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "West"
-      ],
-      "zone": "West"
-    },
-    {
-      "id": "holland-park-lawn-tennis-club",
-      "name": "Holland Park Lawn Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "West"
-      ],
-      "zone": "West"
-    },
-    {
-      "id": "thistleworth-ltc",
-      "name": "Thistleworth LTC",
       "seedClub": false,
       "zones": [
         "West"
@@ -322,45 +494,6 @@
       "zone": "North-West"
     },
     {
-      "id": "harrow-lawn-tennis-club",
-      "name": "Harrow Lawn Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "North-West",
-        "West"
-      ],
-      "zone": "North-West"
-    },
-    {
-      "id": "pinner-lawn-tennis-club",
-      "name": "Pinner Lawn Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "North-West",
-        "West"
-      ],
-      "zone": "North-West"
-    },
-    {
-      "id": "virgin-active-chiswick-riverside",
-      "name": "Virgin Active Chiswick Riverside",
-      "seedClub": false,
-      "zones": [
-        "West"
-      ],
-      "zone": "West"
-    },
-    {
-      "id": "wayfarers-ltc",
-      "name": "Wayfarers LTC",
-      "seedClub": false,
-      "zones": [
-        "North-West",
-        "West"
-      ],
-      "zone": "North-West"
-    },
-    {
       "id": "pinner-west-end-lawn-tennis-club",
       "name": "Pinner West End Lawn Tennis Club",
       "seedClub": false,
@@ -381,15 +514,6 @@
     {
       "id": "hartswood-lawn-tennis-club-ltd",
       "name": "Hartswood Lawn Tennis Club Ltd",
-      "seedClub": false,
-      "zones": [
-        "West"
-      ],
-      "zone": "West"
-    },
-    {
-      "id": "david-lloyd-club-hampton",
-      "name": "David Lloyd Club Hampton",
       "seedClub": false,
       "zones": [
         "West"
@@ -444,31 +568,11 @@
       "zone": "East"
     },
     {
-      "id": "finchley-manor-tennis-squash-and-health-club",
-      "name": "Finchley Manor Tennis Squash and Health Club",
-      "seedClub": false,
-      "zones": [
-        "East",
-        "North-East"
-      ],
-      "zone": "East"
-    },
-    {
       "id": "vicars-moor-ltc",
       "name": "Vicars Moor LTC",
       "seedClub": false,
       "zones": [
         "East"
-      ],
-      "zone": "East"
-    },
-    {
-      "id": "oakleigh-park-lawn-tennis-squash-club",
-      "name": "Oakleigh Park Lawn Tennis & Squash Club",
-      "seedClub": false,
-      "zones": [
-        "East",
-        "North-East"
       ],
       "zone": "East"
     },
@@ -484,15 +588,6 @@
     {
       "id": "highgate-cricket-and-lawn-tennis-club",
       "name": "Highgate Cricket and Lawn Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "East"
-      ],
-      "zone": "East"
-    },
-    {
-      "id": "temple-fortune-club",
-      "name": "Temple Fortune Club",
       "seedClub": false,
       "zones": [
         "East"
@@ -529,6 +624,16 @@
       "zone": "East"
     },
     {
+      "id": "coles-green",
+      "name": "Coles Green",
+      "seedClub": false,
+      "zones": [
+        "East",
+        "North-East"
+      ],
+      "zone": "East"
+    },
+    {
       "id": "hazelwood",
       "name": "Hazelwood",
       "seedClub": false,
@@ -541,16 +646,6 @@
     {
       "id": "finchley-manor",
       "name": "Finchley Manor",
-      "seedClub": false,
-      "zones": [
-        "East",
-        "North-East"
-      ],
-      "zone": "East"
-    },
-    {
-      "id": "coles-green",
-      "name": "Coles Green",
       "seedClub": false,
       "zones": [
         "East",
@@ -606,36 +701,6 @@
       "zone": "East"
     },
     {
-      "id": "elmwood-lawn-tennis-club",
-      "name": "Elmwood Lawn Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "East",
-        "North-East",
-        "West"
-      ],
-      "zone": "East"
-    },
-    {
-      "id": "totteridge-tennis-club",
-      "name": "Totteridge Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "East",
-        "North-East"
-      ],
-      "zone": "East"
-    },
-    {
-      "id": "west-heath-lawn-tennis-club-limited",
-      "name": "West Heath Lawn Tennis Club Limited",
-      "seedClub": false,
-      "zones": [
-        "North-East"
-      ],
-      "zone": "North-East"
-    },
-    {
       "id": "brampton-lawn-tennis-club",
       "name": "Brampton Lawn Tennis Club",
       "seedClub": false,
@@ -683,8 +748,8 @@
       "zone": "East"
     },
     {
-      "id": "finchley",
-      "name": "Finchley",
+      "id": "david-lloyd-finchley",
+      "name": "David Lloyd Finchley",
       "seedClub": false,
       "zones": [
         "North-East"
@@ -692,8 +757,8 @@
       "zone": "North-East"
     },
     {
-      "id": "david-lloyd-finchley",
-      "name": "David Lloyd Finchley",
+      "id": "finchley",
+      "name": "Finchley",
       "seedClub": false,
       "zones": [
         "North-East"
@@ -809,16 +874,6 @@
       "zone": "East"
     },
     {
-      "id": "south-hampstead-tennis-club",
-      "name": "South Hampstead Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "East",
-        "North-East"
-      ],
-      "zone": "East"
-    },
-    {
       "id": "bush-hill-park-bowls-tennis-social-club",
       "name": "Bush Hill Park Bowls Tennis & Social Club",
       "seedClub": false,
@@ -837,30 +892,11 @@
       "zone": "East"
     },
     {
-      "id": "mercury-ltc",
-      "name": "Mercury LTC",
-      "seedClub": false,
-      "zones": [
-        "East"
-      ],
-      "zone": "East"
-    },
-    {
       "id": "winchmore-hill-tennis-club",
       "name": "Winchmore Hill Tennis Club",
       "seedClub": false,
       "zones": [
         "East"
-      ],
-      "zone": "East"
-    },
-    {
-      "id": "finchley-lawn-tennis-club",
-      "name": "Finchley Lawn Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "East",
-        "North-East"
       ],
       "zone": "East"
     },
@@ -901,15 +937,6 @@
       "zone": "East"
     },
     {
-      "id": "twickenham-lawn-tennis-club",
-      "name": "Twickenham Lawn Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "West"
-      ],
-      "zone": "West"
-    },
-    {
       "id": "mode-club",
       "name": "Mode Club",
       "seedClub": false,
@@ -936,15 +963,6 @@
         "East"
       ],
       "zone": "East"
-    },
-    {
-      "id": "brondesbury-sports-club",
-      "name": "Brondesbury Sports Club",
-      "seedClub": false,
-      "zones": [
-        "North-East"
-      ],
-      "zone": "North-East"
     },
     {
       "id": "mill-hill-park",
@@ -1187,15 +1205,6 @@
     {
       "id": "st-mary-s-tennis-club",
       "name": "St. Mary's Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "West"
-      ],
-      "zone": "West"
-    },
-    {
-      "id": "park-sports-lammas-park",
-      "name": "Park Sports - Lammas Park",
       "seedClub": false,
       "zones": [
         "West"
@@ -1775,6 +1784,2008 @@
     }
   ],
   "links": [
+    {
+      "source": "elmwood-lawn-tennis-club",
+      "target": "finchley-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brondesbury-sports-club",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-finchley",
+      "target": "oakleigh-park-lawn-tennis-squash-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-manor-tennis-squash-and-health-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "finchley-manor-tennis-squash-and-health-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brondesbury-sports-club",
+      "target": "elmwood-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "oakleigh-park-lawn-tennis-squash-club",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-finchley",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "elmwood-lawn-tennis-club",
+      "target": "oakleigh-park-lawn-tennis-squash-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brondesbury-sports-club",
+      "target": "finchley-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-finchley",
+      "target": "finchley-manor-tennis-squash-and-health-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brondesbury-sports-club",
+      "target": "finchley-manor-tennis-squash-and-health-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "oakleigh-park-lawn-tennis-squash-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "elmwood-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-finchley",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-finchley",
+      "target": "elmwood-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brondesbury-sports-club",
+      "target": "oakleigh-park-lawn-tennis-squash-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-manor-tennis-squash-and-health-club",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brondesbury-sports-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "elmwood-lawn-tennis-club",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-finchley",
+      "target": "finchley-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-manor-tennis-squash-and-health-club",
+      "target": "oakleigh-park-lawn-tennis-squash-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brondesbury-sports-club",
+      "target": "david-lloyd-club-finchley",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "oakleigh-park-lawn-tennis-squash-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "elmwood-lawn-tennis-club",
+      "target": "finchley-manor-tennis-squash-and-health-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "mercury-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "south-hampstead-tennis-club",
+      "target": "temple-fortune-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "mercury-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "temple-fortune-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "south-hampstead-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "temple-fortune-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "mercury-ltc",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "mercury-ltc",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "temple-fortune-club",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "south-hampstead-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "south-hampstead-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "mercury-ltc",
+      "target": "temple-fortune-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "finchley-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "south-hampstead-tennis-club",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "temple-fortune-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "mercury-ltc",
+      "target": "south-hampstead-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "mercury-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "south-hampstead-tennis-club",
+      "target": "temple-fortune-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "mercury-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "temple-fortune-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "south-hampstead-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "temple-fortune-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "mercury-ltc",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "mercury-ltc",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "temple-fortune-club",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "south-hampstead-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "south-hampstead-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "mercury-ltc",
+      "target": "temple-fortune-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "finchley-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "south-hampstead-tennis-club",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "temple-fortune-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "mercury-ltc",
+      "target": "south-hampstead-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles (3)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "harrow-lawn-tennis-club",
+      "target": "pinner-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (1)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "harrow-lawn-tennis-club",
+      "target": "wayfarers-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (1)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "eastcote-lawn-tennis-club",
+      "target": "lowlands-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (1)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "eastcote-lawn-tennis-club",
+      "target": "harrow-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (1)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "wayfarers-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (1)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "lowlands-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (1)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "lowlands-club",
+      "target": "wayfarers-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (1)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "pinner-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (1)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "eastcote-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (1)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "harrow-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (1)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "lowlands-club",
+      "target": "pinner-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (1)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "harrow-lawn-tennis-club",
+      "target": "lowlands-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (1)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "eastcote-lawn-tennis-club",
+      "target": "wayfarers-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (1)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "pinner-lawn-tennis-club",
+      "target": "wayfarers-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (1)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "eastcote-lawn-tennis-club",
+      "target": "pinner-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (1)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "harrow-lawn-tennis-club",
+      "target": "pinner-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "harrow-lawn-tennis-club",
+      "target": "wayfarers-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "eastcote-lawn-tennis-club",
+      "target": "lowlands-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "eastcote-lawn-tennis-club",
+      "target": "harrow-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "wayfarers-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "lowlands-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "lowlands-club",
+      "target": "wayfarers-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "pinner-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "eastcote-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "harrow-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "lowlands-club",
+      "target": "pinner-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "harrow-lawn-tennis-club",
+      "target": "lowlands-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "eastcote-lawn-tennis-club",
+      "target": "wayfarers-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "pinner-lawn-tennis-club",
+      "target": "wayfarers-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "eastcote-lawn-tennis-club",
+      "target": "pinner-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "thistleworth-ltc",
+      "target": "twickenham-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brentham-lawn-tennis-club",
+      "target": "virgin-active-chiswick-riverside",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "holland-park-lawn-tennis-club",
+      "target": "park-sports-lammas-park",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-hampton",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-hampton",
+      "target": "thistleworth-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "twickenham-lawn-tennis-club",
+      "target": "virgin-active-chiswick-riverside",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brentham-lawn-tennis-club",
+      "target": "holland-park-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "park-sports-lammas-park",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brentham-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "holland-park-lawn-tennis-club",
+      "target": "twickenham-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "thistleworth-ltc",
+      "target": "virgin-active-chiswick-riverside",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-hampton",
+      "target": "park-sports-lammas-park",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-hampton",
+      "target": "virgin-active-chiswick-riverside",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "holland-park-lawn-tennis-club",
+      "target": "thistleworth-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "twickenham-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brentham-lawn-tennis-club",
+      "target": "park-sports-lammas-park",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "park-sports-lammas-park",
+      "target": "twickenham-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "thistleworth-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "holland-park-lawn-tennis-club",
+      "target": "virgin-active-chiswick-riverside",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brentham-lawn-tennis-club",
+      "target": "david-lloyd-club-hampton",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "virgin-active-chiswick-riverside",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brentham-lawn-tennis-club",
+      "target": "twickenham-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "park-sports-lammas-park",
+      "target": "thistleworth-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-hampton",
+      "target": "holland-park-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brentham-lawn-tennis-club",
+      "target": "thistleworth-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "park-sports-lammas-park",
+      "target": "virgin-active-chiswick-riverside",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "holland-park-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-hampton",
+      "target": "twickenham-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-finchley",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mixed Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "oakleigh-park-lawn-tennis-squash-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mixed Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mixed Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "oakleigh-park-lawn-tennis-squash-club",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mixed Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-finchley",
+      "target": "oakleigh-park-lawn-tennis-squash-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mixed Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mixed Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "totteridge-tennis-club",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mixed Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mixed Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-finchley",
+      "target": "finchley-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mixed Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "oakleigh-park-lawn-tennis-squash-club",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mixed Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mixed Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mixed Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-finchley",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mixed Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "oakleigh-park-lawn-tennis-squash-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mixed Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-finchley",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mixed Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
     {
       "source": "gallan-tennis-academy",
       "target": "psc",
@@ -2583,7 +4594,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "top",
-      "winsLeft": 1,
+      "winsLeft": 2,
       "draws": 0,
       "winsRight": 0
     },
@@ -2737,7 +4748,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "top",
-      "winsLeft": 1,
+      "winsLeft": 2,
       "draws": 0,
       "winsRight": 0
     },
@@ -2765,7 +4776,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -3143,7 +5154,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -3495,7 +5506,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "kenton-lawn-tennis-club",
@@ -3523,7 +5534,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "david-lloyd-club-northwood",
@@ -3563,7 +5574,7 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 1
     },
@@ -4305,7 +6316,7 @@
       "period": "summer",
       "zone": "West",
       "tier": "top",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -4655,7 +6666,7 @@
       "period": "summer",
       "zone": "North-West",
       "tier": "lower",
-      "winsLeft": 1,
+      "winsLeft": 2,
       "draws": 0,
       "winsRight": 0
     },
@@ -5231,7 +7242,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "the-hurlingham-club",
@@ -5242,6 +7253,678 @@
       "season": "2026",
       "period": "summer",
       "zone": "West",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 1
+    },
+    {
+      "source": "cltc",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "mercury-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "south-hampstead-tennis-club",
+      "target": "temple-fortune-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "mercury-ltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "temple-fortune-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "south-hampstead-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "temple-fortune-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "mercury-ltc",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "mercury-ltc",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "temple-fortune-club",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "psc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "south-hampstead-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "south-hampstead-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "mercury-ltc",
+      "target": "temple-fortune-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "finchley-lawn-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "south-hampstead-tennis-club",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "psc",
+      "target": "temple-fortune-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-lawn-tennis-club",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "mercury-ltc",
+      "target": "south-hampstead-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Mens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-finchley",
+      "target": "oakleigh-park-lawn-tennis-squash-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brondesbury-sports-club",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "south-hampstead-tennis-club",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "finchley-manor-tennis-squash-and-health-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "david-lloyd-club-finchley",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "oakleigh-park-lawn-tennis-squash-club",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brondesbury-sports-club",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-manor-tennis-squash-and-health-club",
+      "target": "south-hampstead-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brondesbury-sports-club",
+      "target": "finchley-manor-tennis-squash-and-health-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "oakleigh-park-lawn-tennis-squash-club",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-finchley",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "south-hampstead-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-finchley",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-manor-tennis-squash-and-health-club",
+      "target": "oakleigh-park-lawn-tennis-squash-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brondesbury-sports-club",
+      "target": "south-hampstead-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "oakleigh-park-lawn-tennis-squash-club",
+      "target": "south-hampstead-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-finchley",
+      "target": "finchley-manor-tennis-squash-and-health-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "totteridge-tennis-club",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brondesbury-sports-club",
+      "target": "cltc",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-manor-tennis-squash-and-health-club",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brondesbury-sports-club",
+      "target": "oakleigh-park-lawn-tennis-squash-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-finchley",
+      "target": "south-hampstead-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "brondesbury-sports-club",
+      "target": "david-lloyd-club-finchley",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "south-hampstead-tennis-club",
+      "target": "totteridge-tennis-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "finchley-manor-tennis-squash-and-health-club",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "cltc",
+      "target": "oakleigh-park-lawn-tennis-squash-club",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -6914,7 +9597,7 @@
       "winsRight": 0
     },
     {
-      "source": "coles-green",
+      "source": "chandos",
       "target": "hazelwood",
       "competitionId": "90416c0a",
       "competitionName": "Middlesex Summer League 2026",
@@ -6925,7 +9608,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "cltc",
@@ -6940,20 +9623,6 @@
       "winsLeft": 1,
       "draws": 1,
       "winsRight": 0
-    },
-    {
-      "source": "chandos",
-      "target": "hazelwood",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles (1)",
-      "season": "2026",
-      "period": "summer",
-      "zone": "East",
-      "tier": "top",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 1
     },
     {
       "source": "coles-green",
@@ -7037,7 +9706,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "coolhurst",
@@ -7078,6 +9747,20 @@
       "zone": "East",
       "tier": "top",
       "winsLeft": 1,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "coles-green",
+      "target": "hazelwood",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles (1)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "East",
+      "tier": "top",
+      "winsLeft": 0,
       "draws": 0,
       "winsRight": 0
     },
@@ -7208,7 +9891,7 @@
       "winsRight": 0
     },
     {
-      "source": "coles-green",
+      "source": "chandos",
       "target": "hazelwood",
       "competitionId": "90416c0a",
       "competitionName": "Middlesex Summer League 2026",
@@ -7219,7 +9902,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "cltc",
@@ -7234,20 +9917,6 @@
       "winsLeft": 1,
       "draws": 1,
       "winsRight": 0
-    },
-    {
-      "source": "chandos",
-      "target": "hazelwood",
-      "competitionId": "90416c0a",
-      "competitionName": "Middlesex Summer League 2026",
-      "divisionName": "Mens Doubles (2)",
-      "season": "2026",
-      "period": "summer",
-      "zone": "East",
-      "tier": "top",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 1
     },
     {
       "source": "coles-green",
@@ -7331,7 +10000,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "coolhurst",
@@ -7372,6 +10041,20 @@
       "zone": "East",
       "tier": "top",
       "winsLeft": 1,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "coles-green",
+      "target": "hazelwood",
+      "competitionId": "90416c0a",
+      "competitionName": "Middlesex Summer League 2026",
+      "divisionName": "Mens Doubles (2)",
+      "season": "2026",
+      "period": "summer",
+      "zone": "East",
+      "tier": "top",
+      "winsLeft": 0,
       "draws": 0,
       "winsRight": 0
     },
@@ -7667,7 +10350,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "cltc",
@@ -8057,7 +10740,7 @@
       "period": "summer",
       "zone": "North-East",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -8449,7 +11132,7 @@
       "period": "summer",
       "zone": "North-East",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -8549,7 +11232,7 @@
       "tier": "top",
       "winsLeft": 1,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "globe",
@@ -8661,7 +11344,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "globe",
@@ -8759,7 +11442,7 @@
       "tier": "top",
       "winsLeft": 1,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "globe",
@@ -8871,7 +11554,7 @@
       "tier": "top",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "conway",
@@ -9459,7 +12142,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 1
+      "winsRight": 2
     },
     {
       "source": "cltc",
@@ -9541,7 +12224,7 @@
       "period": "summer",
       "zone": "North-East",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },

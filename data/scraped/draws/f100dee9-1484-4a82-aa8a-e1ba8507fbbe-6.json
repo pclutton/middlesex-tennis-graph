@@ -1,0 +1,230 @@
+{
+  "drawId": "f100dee9-1484-4a82-aa8a-e1ba8507fbbe-6",
+  "competitionId": "f100dee9-1484-4a82-aa8a-e1ba8507fbbe",
+  "competitionName": "40/Over\n \u2013 Division 4              \u2013 Group 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/F100DEE9-1484-4A82-AA8A-E1BA8507FBBE/draw/6",
+  "scrapedAt": "2026-08-12T10:17:56.894714+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 27/09/2026\nTwickenham Lawn Tennis Club 2\n-\nKenton Lawn Tennis Club 1",
+      "away": "Twickenham Lawn Tennis Club 2\n-\nKenton Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nTwickenham Lawn Tennis Club 1\n-\nBrentham Lawn Tennis Club 2",
+      "away": "Twickenham Lawn Tennis Club 1\n-\nBrentham Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nHarrow Lawn Tennis Club 1\n-\nHartswood Lawn Tennis Club Ltd 2",
+      "away": "Harrow Lawn Tennis Club 1\n-\nHartswood Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nKenton Lawn Tennis Club 1\n-\nHarrow Lawn Tennis Club 1",
+      "away": "Kenton Lawn Tennis Club 1\n-\nHarrow Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nBrentham Lawn Tennis Club 2\n-\nTwickenham Lawn Tennis Club 2",
+      "away": "Brentham Lawn Tennis Club 2\n-\nTwickenham Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nThe Parsons Green Club 1\n-\nTwickenham Lawn Tennis Club 1",
+      "away": "The Parsons Green Club 1\n-\nTwickenham Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nTwickenham Lawn Tennis Club 2\n-\nThe Parsons Green Club 1",
+      "away": "Twickenham Lawn Tennis Club 2\n-\nThe Parsons Green Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nHartswood Lawn Tennis Club Ltd 2\n-\nKenton Lawn Tennis Club 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 2\n-\nKenton Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nHarrow Lawn Tennis Club 1\n-\nBrentham Lawn Tennis Club 2",
+      "away": "Harrow Lawn Tennis Club 1\n-\nBrentham Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 17/01/2027\nBrentham Lawn Tennis Club 2\n-\nHartswood Lawn Tennis Club Ltd 2",
+      "away": "Brentham Lawn Tennis Club 2\n-\nHartswood Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nThe Parsons Green Club 1\n-\nHarrow Lawn Tennis Club 1",
+      "away": "The Parsons Green Club 1\n-\nHarrow Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nTwickenham Lawn Tennis Club 1\n-\nTwickenham Lawn Tennis Club 2",
+      "away": "Twickenham Lawn Tennis Club 1\n-\nTwickenham Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nHarrow Lawn Tennis Club 1\n-\nTwickenham Lawn Tennis Club 1",
+      "away": "Harrow Lawn Tennis Club 1\n-\nTwickenham Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nHartswood Lawn Tennis Club Ltd 2\n-\nThe Parsons Green Club 1",
+      "away": "Hartswood Lawn Tennis Club Ltd 2\n-\nThe Parsons Green Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nKenton Lawn Tennis Club 1\n-\nBrentham Lawn Tennis Club 2",
+      "away": "Kenton Lawn Tennis Club 1\n-\nBrentham Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nThe Parsons Green Club 1\n-\nKenton Lawn Tennis Club 1",
+      "away": "The Parsons Green Club 1\n-\nKenton Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nTwickenham Lawn Tennis Club 2\n-\nHarrow Lawn Tennis Club 1",
+      "away": "Twickenham Lawn Tennis Club 2\n-\nHarrow Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nTwickenham Lawn Tennis Club 1\n-\nHartswood Lawn Tennis Club Ltd 2",
+      "away": "Twickenham Lawn Tennis Club 1\n-\nHartswood Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nHartswood Lawn Tennis Club Ltd 2\n-\nTwickenham Lawn Tennis Club 2",
+      "away": "Hartswood Lawn Tennis Club Ltd 2\n-\nTwickenham Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nKenton Lawn Tennis Club 1\n-\nTwickenham Lawn Tennis Club 1",
+      "away": "Kenton Lawn Tennis Club 1\n-\nTwickenham Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nBrentham Lawn Tennis Club 2\n-\nThe Parsons Green Club 1",
+      "away": "Brentham Lawn Tennis Club 2\n-\nThe Parsons Green Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    }
+  ]
+}

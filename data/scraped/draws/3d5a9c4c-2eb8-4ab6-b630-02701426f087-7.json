@@ -1,0 +1,203 @@
+{
+  "drawId": "3d5a9c4c-2eb8-4ab6-b630-02701426f087-7",
+  "competitionId": "3d5a9c4c-2eb8-4ab6-b630-02701426f087",
+  "competitionName": "55 and Over Mixed\n \u2013 Division 3               \u2013 Division 3 East",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/3D5A9C4C-2EB8-4AB6-B630-02701426F087/draw/7",
+  "scrapedAt": "2026-08-12T10:26:51.186160+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 27/09/2026\nHarrow Weald Lawn Tennis Club 1\n-\nPavilion Tennis 2",
+      "away": "Harrow Weald Lawn Tennis Club 1\n-\nPavilion Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nFinchley Lawn Tennis Club 1\n-\nConway Lawn Tennis Club 2",
+      "away": "Finchley Lawn Tennis Club 1\n-\nConway Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 18/10/2026\nConway Lawn Tennis Club 2\n-\nPavilion Tennis 2",
+      "away": "Conway Lawn Tennis Club 2\n-\nPavilion Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 18/10/2026"
+    },
+    {
+      "home": "Sun 18/10/2026\nCoolhurst LTC 3\n-\nHarrow Weald Lawn Tennis Club 1",
+      "away": "Coolhurst LTC 3\n-\nHarrow Weald Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 18/10/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nCoolhurst LTC 3\n-\nFinchley Lawn Tennis Club 1",
+      "away": "Coolhurst LTC 3\n-\nFinchley Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nConway Lawn Tennis Club 2\n-\nHarrow Weald Lawn Tennis Club 1",
+      "away": "Conway Lawn Tennis Club 2\n-\nHarrow Weald Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nPavilion Tennis 2\n-\nConway Lawn Tennis Club 2",
+      "away": "Pavilion Tennis 2\n-\nConway Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nHarrow Weald Lawn Tennis Club 1\n-\nCoolhurst LTC 3",
+      "away": "Harrow Weald Lawn Tennis Club 1\n-\nCoolhurst LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 17/01/2027\nFinchley Lawn Tennis Club 1\n-\nHarrow Weald Lawn Tennis Club 1",
+      "away": "Finchley Lawn Tennis Club 1\n-\nHarrow Weald Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nCoolhurst LTC 3\n-\nPavilion Tennis 2",
+      "away": "Coolhurst LTC 3\n-\nPavilion Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 31/01/2027\nPavilion Tennis 2\n-\nFinchley Lawn Tennis Club 1",
+      "away": "Pavilion Tennis 2\n-\nFinchley Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 31/01/2027"
+    },
+    {
+      "home": "Sun 31/01/2027\nConway Lawn Tennis Club 2\n-\nCoolhurst LTC 3",
+      "away": "Conway Lawn Tennis Club 2\n-\nCoolhurst LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Sun 31/01/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nConway Lawn Tennis Club 2\n-\nFinchley Lawn Tennis Club 1",
+      "away": "Conway Lawn Tennis Club 2\n-\nFinchley Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nPavilion Tennis 2\n-\nHarrow Weald Lawn Tennis Club 1",
+      "away": "Pavilion Tennis 2\n-\nHarrow Weald Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nFinchley Lawn Tennis Club 1\n-\nCoolhurst LTC 3",
+      "away": "Finchley Lawn Tennis Club 1\n-\nCoolhurst LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nHarrow Weald Lawn Tennis Club 1\n-\nConway Lawn Tennis Club 2",
+      "away": "Harrow Weald Lawn Tennis Club 1\n-\nConway Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 14/03/2027\nPavilion Tennis 2\n-\nCoolhurst LTC 3",
+      "away": "Pavilion Tennis 2\n-\nCoolhurst LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/03/2027"
+    },
+    {
+      "home": "Sun 14/03/2027\nHarrow Weald Lawn Tennis Club 1\n-\nFinchley Lawn Tennis Club 1",
+      "away": "Harrow Weald Lawn Tennis Club 1\n-\nFinchley Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nFinchley Lawn Tennis Club 1\n-\nPavilion Tennis 2",
+      "away": "Finchley Lawn Tennis Club 1\n-\nPavilion Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nCoolhurst LTC 3\n-\nConway Lawn Tennis Club 2",
+      "away": "Coolhurst LTC 3\n-\nConway Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    }
+  ]
+}

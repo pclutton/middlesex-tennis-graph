@@ -1,0 +1,289 @@
+{
+  "drawId": "b86e129e-9a10-4e98-9e83-71d5e607e375-32",
+  "competitionId": "b86e129e-9a10-4e98-9e83-71d5e607e375",
+  "competitionName": "Mens Doubles\n \u2013 Division 8              \u2013 Division 8 East",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/32",
+  "scrapedAt": "2026-08-12T10:09:41.326061+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 8,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 25/09/2026\nWinchmore Hill Tennis Club 3\n-\nHanley LTC 1",
+      "away": "Winchmore Hill Tennis Club 3\n-\nHanley LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nBush Hill Park Bowls Tennis & Social Club 3\n-\nBounds Green Bowls & LTC 4",
+      "away": "Bush Hill Park Bowls Tennis & Social Club 3\n-\nBounds Green Bowls & LTC 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nRavens Lawn Tennis Club 1\n-\nWaterfall Tennis Club 1",
+      "away": "Ravens Lawn Tennis Club 1\n-\nWaterfall Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nBarnet Lawn Tennis Club 5\n-\nEnfield Lawn Tennis Club 3",
+      "away": "Barnet Lawn Tennis Club 5\n-\nEnfield Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nEnfield Lawn Tennis Club 3\n-\nHanley LTC 1",
+      "away": "Enfield Lawn Tennis Club 3\n-\nHanley LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nBounds Green Bowls & LTC 4\n-\nWinchmore Hill Tennis Club 3",
+      "away": "Bounds Green Bowls & LTC 4\n-\nWinchmore Hill Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nWaterfall Tennis Club 1\n-\nBush Hill Park Bowls Tennis & Social Club 3",
+      "away": "Waterfall Tennis Club 1\n-\nBush Hill Park Bowls Tennis & Social Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nBarnet Lawn Tennis Club 5\n-\nRavens Lawn Tennis Club 1",
+      "away": "Barnet Lawn Tennis Club 5\n-\nRavens Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nBush Hill Park Bowls Tennis & Social Club 3\n-\nBarnet Lawn Tennis Club 5",
+      "away": "Bush Hill Park Bowls Tennis & Social Club 3\n-\nBarnet Lawn Tennis Club 5",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nWinchmore Hill Tennis Club 3\n-\nWaterfall Tennis Club 1",
+      "away": "Winchmore Hill Tennis Club 3\n-\nWaterfall Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nHanley LTC 1\n-\nBounds Green Bowls & LTC 4",
+      "away": "Hanley LTC 1\n-\nBounds Green Bowls & LTC 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nRavens Lawn Tennis Club 1\n-\nEnfield Lawn Tennis Club 3",
+      "away": "Ravens Lawn Tennis Club 1\n-\nEnfield Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 22/01/2027\nEnfield Lawn Tennis Club 3\n-\nBounds Green Bowls & LTC 4",
+      "away": "Enfield Lawn Tennis Club 3\n-\nBounds Green Bowls & LTC 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nWaterfall Tennis Club 1\n-\nHanley LTC 1",
+      "away": "Waterfall Tennis Club 1\n-\nHanley LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nBarnet Lawn Tennis Club 5\n-\nWinchmore Hill Tennis Club 3",
+      "away": "Barnet Lawn Tennis Club 5\n-\nWinchmore Hill Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nRavens Lawn Tennis Club 1\n-\nBush Hill Park Bowls Tennis & Social Club 3",
+      "away": "Ravens Lawn Tennis Club 1\n-\nBush Hill Park Bowls Tennis & Social Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nWinchmore Hill Tennis Club 3\n-\nRavens Lawn Tennis Club 1",
+      "away": "Winchmore Hill Tennis Club 3\n-\nRavens Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nHanley LTC 1\n-\nBarnet Lawn Tennis Club 5",
+      "away": "Hanley LTC 1\n-\nBarnet Lawn Tennis Club 5",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nBounds Green Bowls & LTC 4\n-\nWaterfall Tennis Club 1",
+      "away": "Bounds Green Bowls & LTC 4\n-\nWaterfall Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nBush Hill Park Bowls Tennis & Social Club 3\n-\nEnfield Lawn Tennis Club 3",
+      "away": "Bush Hill Park Bowls Tennis & Social Club 3\n-\nEnfield Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nBarnet Lawn Tennis Club 5\n-\nBounds Green Bowls & LTC 4",
+      "away": "Barnet Lawn Tennis Club 5\n-\nBounds Green Bowls & LTC 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nBush Hill Park Bowls Tennis & Social Club 3\n-\nWinchmore Hill Tennis Club 3",
+      "away": "Bush Hill Park Bowls Tennis & Social Club 3\n-\nWinchmore Hill Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nRavens Lawn Tennis Club 1\n-\nHanley LTC 1",
+      "away": "Ravens Lawn Tennis Club 1\n-\nHanley LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nEnfield Lawn Tennis Club 3\n-\nWaterfall Tennis Club 1",
+      "away": "Enfield Lawn Tennis Club 3\n-\nWaterfall Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nHanley LTC 1\n-\nBush Hill Park Bowls Tennis & Social Club 3",
+      "away": "Hanley LTC 1\n-\nBush Hill Park Bowls Tennis & Social Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nBounds Green Bowls & LTC 4\n-\nRavens Lawn Tennis Club 1",
+      "away": "Bounds Green Bowls & LTC 4\n-\nRavens Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nWaterfall Tennis Club 1\n-\nBarnet Lawn Tennis Club 5",
+      "away": "Waterfall Tennis Club 1\n-\nBarnet Lawn Tennis Club 5",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nWinchmore Hill Tennis Club 3\n-\nEnfield Lawn Tennis Club 3",
+      "away": "Winchmore Hill Tennis Club 3\n-\nEnfield Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "drawId": "f100dee9-1484-4a82-aa8a-e1ba8507fbbe-5",
+  "competitionId": "f100dee9-1484-4a82-aa8a-e1ba8507fbbe",
+  "competitionName": "40/Over\n \u2013 Division 4              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/F100DEE9-1484-4A82-AA8A-E1BA8507FBBE/draw/5",
+  "scrapedAt": "2026-08-12T10:26:59.703587+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 8,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 27/09/2026\nWinchmore Hill Tennis Club 1\n-\nBush Hill Park Bowls Tennis & Social Club 1",
+      "away": "Winchmore Hill Tennis Club 1\n-\nBush Hill Park Bowls Tennis & Social Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nConway Lawn Tennis Club 1\n-\nHackney Tennis 2",
+      "away": "Conway Lawn Tennis Club 1\n-\nHackney Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nHazelwood Lawn Tennis & Squash Club 1\n-\nFinchley Lawn Tennis Club 1",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n-\nFinchley Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nEnfield Chase LTC 1\n-\nPavilion Tennis 1",
+      "away": "Enfield Chase LTC 1\n-\nPavilion Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nPavilion Tennis 1\n-\nBush Hill Park Bowls Tennis & Social Club 1",
+      "away": "Pavilion Tennis 1\n-\nBush Hill Park Bowls Tennis & Social Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nHackney Tennis 2\n-\nWinchmore Hill Tennis Club 1",
+      "away": "Hackney Tennis 2\n-\nWinchmore Hill Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nFinchley Lawn Tennis Club 1\n-\nConway Lawn Tennis Club 1",
+      "away": "Finchley Lawn Tennis Club 1\n-\nConway Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nEnfield Chase LTC 1\n-\nHazelwood Lawn Tennis & Squash Club 1",
+      "away": "Enfield Chase LTC 1\n-\nHazelwood Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nConway Lawn Tennis Club 1\n-\nEnfield Chase LTC 1",
+      "away": "Conway Lawn Tennis Club 1\n-\nEnfield Chase LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nWinchmore Hill Tennis Club 1\n-\nFinchley Lawn Tennis Club 1",
+      "away": "Winchmore Hill Tennis Club 1\n-\nFinchley Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nBush Hill Park Bowls Tennis & Social Club 1\n-\nHackney Tennis 2",
+      "away": "Bush Hill Park Bowls Tennis & Social Club 1\n-\nHackney Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nHazelwood Lawn Tennis & Squash Club 1\n-\nPavilion Tennis 1",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n-\nPavilion Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 17/01/2027\nPavilion Tennis 1\n-\nHackney Tennis 2",
+      "away": "Pavilion Tennis 1\n-\nHackney Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nFinchley Lawn Tennis Club 1\n-\nBush Hill Park Bowls Tennis & Social Club 1",
+      "away": "Finchley Lawn Tennis Club 1\n-\nBush Hill Park Bowls Tennis & Social Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nEnfield Chase LTC 1\n-\nWinchmore Hill Tennis Club 1",
+      "away": "Enfield Chase LTC 1\n-\nWinchmore Hill Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nHazelwood Lawn Tennis & Squash Club 1\n-\nConway Lawn Tennis Club 1",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n-\nConway Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nWinchmore Hill Tennis Club 1\n-\nHazelwood Lawn Tennis & Squash Club 1",
+      "away": "Winchmore Hill Tennis Club 1\n-\nHazelwood Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nBush Hill Park Bowls Tennis & Social Club 1\n-\nEnfield Chase LTC 1",
+      "away": "Bush Hill Park Bowls Tennis & Social Club 1\n-\nEnfield Chase LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nHackney Tennis 2\n-\nFinchley Lawn Tennis Club 1",
+      "away": "Hackney Tennis 2\n-\nFinchley Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nConway Lawn Tennis Club 1\n-\nPavilion Tennis 1",
+      "away": "Conway Lawn Tennis Club 1\n-\nPavilion Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nEnfield Chase LTC 1\n-\nHackney Tennis 2",
+      "away": "Enfield Chase LTC 1\n-\nHackney Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nConway Lawn Tennis Club 1\n-\nWinchmore Hill Tennis Club 1",
+      "away": "Conway Lawn Tennis Club 1\n-\nWinchmore Hill Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nHazelwood Lawn Tennis & Squash Club 1\n-\nBush Hill Park Bowls Tennis & Social Club 1",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n-\nBush Hill Park Bowls Tennis & Social Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nPavilion Tennis 1\n-\nFinchley Lawn Tennis Club 1",
+      "away": "Pavilion Tennis 1\n-\nFinchley Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nBush Hill Park Bowls Tennis & Social Club 1\n-\nConway Lawn Tennis Club 1",
+      "away": "Bush Hill Park Bowls Tennis & Social Club 1\n-\nConway Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nHackney Tennis 2\n-\nHazelwood Lawn Tennis & Squash Club 1",
+      "away": "Hackney Tennis 2\n-\nHazelwood Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nFinchley Lawn Tennis Club 1\n-\nEnfield Chase LTC 1",
+      "away": "Finchley Lawn Tennis Club 1\n-\nEnfield Chase LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nWinchmore Hill Tennis Club 1\n-\nPavilion Tennis 1",
+      "away": "Winchmore Hill Tennis Club 1\n-\nPavilion Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    }
+  ]
+}

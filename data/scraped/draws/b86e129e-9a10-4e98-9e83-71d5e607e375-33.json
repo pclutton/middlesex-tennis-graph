@@ -1,0 +1,178 @@
+{
+  "drawId": "b86e129e-9a10-4e98-9e83-71d5e607e375-33",
+  "competitionId": "b86e129e-9a10-4e98-9e83-71d5e607e375",
+  "competitionName": "Mens Doubles\n \u2013 Division 8              \u2013 Division 8 West",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/33",
+  "scrapedAt": "2026-08-12T11:07:48.087842+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 25/09/2026\nOld Actonians Association Tennis Club 4\n-\nVirgin Active Chiswick Riverside 4",
+      "away": "Old Actonians Association Tennis Club 4\n-\nVirgin Active Chiswick Riverside 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nThe Parsons Green Club 4\n-\nWhitton Tennis Club 3",
+      "away": "The Parsons Green Club 4\n-\nWhitton Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nElthorne Tennis 3\n-\nGunnersbury Triangle Club 4",
+      "away": "Elthorne Tennis 3\n-\nGunnersbury Triangle Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nGunnersbury Triangle Club 4\n-\nVirgin Active Chiswick Riverside 4",
+      "away": "Gunnersbury Triangle Club 4\n-\nVirgin Active Chiswick Riverside 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nWhitton Tennis Club 3\n-\nOld Actonians Association Tennis Club 4",
+      "away": "Whitton Tennis Club 3\n-\nOld Actonians Association Tennis Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nElthorne Tennis 3\n-\nThe Parsons Green Club 4",
+      "away": "Elthorne Tennis 3\n-\nThe Parsons Green Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nOld Actonians Association Tennis Club 4\n-\nElthorne Tennis 3",
+      "away": "Old Actonians Association Tennis Club 4\n-\nElthorne Tennis 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nVirgin Active Chiswick Riverside 4\n-\nWhitton Tennis Club 3",
+      "away": "Virgin Active Chiswick Riverside 4\n-\nWhitton Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nThe Parsons Green Club 4\n-\nGunnersbury Triangle Club 4",
+      "away": "The Parsons Green Club 4\n-\nGunnersbury Triangle Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 22/01/2027\nElthorne Tennis 3\n-\nVirgin Active Chiswick Riverside 4",
+      "away": "Elthorne Tennis 3\n-\nVirgin Active Chiswick Riverside 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nGunnersbury Triangle Club 4\n-\nWhitton Tennis Club 3",
+      "away": "Gunnersbury Triangle Club 4\n-\nWhitton Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nThe Parsons Green Club 4\n-\nOld Actonians Association Tennis Club 4",
+      "away": "The Parsons Green Club 4\n-\nOld Actonians Association Tennis Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nVirgin Active Chiswick Riverside 4\n-\nThe Parsons Green Club 4",
+      "away": "Virgin Active Chiswick Riverside 4\n-\nThe Parsons Green Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nWhitton Tennis Club 3\n-\nElthorne Tennis 3",
+      "away": "Whitton Tennis Club 3\n-\nElthorne Tennis 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nOld Actonians Association Tennis Club 4\n-\nGunnersbury Triangle Club 4",
+      "away": "Old Actonians Association Tennis Club 4\n-\nGunnersbury Triangle Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "drawId": "b86e129e-9a10-4e98-9e83-71d5e607e375-1",
+  "competitionId": "b86e129e-9a10-4e98-9e83-71d5e607e375",
+  "competitionName": "Mens Doubles\n \u2013 Division 1              \u2013 Division 1 East",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/1",
+  "scrapedAt": "2026-08-12T10:09:05.467732+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 8,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 25/09/2026\nVicars Moor LTC 1\n-\nBounds Green Bowls & LTC 1",
+      "away": "Vicars Moor LTC 1\n-\nBounds Green Bowls & LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nConway Lawn Tennis Club 1\n-\nBarnet Lawn Tennis Club 1",
+      "away": "Conway Lawn Tennis Club 1\n-\nBarnet Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nCoolhurst LTC 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Coolhurst LTC 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nWood Vale LTC 1\n-\nHackney Tennis 1",
+      "away": "Wood Vale LTC 1\n-\nHackney Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nHackney Tennis 1\n-\nBounds Green Bowls & LTC 1",
+      "away": "Hackney Tennis 1\n-\nBounds Green Bowls & LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nBarnet Lawn Tennis Club 1\n-\nVicars Moor LTC 1",
+      "away": "Barnet Lawn Tennis Club 1\n-\nVicars Moor LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nHighgate Cricket and Lawn Tennis Club 1\n-\nConway Lawn Tennis Club 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n-\nConway Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nWood Vale LTC 1\n-\nCoolhurst LTC 1",
+      "away": "Wood Vale LTC 1\n-\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nConway Lawn Tennis Club 1\n-\nWood Vale LTC 1",
+      "away": "Conway Lawn Tennis Club 1\n-\nWood Vale LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nVicars Moor LTC 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Vicars Moor LTC 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nBounds Green Bowls & LTC 1\n-\nBarnet Lawn Tennis Club 1",
+      "away": "Bounds Green Bowls & LTC 1\n-\nBarnet Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nCoolhurst LTC 1\n-\nHackney Tennis 1",
+      "away": "Coolhurst LTC 1\n-\nHackney Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 22/01/2027\nHackney Tennis 1\n-\nBarnet Lawn Tennis Club 1",
+      "away": "Hackney Tennis 1\n-\nBarnet Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nHighgate Cricket and Lawn Tennis Club 1\n-\nBounds Green Bowls & LTC 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n-\nBounds Green Bowls & LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nWood Vale LTC 1\n-\nVicars Moor LTC 1",
+      "away": "Wood Vale LTC 1\n-\nVicars Moor LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nCoolhurst LTC 1\n-\nConway Lawn Tennis Club 1",
+      "away": "Coolhurst LTC 1\n-\nConway Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nVicars Moor LTC 1\n-\nCoolhurst LTC 1",
+      "away": "Vicars Moor LTC 1\n-\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nBounds Green Bowls & LTC 1\n-\nWood Vale LTC 1",
+      "away": "Bounds Green Bowls & LTC 1\n-\nWood Vale LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nBarnet Lawn Tennis Club 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Barnet Lawn Tennis Club 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nConway Lawn Tennis Club 1\n-\nHackney Tennis 1",
+      "away": "Conway Lawn Tennis Club 1\n-\nHackney Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nWood Vale LTC 1\n-\nBarnet Lawn Tennis Club 1",
+      "away": "Wood Vale LTC 1\n-\nBarnet Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nConway Lawn Tennis Club 1\n-\nVicars Moor LTC 1",
+      "away": "Conway Lawn Tennis Club 1\n-\nVicars Moor LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nCoolhurst LTC 1\n-\nBounds Green Bowls & LTC 1",
+      "away": "Coolhurst LTC 1\n-\nBounds Green Bowls & LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nHackney Tennis 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Hackney Tennis 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nBounds Green Bowls & LTC 1\n-\nConway Lawn Tennis Club 1",
+      "away": "Bounds Green Bowls & LTC 1\n-\nConway Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nBarnet Lawn Tennis Club 1\n-\nCoolhurst LTC 1",
+      "away": "Barnet Lawn Tennis Club 1\n-\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nHighgate Cricket and Lawn Tennis Club 1\n-\nWood Vale LTC 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n-\nWood Vale LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nVicars Moor LTC 1\n-\nHackney Tennis 1",
+      "away": "Vicars Moor LTC 1\n-\nHackney Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    }
+  ]
+}

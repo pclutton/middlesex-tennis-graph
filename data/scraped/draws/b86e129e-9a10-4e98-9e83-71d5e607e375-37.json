@@ -1,0 +1,289 @@
+{
+  "drawId": "b86e129e-9a10-4e98-9e83-71d5e607e375-37",
+  "competitionId": "b86e129e-9a10-4e98-9e83-71d5e607e375",
+  "competitionName": "Womens Doubles\n \u2013 Division 2              \u2013 Division 2 East",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/37",
+  "scrapedAt": "2026-08-12T10:47:26.116145+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 8,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 18/09/2026\nHighbury Tennis Club 1\n18:30\nPotters Bar Tennis Club 1",
+      "away": "Highbury Tennis Club 1\n18:30\nPotters Bar Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 18/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nStormont LT and SRC 1\n-\nDavid Lloyd Club Enfield 1",
+      "away": "Stormont LT and SRC 1\n-\nDavid Lloyd Club Enfield 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nHazelwood Lawn Tennis & Squash Club 1\n-\nFortis Green Tennis Club 1",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n-\nFortis Green Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nPavilion Tennis 1\n-\nHackney Tennis 2",
+      "away": "Pavilion Tennis 1\n-\nHackney Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 02/10/2026\nHighbury Tennis Club 1\n18:30\nStormont LT and SRC 1",
+      "away": "Highbury Tennis Club 1\n18:30\nStormont LT and SRC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 02/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nHackney Tennis 2\n-\nHazelwood Lawn Tennis & Squash Club 1",
+      "away": "Hackney Tennis 2\n-\nHazelwood Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nDavid Lloyd Club Enfield 1\n-\nPavilion Tennis 1",
+      "away": "David Lloyd Club Enfield 1\n-\nPavilion Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nPotters Bar Tennis Club 1\n-\nFortis Green Tennis Club 1",
+      "away": "Potters Bar Tennis Club 1\n-\nFortis Green Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nStormont LT and SRC 1\n-\nPotters Bar Tennis Club 1",
+      "away": "Stormont LT and SRC 1\n-\nPotters Bar Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nHazelwood Lawn Tennis & Squash Club 1\n-\nDavid Lloyd Club Enfield 1",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n-\nDavid Lloyd Club Enfield 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nFortis Green Tennis Club 1\n-\nHackney Tennis 2",
+      "away": "Fortis Green Tennis Club 1\n-\nHackney Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nPavilion Tennis 1\n-\nHighbury Tennis Club 1",
+      "away": "Pavilion Tennis 1\n-\nHighbury Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 08/01/2027\nHighbury Tennis Club 1\n18:30\nHazelwood Lawn Tennis & Squash Club 1",
+      "away": "Highbury Tennis Club 1\n18:30\nHazelwood Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 08/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nStormont LT and SRC 1\n-\nPavilion Tennis 1",
+      "away": "Stormont LT and SRC 1\n-\nPavilion Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nDavid Lloyd Club Enfield 1\n-\nFortis Green Tennis Club 1",
+      "away": "David Lloyd Club Enfield 1\n-\nFortis Green Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nPotters Bar Tennis Club 1\n-\nHackney Tennis 2",
+      "away": "Potters Bar Tennis Club 1\n-\nHackney Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nHackney Tennis 2\n-\nDavid Lloyd Club Enfield 1",
+      "away": "Hackney Tennis 2\n-\nDavid Lloyd Club Enfield 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nPavilion Tennis 1\n-\nPotters Bar Tennis Club 1",
+      "away": "Pavilion Tennis 1\n-\nPotters Bar Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nHazelwood Lawn Tennis & Squash Club 1\n-\nStormont LT and SRC 1",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n-\nStormont LT and SRC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nFortis Green Tennis Club 1\n-\nHighbury Tennis Club 1",
+      "away": "Fortis Green Tennis Club 1\n-\nHighbury Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 19/02/2027\nHighbury Tennis Club 1\n18:30\nHackney Tennis 2",
+      "away": "Highbury Tennis Club 1\n18:30\nHackney Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/02/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nPavilion Tennis 1\n-\nHazelwood Lawn Tennis & Squash Club 1",
+      "away": "Pavilion Tennis 1\n-\nHazelwood Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nStormont LT and SRC 1\n-\nFortis Green Tennis Club 1",
+      "away": "Stormont LT and SRC 1\n-\nFortis Green Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nPotters Bar Tennis Club 1\n-\nDavid Lloyd Club Enfield 1",
+      "away": "Potters Bar Tennis Club 1\n-\nDavid Lloyd Club Enfield 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nFortis Green Tennis Club 1\n-\nPavilion Tennis 1",
+      "away": "Fortis Green Tennis Club 1\n-\nPavilion Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nHackney Tennis 2\n-\nStormont LT and SRC 1",
+      "away": "Hackney Tennis 2\n-\nStormont LT and SRC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nDavid Lloyd Club Enfield 1\n-\nHighbury Tennis Club 1",
+      "away": "David Lloyd Club Enfield 1\n-\nHighbury Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nHazelwood Lawn Tennis & Squash Club 1\n-\nPotters Bar Tennis Club 1",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n-\nPotters Bar Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    }
+  ]
+}

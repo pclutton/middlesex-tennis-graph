@@ -1,0 +1,289 @@
+{
+  "drawId": "b86e129e-9a10-4e98-9e83-71d5e607e375-29",
+  "competitionId": "b86e129e-9a10-4e98-9e83-71d5e607e375",
+  "competitionName": "Mens Doubles\n \u2013 Division 6              \u2013 Division 6 West",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/29",
+  "scrapedAt": "2026-08-12T10:31:54.098342+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 8,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 25/09/2026\nVirgin Active Chiswick Riverside 3\n-\nDavid Lloyd Club Hampton 2",
+      "away": "Virgin Active Chiswick Riverside 3\n-\nDavid Lloyd Club Hampton 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nDavid Lloyd Club Heston 1\n-\nWhitton Tennis Club 1",
+      "away": "David Lloyd Club Heston 1\n-\nWhitton Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nPark Sports - Lammas Park 1\n-\nWest Middlesex Lawn Tennis Club Ltd 4",
+      "away": "Park Sports - Lammas Park 1\n-\nWest Middlesex Lawn Tennis Club Ltd 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nElthorne Tennis 1\n-\nOld Actonians Association Tennis Club 3",
+      "away": "Elthorne Tennis 1\n-\nOld Actonians Association Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nOld Actonians Association Tennis Club 3\n-\nDavid Lloyd Club Hampton 2",
+      "away": "Old Actonians Association Tennis Club 3\n-\nDavid Lloyd Club Hampton 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nWhitton Tennis Club 1\n-\nVirgin Active Chiswick Riverside 3",
+      "away": "Whitton Tennis Club 1\n-\nVirgin Active Chiswick Riverside 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nWest Middlesex Lawn Tennis Club Ltd 4\n-\nDavid Lloyd Club Heston 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 4\n-\nDavid Lloyd Club Heston 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nElthorne Tennis 1\n-\nPark Sports - Lammas Park 1",
+      "away": "Elthorne Tennis 1\n-\nPark Sports - Lammas Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nDavid Lloyd Club Heston 1\n-\nElthorne Tennis 1",
+      "away": "David Lloyd Club Heston 1\n-\nElthorne Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nVirgin Active Chiswick Riverside 3\n-\nWest Middlesex Lawn Tennis Club Ltd 4",
+      "away": "Virgin Active Chiswick Riverside 3\n-\nWest Middlesex Lawn Tennis Club Ltd 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nDavid Lloyd Club Hampton 2\n-\nWhitton Tennis Club 1",
+      "away": "David Lloyd Club Hampton 2\n-\nWhitton Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nPark Sports - Lammas Park 1\n-\nOld Actonians Association Tennis Club 3",
+      "away": "Park Sports - Lammas Park 1\n-\nOld Actonians Association Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 22/01/2027\nOld Actonians Association Tennis Club 3\n-\nWhitton Tennis Club 1",
+      "away": "Old Actonians Association Tennis Club 3\n-\nWhitton Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nWest Middlesex Lawn Tennis Club Ltd 4\n-\nDavid Lloyd Club Hampton 2",
+      "away": "West Middlesex Lawn Tennis Club Ltd 4\n-\nDavid Lloyd Club Hampton 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nElthorne Tennis 1\n-\nVirgin Active Chiswick Riverside 3",
+      "away": "Elthorne Tennis 1\n-\nVirgin Active Chiswick Riverside 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nPark Sports - Lammas Park 1\n-\nDavid Lloyd Club Heston 1",
+      "away": "Park Sports - Lammas Park 1\n-\nDavid Lloyd Club Heston 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nVirgin Active Chiswick Riverside 3\n-\nPark Sports - Lammas Park 1",
+      "away": "Virgin Active Chiswick Riverside 3\n-\nPark Sports - Lammas Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nDavid Lloyd Club Hampton 2\n-\nElthorne Tennis 1",
+      "away": "David Lloyd Club Hampton 2\n-\nElthorne Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nWhitton Tennis Club 1\n-\nWest Middlesex Lawn Tennis Club Ltd 4",
+      "away": "Whitton Tennis Club 1\n-\nWest Middlesex Lawn Tennis Club Ltd 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nDavid Lloyd Club Heston 1\n-\nOld Actonians Association Tennis Club 3",
+      "away": "David Lloyd Club Heston 1\n-\nOld Actonians Association Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nElthorne Tennis 1\n-\nWhitton Tennis Club 1",
+      "away": "Elthorne Tennis 1\n-\nWhitton Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nDavid Lloyd Club Heston 1\n-\nVirgin Active Chiswick Riverside 3",
+      "away": "David Lloyd Club Heston 1\n-\nVirgin Active Chiswick Riverside 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nPark Sports - Lammas Park 1\n-\nDavid Lloyd Club Hampton 2",
+      "away": "Park Sports - Lammas Park 1\n-\nDavid Lloyd Club Hampton 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nOld Actonians Association Tennis Club 3\n-\nWest Middlesex Lawn Tennis Club Ltd 4",
+      "away": "Old Actonians Association Tennis Club 3\n-\nWest Middlesex Lawn Tennis Club Ltd 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nDavid Lloyd Club Hampton 2\n-\nDavid Lloyd Club Heston 1",
+      "away": "David Lloyd Club Hampton 2\n-\nDavid Lloyd Club Heston 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nWhitton Tennis Club 1\n-\nPark Sports - Lammas Park 1",
+      "away": "Whitton Tennis Club 1\n-\nPark Sports - Lammas Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nWest Middlesex Lawn Tennis Club Ltd 4\n-\nElthorne Tennis 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 4\n-\nElthorne Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nVirgin Active Chiswick Riverside 3\n-\nOld Actonians Association Tennis Club 3",
+      "away": "Virgin Active Chiswick Riverside 3\n-\nOld Actonians Association Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    }
+  ]
+}

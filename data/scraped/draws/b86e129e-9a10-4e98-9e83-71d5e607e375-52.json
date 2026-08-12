@@ -1,0 +1,289 @@
+{
+  "drawId": "b86e129e-9a10-4e98-9e83-71d5e607e375-52",
+  "competitionId": "b86e129e-9a10-4e98-9e83-71d5e607e375",
+  "competitionName": "Womens Doubles\n \u2013 Division 7              \u2013 Division 7 West",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/52",
+  "scrapedAt": "2026-08-12T10:16:50.759534+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 8,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 25/09/2026\nElthorne Tennis 1\n-\nHartswood Lawn Tennis Club Ltd 4",
+      "away": "Elthorne Tennis 1\n-\nHartswood Lawn Tennis Club Ltd 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nBrentham Lawn Tennis Club 3\n-\nTwickenham Lawn Tennis Club 3",
+      "away": "Brentham Lawn Tennis Club 3\n-\nTwickenham Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nThe Hurlingham Club 2\n-\nDavid Lloyd Club Hampton 3",
+      "away": "The Hurlingham Club 2\n-\nDavid Lloyd Club Hampton 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nPark Sports - Lammas Park 3\n-\nSt Columba's Tennis Club 1",
+      "away": "Park Sports - Lammas Park 3\n-\nSt Columba's Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nSt Columba's Tennis Club 1\n-\nHartswood Lawn Tennis Club Ltd 4",
+      "away": "St Columba's Tennis Club 1\n-\nHartswood Lawn Tennis Club Ltd 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nTwickenham Lawn Tennis Club 3\n-\nElthorne Tennis 1",
+      "away": "Twickenham Lawn Tennis Club 3\n-\nElthorne Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nDavid Lloyd Club Hampton 3\n-\nBrentham Lawn Tennis Club 3",
+      "away": "David Lloyd Club Hampton 3\n-\nBrentham Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nPark Sports - Lammas Park 3\n-\nThe Hurlingham Club 2",
+      "away": "Park Sports - Lammas Park 3\n-\nThe Hurlingham Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nBrentham Lawn Tennis Club 3\n-\nPark Sports - Lammas Park 3",
+      "away": "Brentham Lawn Tennis Club 3\n-\nPark Sports - Lammas Park 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nElthorne Tennis 1\n-\nDavid Lloyd Club Hampton 3",
+      "away": "Elthorne Tennis 1\n-\nDavid Lloyd Club Hampton 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nHartswood Lawn Tennis Club Ltd 4\n-\nTwickenham Lawn Tennis Club 3",
+      "away": "Hartswood Lawn Tennis Club Ltd 4\n-\nTwickenham Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nThe Hurlingham Club 2\n-\nSt Columba's Tennis Club 1",
+      "away": "The Hurlingham Club 2\n-\nSt Columba's Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 22/01/2027\nSt Columba's Tennis Club 1\n-\nTwickenham Lawn Tennis Club 3",
+      "away": "St Columba's Tennis Club 1\n-\nTwickenham Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nDavid Lloyd Club Hampton 3\n-\nHartswood Lawn Tennis Club Ltd 4",
+      "away": "David Lloyd Club Hampton 3\n-\nHartswood Lawn Tennis Club Ltd 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nPark Sports - Lammas Park 3\n-\nElthorne Tennis 1",
+      "away": "Park Sports - Lammas Park 3\n-\nElthorne Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nThe Hurlingham Club 2\n-\nBrentham Lawn Tennis Club 3",
+      "away": "The Hurlingham Club 2\n-\nBrentham Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nElthorne Tennis 1\n-\nThe Hurlingham Club 2",
+      "away": "Elthorne Tennis 1\n-\nThe Hurlingham Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nHartswood Lawn Tennis Club Ltd 4\n-\nPark Sports - Lammas Park 3",
+      "away": "Hartswood Lawn Tennis Club Ltd 4\n-\nPark Sports - Lammas Park 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nTwickenham Lawn Tennis Club 3\n-\nDavid Lloyd Club Hampton 3",
+      "away": "Twickenham Lawn Tennis Club 3\n-\nDavid Lloyd Club Hampton 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nBrentham Lawn Tennis Club 3\n-\nSt Columba's Tennis Club 1",
+      "away": "Brentham Lawn Tennis Club 3\n-\nSt Columba's Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nPark Sports - Lammas Park 3\n-\nTwickenham Lawn Tennis Club 3",
+      "away": "Park Sports - Lammas Park 3\n-\nTwickenham Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nBrentham Lawn Tennis Club 3\n-\nElthorne Tennis 1",
+      "away": "Brentham Lawn Tennis Club 3\n-\nElthorne Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nThe Hurlingham Club 2\n-\nHartswood Lawn Tennis Club Ltd 4",
+      "away": "The Hurlingham Club 2\n-\nHartswood Lawn Tennis Club Ltd 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nSt Columba's Tennis Club 1\n-\nDavid Lloyd Club Hampton 3",
+      "away": "St Columba's Tennis Club 1\n-\nDavid Lloyd Club Hampton 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nHartswood Lawn Tennis Club Ltd 4\n-\nBrentham Lawn Tennis Club 3",
+      "away": "Hartswood Lawn Tennis Club Ltd 4\n-\nBrentham Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nTwickenham Lawn Tennis Club 3\n-\nThe Hurlingham Club 2",
+      "away": "Twickenham Lawn Tennis Club 3\n-\nThe Hurlingham Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nDavid Lloyd Club Hampton 3\n-\nPark Sports - Lammas Park 3",
+      "away": "David Lloyd Club Hampton 3\n-\nPark Sports - Lammas Park 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nElthorne Tennis 1\n-\nSt Columba's Tennis Club 1",
+      "away": "Elthorne Tennis 1\n-\nSt Columba's Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "drawId": "f100dee9-1484-4a82-aa8a-e1ba8507fbbe-7",
+  "competitionId": "f100dee9-1484-4a82-aa8a-e1ba8507fbbe",
+  "competitionName": "40/Over\n \u2013 Division 5              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/F100DEE9-1484-4A82-AA8A-E1BA8507FBBE/draw/7",
+  "scrapedAt": "2026-08-12T10:15:36.483329+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 27/09/2026\nBarnet Lawn Tennis Club 1\n-\nVicars Moor LTC 2",
+      "away": "Barnet Lawn Tennis Club 1\n-\nVicars Moor LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nSouth Hampstead Tennis Club 1\n-\nWaterfall Tennis Club 1",
+      "away": "South Hampstead Tennis Club 1\n-\nWaterfall Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 2\n-\nStormont LT and SRC 1",
+      "away": "OUR LADY OF MUSWELL LAWN TENNIS CLUB 2\n-\nStormont LT and SRC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nStormont LT and SRC 1\n-\nVicars Moor LTC 2",
+      "away": "Stormont LT and SRC 1\n-\nVicars Moor LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nWaterfall Tennis Club 1\n-\nBarnet Lawn Tennis Club 1",
+      "away": "Waterfall Tennis Club 1\n-\nBarnet Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 2\n-\nSouth Hampstead Tennis Club 1",
+      "away": "OUR LADY OF MUSWELL LAWN TENNIS CLUB 2\n-\nSouth Hampstead Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nBarnet Lawn Tennis Club 1\n-\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 2",
+      "away": "Barnet Lawn Tennis Club 1\n-\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nVicars Moor LTC 2\n-\nWaterfall Tennis Club 1",
+      "away": "Vicars Moor LTC 2\n-\nWaterfall Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nSouth Hampstead Tennis Club 1\n-\nStormont LT and SRC 1",
+      "away": "South Hampstead Tennis Club 1\n-\nStormont LT and SRC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 17/01/2027\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 2\n-\nVicars Moor LTC 2",
+      "away": "OUR LADY OF MUSWELL LAWN TENNIS CLUB 2\n-\nVicars Moor LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nStormont LT and SRC 1\n-\nWaterfall Tennis Club 1",
+      "away": "Stormont LT and SRC 1\n-\nWaterfall Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nSouth Hampstead Tennis Club 1\n-\nBarnet Lawn Tennis Club 1",
+      "away": "South Hampstead Tennis Club 1\n-\nBarnet Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nVicars Moor LTC 2\n-\nSouth Hampstead Tennis Club 1",
+      "away": "Vicars Moor LTC 2\n-\nSouth Hampstead Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nWaterfall Tennis Club 1\n-\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 2",
+      "away": "Waterfall Tennis Club 1\n-\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nBarnet Lawn Tennis Club 1\n-\nStormont LT and SRC 1",
+      "away": "Barnet Lawn Tennis Club 1\n-\nStormont LT and SRC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    }
+  ]
+}

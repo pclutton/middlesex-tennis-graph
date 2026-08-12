@@ -1,0 +1,178 @@
+{
+  "drawId": "b86e129e-9a10-4e98-9e83-71d5e607e375-54",
+  "competitionId": "b86e129e-9a10-4e98-9e83-71d5e607e375",
+  "competitionName": "Womens Doubles\n \u2013 Division 8              \u2013 Division 8 West",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/54",
+  "scrapedAt": "2026-08-12T11:30:16.314958+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 25/09/2026\nUxbridge LTC 3\n-\nMode Club 1",
+      "away": "Uxbridge LTC 3\n-\nMode Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nElthorne Tennis 2\n-\nDavid Lloyd Club Heston 1",
+      "away": "Elthorne Tennis 2\n-\nDavid Lloyd Club Heston 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nTrailfinders Sports Club 2\n-\nWayfarers LTC 4",
+      "away": "Trailfinders Sports Club 2\n-\nWayfarers LTC 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nWayfarers LTC 4\n-\nMode Club 1",
+      "away": "Wayfarers LTC 4\n-\nMode Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nDavid Lloyd Club Heston 1\n-\nUxbridge LTC 3",
+      "away": "David Lloyd Club Heston 1\n-\nUxbridge LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nTrailfinders Sports Club 2\n-\nElthorne Tennis 2",
+      "away": "Trailfinders Sports Club 2\n-\nElthorne Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nUxbridge LTC 3\n-\nTrailfinders Sports Club 2",
+      "away": "Uxbridge LTC 3\n-\nTrailfinders Sports Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nMode Club 1\n-\nDavid Lloyd Club Heston 1",
+      "away": "Mode Club 1\n-\nDavid Lloyd Club Heston 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nElthorne Tennis 2\n-\nWayfarers LTC 4",
+      "away": "Elthorne Tennis 2\n-\nWayfarers LTC 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 22/01/2027\nTrailfinders Sports Club 2\n-\nMode Club 1",
+      "away": "Trailfinders Sports Club 2\n-\nMode Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nWayfarers LTC 4\n-\nDavid Lloyd Club Heston 1",
+      "away": "Wayfarers LTC 4\n-\nDavid Lloyd Club Heston 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nElthorne Tennis 2\n-\nUxbridge LTC 3",
+      "away": "Elthorne Tennis 2\n-\nUxbridge LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nMode Club 1\n-\nElthorne Tennis 2",
+      "away": "Mode Club 1\n-\nElthorne Tennis 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nDavid Lloyd Club Heston 1\n-\nTrailfinders Sports Club 2",
+      "away": "David Lloyd Club Heston 1\n-\nTrailfinders Sports Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nUxbridge LTC 3\n-\nWayfarers LTC 4",
+      "away": "Uxbridge LTC 3\n-\nWayfarers LTC 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    }
+  ]
+}

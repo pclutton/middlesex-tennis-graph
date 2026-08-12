@@ -1,0 +1,178 @@
+{
+  "drawId": "f100dee9-1484-4a82-aa8a-e1ba8507fbbe-8",
+  "competitionId": "f100dee9-1484-4a82-aa8a-e1ba8507fbbe",
+  "competitionName": "40/Over\n \u2013 Division 5              \u2013 Group 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/F100DEE9-1484-4A82-AA8A-E1BA8507FBBE/draw/8",
+  "scrapedAt": "2026-08-12T10:35:44.067636+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 27/09/2026\nThe Lensbury Club 2\n-\nBushy Park Tennis Club Teddington 1",
+      "away": "The Lensbury Club 2\n-\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nWayfarers LTC 1\n-\nHatch End Lawn Tennis Club 1",
+      "away": "Wayfarers LTC 1\n-\nHatch End Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nThe Parsons Green Club 2\n-\nDavid Lloyd Club Sudbury Hill 1",
+      "away": "The Parsons Green Club 2\n-\nDavid Lloyd Club Sudbury Hill 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nDavid Lloyd Club Sudbury Hill 1\n-\nBushy Park Tennis Club Teddington 1",
+      "away": "David Lloyd Club Sudbury Hill 1\n-\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nHatch End Lawn Tennis Club 1\n-\nThe Lensbury Club 2",
+      "away": "Hatch End Lawn Tennis Club 1\n-\nThe Lensbury Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nThe Parsons Green Club 2\n-\nWayfarers LTC 1",
+      "away": "The Parsons Green Club 2\n-\nWayfarers LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nThe Lensbury Club 2\n-\nThe Parsons Green Club 2",
+      "away": "The Lensbury Club 2\n-\nThe Parsons Green Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nBushy Park Tennis Club Teddington 1\n-\nHatch End Lawn Tennis Club 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n-\nHatch End Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nWayfarers LTC 1\n-\nDavid Lloyd Club Sudbury Hill 1",
+      "away": "Wayfarers LTC 1\n-\nDavid Lloyd Club Sudbury Hill 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 17/01/2027\nThe Parsons Green Club 2\n-\nBushy Park Tennis Club Teddington 1",
+      "away": "The Parsons Green Club 2\n-\nBushy Park Tennis Club Teddington 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nDavid Lloyd Club Sudbury Hill 1\n-\nHatch End Lawn Tennis Club 1",
+      "away": "David Lloyd Club Sudbury Hill 1\n-\nHatch End Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nWayfarers LTC 1\n-\nThe Lensbury Club 2",
+      "away": "Wayfarers LTC 1\n-\nThe Lensbury Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nBushy Park Tennis Club Teddington 1\n-\nWayfarers LTC 1",
+      "away": "Bushy Park Tennis Club Teddington 1\n-\nWayfarers LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nHatch End Lawn Tennis Club 1\n-\nThe Parsons Green Club 2",
+      "away": "Hatch End Lawn Tennis Club 1\n-\nThe Parsons Green Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nThe Lensbury Club 2\n-\nDavid Lloyd Club Sudbury Hill 1",
+      "away": "The Lensbury Club 2\n-\nDavid Lloyd Club Sudbury Hill 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    }
+  ]
+}

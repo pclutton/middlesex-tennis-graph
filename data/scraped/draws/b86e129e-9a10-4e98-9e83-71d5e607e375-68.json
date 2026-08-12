@@ -1,0 +1,203 @@
+{
+  "drawId": "b86e129e-9a10-4e98-9e83-71d5e607e375-68",
+  "competitionId": "b86e129e-9a10-4e98-9e83-71d5e607e375",
+  "competitionName": "Mixed Doubles\n \u2013 Division 6              \u2013 Division 6 East",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/68",
+  "scrapedAt": "2026-08-12T10:10:42.487985+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 25/09/2026\nMercury LTC 2\n-\nRavens Lawn Tennis Club 1",
+      "away": "Mercury LTC 2\n-\nRavens Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nBarnet Lawn Tennis Club 3\n-\nBrackendale LTC 2",
+      "away": "Barnet Lawn Tennis Club 3\n-\nBrackendale LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Mon 05/10/2026\nBrackendale LTC 2\n-\nMercury LTC 2",
+      "away": "Brackendale LTC 2\n-\nMercury LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Mon 05/10/2026"
+    },
+    {
+      "home": "Fri 16/10/2026\nVicars Moor LTC 4\n-\nBarnet Lawn Tennis Club 3",
+      "away": "Vicars Moor LTC 4\n-\nBarnet Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 16/10/2026"
+    },
+    {
+      "home": "Fri 13/11/2026\nMercury LTC 2\n-\nVicars Moor LTC 4",
+      "away": "Mercury LTC 2\n-\nVicars Moor LTC 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 13/11/2026"
+    },
+    {
+      "home": "Fri 13/11/2026\nRavens Lawn Tennis Club 1\n-\nBrackendale LTC 2",
+      "away": "Ravens Lawn Tennis Club 1\n-\nBrackendale LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 13/11/2026"
+    },
+    {
+      "home": "Fri 04/12/2026\nVicars Moor LTC 4\n-\nRavens Lawn Tennis Club 1",
+      "away": "Vicars Moor LTC 4\n-\nRavens Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 04/12/2026"
+    },
+    {
+      "home": "Fri 04/12/2026\nBarnet Lawn Tennis Club 3\n-\nMercury LTC 2",
+      "away": "Barnet Lawn Tennis Club 3\n-\nMercury LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 04/12/2026"
+    },
+    {
+      "home": "Fri 15/01/2027\nBrackendale LTC 2\n-\nVicars Moor LTC 4",
+      "away": "Brackendale LTC 2\n-\nVicars Moor LTC 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 15/01/2027"
+    },
+    {
+      "home": "Fri 15/01/2027\nRavens Lawn Tennis Club 1\n-\nBarnet Lawn Tennis Club 3",
+      "away": "Ravens Lawn Tennis Club 1\n-\nBarnet Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 15/01/2027"
+    },
+    {
+      "home": "Fri 29/01/2027\nBrackendale LTC 2\n-\nBarnet Lawn Tennis Club 3",
+      "away": "Brackendale LTC 2\n-\nBarnet Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 29/01/2027"
+    },
+    {
+      "home": "Fri 29/01/2027\nRavens Lawn Tennis Club 1\n-\nMercury LTC 2",
+      "away": "Ravens Lawn Tennis Club 1\n-\nMercury LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 29/01/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nMercury LTC 2\n-\nBrackendale LTC 2",
+      "away": "Mercury LTC 2\n-\nBrackendale LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nBarnet Lawn Tennis Club 3\n-\nVicars Moor LTC 4",
+      "away": "Barnet Lawn Tennis Club 3\n-\nVicars Moor LTC 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nVicars Moor LTC 4\n-\nMercury LTC 2",
+      "away": "Vicars Moor LTC 4\n-\nMercury LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nBrackendale LTC 2\n-\nRavens Lawn Tennis Club 1",
+      "away": "Brackendale LTC 2\n-\nRavens Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 12/03/2027\nRavens Lawn Tennis Club 1\n-\nVicars Moor LTC 4",
+      "away": "Ravens Lawn Tennis Club 1\n-\nVicars Moor LTC 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/03/2027"
+    },
+    {
+      "home": "Fri 12/03/2027\nMercury LTC 2\n-\nBarnet Lawn Tennis Club 3",
+      "away": "Mercury LTC 2\n-\nBarnet Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nVicars Moor LTC 4\n-\nBrackendale LTC 2",
+      "away": "Vicars Moor LTC 4\n-\nBrackendale LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nBarnet Lawn Tennis Club 3\n-\nRavens Lawn Tennis Club 1",
+      "away": "Barnet Lawn Tennis Club 3\n-\nRavens Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    }
+  ]
+}

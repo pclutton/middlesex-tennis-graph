@@ -1,0 +1,230 @@
+{
+  "drawId": "f100dee9-1484-4a82-aa8a-e1ba8507fbbe-9",
+  "competitionId": "f100dee9-1484-4a82-aa8a-e1ba8507fbbe",
+  "competitionName": "40/Over\n \u2013 Division 6              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/F100DEE9-1484-4A82-AA8A-E1BA8507FBBE/draw/9",
+  "scrapedAt": "2026-08-12T10:27:07.973480+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 27/09/2026\nConway Lawn Tennis Club 2\n-\nRavenscroft Lawn Tennis Club 1",
+      "away": "Conway Lawn Tennis Club 2\n-\nRavenscroft Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nRavens Lawn Tennis Club 1\n-\nBounds Green Bowls & LTC 2",
+      "away": "Ravens Lawn Tennis Club 1\n-\nBounds Green Bowls & LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nHighgate Cricket and Lawn Tennis Club 1\n-\nPotters Bar Tennis Club 2",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n-\nPotters Bar Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nRavenscroft Lawn Tennis Club 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Ravenscroft Lawn Tennis Club 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nBounds Green Bowls & LTC 2\n-\nConway Lawn Tennis Club 2",
+      "away": "Bounds Green Bowls & LTC 2\n-\nConway Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nWinchmore Hill Tennis Club 2\n-\nRavens Lawn Tennis Club 1",
+      "away": "Winchmore Hill Tennis Club 2\n-\nRavens Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nConway Lawn Tennis Club 2\n-\nWinchmore Hill Tennis Club 2",
+      "away": "Conway Lawn Tennis Club 2\n-\nWinchmore Hill Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nPotters Bar Tennis Club 2\n-\nRavenscroft Lawn Tennis Club 1",
+      "away": "Potters Bar Tennis Club 2\n-\nRavenscroft Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nHighgate Cricket and Lawn Tennis Club 1\n-\nBounds Green Bowls & LTC 2",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n-\nBounds Green Bowls & LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 17/01/2027\nBounds Green Bowls & LTC 2\n-\nPotters Bar Tennis Club 2",
+      "away": "Bounds Green Bowls & LTC 2\n-\nPotters Bar Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nWinchmore Hill Tennis Club 2\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Winchmore Hill Tennis Club 2\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nRavens Lawn Tennis Club 1\n-\nConway Lawn Tennis Club 2",
+      "away": "Ravens Lawn Tennis Club 1\n-\nConway Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nHighgate Cricket and Lawn Tennis Club 1\n-\nRavens Lawn Tennis Club 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n-\nRavens Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nPotters Bar Tennis Club 2\n-\nWinchmore Hill Tennis Club 2",
+      "away": "Potters Bar Tennis Club 2\n-\nWinchmore Hill Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nRavenscroft Lawn Tennis Club 1\n-\nBounds Green Bowls & LTC 2",
+      "away": "Ravenscroft Lawn Tennis Club 1\n-\nBounds Green Bowls & LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nWinchmore Hill Tennis Club 2\n-\nRavenscroft Lawn Tennis Club 1",
+      "away": "Winchmore Hill Tennis Club 2\n-\nRavenscroft Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nConway Lawn Tennis Club 2\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Conway Lawn Tennis Club 2\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nRavens Lawn Tennis Club 1\n-\nPotters Bar Tennis Club 2",
+      "away": "Ravens Lawn Tennis Club 1\n-\nPotters Bar Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nPotters Bar Tennis Club 2\n-\nConway Lawn Tennis Club 2",
+      "away": "Potters Bar Tennis Club 2\n-\nConway Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nRavenscroft Lawn Tennis Club 1\n-\nRavens Lawn Tennis Club 1",
+      "away": "Ravenscroft Lawn Tennis Club 1\n-\nRavens Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nBounds Green Bowls & LTC 2\n-\nWinchmore Hill Tennis Club 2",
+      "away": "Bounds Green Bowls & LTC 2\n-\nWinchmore Hill Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    }
+  ]
+}

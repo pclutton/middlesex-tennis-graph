@@ -1,0 +1,203 @@
+{
+  "drawId": "b86e129e-9a10-4e98-9e83-71d5e607e375-63",
+  "competitionId": "b86e129e-9a10-4e98-9e83-71d5e607e375",
+  "competitionName": "Mixed Doubles\n \u2013 Division 3              \u2013 Division 3 North West",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/63",
+  "scrapedAt": "2026-08-12T10:54:02.408010+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 25/09/2026\nLowlands Club 2\n-\nHarrow Weald Lawn Tennis Club 1",
+      "away": "Lowlands Club 2\n-\nHarrow Weald Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nThistleworth LTC 3\n-\nWayfarers LTC 2",
+      "away": "Thistleworth LTC 3\n-\nWayfarers LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 16/10/2026\nWayfarers LTC 2\n-\nLowlands Club 2",
+      "away": "Wayfarers LTC 2\n-\nLowlands Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 16/10/2026"
+    },
+    {
+      "home": "Fri 16/10/2026\nMode Club 1\n-\nThistleworth LTC 3",
+      "away": "Mode Club 1\n-\nThistleworth LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 16/10/2026"
+    },
+    {
+      "home": "Fri 13/11/2026\nLowlands Club 2\n-\nMode Club 1",
+      "away": "Lowlands Club 2\n-\nMode Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 13/11/2026"
+    },
+    {
+      "home": "Fri 13/11/2026\nHarrow Weald Lawn Tennis Club 1\n-\nWayfarers LTC 2",
+      "away": "Harrow Weald Lawn Tennis Club 1\n-\nWayfarers LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 13/11/2026"
+    },
+    {
+      "home": "Fri 04/12/2026\nMode Club 1\n-\nHarrow Weald Lawn Tennis Club 1",
+      "away": "Mode Club 1\n-\nHarrow Weald Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 04/12/2026"
+    },
+    {
+      "home": "Fri 04/12/2026\nThistleworth LTC 3\n-\nLowlands Club 2",
+      "away": "Thistleworth LTC 3\n-\nLowlands Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 04/12/2026"
+    },
+    {
+      "home": "Fri 15/01/2027\nWayfarers LTC 2\n-\nMode Club 1",
+      "away": "Wayfarers LTC 2\n-\nMode Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 15/01/2027"
+    },
+    {
+      "home": "Fri 15/01/2027\nHarrow Weald Lawn Tennis Club 1\n-\nThistleworth LTC 3",
+      "away": "Harrow Weald Lawn Tennis Club 1\n-\nThistleworth LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 15/01/2027"
+    },
+    {
+      "home": "Fri 29/01/2027\nWayfarers LTC 2\n-\nThistleworth LTC 3",
+      "away": "Wayfarers LTC 2\n-\nThistleworth LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 29/01/2027"
+    },
+    {
+      "home": "Fri 29/01/2027\nHarrow Weald Lawn Tennis Club 1\n-\nLowlands Club 2",
+      "away": "Harrow Weald Lawn Tennis Club 1\n-\nLowlands Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 29/01/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nLowlands Club 2\n-\nWayfarers LTC 2",
+      "away": "Lowlands Club 2\n-\nWayfarers LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nThistleworth LTC 3\n-\nMode Club 1",
+      "away": "Thistleworth LTC 3\n-\nMode Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nMode Club 1\n-\nLowlands Club 2",
+      "away": "Mode Club 1\n-\nLowlands Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nWayfarers LTC 2\n-\nHarrow Weald Lawn Tennis Club 1",
+      "away": "Wayfarers LTC 2\n-\nHarrow Weald Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 12/03/2027\nHarrow Weald Lawn Tennis Club 1\n-\nMode Club 1",
+      "away": "Harrow Weald Lawn Tennis Club 1\n-\nMode Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/03/2027"
+    },
+    {
+      "home": "Fri 12/03/2027\nLowlands Club 2\n-\nThistleworth LTC 3",
+      "away": "Lowlands Club 2\n-\nThistleworth LTC 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nMode Club 1\n-\nWayfarers LTC 2",
+      "away": "Mode Club 1\n-\nWayfarers LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nThistleworth LTC 3\n-\nHarrow Weald Lawn Tennis Club 1",
+      "away": "Thistleworth LTC 3\n-\nHarrow Weald Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    }
+  ]
+}

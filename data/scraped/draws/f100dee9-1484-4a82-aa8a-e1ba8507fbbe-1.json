@@ -1,0 +1,289 @@
+{
+  "drawId": "f100dee9-1484-4a82-aa8a-e1ba8507fbbe-1",
+  "competitionId": "f100dee9-1484-4a82-aa8a-e1ba8507fbbe",
+  "competitionName": "40/Over\n \u2013 Division 1              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/F100DEE9-1484-4A82-AA8A-E1BA8507FBBE/draw/1",
+  "scrapedAt": "2026-08-12T10:28:42.934125+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 8,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 27/09/2026\nEaling Lawn Tennis Club 1\n-\nThe Hurlingham Club 1",
+      "away": "Ealing Lawn Tennis Club 1\n-\nThe Hurlingham Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nTeddington Lawn Tennis Club 1\n-\nMuswell Hill Methodist LTC 1",
+      "away": "Teddington Lawn Tennis Club 1\n-\nMuswell Hill Methodist LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nCoolhurst LTC 1\n-\nCoolhurst LTC 2",
+      "away": "Coolhurst LTC 1\n-\nCoolhurst LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nCumberland Lawn Tennis Club & Hampstead Cricket 1\n-\nTeddington Lawn Tennis Club 2",
+      "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1\n-\nTeddington Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nTeddington Lawn Tennis Club 2\n-\nThe Hurlingham Club 1",
+      "away": "Teddington Lawn Tennis Club 2\n-\nThe Hurlingham Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nMuswell Hill Methodist LTC 1\n-\nEaling Lawn Tennis Club 1",
+      "away": "Muswell Hill Methodist LTC 1\n-\nEaling Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nCoolhurst LTC 2\n-\nTeddington Lawn Tennis Club 1",
+      "away": "Coolhurst LTC 2\n-\nTeddington Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 25/10/2026\nCumberland Lawn Tennis Club & Hampstead Cricket 1\n-\nCoolhurst LTC 1",
+      "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1\n-\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 25/10/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nTeddington Lawn Tennis Club 1\n-\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "away": "Teddington Lawn Tennis Club 1\n-\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nEaling Lawn Tennis Club 1\n-\nCoolhurst LTC 2",
+      "away": "Ealing Lawn Tennis Club 1\n-\nCoolhurst LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nThe Hurlingham Club 1\n-\nMuswell Hill Methodist LTC 1",
+      "away": "The Hurlingham Club 1\n-\nMuswell Hill Methodist LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 22/11/2026\nCoolhurst LTC 1\n-\nTeddington Lawn Tennis Club 2",
+      "away": "Coolhurst LTC 1\n-\nTeddington Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 22/11/2026"
+    },
+    {
+      "home": "Sun 17/01/2027\nTeddington Lawn Tennis Club 2\n-\nMuswell Hill Methodist LTC 1",
+      "away": "Teddington Lawn Tennis Club 2\n-\nMuswell Hill Methodist LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nCoolhurst LTC 2\n-\nThe Hurlingham Club 1",
+      "away": "Coolhurst LTC 2\n-\nThe Hurlingham Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nCumberland Lawn Tennis Club & Hampstead Cricket 1\n-\nEaling Lawn Tennis Club 1",
+      "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1\n-\nEaling Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nCoolhurst LTC 1\n-\nTeddington Lawn Tennis Club 1",
+      "away": "Coolhurst LTC 1\n-\nTeddington Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nEaling Lawn Tennis Club 1\n-\nCoolhurst LTC 1",
+      "away": "Ealing Lawn Tennis Club 1\n-\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nThe Hurlingham Club 1\n-\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "away": "The Hurlingham Club 1\n-\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nMuswell Hill Methodist LTC 1\n-\nCoolhurst LTC 2",
+      "away": "Muswell Hill Methodist LTC 1\n-\nCoolhurst LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 14/02/2027\nTeddington Lawn Tennis Club 1\n-\nTeddington Lawn Tennis Club 2",
+      "away": "Teddington Lawn Tennis Club 1\n-\nTeddington Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/02/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nCumberland Lawn Tennis Club & Hampstead Cricket 1\n-\nMuswell Hill Methodist LTC 1",
+      "away": "Cumberland Lawn Tennis Club & Hampstead Cricket 1\n-\nMuswell Hill Methodist LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nTeddington Lawn Tennis Club 1\n-\nEaling Lawn Tennis Club 1",
+      "away": "Teddington Lawn Tennis Club 1\n-\nEaling Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nCoolhurst LTC 1\n-\nThe Hurlingham Club 1",
+      "away": "Coolhurst LTC 1\n-\nThe Hurlingham Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nTeddington Lawn Tennis Club 2\n-\nCoolhurst LTC 2",
+      "away": "Teddington Lawn Tennis Club 2\n-\nCoolhurst LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nThe Hurlingham Club 1\n-\nTeddington Lawn Tennis Club 1",
+      "away": "The Hurlingham Club 1\n-\nTeddington Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nMuswell Hill Methodist LTC 1\n-\nCoolhurst LTC 1",
+      "away": "Muswell Hill Methodist LTC 1\n-\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nCoolhurst LTC 2\n-\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "away": "Coolhurst LTC 2\n-\nCumberland Lawn Tennis Club & Hampstead Cricket 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    },
+    {
+      "home": "Sun 21/03/2027\nEaling Lawn Tennis Club 1\n-\nTeddington Lawn Tennis Club 2",
+      "away": "Ealing Lawn Tennis Club 1\n-\nTeddington Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/03/2027"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "drawId": "b86e129e-9a10-4e98-9e83-71d5e607e375-41",
+  "competitionId": "b86e129e-9a10-4e98-9e83-71d5e607e375",
+  "competitionName": "Womens Doubles\n \u2013 Division 3              \u2013 Division 3 North East",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/41",
+  "scrapedAt": "2026-08-12T10:31:15.460120+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 8,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 25/09/2026\nDavid Lloyd Club Finchley 3\n-\nMercury LTC 1",
+      "away": "David Lloyd Club Finchley 3\n-\nMercury LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nDavid Lloyd Club Finchley 2\n-\nRavens Lawn Tennis Club 1",
+      "away": "David Lloyd Club Finchley 2\n-\nRavens Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nThe Avenue LTC 1\n-\nTotteridge Tennis Club 2",
+      "away": "The Avenue LTC 1\n-\nTotteridge Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nFinchley Manor Tennis Squash and Health Club 2\n-\nOakleigh Park Lawn Tennis & Squash Club 3",
+      "away": "Finchley Manor Tennis Squash and Health Club 2\n-\nOakleigh Park Lawn Tennis & Squash Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nOakleigh Park Lawn Tennis & Squash Club 3\n-\nMercury LTC 1",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 3\n-\nMercury LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nRavens Lawn Tennis Club 1\n-\nDavid Lloyd Club Finchley 3",
+      "away": "Ravens Lawn Tennis Club 1\n-\nDavid Lloyd Club Finchley 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nTotteridge Tennis Club 2\n-\nDavid Lloyd Club Finchley 2",
+      "away": "Totteridge Tennis Club 2\n-\nDavid Lloyd Club Finchley 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nFinchley Manor Tennis Squash and Health Club 2\n-\nThe Avenue LTC 1",
+      "away": "Finchley Manor Tennis Squash and Health Club 2\n-\nThe Avenue LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nDavid Lloyd Club Finchley 2\n-\nFinchley Manor Tennis Squash and Health Club 2",
+      "away": "David Lloyd Club Finchley 2\n-\nFinchley Manor Tennis Squash and Health Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nDavid Lloyd Club Finchley 3\n-\nTotteridge Tennis Club 2",
+      "away": "David Lloyd Club Finchley 3\n-\nTotteridge Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nMercury LTC 1\n-\nRavens Lawn Tennis Club 1",
+      "away": "Mercury LTC 1\n-\nRavens Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nThe Avenue LTC 1\n-\nOakleigh Park Lawn Tennis & Squash Club 3",
+      "away": "The Avenue LTC 1\n-\nOakleigh Park Lawn Tennis & Squash Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 22/01/2027\nOakleigh Park Lawn Tennis & Squash Club 3\n-\nRavens Lawn Tennis Club 1",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 3\n-\nRavens Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nTotteridge Tennis Club 2\n-\nMercury LTC 1",
+      "away": "Totteridge Tennis Club 2\n-\nMercury LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nFinchley Manor Tennis Squash and Health Club 2\n-\nDavid Lloyd Club Finchley 3",
+      "away": "Finchley Manor Tennis Squash and Health Club 2\n-\nDavid Lloyd Club Finchley 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nThe Avenue LTC 1\n-\nDavid Lloyd Club Finchley 2",
+      "away": "The Avenue LTC 1\n-\nDavid Lloyd Club Finchley 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nDavid Lloyd Club Finchley 3\n-\nThe Avenue LTC 1",
+      "away": "David Lloyd Club Finchley 3\n-\nThe Avenue LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nMercury LTC 1\n-\nFinchley Manor Tennis Squash and Health Club 2",
+      "away": "Mercury LTC 1\n-\nFinchley Manor Tennis Squash and Health Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nRavens Lawn Tennis Club 1\n-\nTotteridge Tennis Club 2",
+      "away": "Ravens Lawn Tennis Club 1\n-\nTotteridge Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nDavid Lloyd Club Finchley 2\n-\nOakleigh Park Lawn Tennis & Squash Club 3",
+      "away": "David Lloyd Club Finchley 2\n-\nOakleigh Park Lawn Tennis & Squash Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nFinchley Manor Tennis Squash and Health Club 2\n-\nRavens Lawn Tennis Club 1",
+      "away": "Finchley Manor Tennis Squash and Health Club 2\n-\nRavens Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nDavid Lloyd Club Finchley 2\n-\nDavid Lloyd Club Finchley 3",
+      "away": "David Lloyd Club Finchley 2\n-\nDavid Lloyd Club Finchley 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nThe Avenue LTC 1\n-\nMercury LTC 1",
+      "away": "The Avenue LTC 1\n-\nMercury LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nOakleigh Park Lawn Tennis & Squash Club 3\n-\nTotteridge Tennis Club 2",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 3\n-\nTotteridge Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nMercury LTC 1\n-\nDavid Lloyd Club Finchley 2",
+      "away": "Mercury LTC 1\n-\nDavid Lloyd Club Finchley 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nRavens Lawn Tennis Club 1\n-\nThe Avenue LTC 1",
+      "away": "Ravens Lawn Tennis Club 1\n-\nThe Avenue LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nTotteridge Tennis Club 2\n-\nFinchley Manor Tennis Squash and Health Club 2",
+      "away": "Totteridge Tennis Club 2\n-\nFinchley Manor Tennis Squash and Health Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nDavid Lloyd Club Finchley 3\n-\nOakleigh Park Lawn Tennis & Squash Club 3",
+      "away": "David Lloyd Club Finchley 3\n-\nOakleigh Park Lawn Tennis & Squash Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    }
+  ]
+}

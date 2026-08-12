@@ -1,0 +1,289 @@
+{
+  "drawId": "b86e129e-9a10-4e98-9e83-71d5e607e375-59",
+  "competitionId": "b86e129e-9a10-4e98-9e83-71d5e607e375",
+  "competitionName": "Mixed Doubles\n \u2013 Division 2              \u2013 Division 2 West",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/59",
+  "scrapedAt": "2026-08-12T10:36:28.862520+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 8,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 25/09/2026\nVirgin Active Chiswick Riverside 1\n-\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "away": "Virgin Active Chiswick Riverside 1\n-\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nOld Actonians Association Tennis Club 1\n-\nThe Lensbury Club 1",
+      "away": "Old Actonians Association Tennis Club 1\n-\nThe Lensbury Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nThistleworth LTC 1\n-\nEaling Lawn Tennis Club 2",
+      "away": "Thistleworth LTC 1\n-\nEaling Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nWycombe House 1\n-\nThe Parsons Green Club 2",
+      "away": "Wycombe House 1\n-\nThe Parsons Green Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nThe Parsons Green Club 2\n-\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "away": "The Parsons Green Club 2\n-\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nThe Lensbury Club 1\n-\nVirgin Active Chiswick Riverside 1",
+      "away": "The Lensbury Club 1\n-\nVirgin Active Chiswick Riverside 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nEaling Lawn Tennis Club 2\n-\nOld Actonians Association Tennis Club 1",
+      "away": "Ealing Lawn Tennis Club 2\n-\nOld Actonians Association Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nWycombe House 1\n-\nThistleworth LTC 1",
+      "away": "Wycombe House 1\n-\nThistleworth LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nOld Actonians Association Tennis Club 1\n-\nWycombe House 1",
+      "away": "Old Actonians Association Tennis Club 1\n-\nWycombe House 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nVirgin Active Chiswick Riverside 1\n-\nEaling Lawn Tennis Club 2",
+      "away": "Virgin Active Chiswick Riverside 1\n-\nEaling Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nWest Middlesex Lawn Tennis Club Ltd 2\n-\nThe Lensbury Club 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 2\n-\nThe Lensbury Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nThistleworth LTC 1\n-\nThe Parsons Green Club 2",
+      "away": "Thistleworth LTC 1\n-\nThe Parsons Green Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 22/01/2027\nThe Parsons Green Club 2\n-\nThe Lensbury Club 1",
+      "away": "The Parsons Green Club 2\n-\nThe Lensbury Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nEaling Lawn Tennis Club 2\n-\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "away": "Ealing Lawn Tennis Club 2\n-\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nWycombe House 1\n-\nVirgin Active Chiswick Riverside 1",
+      "away": "Wycombe House 1\n-\nVirgin Active Chiswick Riverside 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nThistleworth LTC 1\n-\nOld Actonians Association Tennis Club 1",
+      "away": "Thistleworth LTC 1\n-\nOld Actonians Association Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nVirgin Active Chiswick Riverside 1\n-\nThistleworth LTC 1",
+      "away": "Virgin Active Chiswick Riverside 1\n-\nThistleworth LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nWest Middlesex Lawn Tennis Club Ltd 2\n-\nWycombe House 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 2\n-\nWycombe House 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nThe Lensbury Club 1\n-\nEaling Lawn Tennis Club 2",
+      "away": "The Lensbury Club 1\n-\nEaling Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nOld Actonians Association Tennis Club 1\n-\nThe Parsons Green Club 2",
+      "away": "Old Actonians Association Tennis Club 1\n-\nThe Parsons Green Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nWycombe House 1\n-\nThe Lensbury Club 1",
+      "away": "Wycombe House 1\n-\nThe Lensbury Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nOld Actonians Association Tennis Club 1\n-\nVirgin Active Chiswick Riverside 1",
+      "away": "Old Actonians Association Tennis Club 1\n-\nVirgin Active Chiswick Riverside 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nThistleworth LTC 1\n-\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "away": "Thistleworth LTC 1\n-\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 05/03/2027\nThe Parsons Green Club 2\n-\nEaling Lawn Tennis Club 2",
+      "away": "The Parsons Green Club 2\n-\nEaling Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 05/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nWest Middlesex Lawn Tennis Club Ltd 2\n-\nOld Actonians Association Tennis Club 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 2\n-\nOld Actonians Association Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nThe Lensbury Club 1\n-\nThistleworth LTC 1",
+      "away": "The Lensbury Club 1\n-\nThistleworth LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nEaling Lawn Tennis Club 2\n-\nWycombe House 1",
+      "away": "Ealing Lawn Tennis Club 2\n-\nWycombe House 1",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    },
+    {
+      "home": "Fri 19/03/2027\nVirgin Active Chiswick Riverside 1\n-\nThe Parsons Green Club 2",
+      "away": "Virgin Active Chiswick Riverside 1\n-\nThe Parsons Green Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 19/03/2027"
+    }
+  ]
+}

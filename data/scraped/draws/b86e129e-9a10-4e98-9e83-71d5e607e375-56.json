@@ -1,0 +1,178 @@
+{
+  "drawId": "b86e129e-9a10-4e98-9e83-71d5e607e375-56",
+  "competitionId": "b86e129e-9a10-4e98-9e83-71d5e607e375",
+  "competitionName": "Womens Doubles\n \u2013 Division 9              \u2013 Division 9 West",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B86E129E-9A10-4E98-9E83-71D5E607E375/draw/56",
+  "scrapedAt": "2026-08-12T10:32:02.251841+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Fri 25/09/2026\nWhitton Tennis Club 2\n-\nHartswood Lawn Tennis Club Ltd 5",
+      "away": "Whitton Tennis Club 2\n-\nHartswood Lawn Tennis Club Ltd 5",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nDavid Lloyd Club Hampton 4\n-\nThe Parsons Green Club 4",
+      "away": "David Lloyd Club Hampton 4\n-\nThe Parsons Green Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 25/09/2026\nThe Lensbury Club 5\n-\nThe Lensbury Club 4",
+      "away": "The Lensbury Club 5\n-\nThe Lensbury Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 25/09/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nThe Lensbury Club 4\n-\nHartswood Lawn Tennis Club Ltd 5",
+      "away": "The Lensbury Club 4\n-\nHartswood Lawn Tennis Club Ltd 5",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nThe Parsons Green Club 4\n-\nWhitton Tennis Club 2",
+      "away": "The Parsons Green Club 4\n-\nWhitton Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 23/10/2026\nThe Lensbury Club 5\n-\nDavid Lloyd Club Hampton 4",
+      "away": "The Lensbury Club 5\n-\nDavid Lloyd Club Hampton 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 23/10/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nWhitton Tennis Club 2\n-\nThe Lensbury Club 5",
+      "away": "Whitton Tennis Club 2\n-\nThe Lensbury Club 5",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nHartswood Lawn Tennis Club Ltd 5\n-\nThe Parsons Green Club 4",
+      "away": "Hartswood Lawn Tennis Club Ltd 5\n-\nThe Parsons Green Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 20/11/2026\nDavid Lloyd Club Hampton 4\n-\nThe Lensbury Club 4",
+      "away": "David Lloyd Club Hampton 4\n-\nThe Lensbury Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 20/11/2026"
+    },
+    {
+      "home": "Fri 22/01/2027\nThe Lensbury Club 5\n-\nHartswood Lawn Tennis Club Ltd 5",
+      "away": "The Lensbury Club 5\n-\nHartswood Lawn Tennis Club Ltd 5",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nThe Lensbury Club 4\n-\nThe Parsons Green Club 4",
+      "away": "The Lensbury Club 4\n-\nThe Parsons Green Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 22/01/2027\nDavid Lloyd Club Hampton 4\n-\nWhitton Tennis Club 2",
+      "away": "David Lloyd Club Hampton 4\n-\nWhitton Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Fri 22/01/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nHartswood Lawn Tennis Club Ltd 5\n-\nDavid Lloyd Club Hampton 4",
+      "away": "Hartswood Lawn Tennis Club Ltd 5\n-\nDavid Lloyd Club Hampton 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nThe Parsons Green Club 4\n-\nThe Lensbury Club 5",
+      "away": "The Parsons Green Club 4\n-\nThe Lensbury Club 5",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    },
+    {
+      "home": "Fri 12/02/2027\nWhitton Tennis Club 2\n-\nThe Lensbury Club 4",
+      "away": "Whitton Tennis Club 2\n-\nThe Lensbury Club 4",
+      "hs": null,
+      "as": null,
+      "date": "Fri 12/02/2027"
+    }
+  ]
+}
