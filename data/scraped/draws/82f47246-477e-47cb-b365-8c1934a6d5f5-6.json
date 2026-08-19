@@ -1,0 +1,283 @@
+{
+  "drawId": "82f47246-477e-47cb-b365-8c1934a6d5f5-6",
+  "competitionId": "82f47246-477e-47cb-b365-8c1934a6d5f5",
+  "competitionName": "London Club League 2025-26 \u2013 Division 3",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/82F47246-477E-47CB-B365-8C1934A6D5F5/draw/6",
+  "scrapedAt": "2026-08-19T10:07:08.932434+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "10",
+      "played": 9,
+      "won": 0,
+      "drawn": 1,
+      "lost": 507,
+      "rubbers": "507-302",
+      "points": 6525
+    },
+    {
+      "rank": 2,
+      "name": "10",
+      "played": 7,
+      "won": 0,
+      "drawn": 3,
+      "lost": 467,
+      "rubbers": "467-341",
+      "points": 6327
+    },
+    {
+      "rank": 3,
+      "name": "10",
+      "played": 7,
+      "won": 1,
+      "drawn": 2,
+      "lost": 434,
+      "rubbers": "434-293",
+      "points": 5526
+    },
+    {
+      "rank": 4,
+      "name": "10",
+      "played": 3,
+      "won": 1,
+      "drawn": 6,
+      "lost": 328,
+      "rubbers": "328-395",
+      "points": 3645
+    },
+    {
+      "rank": 5,
+      "name": "10",
+      "played": 0,
+      "won": 0,
+      "drawn": 10,
+      "lost": 283,
+      "rubbers": "283-523",
+      "points": 1476
+    },
+    {
+      "rank": 6,
+      "name": "10",
+      "played": 2,
+      "won": 2,
+      "drawn": 6,
+      "lost": 241,
+      "rubbers": "241-406",
+      "points": 1953
+    }
+  ],
+  "matches": [
+    {
+      "home": "Mon 22/09/2025\nUnknown player\nVirgin Active Chiswick Riverside 3\n35\n-\n46\nHarbour Club Notting Hill 2",
+      "away": "Virgin Active Chiswick Riverside 3\n35\n-\n46\nHarbour Club Notting Hill 2",
+      "hs": 3546,
+      "as": null,
+      "date": "Mon 22/09/2025"
+    },
+    {
+      "home": "Wed 24/09/2025\nRoehampton Club 3\n56\n-\n25\nThe Queens Club Ltd 3",
+      "away": "Roehampton Club 3\n56\n-\n25\nThe Queens Club Ltd 3",
+      "hs": 5625,
+      "as": null,
+      "date": "Wed 24/09/2025"
+    },
+    {
+      "home": "Wed 01/10/2025\nRoehampton Club 3\n51\n-\n30\nVirgin Active Chiswick Riverside 3",
+      "away": "Roehampton Club 3\n51\n-\n30\nVirgin Active Chiswick Riverside 3",
+      "hs": 5130,
+      "as": null,
+      "date": "Wed 01/10/2025"
+    },
+    {
+      "home": "Thu 02/10/2025\nUnknown player\nThe Hurlingham Club 3\n60\n-\n21\nHarbour Club Notting Hill 2",
+      "away": "The Hurlingham Club 3\n60\n-\n21\nHarbour Club Notting Hill 2",
+      "hs": 6021,
+      "as": null,
+      "date": "Thu 02/10/2025"
+    },
+    {
+      "home": "Thu 09/10/2025\nUnknown player\nHarbour Club Notting Hill 2\n30\n-\n50\nThe Queens Club Ltd 3",
+      "away": "Harbour Club Notting Hill 2\n30\n-\n50\nThe Queens Club Ltd 3",
+      "hs": 3050,
+      "as": null,
+      "date": "Thu 09/10/2025"
+    },
+    {
+      "home": "Tue 14/10/2025\nThe Queens Club Ltd 3\n30\n-\n50\nThe Hurlingham Club 3",
+      "away": "The Queens Club Ltd 3\n30\n-\n50\nThe Hurlingham Club 3",
+      "hs": 3050,
+      "as": null,
+      "date": "Tue 14/10/2025"
+    },
+    {
+      "home": "Mon 20/10/2025\nThe Queens Club Ltd 3\n52\n-\n29\nVirgin Active Chiswick Riverside 3",
+      "away": "The Queens Club Ltd 3\n52\n-\n29\nVirgin Active Chiswick Riverside 3",
+      "hs": 5229,
+      "as": null,
+      "date": "Mon 20/10/2025"
+    },
+    {
+      "home": "Wed 22/10/2025\nUnknown player\nHarbour Club Chelsea 3\n39\n-\n42\nRoehampton Club 3",
+      "away": "Harbour Club Chelsea 3\n39\n-\n42\nRoehampton Club 3",
+      "hs": 3942,
+      "as": null,
+      "date": "Wed 22/10/2025"
+    },
+    {
+      "home": "Tue 04/11/2025\nVirgin Active Chiswick Riverside 3\n19\n-\n62\nHarbour Club Chelsea 3",
+      "away": "Virgin Active Chiswick Riverside 3\n19\n-\n62\nHarbour Club Chelsea 3",
+      "hs": 1962,
+      "as": null,
+      "date": "Tue 04/11/2025"
+    },
+    {
+      "home": "Wed 05/11/2025\nRoehampton Club 3\n27\n-\n54\nThe Hurlingham Club 3",
+      "away": "Roehampton Club 3\n27\n-\n54\nThe Hurlingham Club 3",
+      "hs": 2754,
+      "as": null,
+      "date": "Wed 05/11/2025"
+    },
+    {
+      "home": "Thu 06/11/2025\nUnknown player\nHarbour Club Notting Hill 2\n38\n-\n43\nHarbour Club Chelsea 3",
+      "away": "Harbour Club Notting Hill 2\n38\n-\n43\nHarbour Club Chelsea 3",
+      "hs": 3843,
+      "as": null,
+      "date": "Thu 06/11/2025"
+    },
+    {
+      "home": "Wed 19/11/2025\nHarbour Club Chelsea 3\n35\n-\n46\nThe Hurlingham Club 3",
+      "away": "Harbour Club Chelsea 3\n35\n-\n46\nThe Hurlingham Club 3",
+      "hs": 3546,
+      "as": null,
+      "date": "Wed 19/11/2025"
+    },
+    {
+      "home": "Tue 25/11/2025\nVirgin Active Chiswick Riverside 3\n30\n-\n51\nThe Hurlingham Club 3",
+      "away": "Virgin Active Chiswick Riverside 3\n30\n-\n51\nThe Hurlingham Club 3",
+      "hs": 3051,
+      "as": null,
+      "date": "Tue 25/11/2025"
+    },
+    {
+      "home": "Wed 26/11/2025\nUnknown player\nRoehampton Club 3\n65\n-\n16\nHarbour Club Notting Hill 2",
+      "away": "Roehampton Club 3\n65\n-\n16\nHarbour Club Notting Hill 2",
+      "hs": 6516,
+      "as": null,
+      "date": "Wed 26/11/2025"
+    },
+    {
+      "home": "Tue 02/12/2025\nThe Queens Club Ltd 3\n32\n-\n49\nHarbour Club Chelsea 3",
+      "away": "The Queens Club Ltd 3\n32\n-\n49\nHarbour Club Chelsea 3",
+      "hs": 3249,
+      "as": null,
+      "date": "Tue 02/12/2025"
+    },
+    {
+      "home": "Tue 13/01/2026\nUnknown player\nVirgin Active Chiswick Riverside 3\n36\n-\n45\nRoehampton Club 3",
+      "away": "Virgin Active Chiswick Riverside 3\n36\n-\n45\nRoehampton Club 3",
+      "hs": 3645,
+      "as": null,
+      "date": "Tue 13/01/2026"
+    },
+    {
+      "home": "Wed 14/01/2026\nUnknown player\nHarbour Club Chelsea 3\n58\n-\n23\nHarbour Club Notting Hill 2",
+      "away": "Harbour Club Chelsea 3\n58\n-\n23\nHarbour Club Notting Hill 2",
+      "hs": 5823,
+      "as": null,
+      "date": "Wed 14/01/2026"
+    },
+    {
+      "home": "Thu 15/01/2026\nThe Hurlingham Club 3\n52\n-\n29\nThe Queens Club Ltd 3",
+      "away": "The Hurlingham Club 3\n52\n-\n29\nThe Queens Club Ltd 3",
+      "hs": 5229,
+      "as": null,
+      "date": "Thu 15/01/2026"
+    },
+    {
+      "home": "Wed 28/01/2026\nHarbour Club Chelsea 3\n50\n-\n31\nThe Queens Club Ltd 3",
+      "away": "Harbour Club Chelsea 3\n50\n-\n31\nThe Queens Club Ltd 3",
+      "hs": 5031,
+      "as": null,
+      "date": "Wed 28/01/2026"
+    },
+    {
+      "home": "Thu 05/02/2026\nHarbour Club Notting Hill 2\n50\n-\n31\nVirgin Active Chiswick Riverside 3",
+      "away": "Harbour Club Notting Hill 2\n50\n-\n31\nVirgin Active Chiswick Riverside 3",
+      "hs": 5031,
+      "as": null,
+      "date": "Thu 05/02/2026"
+    },
+    {
+      "home": "Mon 09/02/2026\nThe Queens Club Ltd 3\n20\n-\n61\nRoehampton Club 3",
+      "away": "The Queens Club Ltd 3\n20\n-\n61\nRoehampton Club 3",
+      "hs": 2061,
+      "as": null,
+      "date": "Mon 09/02/2026"
+    },
+    {
+      "home": "Thu 12/02/2026\nUnknown player\nHarbour Club Notting Hill 2\n17\n-\n64\nThe Hurlingham Club 3",
+      "away": "Harbour Club Notting Hill 2\n17\n-\n64\nThe Hurlingham Club 3",
+      "hs": 1764,
+      "as": null,
+      "date": "Thu 12/02/2026"
+    },
+    {
+      "home": "Wed 04/03/2026\nHarbour Club Chelsea 3\n54\n-\n27\nVirgin Active Chiswick Riverside 3",
+      "away": "Harbour Club Chelsea 3\n54\n-\n27\nVirgin Active Chiswick Riverside 3",
+      "hs": 5427,
+      "as": null,
+      "date": "Wed 04/03/2026"
+    },
+    {
+      "home": "Thu 05/03/2026\nThe Hurlingham Club 3\n50\n-\n31\nRoehampton Club 3",
+      "away": "The Hurlingham Club 3\n50\n-\n31\nRoehampton Club 3",
+      "hs": 5031,
+      "as": null,
+      "date": "Thu 05/03/2026"
+    },
+    {
+      "home": "Wed 11/03/2026\nRoehampton Club 3\n56\n-\n23\nHarbour Club Chelsea 3",
+      "away": "Roehampton Club 3\n56\n-\n23\nHarbour Club Chelsea 3",
+      "hs": 5623,
+      "as": null,
+      "date": "Wed 11/03/2026"
+    },
+    {
+      "home": "Thu 12/03/2026\nThe Hurlingham Club 3\n53\n-\n28\nVirgin Active Chiswick Riverside 3",
+      "away": "The Hurlingham Club 3\n53\n-\n28\nVirgin Active Chiswick Riverside 3",
+      "hs": 5328,
+      "as": null,
+      "date": "Thu 12/03/2026"
+    },
+    {
+      "home": "Thu 19/03/2026\nNot played\nHarbour Club Notting Hill 2\n0\n-\n0\nRoehampton Club 3",
+      "away": "Harbour Club Notting Hill 2\n0\n-\n0\nRoehampton Club 3",
+      "hs": 0,
+      "as": null,
+      "date": "Thu 19/03/2026"
+    },
+    {
+      "home": "Mon 23/03/2026\nNot played\nThe Queens Club Ltd 3\n0\n-\n0\nHarbour Club Notting Hill 2",
+      "away": "The Queens Club Ltd 3\n0\n-\n0\nHarbour Club Notting Hill 2",
+      "hs": 0,
+      "as": null,
+      "date": "Mon 23/03/2026"
+    },
+    {
+      "home": "Tue 24/03/2026\nVirgin Active Chiswick Riverside 3\n18\n-\n59\nThe Queens Club Ltd 3",
+      "away": "Virgin Active Chiswick Riverside 3\n18\n-\n59\nThe Queens Club Ltd 3",
+      "hs": 1859,
+      "as": null,
+      "date": "Tue 24/03/2026"
+    },
+    {
+      "home": "Thu 26/03/2026\nThe Hurlingham Club 3\n27\n-\n54\nHarbour Club Chelsea 3",
+      "away": "The Hurlingham Club 3\n27\n-\n54\nHarbour Club Chelsea 3",
+      "hs": 2754,
+      "as": null,
+      "date": "Thu 26/03/2026"
+    }
+  ]
+}
