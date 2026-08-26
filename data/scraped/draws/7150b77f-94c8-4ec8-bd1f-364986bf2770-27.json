@@ -1,0 +1,95 @@
+{
+  "drawId": "7150b77f-94c8-4ec8-bd1f-364986bf2770-27",
+  "competitionId": "7150b77f-94c8-4ec8-bd1f-364986bf2770",
+  "competitionName": "Womens - National & Regional\n \u2013 Division 1 - 28/29 November              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/7150B77F-94C8-4EC8-BD1F-364986BF2770/draw/27",
+  "scrapedAt": "2026-08-26T10:35:53.175970+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 27/09/2026\nRocket Padel Bristol 1\n-\nStratford Padel Club 1",
+      "away": "Rocket Padel Bristol 1\n-\nStratford Padel Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nThe Hurlingham Club 1\n-\nRocket Padel Bristol 1",
+      "away": "The Hurlingham Club 1\n-\nRocket Padel Bristol 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nRocket Padel Bristol 1\n-\nGame4Padel | Thistle Padel Club 1",
+      "away": "Rocket Padel Bristol 1\n-\nGame4Padel | Thistle Padel Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nStratford Padel Club 1\n-\nThe Hurlingham Club 1",
+      "away": "Stratford Padel Club 1\n-\nThe Hurlingham Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nStratford Padel Club 1\n-\nGame4Padel | Thistle Padel Club 1",
+      "away": "Stratford Padel Club 1\n-\nGame4Padel | Thistle Padel Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nGame4Padel | Thistle Padel Club 1\n-\nThe Hurlingham Club 1",
+      "away": "Game4Padel | Thistle Padel Club 1\n-\nThe Hurlingham Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    }
+  ]
+}
