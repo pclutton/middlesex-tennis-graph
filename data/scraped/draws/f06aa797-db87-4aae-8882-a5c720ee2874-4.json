@@ -1,0 +1,289 @@
+{
+  "drawId": "f06aa797-db87-4aae-8882-a5c720ee2874-4",
+  "competitionId": "f06aa797-db87-4aae-8882-a5c720ee2874",
+  "competitionName": "Mens Doubles\n \u2013 Mens Doubles              \u2013 East",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/F06AA797-DB87-4AAE-8882-A5C720EE2874/draw/4",
+  "scrapedAt": "2026-09-09T13:39:15.499652+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 8,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 18/10/2026\nCulford School 1\n-\nBillericay LTC 1",
+      "away": "Culford School 1\n-\nBillericay LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 18/10/2026"
+    },
+    {
+      "home": "Sun 18/10/2026\nHazelwood Lawn Tennis & Squash Club 1\n-\nCoolhurst LTC 1",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n-\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 18/10/2026"
+    },
+    {
+      "home": "Sun 18/10/2026\nHills Road Sports and Tennis Centre 1\n-\nNorthampton",
+      "away": "Hills Road Sports and Tennis Centre 1\n-\nNorthampton",
+      "hs": null,
+      "as": null,
+      "date": "Sun 18/10/2026"
+    },
+    {
+      "home": "Sun 18/10/2026\nWelwyn Tennis Club 1\n-\nChandos Lawn Tennis Club 1",
+      "away": "Welwyn Tennis Club 1\n-\nChandos Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 18/10/2026"
+    },
+    {
+      "home": "Sun 08/11/2026\nChandos Lawn Tennis Club 1\n-\nHills Road Sports and Tennis Centre 1",
+      "away": "Chandos Lawn Tennis Club 1\n-\nHills Road Sports and Tennis Centre 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 08/11/2026"
+    },
+    {
+      "home": "Sun 08/11/2026\nHazelwood Lawn Tennis & Squash Club 1\n-\nCulford School 1",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n-\nCulford School 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 08/11/2026"
+    },
+    {
+      "home": "Sun 08/11/2026\nBillericay LTC 1\n-\nWelwyn Tennis Club 1",
+      "away": "Billericay LTC 1\n-\nWelwyn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 08/11/2026"
+    },
+    {
+      "home": "Sun 08/11/2026\nCoolhurst LTC 1\n-\nNorthampton",
+      "away": "Coolhurst LTC 1\n-\nNorthampton",
+      "hs": null,
+      "as": null,
+      "date": "Sun 08/11/2026"
+    },
+    {
+      "home": "Sun 29/11/2026\nHills Road Sports and Tennis Centre 1\n-\nBillericay LTC 1",
+      "away": "Hills Road Sports and Tennis Centre 1\n-\nBillericay LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 29/11/2026"
+    },
+    {
+      "home": "Sun 29/11/2026\nWelwyn Tennis Club 1\n-\nHazelwood Lawn Tennis & Squash Club 1",
+      "away": "Welwyn Tennis Club 1\n-\nHazelwood Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 29/11/2026"
+    },
+    {
+      "home": "Sun 29/11/2026\nNorthampton\n-\nChandos Lawn Tennis Club 1",
+      "away": "Northampton\n-\nChandos Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 29/11/2026"
+    },
+    {
+      "home": "Sun 29/11/2026\nCulford School 1\n-\nCoolhurst LTC 1",
+      "away": "Culford School 1\n-\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 29/11/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nHazelwood Lawn Tennis & Squash Club 1\n-\nHills Road Sports and Tennis Centre 1",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n-\nHills Road Sports and Tennis Centre 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nCulford School 1\n-\nWelwyn Tennis Club 1",
+      "away": "Culford School 1\n-\nWelwyn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nBillericay LTC 1\n-\nNorthampton",
+      "away": "Billericay LTC 1\n-\nNorthampton",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nCoolhurst LTC 1\n-\nChandos Lawn Tennis Club 1",
+      "away": "Coolhurst LTC 1\n-\nChandos Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 24/01/2027\nChandos Lawn Tennis Club 1\n-\nBillericay LTC 1",
+      "away": "Chandos Lawn Tennis Club 1\n-\nBillericay LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/01/2027"
+    },
+    {
+      "home": "Sun 24/01/2027\nWelwyn Tennis Club 1\n-\nCoolhurst LTC 1",
+      "away": "Welwyn Tennis Club 1\n-\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/01/2027"
+    },
+    {
+      "home": "Sun 24/01/2027\nHills Road Sports and Tennis Centre 1\n-\nCulford School 1",
+      "away": "Hills Road Sports and Tennis Centre 1\n-\nCulford School 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/01/2027"
+    },
+    {
+      "home": "Sun 24/01/2027\nNorthampton\n-\nHazelwood Lawn Tennis & Squash Club 1",
+      "away": "Northampton\n-\nHazelwood Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/01/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nHazelwood Lawn Tennis & Squash Club 1\n-\nChandos Lawn Tennis Club 1",
+      "away": "Hazelwood Lawn Tennis & Squash Club 1\n-\nChandos Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nWelwyn Tennis Club 1\n-\nHills Road Sports and Tennis Centre 1",
+      "away": "Welwyn Tennis Club 1\n-\nHills Road Sports and Tennis Centre 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nCulford School 1\n-\nNorthampton",
+      "away": "Culford School 1\n-\nNorthampton",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nCoolhurst LTC 1\n-\nBillericay LTC 1",
+      "away": "Coolhurst LTC 1\n-\nBillericay LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 21/02/2027\nHills Road Sports and Tennis Centre 1\n-\nCoolhurst LTC 1",
+      "away": "Hills Road Sports and Tennis Centre 1\n-\nCoolhurst LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/02/2027"
+    },
+    {
+      "home": "Sun 21/02/2027\nChandos Lawn Tennis Club 1\n-\nCulford School 1",
+      "away": "Chandos Lawn Tennis Club 1\n-\nCulford School 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/02/2027"
+    },
+    {
+      "home": "Sun 21/02/2027\nBillericay LTC 1\n-\nHazelwood Lawn Tennis & Squash Club 1",
+      "away": "Billericay LTC 1\n-\nHazelwood Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/02/2027"
+    },
+    {
+      "home": "Sun 21/02/2027\nNorthampton\n-\nWelwyn Tennis Club 1",
+      "away": "Northampton\n-\nWelwyn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/02/2027"
+    }
+  ]
+}

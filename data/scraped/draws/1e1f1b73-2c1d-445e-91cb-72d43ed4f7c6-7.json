@@ -1,0 +1,230 @@
+{
+  "drawId": "1e1f1b73-2c1d-445e-91cb-72d43ed4f7c6-7",
+  "competitionId": "1e1f1b73-2c1d-445e-91cb-72d43ed4f7c6",
+  "competitionName": "Mens  Over 40\n \u2013 Division 2              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/1E1F1B73-2C1D-445E-91CB-72D43ED4F7C6/draw/7",
+  "scrapedAt": "2026-09-09T13:33:19.943597+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 13/09/2026\nTotteridge Tennis Club 1\n-\nLeverstock Green LTC 1",
+      "away": "Totteridge Tennis Club 1\n-\nLeverstock Green LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nBETTER Gosling Tennis Centre 1\n-\nTotteridge Tennis Club 1",
+      "away": "BETTER Gosling Tennis Centre 1\n-\nTotteridge Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nTotteridge Tennis Club 1\n-\nElliswick Lawn Tennis Club 2",
+      "away": "Totteridge Tennis Club 1\n-\nElliswick Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nBroxbourne Sports Club 2\n-\nTotteridge Tennis Club 1",
+      "away": "Broxbourne Sports Club 2\n-\nTotteridge Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nTotteridge Tennis Club 1\n-\nBarnet Lawn Tennis Club 2",
+      "away": "Totteridge Tennis Club 1\n-\nBarnet Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nHertford Lawn Tennis Club 3\n-\nTotteridge Tennis Club 1",
+      "away": "Hertford Lawn Tennis Club 3\n-\nTotteridge Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nLeverstock Green LTC 1\n-\nBETTER Gosling Tennis Centre 1",
+      "away": "Leverstock Green LTC 1\n-\nBETTER Gosling Tennis Centre 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nElliswick Lawn Tennis Club 2\n-\nLeverstock Green LTC 1",
+      "away": "Elliswick Lawn Tennis Club 2\n-\nLeverstock Green LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nBETTER Gosling Tennis Centre 1\n-\nElliswick Lawn Tennis Club 2",
+      "away": "BETTER Gosling Tennis Centre 1\n-\nElliswick Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nLeverstock Green LTC 1\n-\nBroxbourne Sports Club 2",
+      "away": "Leverstock Green LTC 1\n-\nBroxbourne Sports Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nBroxbourne Sports Club 2\n-\nBETTER Gosling Tennis Centre 1",
+      "away": "Broxbourne Sports Club 2\n-\nBETTER Gosling Tennis Centre 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nBarnet Lawn Tennis Club 2\n-\nLeverstock Green LTC 1",
+      "away": "Barnet Lawn Tennis Club 2\n-\nLeverstock Green LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nBETTER Gosling Tennis Centre 1\n-\nBarnet Lawn Tennis Club 2",
+      "away": "BETTER Gosling Tennis Centre 1\n-\nBarnet Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nLeverstock Green LTC 1\n-\nHertford Lawn Tennis Club 3",
+      "away": "Leverstock Green LTC 1\n-\nHertford Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nElliswick Lawn Tennis Club 2\n-\nBroxbourne Sports Club 2",
+      "away": "Elliswick Lawn Tennis Club 2\n-\nBroxbourne Sports Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nBarnet Lawn Tennis Club 2\n-\nElliswick Lawn Tennis Club 2",
+      "away": "Barnet Lawn Tennis Club 2\n-\nElliswick Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nBroxbourne Sports Club 2\n-\nBarnet Lawn Tennis Club 2",
+      "away": "Broxbourne Sports Club 2\n-\nBarnet Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nHertford Lawn Tennis Club 3\n-\nBETTER Gosling Tennis Centre 1",
+      "away": "Hertford Lawn Tennis Club 3\n-\nBETTER Gosling Tennis Centre 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nElliswick Lawn Tennis Club 2\n-\nHertford Lawn Tennis Club 3",
+      "away": "Elliswick Lawn Tennis Club 2\n-\nHertford Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nHertford Lawn Tennis Club 3\n-\nBroxbourne Sports Club 2",
+      "away": "Hertford Lawn Tennis Club 3\n-\nBroxbourne Sports Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nBarnet Lawn Tennis Club 2\n-\nHertford Lawn Tennis Club 3",
+      "away": "Barnet Lawn Tennis Club 2\n-\nHertford Lawn Tennis Club 3",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    }
+  ]
+}

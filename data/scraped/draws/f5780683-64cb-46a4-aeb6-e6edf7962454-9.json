@@ -1,0 +1,230 @@
+{
+  "drawId": "f5780683-64cb-46a4-aeb6-e6edf7962454-9",
+  "competitionId": "f5780683-64cb-46a4-aeb6-e6edf7962454",
+  "competitionName": "Ladies Over 40\n \u2013 Division 3              \u2013 Group 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/F5780683-64CB-46A4-AEB6-E6EDF7962454/draw/9",
+  "scrapedAt": "2026-09-09T13:33:03.831707+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 12/09/2026\nBarnet Lawn Tennis Club 2\n-\nCodicote Lawn Tennis Club 1",
+      "away": "Barnet Lawn Tennis Club 2\n-\nCodicote Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nTotteridge Tennis Club 1\n-\nBarnet Lawn Tennis Club 2",
+      "away": "Totteridge Tennis Club 1\n-\nBarnet Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nBarnet Lawn Tennis Club 2\n-\nCroxley Tennis Club 2",
+      "away": "Barnet Lawn Tennis Club 2\n-\nCroxley Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nKnebworth Tennis Club 1\n-\nBarnet Lawn Tennis Club 2",
+      "away": "Knebworth Tennis Club 1\n-\nBarnet Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nBarnet Lawn Tennis Club 2\n-\nHarpenden LTC 2",
+      "away": "Barnet Lawn Tennis Club 2\n-\nHarpenden LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nChorleywood Lawn Tennis Club 1\n-\nBarnet Lawn Tennis Club 2",
+      "away": "Chorleywood Lawn Tennis Club 1\n-\nBarnet Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nCodicote Lawn Tennis Club 1\n-\nTotteridge Tennis Club 1",
+      "away": "Codicote Lawn Tennis Club 1\n-\nTotteridge Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nCroxley Tennis Club 2\n-\nCodicote Lawn Tennis Club 1",
+      "away": "Croxley Tennis Club 2\n-\nCodicote Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nTotteridge Tennis Club 1\n-\nCroxley Tennis Club 2",
+      "away": "Totteridge Tennis Club 1\n-\nCroxley Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nCodicote Lawn Tennis Club 1\n-\nKnebworth Tennis Club 1",
+      "away": "Codicote Lawn Tennis Club 1\n-\nKnebworth Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nKnebworth Tennis Club 1\n-\nTotteridge Tennis Club 1",
+      "away": "Knebworth Tennis Club 1\n-\nTotteridge Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nHarpenden LTC 2\n-\nCodicote Lawn Tennis Club 1",
+      "away": "Harpenden LTC 2\n-\nCodicote Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nTotteridge Tennis Club 1\n-\nHarpenden LTC 2",
+      "away": "Totteridge Tennis Club 1\n-\nHarpenden LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nCodicote Lawn Tennis Club 1\n-\nChorleywood Lawn Tennis Club 1",
+      "away": "Codicote Lawn Tennis Club 1\n-\nChorleywood Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nCroxley Tennis Club 2\n-\nKnebworth Tennis Club 1",
+      "away": "Croxley Tennis Club 2\n-\nKnebworth Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nHarpenden LTC 2\n-\nCroxley Tennis Club 2",
+      "away": "Harpenden LTC 2\n-\nCroxley Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nKnebworth Tennis Club 1\n-\nHarpenden LTC 2",
+      "away": "Knebworth Tennis Club 1\n-\nHarpenden LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nChorleywood Lawn Tennis Club 1\n-\nTotteridge Tennis Club 1",
+      "away": "Chorleywood Lawn Tennis Club 1\n-\nTotteridge Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nCroxley Tennis Club 2\n-\nChorleywood Lawn Tennis Club 1",
+      "away": "Croxley Tennis Club 2\n-\nChorleywood Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nChorleywood Lawn Tennis Club 1\n-\nKnebworth Tennis Club 1",
+      "away": "Chorleywood Lawn Tennis Club 1\n-\nKnebworth Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nHarpenden LTC 2\n-\nChorleywood Lawn Tennis Club 1",
+      "away": "Harpenden LTC 2\n-\nChorleywood Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    }
+  ]
+}

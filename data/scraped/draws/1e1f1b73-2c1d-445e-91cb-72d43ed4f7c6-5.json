@@ -1,0 +1,230 @@
+{
+  "drawId": "1e1f1b73-2c1d-445e-91cb-72d43ed4f7c6-5",
+  "competitionId": "1e1f1b73-2c1d-445e-91cb-72d43ed4f7c6",
+  "competitionName": "Mens  Over 40\n \u2013 Division 1              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/1E1F1B73-2C1D-445E-91CB-72D43ED4F7C6/draw/5",
+  "scrapedAt": "2026-09-09T13:33:11.879363+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 13/09/2026\nWest Herts & Watford LTC 1\n-\nRickmansworth Lawn Tennis Club 2",
+      "away": "West Herts & Watford LTC 1\n-\nRickmansworth Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nPotters Bar Tennis Club 1\n-\nWest Herts & Watford LTC 1",
+      "away": "Potters Bar Tennis Club 1\n-\nWest Herts & Watford LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nWest Herts & Watford LTC 1\n-\nBarnet Lawn Tennis Club 1",
+      "away": "West Herts & Watford LTC 1\n-\nBarnet Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nLetchworth Sports and Tennis Club Ltd 1\n-\nWest Herts & Watford LTC 1",
+      "away": "Letchworth Sports and Tennis Club Ltd 1\n-\nWest Herts & Watford LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nWest Herts & Watford LTC 1\n-\nSt Albans Lawn Tennis Club 2",
+      "away": "West Herts & Watford LTC 1\n-\nSt Albans Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nWelwyn Tennis Club 2\n-\nWest Herts & Watford LTC 1",
+      "away": "Welwyn Tennis Club 2\n-\nWest Herts & Watford LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nRickmansworth Lawn Tennis Club 2\n-\nPotters Bar Tennis Club 1",
+      "away": "Rickmansworth Lawn Tennis Club 2\n-\nPotters Bar Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nBarnet Lawn Tennis Club 1\n-\nRickmansworth Lawn Tennis Club 2",
+      "away": "Barnet Lawn Tennis Club 1\n-\nRickmansworth Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nPotters Bar Tennis Club 1\n-\nBarnet Lawn Tennis Club 1",
+      "away": "Potters Bar Tennis Club 1\n-\nBarnet Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nRickmansworth Lawn Tennis Club 2\n-\nLetchworth Sports and Tennis Club Ltd 1",
+      "away": "Rickmansworth Lawn Tennis Club 2\n-\nLetchworth Sports and Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nLetchworth Sports and Tennis Club Ltd 1\n-\nPotters Bar Tennis Club 1",
+      "away": "Letchworth Sports and Tennis Club Ltd 1\n-\nPotters Bar Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nSt Albans Lawn Tennis Club 2\n-\nRickmansworth Lawn Tennis Club 2",
+      "away": "St Albans Lawn Tennis Club 2\n-\nRickmansworth Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nPotters Bar Tennis Club 1\n-\nSt Albans Lawn Tennis Club 2",
+      "away": "Potters Bar Tennis Club 1\n-\nSt Albans Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nRickmansworth Lawn Tennis Club 2\n-\nWelwyn Tennis Club 2",
+      "away": "Rickmansworth Lawn Tennis Club 2\n-\nWelwyn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nBarnet Lawn Tennis Club 1\n-\nLetchworth Sports and Tennis Club Ltd 1",
+      "away": "Barnet Lawn Tennis Club 1\n-\nLetchworth Sports and Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nSt Albans Lawn Tennis Club 2\n-\nBarnet Lawn Tennis Club 1",
+      "away": "St Albans Lawn Tennis Club 2\n-\nBarnet Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nLetchworth Sports and Tennis Club Ltd 1\n-\nSt Albans Lawn Tennis Club 2",
+      "away": "Letchworth Sports and Tennis Club Ltd 1\n-\nSt Albans Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nWelwyn Tennis Club 2\n-\nPotters Bar Tennis Club 1",
+      "away": "Welwyn Tennis Club 2\n-\nPotters Bar Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nBarnet Lawn Tennis Club 1\n-\nWelwyn Tennis Club 2",
+      "away": "Barnet Lawn Tennis Club 1\n-\nWelwyn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nWelwyn Tennis Club 2\n-\nLetchworth Sports and Tennis Club Ltd 1",
+      "away": "Welwyn Tennis Club 2\n-\nLetchworth Sports and Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nSt Albans Lawn Tennis Club 2\n-\nWelwyn Tennis Club 2",
+      "away": "St Albans Lawn Tennis Club 2\n-\nWelwyn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    }
+  ]
+}

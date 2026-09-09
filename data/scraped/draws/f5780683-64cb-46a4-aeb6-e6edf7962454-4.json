@@ -1,0 +1,178 @@
+{
+  "drawId": "f5780683-64cb-46a4-aeb6-e6edf7962454-4",
+  "competitionId": "f5780683-64cb-46a4-aeb6-e6edf7962454",
+  "competitionName": "Ladies Over 40\n \u2013 Division 1              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/F5780683-64CB-46A4-AEB6-E6EDF7962454/draw/4",
+  "scrapedAt": "2026-09-09T13:32:55.828925+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 12/09/2026\nBerkhamsted Lawn Tennis & Squash Rackets Club 1\n-\nBarnet Lawn Tennis Club 1",
+      "away": "Berkhamsted Lawn Tennis & Squash Rackets Club 1\n-\nBarnet Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nRickmansworth Lawn Tennis Club 1\n-\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "away": "Rickmansworth Lawn Tennis Club 1\n-\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nBarnet Lawn Tennis Club 1\n-\nRickmansworth Lawn Tennis Club 1",
+      "away": "Barnet Lawn Tennis Club 1\n-\nRickmansworth Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nBerkhamsted Lawn Tennis & Squash Rackets Club 1\n-\nTownsend Lawn Tennis Club 2",
+      "away": "Berkhamsted Lawn Tennis & Squash Rackets Club 1\n-\nTownsend Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nNorthaw & Cuffley Lawn Tennis Club 1\n-\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "away": "Northaw & Cuffley Lawn Tennis Club 1\n-\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nBerkhamsted Lawn Tennis & Squash Rackets Club 1\n-\nDavid Lloyd Club Bushey 1",
+      "away": "Berkhamsted Lawn Tennis & Squash Rackets Club 1\n-\nDavid Lloyd Club Bushey 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nTownsend Lawn Tennis Club 2\n-\nBarnet Lawn Tennis Club 1",
+      "away": "Townsend Lawn Tennis Club 2\n-\nBarnet Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nRickmansworth Lawn Tennis Club 1\n-\nTownsend Lawn Tennis Club 2",
+      "away": "Rickmansworth Lawn Tennis Club 1\n-\nTownsend Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nBarnet Lawn Tennis Club 1\n-\nNorthaw & Cuffley Lawn Tennis Club 1",
+      "away": "Barnet Lawn Tennis Club 1\n-\nNorthaw & Cuffley Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nNorthaw & Cuffley Lawn Tennis Club 1\n-\nRickmansworth Lawn Tennis Club 1",
+      "away": "Northaw & Cuffley Lawn Tennis Club 1\n-\nRickmansworth Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nTownsend Lawn Tennis Club 2\n-\nNorthaw & Cuffley Lawn Tennis Club 1",
+      "away": "Townsend Lawn Tennis Club 2\n-\nNorthaw & Cuffley Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nBarnet Lawn Tennis Club 1\n-\nDavid Lloyd Club Bushey 1",
+      "away": "Barnet Lawn Tennis Club 1\n-\nDavid Lloyd Club Bushey 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nRickmansworth Lawn Tennis Club 1\n-\nDavid Lloyd Club Bushey 1",
+      "away": "Rickmansworth Lawn Tennis Club 1\n-\nDavid Lloyd Club Bushey 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nDavid Lloyd Club Bushey 1\n-\nTownsend Lawn Tennis Club 2",
+      "away": "David Lloyd Club Bushey 1\n-\nTownsend Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nDavid Lloyd Club Bushey 1\n-\nNorthaw & Cuffley Lawn Tennis Club 1",
+      "away": "David Lloyd Club Bushey 1\n-\nNorthaw & Cuffley Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    }
+  ]
+}

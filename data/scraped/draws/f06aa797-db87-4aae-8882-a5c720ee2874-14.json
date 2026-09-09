@@ -1,0 +1,289 @@
+{
+  "drawId": "f06aa797-db87-4aae-8882-a5c720ee2874-14",
+  "competitionId": "f06aa797-db87-4aae-8882-a5c720ee2874",
+  "competitionName": "Womens Doubles\n \u2013 Womens Doubles              \u2013 South East South",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/F06AA797-DB87-4AAE-8882-A5C720EE2874/draw/14",
+  "scrapedAt": "2026-09-09T13:37:01.197782+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 8,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 18/10/2026\nThe Queens Club Limited 1\n-\nMagdalen Park LTC 1",
+      "away": "The Queens Club Limited 1\n-\nMagdalen Park LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 18/10/2026"
+    },
+    {
+      "home": "Sun 18/10/2026\nRoehampton Club 1\n-\nWestside LTC Ltd 1",
+      "away": "Roehampton Club 1\n-\nWestside LTC Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 18/10/2026"
+    },
+    {
+      "home": "Sun 18/10/2026\nSt George's Hill LTC 1\n-\nCampden Hill Lawn Tennis Club 1",
+      "away": "St George's Hill LTC 1\n-\nCampden Hill Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 18/10/2026"
+    },
+    {
+      "home": "Sun 18/10/2026\nThe Wimbledon Club 1\n-\nHolland Park 1",
+      "away": "The Wimbledon Club 1\n-\nHolland Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 18/10/2026"
+    },
+    {
+      "home": "Sun 08/11/2026\nSt George's Hill LTC 1\n-\nHolland Park 1",
+      "away": "St George's Hill LTC 1\n-\nHolland Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 08/11/2026"
+    },
+    {
+      "home": "Sun 08/11/2026\nRoehampton Club 1\n-\nThe Queens Club Limited 1",
+      "away": "Roehampton Club 1\n-\nThe Queens Club Limited 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 08/11/2026"
+    },
+    {
+      "home": "Sun 08/11/2026\nThe Wimbledon Club 1\n-\nMagdalen Park LTC 1",
+      "away": "The Wimbledon Club 1\n-\nMagdalen Park LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 08/11/2026"
+    },
+    {
+      "home": "Sun 08/11/2026\nCampden Hill Lawn Tennis Club 1\n-\nWestside LTC Ltd 1",
+      "away": "Campden Hill Lawn Tennis Club 1\n-\nWestside LTC Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 08/11/2026"
+    },
+    {
+      "home": "Sun 29/11/2026\nSt George's Hill LTC 1\n-\nMagdalen Park LTC 1",
+      "away": "St George's Hill LTC 1\n-\nMagdalen Park LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 29/11/2026"
+    },
+    {
+      "home": "Sun 29/11/2026\nThe Wimbledon Club 1\n-\nRoehampton Club 1",
+      "away": "The Wimbledon Club 1\n-\nRoehampton Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 29/11/2026"
+    },
+    {
+      "home": "Sun 29/11/2026\nCampden Hill Lawn Tennis Club 1\n-\nHolland Park 1",
+      "away": "Campden Hill Lawn Tennis Club 1\n-\nHolland Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 29/11/2026"
+    },
+    {
+      "home": "Sun 29/11/2026\nThe Queens Club Limited 1\n-\nWestside LTC Ltd 1",
+      "away": "The Queens Club Limited 1\n-\nWestside LTC Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 29/11/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nRoehampton Club 1\n-\nSt George's Hill LTC 1",
+      "away": "Roehampton Club 1\n-\nSt George's Hill LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nThe Queens Club Limited 1\n-\nThe Wimbledon Club 1",
+      "away": "The Queens Club Limited 1\n-\nThe Wimbledon Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nCampden Hill Lawn Tennis Club 1\n-\nMagdalen Park LTC 1",
+      "away": "Campden Hill Lawn Tennis Club 1\n-\nMagdalen Park LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nWestside LTC Ltd 1\n-\nHolland Park 1",
+      "away": "Westside LTC Ltd 1\n-\nHolland Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 24/01/2027\nHolland Park 1\n-\nMagdalen Park LTC 1",
+      "away": "Holland Park 1\n-\nMagdalen Park LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/01/2027"
+    },
+    {
+      "home": "Sun 24/01/2027\nThe Wimbledon Club 1\n-\nWestside LTC Ltd 1",
+      "away": "The Wimbledon Club 1\n-\nWestside LTC Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/01/2027"
+    },
+    {
+      "home": "Sun 24/01/2027\nSt George's Hill LTC 1\n-\nThe Queens Club Limited 1",
+      "away": "St George's Hill LTC 1\n-\nThe Queens Club Limited 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/01/2027"
+    },
+    {
+      "home": "Sun 24/01/2027\nCampden Hill Lawn Tennis Club 1\n-\nRoehampton Club 1",
+      "away": "Campden Hill Lawn Tennis Club 1\n-\nRoehampton Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/01/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nRoehampton Club 1\n-\nHolland Park 1",
+      "away": "Roehampton Club 1\n-\nHolland Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nThe Wimbledon Club 1\n-\nSt George's Hill LTC 1",
+      "away": "The Wimbledon Club 1\n-\nSt George's Hill LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nThe Queens Club Limited 1\n-\nCampden Hill Lawn Tennis Club 1",
+      "away": "The Queens Club Limited 1\n-\nCampden Hill Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nMagdalen Park LTC 1\n-\nWestside LTC Ltd 1",
+      "away": "Magdalen Park LTC 1\n-\nWestside LTC Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 21/02/2027\nSt George's Hill LTC 1\n-\nWestside LTC Ltd 1",
+      "away": "St George's Hill LTC 1\n-\nWestside LTC Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/02/2027"
+    },
+    {
+      "home": "Sun 21/02/2027\nThe Queens Club Limited 1\n-\nHolland Park 1",
+      "away": "The Queens Club Limited 1\n-\nHolland Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/02/2027"
+    },
+    {
+      "home": "Sun 21/02/2027\nRoehampton Club 1\n-\nMagdalen Park LTC 1",
+      "away": "Roehampton Club 1\n-\nMagdalen Park LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/02/2027"
+    },
+    {
+      "home": "Sun 21/02/2027\nCampden Hill Lawn Tennis Club 1\n-\nThe Wimbledon Club 1",
+      "away": "Campden Hill Lawn Tennis Club 1\n-\nThe Wimbledon Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 21/02/2027"
+    }
+  ]
+}

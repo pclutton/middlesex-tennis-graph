@@ -1,0 +1,178 @@
+{
+  "drawId": "f99d48df-3106-400d-9b0e-026ea5be3477-2",
+  "competitionId": "f99d48df-3106-400d-9b0e-026ea5be3477",
+  "competitionName": "Mixed Medley\n \u2013 Division 2              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/F99D48DF-3106-400D-9B0E-026EA5BE3477/draw/2",
+  "scrapedAt": "2026-09-09T14:39:04.082745+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 10/01/2027\nUxbridge LTC 1\n13:00\nChesham 1879 Lawn Tennis & Squash Club 1",
+      "away": "Uxbridge LTC 1\n13:00\nChesham 1879 Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 10/01/2027"
+    },
+    {
+      "home": "Chalfont St Peter Tennis Club 1\n-\nSlough Tennis Club 1",
+      "away": "Chalfont St Peter Tennis Club 1\n-\nSlough Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "-"
+    },
+    {
+      "home": "Penn & Tylers Green LTC 1\n-\nChalfont St Peter Tennis Club 1",
+      "away": "Penn & Tylers Green LTC 1\n-\nChalfont St Peter Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "-"
+    },
+    {
+      "home": "Slough Tennis Club 1\n-\nPenn & Tylers Green LTC 1",
+      "away": "Slough Tennis Club 1\n-\nPenn & Tylers Green LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "-"
+    },
+    {
+      "home": "Chalfont St Peter Tennis Club 1\n-\nUxbridge LTC 1",
+      "away": "Chalfont St Peter Tennis Club 1\n-\nUxbridge LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "-"
+    },
+    {
+      "home": "Chesham 1879 Lawn Tennis & Squash Club 1\n-\nChalfont St Peter Tennis Club 1",
+      "away": "Chesham 1879 Lawn Tennis & Squash Club 1\n-\nChalfont St Peter Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "-"
+    },
+    {
+      "home": "Chalfont St Peter Tennis Club 1\n-\nGerrards Cross (Bull Lane) 2",
+      "away": "Chalfont St Peter Tennis Club 1\n-\nGerrards Cross (Bull Lane) 2",
+      "hs": null,
+      "as": null,
+      "date": "-"
+    },
+    {
+      "home": "Uxbridge LTC 1\n-\nSlough Tennis Club 1",
+      "away": "Uxbridge LTC 1\n-\nSlough Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "-"
+    },
+    {
+      "home": "Penn & Tylers Green LTC 1\n-\nUxbridge LTC 1",
+      "away": "Penn & Tylers Green LTC 1\n-\nUxbridge LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "-"
+    },
+    {
+      "home": "Slough Tennis Club 1\n-\nChesham 1879 Lawn Tennis & Squash Club 1",
+      "away": "Slough Tennis Club 1\n-\nChesham 1879 Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "-"
+    },
+    {
+      "home": "Chesham 1879 Lawn Tennis & Squash Club 1\n-\nPenn & Tylers Green LTC 1",
+      "away": "Chesham 1879 Lawn Tennis & Squash Club 1\n-\nPenn & Tylers Green LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "-"
+    },
+    {
+      "home": "Slough Tennis Club 1\n-\nGerrards Cross (Bull Lane) 2",
+      "away": "Slough Tennis Club 1\n-\nGerrards Cross (Bull Lane) 2",
+      "hs": null,
+      "as": null,
+      "date": "-"
+    },
+    {
+      "home": "Penn & Tylers Green LTC 1\n-\nGerrards Cross (Bull Lane) 2",
+      "away": "Penn & Tylers Green LTC 1\n-\nGerrards Cross (Bull Lane) 2",
+      "hs": null,
+      "as": null,
+      "date": "-"
+    },
+    {
+      "home": "Gerrards Cross (Bull Lane) 2\n-\nUxbridge LTC 1",
+      "away": "Gerrards Cross (Bull Lane) 2\n-\nUxbridge LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "-"
+    },
+    {
+      "home": "Gerrards Cross (Bull Lane) 2\n-\nChesham 1879 Lawn Tennis & Squash Club 1",
+      "away": "Gerrards Cross (Bull Lane) 2\n-\nChesham 1879 Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "-"
+    }
+  ]
+}

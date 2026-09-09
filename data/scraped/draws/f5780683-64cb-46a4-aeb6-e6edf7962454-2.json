@@ -1,0 +1,178 @@
+{
+  "drawId": "f5780683-64cb-46a4-aeb6-e6edf7962454-2",
+  "competitionId": "f5780683-64cb-46a4-aeb6-e6edf7962454",
+  "competitionName": "Ladies Over 60\n \u2013 Championship              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/F5780683-64CB-46A4-AEB6-E6EDF7962454/draw/2",
+  "scrapedAt": "2026-09-09T14:37:38.719572+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 12/09/2026\nTotteridge Tennis Club 1\n-\nBishops Stortford Lawn Tennis Club 1",
+      "away": "Totteridge Tennis Club 1\n-\nBishops Stortford Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nLetchworth Sports and Tennis Club Ltd 1\n-\nSt Albans Lawn Tennis Club 1",
+      "away": "Letchworth Sports and Tennis Club Ltd 1\n-\nSt Albans Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nHarpenden LTC 1\n-\nLetchworth Sports and Tennis Club Ltd 1",
+      "away": "Harpenden LTC 1\n-\nLetchworth Sports and Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nSt Albans Lawn Tennis Club 1\n-\nMoor Park Lawn Tennis Club 1",
+      "away": "St Albans Lawn Tennis Club 1\n-\nMoor Park Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nMoor Park Lawn Tennis Club 1\n-\nHarpenden LTC 1",
+      "away": "Moor Park Lawn Tennis Club 1\n-\nHarpenden LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nLetchworth Sports and Tennis Club Ltd 1\n-\nMoor Park Lawn Tennis Club 1",
+      "away": "Letchworth Sports and Tennis Club Ltd 1\n-\nMoor Park Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nSt Albans Lawn Tennis Club 1\n-\nBishops Stortford Lawn Tennis Club 1",
+      "away": "St Albans Lawn Tennis Club 1\n-\nBishops Stortford Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nHarpenden LTC 1\n-\nBishops Stortford Lawn Tennis Club 1",
+      "away": "Harpenden LTC 1\n-\nBishops Stortford Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nBishops Stortford Lawn Tennis Club 1\n-\nLetchworth Sports and Tennis Club Ltd 1",
+      "away": "Bishops Stortford Lawn Tennis Club 1\n-\nLetchworth Sports and Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nBishops Stortford Lawn Tennis Club 1\n-\nMoor Park Lawn Tennis Club 1",
+      "away": "Bishops Stortford Lawn Tennis Club 1\n-\nMoor Park Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nTotteridge Tennis Club 1\n-\nSt Albans Lawn Tennis Club 1",
+      "away": "Totteridge Tennis Club 1\n-\nSt Albans Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nHarpenden LTC 1\n-\nTotteridge Tennis Club 1",
+      "away": "Harpenden LTC 1\n-\nTotteridge Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nSt Albans Lawn Tennis Club 1\n-\nHarpenden LTC 1",
+      "away": "St Albans Lawn Tennis Club 1\n-\nHarpenden LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Sat 12/09/2026\nTotteridge Tennis Club 1\n-\nLetchworth Sports and Tennis Club Ltd 1",
+      "away": "Totteridge Tennis Club 1\n-\nLetchworth Sports and Tennis Club Ltd 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 12/09/2026"
+    },
+    {
+      "home": "Wed 13/01/2027\nMoor Park Lawn Tennis Club 1\n12:00\nTotteridge Tennis Club 1",
+      "away": "Moor Park Lawn Tennis Club 1\n12:00\nTotteridge Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Wed 13/01/2027"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "drawId": "1e1f1b73-2c1d-445e-91cb-72d43ed4f7c6-2",
+  "competitionId": "1e1f1b73-2c1d-445e-91cb-72d43ed4f7c6",
+  "competitionName": "Mens Over 60\n \u2013 Championship              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/1E1F1B73-2C1D-445E-91CB-72D43ED4F7C6/draw/2",
+  "scrapedAt": "2026-09-09T14:37:54.892919+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 7,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 13/09/2026\nHarpenden LTC 1\n-\nHarpenden LTC 2",
+      "away": "Harpenden LTC 1\n-\nHarpenden LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nBerkhamsted Lawn Tennis & Squash Rackets Club 1\n-\nHarpenden LTC 1",
+      "away": "Berkhamsted Lawn Tennis & Squash Rackets Club 1\n-\nHarpenden LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nHarpenden LTC 1\n-\nWelwyn Tennis Club 1",
+      "away": "Harpenden LTC 1\n-\nWelwyn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nElliswick Lawn Tennis Club 1\n-\nHarpenden LTC 1",
+      "away": "Elliswick Lawn Tennis Club 1\n-\nHarpenden LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nHarpenden LTC 1\n-\nTownsend Lawn Tennis Club 1",
+      "away": "Harpenden LTC 1\n-\nTownsend Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nTotteridge Tennis Club 1\n-\nHarpenden LTC 1",
+      "away": "Totteridge Tennis Club 1\n-\nHarpenden LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nHarpenden LTC 2\n-\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "away": "Harpenden LTC 2\n-\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nWelwyn Tennis Club 1\n-\nHarpenden LTC 2",
+      "away": "Welwyn Tennis Club 1\n-\nHarpenden LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nBerkhamsted Lawn Tennis & Squash Rackets Club 1\n-\nWelwyn Tennis Club 1",
+      "away": "Berkhamsted Lawn Tennis & Squash Rackets Club 1\n-\nWelwyn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nHarpenden LTC 2\n-\nElliswick Lawn Tennis Club 1",
+      "away": "Harpenden LTC 2\n-\nElliswick Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nElliswick Lawn Tennis Club 1\n-\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "away": "Elliswick Lawn Tennis Club 1\n-\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nTownsend Lawn Tennis Club 1\n-\nHarpenden LTC 2",
+      "away": "Townsend Lawn Tennis Club 1\n-\nHarpenden LTC 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nBerkhamsted Lawn Tennis & Squash Rackets Club 1\n-\nTownsend Lawn Tennis Club 1",
+      "away": "Berkhamsted Lawn Tennis & Squash Rackets Club 1\n-\nTownsend Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nHarpenden LTC 2\n-\nTotteridge Tennis Club 1",
+      "away": "Harpenden LTC 2\n-\nTotteridge Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nWelwyn Tennis Club 1\n-\nElliswick Lawn Tennis Club 1",
+      "away": "Welwyn Tennis Club 1\n-\nElliswick Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nTownsend Lawn Tennis Club 1\n-\nWelwyn Tennis Club 1",
+      "away": "Townsend Lawn Tennis Club 1\n-\nWelwyn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nElliswick Lawn Tennis Club 1\n-\nTownsend Lawn Tennis Club 1",
+      "away": "Elliswick Lawn Tennis Club 1\n-\nTownsend Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nTotteridge Tennis Club 1\n-\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "away": "Totteridge Tennis Club 1\n-\nBerkhamsted Lawn Tennis & Squash Rackets Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nWelwyn Tennis Club 1\n-\nTotteridge Tennis Club 1",
+      "away": "Welwyn Tennis Club 1\n-\nTotteridge Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nTotteridge Tennis Club 1\n-\nElliswick Lawn Tennis Club 1",
+      "away": "Totteridge Tennis Club 1\n-\nElliswick Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    },
+    {
+      "home": "Sun 13/09/2026\nTownsend Lawn Tennis Club 1\n-\nTotteridge Tennis Club 1",
+      "away": "Townsend Lawn Tennis Club 1\n-\nTotteridge Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 13/09/2026"
+    }
+  ]
+}
