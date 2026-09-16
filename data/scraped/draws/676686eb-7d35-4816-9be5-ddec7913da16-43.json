@@ -1,0 +1,137 @@
+{
+  "drawId": "676686eb-7d35-4816-9be5-ddec7913da16-43",
+  "competitionId": "676686eb-7d35-4816-9be5-ddec7913da16",
+  "competitionName": "14U Girls \n \u2013 14U Girls Div 2              \u2013 Group 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/43",
+  "scrapedAt": "2026-09-16T14:39:52.892920+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 04/10/2026\nTeddington Lawn Tennis Club 1\n-\nHarrow Lawn Tennis Club 1",
+      "away": "Teddington Lawn Tennis Club 1\n-\nHarrow Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 04/10/2026"
+    },
+    {
+      "home": "Sun 04/10/2026\nLowlands Club 1\n-\nElthorne Tennis 1",
+      "away": "Lowlands Club 1\n-\nElthorne Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 04/10/2026"
+    },
+    {
+      "home": "Sun 08/11/2026\nLowlands Club 1\n-\nTeddington Lawn Tennis Club 1",
+      "away": "Lowlands Club 1\n-\nTeddington Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 08/11/2026"
+    },
+    {
+      "home": "Sun 08/11/2026\nElthorne Tennis 1\n-\nHarrow Lawn Tennis Club 1",
+      "away": "Elthorne Tennis 1\n-\nHarrow Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 08/11/2026"
+    },
+    {
+      "home": "Sun 29/11/2026\nTeddington Lawn Tennis Club 1\n-\nElthorne Tennis 1",
+      "away": "Teddington Lawn Tennis Club 1\n-\nElthorne Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 29/11/2026"
+    },
+    {
+      "home": "Sun 29/11/2026\nHarrow Lawn Tennis Club 1\n-\nLowlands Club 1",
+      "away": "Harrow Lawn Tennis Club 1\n-\nLowlands Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 29/11/2026"
+    },
+    {
+      "home": "Sun 24/01/2027\nElthorne Tennis 1\n-\nLowlands Club 1",
+      "away": "Elthorne Tennis 1\n-\nLowlands Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/01/2027"
+    },
+    {
+      "home": "Sun 24/01/2027\nHarrow Lawn Tennis Club 1\n-\nTeddington Lawn Tennis Club 1",
+      "away": "Harrow Lawn Tennis Club 1\n-\nTeddington Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/01/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nHarrow Lawn Tennis Club 1\n-\nElthorne Tennis 1",
+      "away": "Harrow Lawn Tennis Club 1\n-\nElthorne Tennis 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nTeddington Lawn Tennis Club 1\n-\nLowlands Club 1",
+      "away": "Teddington Lawn Tennis Club 1\n-\nLowlands Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nLowlands Club 1\n-\nHarrow Lawn Tennis Club 1",
+      "away": "Lowlands Club 1\n-\nHarrow Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nElthorne Tennis 1\n-\nTeddington Lawn Tennis Club 1",
+      "away": "Elthorne Tennis 1\n-\nTeddington Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "drawId": "676686eb-7d35-4816-9be5-ddec7913da16-37",
+  "competitionId": "676686eb-7d35-4816-9be5-ddec7913da16",
+  "competitionName": "Open Mens\n \u2013 Open Mens Div 2               \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/37",
+  "scrapedAt": "2026-09-16T14:38:34.975339+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 11/10/2026\nFinsbury Park 1\n-\nKenton Lawn Tennis Club 1",
+      "away": "Finsbury Park 1\n-\nKenton Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 11/10/2026"
+    },
+    {
+      "home": "Sun 11/10/2026\nHarbour Club Chelsea 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Harbour Club Chelsea 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 11/10/2026"
+    },
+    {
+      "home": "Sun 11/10/2026\nThe Hurlingham Club 1\n10:15\nWood Vale LTC 1",
+      "away": "The Hurlingham Club 1\n10:15\nWood Vale LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 11/10/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nWood Vale LTC 1\n-\nFinsbury Park 1",
+      "away": "Wood Vale LTC 1\n-\nFinsbury Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nHarbour Club Chelsea 1\n-\nThe Hurlingham Club 1",
+      "away": "Harbour Club Chelsea 1\n-\nThe Hurlingham Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nHighgate Cricket and Lawn Tennis Club 1\n-\nKenton Lawn Tennis Club 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n-\nKenton Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nFinsbury Park 1\n-\nHarbour Club Chelsea 1",
+      "away": "Finsbury Park 1\n-\nHarbour Club Chelsea 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nKenton Lawn Tennis Club 1\n-\nWood Vale LTC 1",
+      "away": "Kenton Lawn Tennis Club 1\n-\nWood Vale LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nThe Hurlingham Club 1\n10:15\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "The Hurlingham Club 1\n10:15\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 17/01/2027\nHarbour Club Chelsea 1\n-\nKenton Lawn Tennis Club 1",
+      "away": "Harbour Club Chelsea 1\n-\nKenton Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nHighgate Cricket and Lawn Tennis Club 1\n-\nWood Vale LTC 1",
+      "away": "Highgate Cricket and Lawn Tennis Club 1\n-\nWood Vale LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nThe Hurlingham Club 1\n10:15\nFinsbury Park 1",
+      "away": "The Hurlingham Club 1\n10:15\nFinsbury Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nWood Vale LTC 1\n-\nHarbour Club Chelsea 1",
+      "away": "Wood Vale LTC 1\n-\nHarbour Club Chelsea 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nFinsbury Park 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "away": "Finsbury Park 1\n-\nHighgate Cricket and Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nKenton Lawn Tennis Club 1\n-\nThe Hurlingham Club 1",
+      "away": "Kenton Lawn Tennis Club 1\n-\nThe Hurlingham Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "drawId": "676686eb-7d35-4816-9be5-ddec7913da16-40",
+  "competitionId": "676686eb-7d35-4816-9be5-ddec7913da16",
+  "competitionName": "12U Girls\n \u2013 12U Girls Div 2              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/40",
+  "scrapedAt": "2026-09-16T14:08:13.329927+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 20/09/2026\nPinner West End Lawn Tennis Club 1\n-\nDavid Lloyd Club Northwood 1",
+      "away": "Pinner West End Lawn Tennis Club 1\n-\nDavid Lloyd Club Northwood 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 20/09/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nBrentham Lawn Tennis Club 1\n-\nPinner West End Lawn Tennis Club 1",
+      "away": "Brentham Lawn Tennis Club 1\n-\nPinner West End Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nDavid Lloyd Club Northwood 1\n-\nBrentham Lawn Tennis Club 1",
+      "away": "David Lloyd Club Northwood 1\n-\nBrentham Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 17/01/2027\nDavid Lloyd Club Northwood 1\n-\nPinner West End Lawn Tennis Club 1",
+      "away": "David Lloyd Club Northwood 1\n-\nPinner West End Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 28/02/2027\nPinner West End Lawn Tennis Club 1\n-\nBrentham Lawn Tennis Club 1",
+      "away": "Pinner West End Lawn Tennis Club 1\n-\nBrentham Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/02/2027"
+    },
+    {
+      "home": "Sun 14/03/2027\nBrentham Lawn Tennis Club 1\n-\nDavid Lloyd Club Northwood 1",
+      "away": "Brentham Lawn Tennis Club 1\n-\nDavid Lloyd Club Northwood 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 14/03/2027"
+    }
+  ]
+}

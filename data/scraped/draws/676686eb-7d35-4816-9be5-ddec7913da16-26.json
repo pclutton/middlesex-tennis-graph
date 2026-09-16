@@ -1,0 +1,178 @@
+{
+  "drawId": "676686eb-7d35-4816-9be5-ddec7913da16-26",
+  "competitionId": "676686eb-7d35-4816-9be5-ddec7913da16",
+  "competitionName": "16U Boys \n \u2013 16U Boys - Div 2               \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/26",
+  "scrapedAt": "2026-09-16T14:10:25.711259+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 26/09/2026\nThe Avenue LTC 1\n16:00\nDavid Lloyd Club Finchley 2",
+      "away": "The Avenue LTC 1\n16:00\nDavid Lloyd Club Finchley 2",
+      "hs": null,
+      "as": null,
+      "date": "Sat 26/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nOakleigh Park Lawn Tennis & Squash Club 1\n-\nBrondesbury Sports Club 1",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 1\n-\nBrondesbury Sports Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nFarm Walk 1\n13:15\nSouth Hampstead Tennis Club 1",
+      "away": "Farm Walk 1\n13:15\nSouth Hampstead Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nDavid Lloyd Club Finchley 2\n-\nOakleigh Park Lawn Tennis & Squash Club 1",
+      "away": "David Lloyd Club Finchley 2\n-\nOakleigh Park Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nSouth Hampstead Tennis Club 1\n-\nBrondesbury Sports Club 1",
+      "away": "South Hampstead Tennis Club 1\n-\nBrondesbury Sports Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nFarm Walk 1\n13:15\nThe Avenue LTC 1",
+      "away": "Farm Walk 1\n13:15\nThe Avenue LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sat 05/12/2026\nThe Avenue LTC 1\n16:00\nSouth Hampstead Tennis Club 1",
+      "away": "The Avenue LTC 1\n16:00\nSouth Hampstead Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 05/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nOakleigh Park Lawn Tennis & Squash Club 1\n-\nFarm Walk 1",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 1\n-\nFarm Walk 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nBrondesbury Sports Club 1\n-\nDavid Lloyd Club Finchley 2",
+      "away": "Brondesbury Sports Club 1\n-\nDavid Lloyd Club Finchley 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sat 16/01/2027\nThe Avenue LTC 1\n16:00\nOakleigh Park Lawn Tennis & Squash Club 1",
+      "away": "The Avenue LTC 1\n16:00\nOakleigh Park Lawn Tennis & Squash Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 16/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nSouth Hampstead Tennis Club 1\n-\nDavid Lloyd Club Finchley 2",
+      "away": "South Hampstead Tennis Club 1\n-\nDavid Lloyd Club Finchley 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nFarm Walk 1\n13:15\nBrondesbury Sports Club 1",
+      "away": "Farm Walk 1\n13:15\nBrondesbury Sports Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 28/02/2027\nDavid Lloyd Club Finchley 2\n-\nFarm Walk 1",
+      "away": "David Lloyd Club Finchley 2\n-\nFarm Walk 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/02/2027"
+    },
+    {
+      "home": "Sun 28/02/2027\nBrondesbury Sports Club 1\n-\nThe Avenue LTC 1",
+      "away": "Brondesbury Sports Club 1\n-\nThe Avenue LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/02/2027"
+    },
+    {
+      "home": "Sun 28/02/2027\nOakleigh Park Lawn Tennis & Squash Club 1\n-\nSouth Hampstead Tennis Club 1",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 1\n-\nSouth Hampstead Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/02/2027"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "drawId": "676686eb-7d35-4816-9be5-ddec7913da16-49",
+  "competitionId": "676686eb-7d35-4816-9be5-ddec7913da16",
+  "competitionName": "Open Mens\n \u2013 Open Mens Div 4              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/49",
+  "scrapedAt": "2026-09-16T14:16:13.682752+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 11/10/2026\nConway Lawn Tennis Club 1\n-\nDavid Lloyd Club Finchley 2",
+      "away": "Conway Lawn Tennis Club 1\n-\nDavid Lloyd Club Finchley 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 11/10/2026"
+    },
+    {
+      "home": "Sun 11/10/2026\nTemple Fortune Club 1\n13:00\nEnfield Chase LTC 1",
+      "away": "Temple Fortune Club 1\n13:00\nEnfield Chase LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 11/10/2026"
+    },
+    {
+      "home": "Sun 11/10/2026\nFarm Walk 1\n15:15\nFinsbury Park 2",
+      "away": "Farm Walk 1\n15:15\nFinsbury Park 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 11/10/2026"
+    },
+    {
+      "home": "Sun 08/11/2026\nEnfield Chase LTC 1\n10:30\nConway Lawn Tennis Club 1",
+      "away": "Enfield Chase LTC 1\n10:30\nConway Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 08/11/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nFinsbury Park 2\n-\nDavid Lloyd Club Finchley 2",
+      "away": "Finsbury Park 2\n-\nDavid Lloyd Club Finchley 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nFarm Walk 1\n16:15\nTemple Fortune Club 1",
+      "away": "Farm Walk 1\n16:15\nTemple Fortune Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nConway Lawn Tennis Club 1\n-\nFarm Walk 1",
+      "away": "Conway Lawn Tennis Club 1\n-\nFarm Walk 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nDavid Lloyd Club Finchley 2\n-\nEnfield Chase LTC 1",
+      "away": "David Lloyd Club Finchley 2\n-\nEnfield Chase LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nTemple Fortune Club 1\n-\nFinsbury Park 2",
+      "away": "Temple Fortune Club 1\n-\nFinsbury Park 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 17/01/2027\nTemple Fortune Club 1\n-\nConway Lawn Tennis Club 1",
+      "away": "Temple Fortune Club 1\n-\nConway Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nFinsbury Park 2\n-\nEnfield Chase LTC 1",
+      "away": "Finsbury Park 2\n-\nEnfield Chase LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nFarm Walk 1\n16:15\nDavid Lloyd Club Finchley 2",
+      "away": "Farm Walk 1\n16:15\nDavid Lloyd Club Finchley 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nConway Lawn Tennis Club 1\n-\nFinsbury Park 2",
+      "away": "Conway Lawn Tennis Club 1\n-\nFinsbury Park 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nDavid Lloyd Club Finchley 2\n-\nTemple Fortune Club 1",
+      "away": "David Lloyd Club Finchley 2\n-\nTemple Fortune Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nEnfield Chase LTC 1\n10:00\nFarm Walk 1",
+      "away": "Enfield Chase LTC 1\n10:00\nFarm Walk 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    }
+  ]
+}

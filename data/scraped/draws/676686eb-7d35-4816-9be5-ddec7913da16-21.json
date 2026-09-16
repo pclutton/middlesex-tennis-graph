@@ -1,0 +1,133 @@
+{
+  "drawId": "676686eb-7d35-4816-9be5-ddec7913da16-21",
+  "competitionId": "676686eb-7d35-4816-9be5-ddec7913da16",
+  "competitionName": "14U Boys\n \u2013 14U Boys - Div 2               \u2013 Group 5",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/21",
+  "scrapedAt": "2026-09-16T14:33:49.269453+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 04/10/2026\nTeddington Lawn Tennis Club 1\n-\nGunnersbury Triangle Club 1",
+      "away": "Teddington Lawn Tennis Club 1\n-\nGunnersbury Triangle Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 04/10/2026"
+    },
+    {
+      "home": "Sun 04/10/2026\nGALLAN TENNIS ACADEMY 1\n-\nHarbour Club Chelsea 1",
+      "away": "GALLAN TENNIS ACADEMY 1\n-\nHarbour Club Chelsea 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 04/10/2026"
+    },
+    {
+      "home": "Sun 08/11/2026\nThe Hurlingham Club 1\n10:15\nGALLAN TENNIS ACADEMY 1",
+      "away": "The Hurlingham Club 1\n10:15\nGALLAN TENNIS ACADEMY 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 08/11/2026"
+    },
+    {
+      "home": "Sun 08/11/2026\nHarbour Club Chelsea 1\n15:00\nTeddington Lawn Tennis Club 1",
+      "away": "Harbour Club Chelsea 1\n15:00\nTeddington Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 08/11/2026"
+    },
+    {
+      "home": "Sun 29/11/2026\nGunnersbury Triangle Club 1\n-\nHarbour Club Chelsea 1",
+      "away": "Gunnersbury Triangle Club 1\n-\nHarbour Club Chelsea 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 29/11/2026"
+    },
+    {
+      "home": "Sun 29/11/2026\nTeddington Lawn Tennis Club 1\n-\nThe Hurlingham Club 1",
+      "away": "Teddington Lawn Tennis Club 1\n-\nThe Hurlingham Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 29/11/2026"
+    },
+    {
+      "home": "Sun 10/01/2027\nHarbour Club Chelsea 1\n15:00\nThe Hurlingham Club 1",
+      "away": "Harbour Club Chelsea 1\n15:00\nThe Hurlingham Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 10/01/2027"
+    },
+    {
+      "home": "Sun 24/01/2027\nGALLAN TENNIS ACADEMY 1\n-\nTeddington Lawn Tennis Club 1",
+      "away": "GALLAN TENNIS ACADEMY 1\n-\nTeddington Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/01/2027"
+    },
+    {
+      "home": "Sun 24/01/2027\nThe Hurlingham Club 1\n10:15\nGunnersbury Triangle Club 1",
+      "away": "The Hurlingham Club 1\n10:15\nGunnersbury Triangle Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/01/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nGunnersbury Triangle Club 1\n-\nGALLAN TENNIS ACADEMY 1",
+      "away": "Gunnersbury Triangle Club 1\n-\nGALLAN TENNIS ACADEMY 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    }
+  ]
+}

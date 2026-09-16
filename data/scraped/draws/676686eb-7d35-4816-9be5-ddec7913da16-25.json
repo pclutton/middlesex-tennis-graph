@@ -1,0 +1,133 @@
+{
+  "drawId": "676686eb-7d35-4816-9be5-ddec7913da16-25",
+  "competitionId": "676686eb-7d35-4816-9be5-ddec7913da16",
+  "competitionName": "16U Boys \n \u2013 16U Boys - Div 1              \u2013 Group 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/25",
+  "scrapedAt": "2026-09-16T14:15:05.815903+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 27/09/2026\nPaddington Sports Club 1\n-\nDavid Lloyd Club Finchley 1",
+      "away": "Paddington Sports Club 1\n-\nDavid Lloyd Club Finchley 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nGALLAN TENNIS ACADEMY 1\n-\nFinchley Manor Tennis Squash and Health Club 1",
+      "away": "GALLAN TENNIS ACADEMY 1\n-\nFinchley Manor Tennis Squash and Health Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nColes Green LTC 1\n-\nGALLAN TENNIS ACADEMY 1",
+      "away": "Coles Green LTC 1\n-\nGALLAN TENNIS ACADEMY 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nFinchley Manor Tennis Squash and Health Club 1\n16:00\nPaddington Sports Club 1",
+      "away": "Finchley Manor Tennis Squash and Health Club 1\n16:00\nPaddington Sports Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nDavid Lloyd Club Finchley 1\n-\nFinchley Manor Tennis Squash and Health Club 1",
+      "away": "David Lloyd Club Finchley 1\n-\nFinchley Manor Tennis Squash and Health Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nPaddington Sports Club 1\n-\nColes Green LTC 1",
+      "away": "Paddington Sports Club 1\n-\nColes Green LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 17/01/2027\nGALLAN TENNIS ACADEMY 1\n-\nPaddington Sports Club 1",
+      "away": "GALLAN TENNIS ACADEMY 1\n-\nPaddington Sports Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nColes Green LTC 1\n-\nDavid Lloyd Club Finchley 1",
+      "away": "Coles Green LTC 1\n-\nDavid Lloyd Club Finchley 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sat 27/02/2027\nFinchley Manor Tennis Squash and Health Club 1\n16:00\nColes Green LTC 1",
+      "away": "Finchley Manor Tennis Squash and Health Club 1\n16:00\nColes Green LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 27/02/2027"
+    },
+    {
+      "home": "Sun 28/02/2027\nDavid Lloyd Club Finchley 1\n-\nGALLAN TENNIS ACADEMY 1",
+      "away": "David Lloyd Club Finchley 1\n-\nGALLAN TENNIS ACADEMY 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/02/2027"
+    }
+  ]
+}

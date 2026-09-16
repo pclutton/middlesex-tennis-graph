@@ -1,0 +1,137 @@
+{
+  "drawId": "676686eb-7d35-4816-9be5-ddec7913da16-9",
+  "competitionId": "676686eb-7d35-4816-9be5-ddec7913da16",
+  "competitionName": "11U Boys\n \u2013 11U Boys - Div 2              \u2013 Group 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/9",
+  "scrapedAt": "2026-09-16T14:29:33.478336+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 20/09/2026\nHarbour Club Chelsea 1\n15:00\nPinner West End Lawn Tennis Club 1",
+      "away": "Harbour Club Chelsea 1\n15:00\nPinner West End Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 20/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nGALLAN TENNIS ACADEMY 1\n-\nElmwood Lawn Tennis Club 1",
+      "away": "GALLAN TENNIS ACADEMY 1\n-\nElmwood Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 08/11/2026\nGALLAN TENNIS ACADEMY 1\n-\nHarbour Club Chelsea 1",
+      "away": "GALLAN TENNIS ACADEMY 1\n-\nHarbour Club Chelsea 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 08/11/2026"
+    },
+    {
+      "home": "Sun 08/11/2026\nElmwood Lawn Tennis Club 1\n-\nPinner West End Lawn Tennis Club 1",
+      "away": "Elmwood Lawn Tennis Club 1\n-\nPinner West End Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 08/11/2026"
+    },
+    {
+      "home": "Sun 29/11/2026\nPinner West End Lawn Tennis Club 1\n-\nGALLAN TENNIS ACADEMY 1",
+      "away": "Pinner West End Lawn Tennis Club 1\n-\nGALLAN TENNIS ACADEMY 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 29/11/2026"
+    },
+    {
+      "home": "Sun 29/11/2026\nHarbour Club Chelsea 1\n15:00\nElmwood Lawn Tennis Club 1",
+      "away": "Harbour Club Chelsea 1\n15:00\nElmwood Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 29/11/2026"
+    },
+    {
+      "home": "Sun 24/01/2027\nElmwood Lawn Tennis Club 1\n-\nGALLAN TENNIS ACADEMY 1",
+      "away": "Elmwood Lawn Tennis Club 1\n-\nGALLAN TENNIS ACADEMY 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/01/2027"
+    },
+    {
+      "home": "Sun 24/01/2027\nPinner West End Lawn Tennis Club 1\n-\nHarbour Club Chelsea 1",
+      "away": "Pinner West End Lawn Tennis Club 1\n-\nHarbour Club Chelsea 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 24/01/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nPinner West End Lawn Tennis Club 1\n-\nElmwood Lawn Tennis Club 1",
+      "away": "Pinner West End Lawn Tennis Club 1\n-\nElmwood Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nHarbour Club Chelsea 1\n15:00\nGALLAN TENNIS ACADEMY 1",
+      "away": "Harbour Club Chelsea 1\n15:00\nGALLAN TENNIS ACADEMY 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nElmwood Lawn Tennis Club 1\n-\nHarbour Club Chelsea 1",
+      "away": "Elmwood Lawn Tennis Club 1\n-\nHarbour Club Chelsea 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nGALLAN TENNIS ACADEMY 1\n-\nPinner West End Lawn Tennis Club 1",
+      "away": "GALLAN TENNIS ACADEMY 1\n-\nPinner West End Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    }
+  ]
+}

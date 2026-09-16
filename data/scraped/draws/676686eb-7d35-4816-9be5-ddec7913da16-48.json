@@ -1,0 +1,178 @@
+{
+  "drawId": "676686eb-7d35-4816-9be5-ddec7913da16-48",
+  "competitionId": "676686eb-7d35-4816-9be5-ddec7913da16",
+  "competitionName": "Open Mens\n \u2013 Open Mens Div 3              \u2013 Group 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/48",
+  "scrapedAt": "2026-09-16T14:52:09.803651+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sun 11/10/2026\nWayfarers LTC 1\n-\nChiswick Tennis Club 1",
+      "away": "Wayfarers LTC 1\n-\nChiswick Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 11/10/2026"
+    },
+    {
+      "home": "Sun 11/10/2026\nThistleworth LTC 1\n-\nLowlands Club 1",
+      "away": "Thistleworth LTC 1\n-\nLowlands Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 11/10/2026"
+    },
+    {
+      "home": "Sun 11/10/2026\nWest Middlesex Lawn Tennis Club Ltd 2\n10:00\nOld Actonians Association Tennis Club 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 2\n10:00\nOld Actonians Association Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 11/10/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nOld Actonians Association Tennis Club 1\n-\nChiswick Tennis Club 1",
+      "away": "Old Actonians Association Tennis Club 1\n-\nChiswick Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nLowlands Club 1\n-\nWayfarers LTC 1",
+      "away": "Lowlands Club 1\n-\nWayfarers LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nWest Middlesex Lawn Tennis Club Ltd 2\n10:00\nThistleworth LTC 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 2\n10:00\nThistleworth LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nWayfarers LTC 1\n-\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "away": "Wayfarers LTC 1\n-\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nChiswick Tennis Club 1\n-\nLowlands Club 1",
+      "away": "Chiswick Tennis Club 1\n-\nLowlands Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nThistleworth LTC 1\n-\nOld Actonians Association Tennis Club 1",
+      "away": "Thistleworth LTC 1\n-\nOld Actonians Association Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 17/01/2027\nThistleworth LTC 1\n-\nWayfarers LTC 1",
+      "away": "Thistleworth LTC 1\n-\nWayfarers LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nOld Actonians Association Tennis Club 1\n-\nLowlands Club 1",
+      "away": "Old Actonians Association Tennis Club 1\n-\nLowlands Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nWest Middlesex Lawn Tennis Club Ltd 2\n12:30\nChiswick Tennis Club 1",
+      "away": "West Middlesex Lawn Tennis Club Ltd 2\n12:30\nChiswick Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nLowlands Club 1\n-\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "away": "Lowlands Club 1\n-\nWest Middlesex Lawn Tennis Club Ltd 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nWayfarers LTC 1\n-\nOld Actonians Association Tennis Club 1",
+      "away": "Wayfarers LTC 1\n-\nOld Actonians Association Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    },
+    {
+      "home": "Sun 07/02/2027\nChiswick Tennis Club 1\n-\nThistleworth LTC 1",
+      "away": "Chiswick Tennis Club 1\n-\nThistleworth LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/02/2027"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "drawId": "676686eb-7d35-4816-9be5-ddec7913da16-27",
+  "competitionId": "676686eb-7d35-4816-9be5-ddec7913da16",
+  "competitionName": "16U Boys \n \u2013 16U Boys - Div 2               \u2013 Group 2",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/676686EB-7D35-4816-9BE5-DDEC7913DA16/draw/27",
+  "scrapedAt": "2026-09-16T14:11:11.297973+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 6,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 26/09/2026\nBrackendale LTC 1\n13:30\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 1",
+      "away": "Brackendale LTC 1\n13:30\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 26/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nOakleigh Park Lawn Tennis & Squash Club 2\n-\nBroomfield Park 1",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 2\n-\nBroomfield Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sun 27/09/2026\nConway Lawn Tennis Club 1\n-\nEnfield Chase LTC 1",
+      "away": "Conway Lawn Tennis Club 1\n-\nEnfield Chase LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 27/09/2026"
+    },
+    {
+      "home": "Sat 14/11/2026\nBrackendale LTC 1\n13:00\nConway Lawn Tennis Club 1",
+      "away": "Brackendale LTC 1\n13:00\nConway Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 14/11/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 1\n-\nBroomfield Park 1",
+      "away": "OUR LADY OF MUSWELL LAWN TENNIS CLUB 1\n-\nBroomfield Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 15/11/2026\nEnfield Chase LTC 1\n10:00\nOakleigh Park Lawn Tennis & Squash Club 2",
+      "away": "Enfield Chase LTC 1\n10:00\nOakleigh Park Lawn Tennis & Squash Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 15/11/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nBroomfield Park 1\n-\nEnfield Chase LTC 1",
+      "away": "Broomfield Park 1\n-\nEnfield Chase LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nConway Lawn Tennis Club 1\n-\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 1",
+      "away": "Conway Lawn Tennis Club 1\n-\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sun 06/12/2026\nOakleigh Park Lawn Tennis & Squash Club 2\n-\nBrackendale LTC 1",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 2\n-\nBrackendale LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 06/12/2026"
+    },
+    {
+      "home": "Sat 16/01/2027\nBrackendale LTC 1\n12:30\nBroomfield Park 1",
+      "away": "Brackendale LTC 1\n12:30\nBroomfield Park 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 16/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nConway Lawn Tennis Club 1\n-\nOakleigh Park Lawn Tennis & Squash Club 2",
+      "away": "Conway Lawn Tennis Club 1\n-\nOakleigh Park Lawn Tennis & Squash Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 17/01/2027\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 1\n-\nEnfield Chase LTC 1",
+      "away": "OUR LADY OF MUSWELL LAWN TENNIS CLUB 1\n-\nEnfield Chase LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 17/01/2027"
+    },
+    {
+      "home": "Sun 28/02/2027\nBroomfield Park 1\n-\nConway Lawn Tennis Club 1",
+      "away": "Broomfield Park 1\n-\nConway Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/02/2027"
+    },
+    {
+      "home": "Sun 28/02/2027\nOakleigh Park Lawn Tennis & Squash Club 2\n-\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 1",
+      "away": "Oakleigh Park Lawn Tennis & Squash Club 2\n-\nOUR LADY OF MUSWELL LAWN TENNIS CLUB 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 28/02/2027"
+    },
+    {
+      "home": "Sun 07/03/2027\nEnfield Chase LTC 1\n10:00\nBrackendale LTC 1",
+      "away": "Enfield Chase LTC 1\n10:00\nBrackendale LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sun 07/03/2027"
+    }
+  ]
+}
