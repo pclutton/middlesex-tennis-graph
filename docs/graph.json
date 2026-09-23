@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-16T15:26:50.821358+00:00",
+    "generatedAt": "2026-09-23T15:24:51.928746+00:00",
     "seedClubs": [
       "cltc",
       "psc"
@@ -151,11 +151,10 @@
       "name": "Wayfarers LTC",
       "seedClub": false,
       "zones": [
-        "North-East",
         "North-West",
         "West"
       ],
-      "zone": "North-East"
+      "zone": "North-West"
     },
     {
       "id": "coolhurst-ltc",
@@ -651,57 +650,44 @@
       "name": "Eastcote Lawn Tennis Club",
       "seedClub": false,
       "zones": [
-        "North-East",
         "North-West",
         "West"
       ],
-      "zone": "North-East"
+      "zone": "North-West"
     },
     {
       "id": "lowlands-club",
       "name": "Lowlands Club",
       "seedClub": false,
       "zones": [
-        "North-East",
         "North-West",
         "West"
       ],
-      "zone": "North-East"
+      "zone": "North-West"
     },
     {
       "id": "pinner-lawn-tennis-club",
       "name": "Pinner Lawn Tennis Club",
       "seedClub": false,
       "zones": [
-        "North-East",
         "North-West",
         "West"
       ],
-      "zone": "North-East"
+      "zone": "North-West"
     },
     {
       "id": "harrow-lawn-tennis-club",
       "name": "Harrow Lawn Tennis Club",
       "seedClub": false,
       "zones": [
-        "North-East",
         "North-West",
         "West"
       ],
-      "zone": "North-East"
+      "zone": "North-West"
     },
     {
-      "id": "park-sports-lammas-park",
-      "name": "Park Sports - Lammas Park",
-      "seedClub": false,
-      "zones": [
-        "West"
-      ],
-      "zone": "West"
-    },
-    {
-      "id": "twickenham-lawn-tennis-club",
-      "name": "Twickenham Lawn Tennis Club",
+      "id": "david-lloyd-club-hampton",
+      "name": "David Lloyd Club Hampton",
       "seedClub": false,
       "zones": [
         "West"
@@ -718,8 +704,17 @@
       "zone": "West"
     },
     {
-      "id": "david-lloyd-club-hampton",
-      "name": "David Lloyd Club Hampton",
+      "id": "twickenham-lawn-tennis-club",
+      "name": "Twickenham Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "West"
+      ],
+      "zone": "West"
+    },
+    {
+      "id": "park-sports-lammas-park",
+      "name": "Park Sports - Lammas Park",
       "seedClub": false,
       "zones": [
         "West"
@@ -8566,8 +8561,8 @@
       "winsRight": 0
     },
     {
-      "source": "brentham-lawn-tennis-club",
-      "target": "psc",
+      "source": "david-lloyd-club-finchley",
+      "target": "west-middlesex-lawn-tennis-club-ltd",
       "competitionId": "676686eb",
       "competitionName": "Middlesex Youth & National League - Winter 2026",
       "divisionName": "14U Boys",
@@ -8580,8 +8575,8 @@
       "winsRight": 0
     },
     {
-      "source": "david-lloyd-club-finchley",
-      "target": "west-middlesex-lawn-tennis-club-ltd",
+      "source": "brentham-lawn-tennis-club",
+      "target": "psc",
       "competitionId": "676686eb",
       "competitionName": "Middlesex Youth & National League - Winter 2026",
       "divisionName": "14U Boys",
@@ -9205,7 +9200,7 @@
       "period": "summer",
       "zone": "North-East",
       "tier": "lower",
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -9221,7 +9216,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "elmwood-lawn-tennis-club",
@@ -10169,7 +10164,7 @@
       "divisionName": "Womens Doubles (1)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10183,7 +10178,7 @@
       "divisionName": "Womens Doubles (1)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10197,7 +10192,7 @@
       "divisionName": "Womens Doubles (1)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10211,7 +10206,7 @@
       "divisionName": "Womens Doubles (1)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10225,7 +10220,7 @@
       "divisionName": "Womens Doubles (1)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10239,7 +10234,7 @@
       "divisionName": "Womens Doubles (1)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10253,7 +10248,7 @@
       "divisionName": "Womens Doubles (1)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10267,7 +10262,7 @@
       "divisionName": "Womens Doubles (1)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10281,7 +10276,7 @@
       "divisionName": "Womens Doubles (1)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10295,7 +10290,7 @@
       "divisionName": "Womens Doubles (1)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10309,7 +10304,7 @@
       "divisionName": "Womens Doubles (1)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10323,7 +10318,7 @@
       "divisionName": "Womens Doubles (1)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10337,7 +10332,7 @@
       "divisionName": "Womens Doubles (1)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10351,7 +10346,7 @@
       "divisionName": "Womens Doubles (1)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10365,7 +10360,7 @@
       "divisionName": "Womens Doubles (1)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10379,7 +10374,7 @@
       "divisionName": "Womens Doubles (2)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10393,7 +10388,7 @@
       "divisionName": "Womens Doubles (2)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10407,7 +10402,7 @@
       "divisionName": "Womens Doubles (2)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10421,7 +10416,7 @@
       "divisionName": "Womens Doubles (2)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10435,7 +10430,7 @@
       "divisionName": "Womens Doubles (2)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10449,7 +10444,7 @@
       "divisionName": "Womens Doubles (2)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10463,7 +10458,7 @@
       "divisionName": "Womens Doubles (2)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10477,7 +10472,7 @@
       "divisionName": "Womens Doubles (2)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10491,7 +10486,7 @@
       "divisionName": "Womens Doubles (2)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10505,7 +10500,7 @@
       "divisionName": "Womens Doubles (2)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10519,7 +10514,7 @@
       "divisionName": "Womens Doubles (2)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10533,7 +10528,7 @@
       "divisionName": "Womens Doubles (2)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10547,7 +10542,7 @@
       "divisionName": "Womens Doubles (2)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10561,7 +10556,7 @@
       "divisionName": "Womens Doubles (2)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10575,7 +10570,7 @@
       "divisionName": "Womens Doubles (2)",
       "season": "2026",
       "period": "summer",
-      "zone": "North-East",
+      "zone": "North-West",
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
@@ -10593,7 +10588,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "brentham-lawn-tennis-club",
@@ -10606,7 +10601,7 @@
       "zone": "West",
       "tier": "lower",
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -11013,7 +11008,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "oakleigh-park-lawn-tennis-squash-club",

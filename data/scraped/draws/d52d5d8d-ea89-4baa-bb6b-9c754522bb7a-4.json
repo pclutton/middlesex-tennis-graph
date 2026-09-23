@@ -1,0 +1,133 @@
+{
+  "drawId": "d52d5d8d-ea89-4baa-bb6b-9c754522bb7a-4",
+  "competitionId": "d52d5d8d-ea89-4baa-bb6b-9c754522bb7a",
+  "competitionName": "Mixed Doubles\n \u2013 Mixed Doubles 1              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/D52D5D8D-EA89-4BAA-BB6B-9C754522BB7A/draw/4",
+  "scrapedAt": "2026-09-23T14:44:29.972905+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Thu 01/10/2026\nElstree Lawn Tennis Club 1\n19:00\nHeadstone Lawn Tennis Club 1",
+      "away": "Elstree Lawn Tennis Club 1\n19:00\nHeadstone Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 01/10/2026"
+    },
+    {
+      "home": "Tue 03/11/2026\nPinner West End Lawn Tennis Club 1\n19:00\nKenton Lawn Tennis Club 1",
+      "away": "Pinner West End Lawn Tennis Club 1\n19:00\nKenton Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Tue 03/11/2026"
+    },
+    {
+      "home": "Thu 19/11/2026\nHeadstone Lawn Tennis Club 1\n19:00\nPinner West End Lawn Tennis Club 1",
+      "away": "Headstone Lawn Tennis Club 1\n19:00\nPinner West End Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 19/11/2026"
+    },
+    {
+      "home": "Thu 03/12/2026\nKenton Lawn Tennis Club 1\n19:00\nElstree Lawn Tennis Club 1",
+      "away": "Kenton Lawn Tennis Club 1\n19:00\nElstree Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 03/12/2026"
+    },
+    {
+      "home": "Tue 08/12/2026\nHeadstone Lawn Tennis Club 1\n19:00\nKenton Lawn Tennis Club 2",
+      "away": "Headstone Lawn Tennis Club 1\n19:00\nKenton Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Tue 08/12/2026"
+    },
+    {
+      "home": "Thu 11/02/2027\nKenton Lawn Tennis Club 2\n19:22\nElstree Lawn Tennis Club 1",
+      "away": "Kenton Lawn Tennis Club 2\n19:22\nElstree Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 11/02/2027"
+    },
+    {
+      "home": "Thu 25/02/2027\nPinner West End Lawn Tennis Club 1\n19:00\nKenton Lawn Tennis Club 2",
+      "away": "Pinner West End Lawn Tennis Club 1\n19:00\nKenton Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 25/02/2027"
+    },
+    {
+      "home": "Thu 11/03/2027\nElstree Lawn Tennis Club 1\n19:00\nPinner West End Lawn Tennis Club 1",
+      "away": "Elstree Lawn Tennis Club 1\n19:00\nPinner West End Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 11/03/2027"
+    },
+    {
+      "home": "Thu 11/03/2027\nKenton Lawn Tennis Club 1\n19:00\nHeadstone Lawn Tennis Club 1",
+      "away": "Kenton Lawn Tennis Club 1\n19:00\nHeadstone Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Thu 11/03/2027"
+    },
+    {
+      "home": "Thu 25/03/2027\nKenton Lawn Tennis Club 1\n19:00\nKenton Lawn Tennis Club 2",
+      "away": "Kenton Lawn Tennis Club 1\n19:00\nKenton Lawn Tennis Club 2",
+      "hs": null,
+      "as": null,
+      "date": "Thu 25/03/2027"
+    }
+  ]
+}
