@@ -1,0 +1,133 @@
+{
+  "drawId": "b71fce8d-9b08-4c8a-a360-f646e29f19ef-1",
+  "competitionId": "b71fce8d-9b08-4c8a-a360-f646e29f19ef",
+  "competitionName": "Mens Doubles\n \u2013 Championship              \u2013 Group 1",
+  "divisionName": "",
+  "division": "",
+  "drawUrl": "https://competitions.lta.org.uk/league/B71FCE8D-9B08-4C8A-A360-F646E29F19EF/draw/1",
+  "scrapedAt": "2026-10-07T16:10:50.643700+00:00",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 3,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 4,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    },
+    {
+      "rank": 5,
+      "name": "0",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "rubbers": "0-0",
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home": "Sat 10/10/2026\nBroxbourne Sports Club 1\n-\nBarnet Lawn Tennis Club 1",
+      "away": "Broxbourne Sports Club 1\n-\nBarnet Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 10/10/2026"
+    },
+    {
+      "home": "Sat 10/10/2026\nKnebworth Tennis Club 1\n-\nHarpenden LTC 1",
+      "away": "Knebworth Tennis Club 1\n-\nHarpenden LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 10/10/2026"
+    },
+    {
+      "home": "Sat 10/10/2026\nMoor Park Lawn Tennis Club 1\n-\nKnebworth Tennis Club 1",
+      "away": "Moor Park Lawn Tennis Club 1\n-\nKnebworth Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 10/10/2026"
+    },
+    {
+      "home": "Sat 10/10/2026\nHarpenden LTC 1\n-\nBroxbourne Sports Club 1",
+      "away": "Harpenden LTC 1\n-\nBroxbourne Sports Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 10/10/2026"
+    },
+    {
+      "home": "Sat 10/10/2026\nBroxbourne Sports Club 1\n-\nMoor Park Lawn Tennis Club 1",
+      "away": "Broxbourne Sports Club 1\n-\nMoor Park Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 10/10/2026"
+    },
+    {
+      "home": "Sat 10/10/2026\nBarnet Lawn Tennis Club 1\n-\nHarpenden LTC 1",
+      "away": "Barnet Lawn Tennis Club 1\n-\nHarpenden LTC 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 10/10/2026"
+    },
+    {
+      "home": "Sat 10/10/2026\nKnebworth Tennis Club 1\n-\nBroxbourne Sports Club 1",
+      "away": "Knebworth Tennis Club 1\n-\nBroxbourne Sports Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 10/10/2026"
+    },
+    {
+      "home": "Sat 10/10/2026\nMoor Park Lawn Tennis Club 1\n-\nBarnet Lawn Tennis Club 1",
+      "away": "Moor Park Lawn Tennis Club 1\n-\nBarnet Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 10/10/2026"
+    },
+    {
+      "home": "Sat 10/10/2026\nBarnet Lawn Tennis Club 1\n-\nKnebworth Tennis Club 1",
+      "away": "Barnet Lawn Tennis Club 1\n-\nKnebworth Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 10/10/2026"
+    },
+    {
+      "home": "Sat 10/10/2026\nHarpenden LTC 1\n-\nMoor Park Lawn Tennis Club 1",
+      "away": "Harpenden LTC 1\n-\nMoor Park Lawn Tennis Club 1",
+      "hs": null,
+      "as": null,
+      "date": "Sat 10/10/2026"
+    }
+  ]
+}

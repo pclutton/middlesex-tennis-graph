@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-30T16:59:26.405592+00:00",
+    "generatedAt": "2026-10-07T17:27:09.582429+00:00",
     "seedClubs": [
       "cltc",
       "psc"
@@ -185,8 +185,8 @@
       "zone": "East"
     },
     {
-      "id": "south-hampstead-tennis-club",
-      "name": "South Hampstead Tennis Club",
+      "id": "totteridge-tennis-club",
+      "name": "Totteridge Tennis Club",
       "seedClub": false,
       "zones": [
         "East",
@@ -195,8 +195,8 @@
       "zone": "East"
     },
     {
-      "id": "totteridge-tennis-club",
-      "name": "Totteridge Tennis Club",
+      "id": "south-hampstead-tennis-club",
+      "name": "South Hampstead Tennis Club",
       "seedClub": false,
       "zones": [
         "East",
@@ -573,6 +573,15 @@
       "zone": "East"
     },
     {
+      "id": "brentham-lawn-tennis-club",
+      "name": "Brentham Lawn Tennis Club",
+      "seedClub": false,
+      "zones": [
+        "West"
+      ],
+      "zone": "West"
+    },
+    {
       "id": "uxbridge-ltc",
       "name": "Uxbridge LTC",
       "seedClub": false,
@@ -581,15 +590,6 @@
         "West"
       ],
       "zone": "North-West"
-    },
-    {
-      "id": "brentham-lawn-tennis-club",
-      "name": "Brentham Lawn Tennis Club",
-      "seedClub": false,
-      "zones": [
-        "West"
-      ],
-      "zone": "West"
     },
     {
       "id": "coles-green-ltc",
@@ -628,15 +628,6 @@
       "zone": "West"
     },
     {
-      "id": "finsbury-park",
-      "name": "Finsbury Park",
-      "seedClub": false,
-      "zones": [
-        "East"
-      ],
-      "zone": "East"
-    },
-    {
       "id": "thistleworth-ltc",
       "name": "Thistleworth LTC",
       "seedClub": false,
@@ -644,6 +635,15 @@
         "West"
       ],
       "zone": "West"
+    },
+    {
+      "id": "finsbury-park",
+      "name": "Finsbury Park",
+      "seedClub": false,
+      "zones": [
+        "East"
+      ],
+      "zone": "East"
     },
     {
       "id": "lowlands-club",
@@ -2219,34 +2219,6 @@
       "winsRight": 0
     },
     {
-      "source": "harpenden-ltc",
-      "target": "windsor-lawn-tennis-club",
-      "competitionId": "f06aa797",
-      "competitionName": "National Premier League 2026-27",
-      "divisionName": "Womens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "East",
-      "tier": null,
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "cltc",
-      "target": "psc",
-      "competitionId": "f06aa797",
-      "competitionName": "National Premier League 2026-27",
-      "divisionName": "Womens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "East",
-      "tier": null,
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
       "source": "chandos-lawn-tennis-club",
       "target": "halton-tennis-centre",
       "competitionId": "f06aa797",
@@ -2275,6 +2247,34 @@
       "winsRight": 0
     },
     {
+      "source": "cltc",
+      "target": "psc",
+      "competitionId": "f06aa797",
+      "competitionName": "National Premier League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "East",
+      "tier": null,
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "halton-tennis-centre",
+      "target": "psc",
+      "competitionId": "f06aa797",
+      "competitionName": "National Premier League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "East",
+      "tier": null,
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
       "source": "chandos-lawn-tennis-club",
       "target": "st-albans-lawn-tennis-club",
       "competitionId": "f06aa797",
@@ -2291,20 +2291,6 @@
     {
       "source": "cltc",
       "target": "windsor-lawn-tennis-club",
-      "competitionId": "f06aa797",
-      "competitionName": "National Premier League 2026-27",
-      "divisionName": "Womens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "East",
-      "tier": null,
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "halton-tennis-centre",
-      "target": "psc",
       "competitionId": "f06aa797",
       "competitionName": "National Premier League 2026-27",
       "divisionName": "Womens Doubles",
@@ -2345,8 +2331,8 @@
       "winsRight": 0
     },
     {
-      "source": "cltc",
-      "target": "hazelwood-lawn-tennis-squash-club",
+      "source": "halton-tennis-centre",
+      "target": "st-albans-lawn-tennis-club",
       "competitionId": "f06aa797",
       "competitionName": "National Premier League 2026-27",
       "divisionName": "Womens Doubles",
@@ -2359,8 +2345,8 @@
       "winsRight": 0
     },
     {
-      "source": "halton-tennis-centre",
-      "target": "st-albans-lawn-tennis-club",
+      "source": "cltc",
+      "target": "hazelwood-lawn-tennis-squash-club",
       "competitionId": "f06aa797",
       "competitionName": "National Premier League 2026-27",
       "divisionName": "Womens Doubles",
@@ -2389,20 +2375,6 @@
     {
       "source": "halton-tennis-centre",
       "target": "harpenden-ltc",
-      "competitionId": "f06aa797",
-      "competitionName": "National Premier League 2026-27",
-      "divisionName": "Womens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "East",
-      "tier": null,
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "psc",
-      "target": "st-albans-lawn-tennis-club",
       "competitionId": "f06aa797",
       "competitionName": "National Premier League 2026-27",
       "divisionName": "Womens Doubles",
@@ -2443,6 +2415,34 @@
       "winsRight": 0
     },
     {
+      "source": "psc",
+      "target": "st-albans-lawn-tennis-club",
+      "competitionId": "f06aa797",
+      "competitionName": "National Premier League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "East",
+      "tier": null,
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "hazelwood-lawn-tennis-squash-club",
+      "target": "psc",
+      "competitionId": "f06aa797",
+      "competitionName": "National Premier League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "East",
+      "tier": null,
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
       "source": "chandos-lawn-tennis-club",
       "target": "windsor-lawn-tennis-club",
       "competitionId": "f06aa797",
@@ -2471,36 +2471,8 @@
       "winsRight": 0
     },
     {
-      "source": "hazelwood-lawn-tennis-squash-club",
-      "target": "psc",
-      "competitionId": "f06aa797",
-      "competitionName": "National Premier League 2026-27",
-      "divisionName": "Womens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "East",
-      "tier": null,
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
       "source": "harpenden-ltc",
       "target": "st-albans-lawn-tennis-club",
-      "competitionId": "f06aa797",
-      "competitionName": "National Premier League 2026-27",
-      "divisionName": "Womens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "East",
-      "tier": null,
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "harpenden-ltc",
-      "target": "psc",
       "competitionId": "f06aa797",
       "competitionName": "National Premier League 2026-27",
       "divisionName": "Womens Doubles",
@@ -2543,6 +2515,48 @@
     {
       "source": "halton-tennis-centre",
       "target": "windsor-lawn-tennis-club",
+      "competitionId": "f06aa797",
+      "competitionName": "National Premier League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "East",
+      "tier": null,
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "harpenden-ltc",
+      "target": "psc",
+      "competitionId": "f06aa797",
+      "competitionName": "National Premier League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "East",
+      "tier": null,
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "chandos-lawn-tennis-club",
+      "target": "psc",
+      "competitionId": "f06aa797",
+      "competitionName": "National Premier League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "East",
+      "tier": null,
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "halton-tennis-centre",
+      "target": "hazelwood-lawn-tennis-squash-club",
       "competitionId": "f06aa797",
       "competitionName": "National Premier League 2026-27",
       "divisionName": "Womens Doubles",
@@ -2583,22 +2597,8 @@
       "winsRight": 0
     },
     {
-      "source": "halton-tennis-centre",
-      "target": "hazelwood-lawn-tennis-squash-club",
-      "competitionId": "f06aa797",
-      "competitionName": "National Premier League 2026-27",
-      "divisionName": "Womens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "East",
-      "tier": null,
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "chandos-lawn-tennis-club",
-      "target": "psc",
+      "source": "harpenden-ltc",
+      "target": "windsor-lawn-tennis-club",
       "competitionId": "f06aa797",
       "competitionName": "National Premier League 2026-27",
       "divisionName": "Womens Doubles",
@@ -2888,7 +2888,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "psc",
@@ -3185,6 +3185,20 @@
       "winsRight": 1
     },
     {
+      "source": "cltc",
+      "target": "david-lloyd-club-finchley",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
       "source": "brondesbury-sports-club",
       "target": "west-heath-lawn-tennis-club-limited",
       "competitionId": "b86e129e",
@@ -3215,20 +3229,6 @@
     {
       "source": "finchley-manor-tennis-squash-and-health-club",
       "target": "south-hampstead-tennis-club",
-      "competitionId": "b86e129e",
-      "competitionName": "Middlesex Floodlit League 2026-27",
-      "divisionName": "Womens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-East",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "cltc",
-      "target": "david-lloyd-club-finchley",
       "competitionId": "b86e129e",
       "competitionName": "Middlesex Floodlit League 2026-27",
       "divisionName": "Womens Doubles",
@@ -3409,6 +3409,20 @@
       "winsRight": 0
     },
     {
+      "source": "cltc",
+      "target": "west-heath-lawn-tennis-club-limited",
+      "competitionId": "b86e129e",
+      "competitionName": "Middlesex Floodlit League 2026-27",
+      "divisionName": "Womens Doubles",
+      "season": "2026",
+      "period": "summer",
+      "zone": "North-East",
+      "tier": "lower",
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
       "source": "brondesbury-sports-club",
       "target": "oakleigh-park-lawn-tennis-squash-club",
       "competitionId": "b86e129e",
@@ -3453,20 +3467,6 @@
     {
       "source": "brondesbury-sports-club",
       "target": "david-lloyd-club-finchley",
-      "competitionId": "b86e129e",
-      "competitionName": "Middlesex Floodlit League 2026-27",
-      "divisionName": "Womens Doubles",
-      "season": "2026",
-      "period": "summer",
-      "zone": "North-East",
-      "tier": "lower",
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "cltc",
-      "target": "west-heath-lawn-tennis-club-limited",
       "competitionId": "b86e129e",
       "competitionName": "Middlesex Floodlit League 2026-27",
       "divisionName": "Womens Doubles",
@@ -5463,8 +5463,8 @@
       "zone": "East",
       "tier": "top",
       "winsLeft": 1,
-      "draws": 1,
-      "winsRight": 0
+      "draws": 0,
+      "winsRight": 1
     },
     {
       "source": "finchley-manor",
@@ -5757,8 +5757,8 @@
       "zone": "East",
       "tier": "top",
       "winsLeft": 1,
-      "draws": 1,
-      "winsRight": 0
+      "draws": 0,
+      "winsRight": 1
     },
     {
       "source": "finchley-manor",
@@ -8431,7 +8431,7 @@
       "zone": null,
       "tier": null,
       "winsLeft": 0,
-      "draws": 0,
+      "draws": 1,
       "winsRight": 0
     },
     {
@@ -8458,7 +8458,7 @@
       "period": "winter",
       "zone": null,
       "tier": null,
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -8493,20 +8493,6 @@
     {
       "source": "psc",
       "target": "west-middlesex-lawn-tennis-club-ltd",
-      "competitionId": "676686eb",
-      "competitionName": "Middlesex Youth & National League - Winter 2026",
-      "divisionName": "14U Boys",
-      "season": "2026",
-      "period": "winter",
-      "zone": null,
-      "tier": null,
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "psc",
-      "target": "uxbridge-ltc",
       "competitionId": "676686eb",
       "competitionName": "Middlesex Youth & National League - Winter 2026",
       "divisionName": "14U Boys",
@@ -8533,6 +8519,20 @@
       "winsRight": 0
     },
     {
+      "source": "psc",
+      "target": "uxbridge-ltc",
+      "competitionId": "676686eb",
+      "competitionName": "Middlesex Youth & National League - Winter 2026",
+      "divisionName": "14U Boys",
+      "season": "2026",
+      "period": "winter",
+      "zone": null,
+      "tier": null,
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
       "source": "the-queens-club-limited",
       "target": "west-middlesex-lawn-tennis-club-ltd",
       "competitionId": "676686eb",
@@ -8576,20 +8576,6 @@
     },
     {
       "source": "brentham-lawn-tennis-club",
-      "target": "psc",
-      "competitionId": "676686eb",
-      "competitionName": "Middlesex Youth & National League - Winter 2026",
-      "divisionName": "14U Boys",
-      "season": "2026",
-      "period": "winter",
-      "zone": null,
-      "tier": null,
-      "winsLeft": 0,
-      "draws": 0,
-      "winsRight": 0
-    },
-    {
-      "source": "david-lloyd-club-finchley",
       "target": "psc",
       "competitionId": "676686eb",
       "competitionName": "Middlesex Youth & National League - Winter 2026",
@@ -8619,6 +8605,20 @@
     {
       "source": "uxbridge-ltc",
       "target": "west-middlesex-lawn-tennis-club-ltd",
+      "competitionId": "676686eb",
+      "competitionName": "Middlesex Youth & National League - Winter 2026",
+      "divisionName": "14U Boys",
+      "season": "2026",
+      "period": "winter",
+      "zone": null,
+      "tier": null,
+      "winsLeft": 0,
+      "draws": 0,
+      "winsRight": 0
+    },
+    {
+      "source": "david-lloyd-club-finchley",
+      "target": "psc",
       "competitionId": "676686eb",
       "competitionName": "Middlesex Youth & National League - Winter 2026",
       "divisionName": "14U Boys",
@@ -8992,7 +8992,7 @@
       "tier": null,
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "highgate-cricket-and-lawn-tennis-club",
@@ -9018,7 +9018,7 @@
       "period": "winter",
       "zone": null,
       "tier": null,
-      "winsLeft": 0,
+      "winsLeft": 1,
       "draws": 0,
       "winsRight": 0
     },
@@ -9079,8 +9079,8 @@
       "winsRight": 0
     },
     {
-      "source": "psc",
-      "target": "thistleworth-ltc",
+      "source": "the-hurlingham-club",
+      "target": "west-middlesex-lawn-tennis-club-ltd",
       "competitionId": "676686eb",
       "competitionName": "Middlesex Youth & National League - Winter 2026",
       "divisionName": "Open Womens",
@@ -9093,8 +9093,8 @@
       "winsRight": 0
     },
     {
-      "source": "the-hurlingham-club",
-      "target": "west-middlesex-lawn-tennis-club-ltd",
+      "source": "psc",
+      "target": "thistleworth-ltc",
       "competitionId": "676686eb",
       "competitionName": "Middlesex Youth & National League - Winter 2026",
       "divisionName": "Open Womens",
@@ -9622,7 +9622,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "psc",
@@ -9916,7 +9916,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "psc",
@@ -10210,7 +10210,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "lowlands-club",
@@ -10420,7 +10420,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "lowlands-club",
@@ -11022,7 +11022,7 @@
       "tier": "lower",
       "winsLeft": 0,
       "draws": 0,
-      "winsRight": 0
+      "winsRight": 1
     },
     {
       "source": "david-lloyd-club-finchley",
